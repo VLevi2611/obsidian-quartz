@@ -1,0 +1,1 @@
+[[Electric Force]] is a type of [[Force]].
