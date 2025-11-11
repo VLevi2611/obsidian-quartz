@@ -4,7 +4,7 @@ tags:
   - classical-mechanics
 ---
 ## Definition
-<Write a clear and concise definition here.>
+Mass is a scalar quantity that measures the amount of matter in an object and represents its resistance to acceleration when a force is applied.
 
 ## Core Equation(s)
 <Add one or more formulas here — use LaTeX for math.>
