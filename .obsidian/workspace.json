@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton's Second Law.md",
+                "file": "Indexes/Formulas.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton's Second Law"
+              "title": "Formulas.md"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "a8e926742cf61596",
   "lastOpenFiles": [
+    "Indexes/Concepts.md.md",
+    "Notes/Physics/Classical Mechanics/Newton's Second Law.md",
     "Templates/Formula Template.md.md",
-    "Newton's Second Law.md",
     "Notes/Physics/Classical Mechanics/Force.md",
     "Templates/Concept Template.md.md",
     "Notes/Physics/Classical Mechanics/Intro.md",
@@ -200,7 +201,6 @@
     "Indexes/Reviews.md.md",
     "Indexes/Lectures.md.md",
     "Indexes/Formulas.md.md",
-    "Indexes/Concepts.md.md",
     "Indexes",
     "Notes/Physics/Electromagnetism/Forces.md",
     "Notes/Physics/Signal Processing/Intro.md",
