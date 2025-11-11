@@ -14,12 +14,9 @@ tags: [concept,  classical-mechanics]
 ---
 
 ## Definition
-<Write a clear and concise definition her.>
 Force is a vector that causes an object to accelerate.
 
-## Core Equation(s)
-<Add one or more formulas here — use LaTeX for math.>
-Example:  
+## Core Equation
 $$ F = ma $$
 
 ## Units
@@ -33,7 +30,10 @@ $$ F = ma $$
 - [[Momentum]]
 
 ## Applications
-<Where this concept appears in practice.>
+- Calculating motion in kinematics and dynamics
+- Engineering stress analysis
+- Biomechanics of muscle forces
 
 ## Notes
-- <Add observations, variations, or edge cases here.>
+- Direction of force determines direction of acceleration.
+- Net force determines changes in motion.

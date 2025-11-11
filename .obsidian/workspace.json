@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force.md",
+                "file": "Notes/Physics/Classical Mechanics/Force.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,10 +181,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8e926742cf61596",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
     "Templates/Concept Template.md.md",
-    "Force.md",
+    "Notes/Physics/Classical Mechanics/Force.md",
     "Notes/Physics/Classical Mechanics/Force.md",
     "Notes/Physics/Classical Mechanics/Intro.md",
     "Templates/Summary Template.md.md",
