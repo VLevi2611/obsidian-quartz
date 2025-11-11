@@ -1,1 +1,1 @@
-[[Electric Force]] is a type of [[Force]].
+[[Electric Force]] is a type of [[Notes/Physics/Classical Mechanics/Force]].
