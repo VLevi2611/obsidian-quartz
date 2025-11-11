@@ -22,7 +22,7 @@ $$ F = ma $$
 ## Units
 - Force (F): Newton (N)
 - Mass (m): kilogram (kg)
-- Acceleration (a): m/s²
+- Acceleration (a): (m/s²)
 
 ## Related Concepts
 - [[Newton's Laws]]
