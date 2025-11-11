@@ -40,7 +40,7 @@ $$
 ---
 
 ## Diagram  
-![Action Potential Phases](../../Resources/Images/ActionPotentialDiagram.png)
+![Action Potential Phases](C:\Obsidian\Toolbox-main\toolbox file\Resources\Images\ActionPotentialDiagram.png)
 
 ---
 
