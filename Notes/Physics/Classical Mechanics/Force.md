@@ -10,14 +10,11 @@ Force is a vector that causes an object to accelerate.
 $$ F = ma $$
 
 ## Units
-- Force (F): Newton (N)
-- Mass (m): kilogram (kg)
-- Acceleration (a): (m/s²)
+- Force (F): Newton (N)/ (kg * m / s^2)
 
 ## Related Concepts
 - [[Newton's Second Law]]
-- [[Work and Energy]]
-- [[Momentum]]
+- [[Mass]]
 
 ## Applications
 - Calculating motion in kinematics and dynamics
