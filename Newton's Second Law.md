@@ -1,23 +1,25 @@
 ---
-tags: [formula]
+tags:
+  - formula
+  - classical-mechanics
 ---
 ---
-tags: [formula, <% tp.file.folder(true) %>]
+tags: [formula,  classical mechanics]
 ---
 
-# <% tp.file.title %>
-**Subject:** <% tp.file.folder(true) %>  
-**Created:** <% tp.date.now("YYYY-MM-DD") %>
+# Newton's Second Law
+**Subject:** Classical Mechanics
+**Created:** 2025-11-11
 
 ---
 
 ## Equation
-$$  $$
+$$ F = m \, a $$
 
 ## Variables
-| Symbol | Meaning | Units |
-|---------|----------|--------|
-|         |          |        |
+| Symbol | Meaning   | Units        |
+| ------ | --------- | ------------ |
+| F      | [[Force]] | N (kg*m/s^2) |
 
 ## Description
 <Explain what the formula represents, where it comes from, and its conditions of validity.>
