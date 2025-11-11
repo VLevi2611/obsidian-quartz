@@ -3,16 +3,6 @@ tags:
   - formula
   - classical-mechanics
 ---
----
-tags: [formula,  classical mechanics]
----
-
-# Newton's Second Law
-**Subject:** Classical Mechanics
-**Created:** 2025-11-11
-
----
-
 ## Equation
 $$ F = m \, a $$
 
@@ -29,7 +19,7 @@ Foundation of classical dynamics and motion analysis.
 
 ## Example Calculation
 A 5 kg object accelerates at 3 m/s²:  
-$$ F = 5 \times 3 = 15 N $$
+$$ F = 5 \times 3 = 15 [N] $$
 
 ## Notes
 - Force and acceleration are vectors in the same direction.

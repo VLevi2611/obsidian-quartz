@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Concept Template.md.md",
+                "file": "Mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept Template.md"
-            }
-          },
-          {
-            "id": "5241d7e5f691cef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Physics/Classical Mechanics/Force.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Force"
+              "title": "Mass"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:classicalmechanics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,10 +183,12 @@
   },
   "active": "a8e926742cf61596",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Force.md",
-    "Templates/Concept Template.md.md",
-    "Templates/Formula Template.md.md",
     "Notes/Physics/Classical Mechanics/Newton's Second Law.md",
+    "Mass.md",
+    "Notes/Physics/Classical Mechanics/Force.md",
+    "Templates/Lecture Template.md.md",
+    "Templates/Formula Template.md.md",
+    "Templates/Concept Template.md.md",
     "Indexes/Formulas.md.md",
     "Indexes/Concepts.md.md",
     "Notes/Physics/Classical Mechanics/Intro.md",
@@ -210,7 +198,6 @@
     "Resources",
     "Notes/Biology/Physiology/Action Potential.md.md",
     "Notes/Physics/Thermodynamics/Intro.md",
-    "Templates/Lecture Template.md.md",
     "Templates",
     "Notes/Physics/Electromagnetism/Electric Force.md",
     "Indexes/Reviews.md.md",
@@ -227,7 +214,6 @@
     "Notes/Math/Probability/Intro.md",
     "Notes/Math/Numerical Analysis/Intro.md",
     "Notes/Math/Linear Algebra/Intro.md",
-    "Notes/Math/Differential Equations/Intro.md",
     "Notes/Physics/Fluid Mechanics",
     "Notes/Physics/Control Theory",
     "Notes/Physics/Signal Processing",

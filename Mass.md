@@ -1,5 +1,7 @@
 ---
-tags: [concept]
+tags:
+  - concept
+  - classical-mechanics
 ---
 ## Definition
 <Write a clear and concise definition here.>

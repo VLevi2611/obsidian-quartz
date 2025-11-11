@@ -15,7 +15,7 @@ $$ F = ma $$
 - Acceleration (a): (m/s²)
 
 ## Related Concepts
-- [[Newton's Laws]]
+- [[Newton's Second Law]]
 - [[Work and Energy]]
 - [[Momentum]]
 
