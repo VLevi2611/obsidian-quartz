@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Thermodynamics/Intro.md",
+                "file": "Notes/Physics/Classical Mechanics/Force.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Force"
             }
           }
         ]
@@ -182,8 +182,21 @@
   },
   "active": "a8e926742cf61596",
   "lastOpenFiles": [
-    "Notes/Physics/Signal Processing/Intro.md",
     "Notes/Physics/Thermodynamics/Intro.md",
+    "Templates/Summary Template.md.md",
+    "Templates/Lecture Template.md.md",
+    "Templates/Formula Template.md.md",
+    "Templates/Concept Template.md.md",
+    "Templates",
+    "Notes/Physics/Electromagnetism/Electric Force.md",
+    "Indexes/Reviews.md.md",
+    "Indexes/Lectures.md.md",
+    "Indexes/Formulas.md.md",
+    "Indexes/Concepts.md.md",
+    "Indexes",
+    "Notes/Physics/Electromagnetism/Forces.md",
+    "Notes/Physics/Classical Mechanics/Force.md",
+    "Notes/Physics/Signal Processing/Intro.md",
     "Notes/Physics/Optics and Waves/Intro.md",
     "Notes/Physics/Fluid Mechanics/Intro.md",
     "Notes/Physics/Electromagnetism/Intro.md",
@@ -197,14 +210,6 @@
     "Notes/Math/Differential Equations/Intro.md",
     "Notes/Math/Complex Analysis/Intro.md",
     "Notes/Math/Calculus/Intro.md",
-    "Notes/Chemistry/Physical Chemistry/intro.md",
-    "Notes/Chemistry/Organic Chemistry/Intro.md",
-    "Notes/Chemistry/General Chemistry/Intro.md",
-    "Notes/Biology/Physiology/Intro.md",
-    "Notes/Biology/Cell Biology/Intro.md",
-    "Notes/Biology/Biochemistry/Intro.md",
-    "Notes/Biology/Anatomy/yo.md",
-    "Notes/Math/Algebra/first algebra note.md",
     "Notes/Physics/Fluid Mechanics",
     "Notes/Physics/Control Theory",
     "Notes/Physics/Signal Processing",
@@ -212,9 +217,6 @@
     "Notes/Physics/Thermodynamics",
     "Notes/Physics/Optics and Waves",
     "Notes/Physics/Electromagnetism",
-    "Notes/Physics/Classical Mechanics",
-    "Notes/Medicine/Medical Equipment",
-    "Notes/Math/Probability",
-    "README 1.md"
+    "Notes/Physics/Classical Mechanics"
   ]
 }

@@ -1,1 +1,1 @@
-There are several type of [[Force]]s
+#concept There are several type of [[Force]]s
