@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Force.md",
+                "file": "Templates/Formula Template.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Force"
+              "title": "Formula Template.md"
             }
           }
         ]
@@ -181,11 +181,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "a8e926742cf61596",
   "lastOpenFiles": [
+    "Notes/Physics/Classical Mechanics/Force.md",
     "Templates/Concept Template.md.md",
-    "Notes/Physics/Classical Mechanics/Force.md",
-    "Notes/Physics/Classical Mechanics/Force.md",
     "Notes/Physics/Classical Mechanics/Intro.md",
     "Templates/Summary Template.md.md",
     "Templates/Formula Template.md.md",

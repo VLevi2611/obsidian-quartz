@@ -1,23 +1,34 @@
 ---
 tags: [formula]
 ---
-# {{title}}
+---
+tags: [formula, <% tp.file.folder(true) %>]
+---
 
-**Subject:** {{folder}}  
-**Tags:** #formula #{{subject}}
+# <% tp.file.title %>
+**Subject:** <% tp.file.folder(true) %>  
+**Created:** <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-## Formula
-$$ E = mc^2 $$
+## Equation
+$$  $$
 
-**Meaning:**
-- E — energy (J)
-- m — mass (kg)
-- c — speed of light (m/s)
+## Variables
+| Symbol | Meaning | Units |
+|---------|----------|--------|
+|         |          |        |
 
-## Context
-Where and why is this used?
+## Description
+<Explain what the formula represents, where it comes from, and its conditions of validity.>
 
-## Related Concepts
-- [[Conservation of Energy]]
+## Derived From / Related Concepts
+- [[ ]]   <!-- e.g. [[Newton's Laws]] -->
+- [[ ]]  
+
+## Example Calculation
+<Walk through a short example showing how to use the formula.>
+
+
+## Notes
+<Add any special remarks, approximations, or limitations.>
