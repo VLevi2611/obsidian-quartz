@@ -3,7 +3,6 @@ tags: [formula]
 ---
 ## Equation
 $$  $$
-
 ## Variables
 | Symbol | Meaning | Units |
 |---------|----------|--------|

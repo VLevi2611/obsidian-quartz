@@ -1,1 +1,0 @@
-[[Electric Force]] is a type of [[Notes/Physics/Classical Mechanics/Force]].
