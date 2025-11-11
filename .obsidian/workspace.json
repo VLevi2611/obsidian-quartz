@@ -182,6 +182,10 @@
   },
   "active": "a8e926742cf61596",
   "lastOpenFiles": [
+    "Resources/Images/ActionPotentialDiagram.png",
+    "Resources/Images",
+    "Resources",
+    "Notes/Biology/Physiology/Action Potential.md.md",
     "Notes/Physics/Thermodynamics/Intro.md",
     "Templates/Summary Template.md.md",
     "Templates/Lecture Template.md.md",
@@ -208,15 +212,11 @@
     "Notes/Math/Numerical Analysis/Intro.md",
     "Notes/Math/Linear Algebra/Intro.md",
     "Notes/Math/Differential Equations/Intro.md",
-    "Notes/Math/Complex Analysis/Intro.md",
-    "Notes/Math/Calculus/Intro.md",
     "Notes/Physics/Fluid Mechanics",
     "Notes/Physics/Control Theory",
     "Notes/Physics/Signal Processing",
     "Notes/Physics/Electrical Circuits",
     "Notes/Physics/Thermodynamics",
-    "Notes/Physics/Optics and Waves",
-    "Notes/Physics/Electromagnetism",
-    "Notes/Physics/Classical Mechanics"
+    "Notes/Physics/Optics and Waves"
   ]
 }
