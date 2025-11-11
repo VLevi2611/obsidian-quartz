@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Numerical Analysis/Intro.md",
+                "file": "Notes/Physics/Thermodynamics/Intro.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,8 +182,18 @@
   },
   "active": "a8e926742cf61596",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Intro.md",
+    "Notes/Physics/Signal Processing/Intro.md",
+    "Notes/Physics/Thermodynamics/Intro.md",
+    "Notes/Physics/Optics and Waves/Intro.md",
+    "Notes/Physics/Fluid Mechanics/Intro.md",
+    "Notes/Physics/Electromagnetism/Intro.md",
+    "Notes/Physics/Electrical Circuits/Intro.md",
+    "Notes/Physics/Control Theory/Intro.md",
+    "Notes/Physics/Classical Mechanics/Intro.md",
+    "Notes/Medicine/Medical Equipment/Intro.md",
+    "Notes/Math/Probability/Intro.md",
     "Notes/Math/Numerical Analysis/Intro.md",
+    "Notes/Math/Linear Algebra/Intro.md",
     "Notes/Math/Differential Equations/Intro.md",
     "Notes/Math/Complex Analysis/Intro.md",
     "Notes/Math/Calculus/Intro.md",
