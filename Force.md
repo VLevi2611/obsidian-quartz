@@ -1,18 +1,21 @@
 ---
-tags: [concept]
+tags:
+  - concept
+  - "#classical-mechanics"
 ---
 ---
-tags: [concept, <% tp.file.folder(true) %>]
+tags: [concept,  classical-mechanics]
 ---
 
-# <% tp.file.title %>
-**Subject:** <% tp.file.folder(true) %>  
-**Created:** <% tp.date.now("YYYY-MM-DD") %>
+# Force
+**Subject:** Classical Mechanics 
+**Created:** 2025-11-11
 
 ---
 
 ## Definition
-<Write a clear and concise definition here.>
+<Write a clear and concise definition her.>
+Force is a vector that causes an object to accelerate.
 
 ## Core Equation(s)
 <Add one or more formulas here — use LaTeX for math.>
