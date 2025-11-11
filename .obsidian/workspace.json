@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README 1.md",
+                "file": "Notes/Math/Algebra/first algebra note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README 1"
+              "title": "first algebra note"
             }
           }
         ]
@@ -181,5 +181,11 @@
     }
   },
   "active": "a8e926742cf61596",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README 1.md",
+    "Notes/Math/Algebra/first algebra note.md",
+    "Notes/Math/Algebra",
+    "Notes/Math",
+    "Notes"
+  ]
 }
