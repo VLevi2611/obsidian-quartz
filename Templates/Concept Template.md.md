@@ -1,10 +1,6 @@
 ---
 tags: [concept]
 ---
----
-tags: [concept, <% tp.file.folder(true) %>]
----
-
 # <% tp.file.title %>
 **Subject:** <% tp.file.folder(true) %>  
 **Created:** <% tp.date.now("YYYY-MM-DD") %>
