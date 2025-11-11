@@ -1,6 +1,7 @@
 ---
 tags:
   - formula
+  - "#physics"
   - classical-mechanics
 ---
 ## Equation
