@@ -11,14 +11,10 @@
             "id": "a8e926742cf61596",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Math/Algebra/first algebra note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "first algebra note"
+              "title": "New tab"
             }
           }
         ]
@@ -182,18 +178,18 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Math/Probability",
+    "Notes/Math/Complex Analysis",
+    "Notes/Math/Numerical Analysis",
+    "Notes/Math/Differential Equations",
+    "Notes/Math/Calculus",
+    "Notes/Math/Linear Algebra",
+    "Notes/Chemistry/Physical Chemistry",
+    "Notes/Chemistry/Organic Chemistry",
+    "Notes/Chemistry/General Chemistry",
     "Notes/Medicine",
     "Notes/Biology/Physiology",
-    "Notes/Biology/Cell Biology",
-    "Notes/Biology/Biochemistry",
-    "Notes/Biology/Anatomy",
-    "Notes/Chemistry",
-    "Notes/Biology",
-    "Notes/Physics",
     "README 1.md",
-    "Notes/Math/Algebra/first algebra note.md",
-    "Notes/Math/Algebra",
-    "Notes/Math",
-    "Notes"
+    "Notes/Math/Algebra/first algebra note.md"
   ]
 }
