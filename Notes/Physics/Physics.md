@@ -1,5 +1,7 @@
 ---
-tags: "#summary"
+tags:
+  - "#summary"
+  - physics
 ---
 ## Overview
 Physics is the study of matter.

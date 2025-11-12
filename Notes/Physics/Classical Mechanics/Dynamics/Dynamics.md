@@ -1,5 +1,7 @@
 ---
-tags: "#summary"
+tags:
+  - "#summary"
+  - physics
 ---
 ## Overview
 Dynamics is the study of forces on an  object.
