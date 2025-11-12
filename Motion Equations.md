@@ -23,10 +23,14 @@ The motion equations are the differential relations between distance, speed and 
 
 ## Related Concepts
 - [[Physics]]
-- 
-
+- [[Kinematics]]
+- [[Classical Mechanics]]
+- [[Displacement]]
+- [[Velocity]]
+- [[Acceleration]]
 
 ## Example Calculation
+An object is moving 5 (m) 
 
 ## Notes
 
