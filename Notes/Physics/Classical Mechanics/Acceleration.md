@@ -9,8 +9,12 @@ tags:
 Acceleration is the rate of velocity change. It is a vector with the same direction as the force.
 
 ## Core Equation(s)
-$$ F = m \,a $$
-$$ a = \frac{dv}{dt} $$
+$$
+\begin{array}{l}
+F = m \, a \\
+a = \frac{dv}{dt}
+\end{array}
+$$
 ## Units
 Acceleration (a): (m/s^2)
 
@@ -18,6 +22,7 @@ Acceleration (a): (m/s^2)
 - [[Newton's Second Law]]
 - [[Mass]]
 - [[Force]]
+- [[Velocity]]
 
 ## Applications
 
