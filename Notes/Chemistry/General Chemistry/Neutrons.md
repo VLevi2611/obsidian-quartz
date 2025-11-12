@@ -4,10 +4,12 @@ tags:
   - chemistry
 ---
 ## Definition
+Neutrons are subatomic particles with a neutral charge
 
 ## Core Equation(s)
 
 ## Units
+$$e^-$$
 
 ## Related Concepts
 - [[General Chemistry]]

@@ -4,7 +4,7 @@ tags:
   - chemistry
 ---
 ## Definition
-
+The electron is a subatomic particle whose electric charge is negative.
 ## Core Equation(s)
 
 ## Units
