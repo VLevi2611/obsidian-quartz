@@ -7,6 +7,17 @@ Physics is the study of matter.
 - [[Dynamics]]: [[Force]], [[Mass]], [[Newton's Second Law]]
 - [[Kinematics]]: [[Displacement]], [[Velocity]], [[Acceleration]]
 ## Equations / Graphs
-
-
+[[Newton's Second Law]]
+$$
+\begin{array}{l}
+F = m \,a
+\end{array}
+$$
+Kinematic Relations
+$$
+\begin{array}{l}
+v = \frac{dx}{dt} \\
+a = \frac{dv}{dt}
+\end{array}
+$$
 ## Questions to Review

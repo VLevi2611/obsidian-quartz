@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics.md",
+                "file": "Classical Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics"
+              "title": "Classical Mechanics"
             }
           },
           {
@@ -193,12 +193,14 @@
   },
   "active": "17732917da5811b2",
   "lastOpenFiles": [
-    "Templates/Summary Template.md.md",
-    "Physics.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+    "Classical Mechanics.md",
+    "Notes/Physics/Classical Mechanics/Dynamics/Dynamics.md",
     "Notes/Physics/Physics.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
+    "Templates/Summary Template.md.md",
     "Templates/Formula Template.md.md",
     "Templates/Concept Template.md.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
     "Notes/Physics/Classical Mechanics/Dynamics/Newton's Second Law.md",
@@ -221,10 +223,8 @@
     "Notes/Physics/Electromagnetism/Electric Force.md",
     "Notes/Physics/Electromagnetism/Forces.md",
     "Templates/Lecture Template.md.md",
-    "Notes/Physics/Classical Mechanics/Intro.md",
     "Resources/Images",
     "Resources",
-    "Notes/Physics/Thermodynamics/Thermodynamics.md",
     "Templates",
     "Indexes",
     "Notes/Physics/Fluid Mechanics",
