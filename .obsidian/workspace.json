@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+                "file": "Notes/Physics/Classical Mechanics/Dynamics/Newton's Second Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kinematics"
+              "title": "Newton's Second Law"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,16 +192,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "17732917da5811b2",
+  "active": "9859ea5352f61be6",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
-    "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Dynamics/Newton's Second Law.md",
-    "Notes/Physics/Classical Mechanics/Dynamics/Mass.md",
+    "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Dynamics/Force.md",
     "Notes/Physics/Classical Mechanics/Dynamics/Dynamics.md",
-    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+    "Notes/Physics/Classical Mechanics/Dynamics/Gravity.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
+    "Notes/Physics/Classical Mechanics/Dynamics/Mass.md",
+    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
     "Templates/Summary Template.md.md",
     "Templates/Formula Template.md.md",
@@ -222,7 +224,6 @@
     "Notes/Biology/Anatomy/yo.md",
     "Formula 1.md",
     "Notes/Physics/Electromagnetism/Electric Force.md",
-    "Notes/Physics/Electromagnetism/Forces.md",
     "Resources/Images",
     "Resources",
     "Templates",
