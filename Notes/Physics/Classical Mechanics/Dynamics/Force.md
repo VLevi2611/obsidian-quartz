@@ -3,6 +3,7 @@ tags:
   - concept
   - "#physics"
   - "#classical-mechanics"
+  - "#dynamics"
   - vector
 ---
 ## Definition

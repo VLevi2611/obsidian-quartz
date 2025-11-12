@@ -3,7 +3,8 @@ tags:
   - concept
   - physics
   - classical-mechanics
-  - "#vector"
+  - kinematics
+  - vector
 ---
 ## Definition
 Velocity is a vector that measures speed in a certain direction.

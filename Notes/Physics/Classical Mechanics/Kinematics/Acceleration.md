@@ -3,6 +3,7 @@ tags:
   - concept
   - physics
   - classical-mechanics
+  - kinematics
   - vector
 ---
 ## Definition

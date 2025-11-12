@@ -3,6 +3,7 @@ tags:
   - formula
   - "#physics"
   - classical-mechanics
+  - dynamics
 ---
 ## Equation
 $$ F = m \, a $$
