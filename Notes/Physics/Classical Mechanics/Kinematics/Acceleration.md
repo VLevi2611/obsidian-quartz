@@ -4,6 +4,7 @@ tags:
   - physics
   - classical-mechanics
   - kinematics
+  - dynamics
   - vector
 ---
 ## Definition
@@ -13,9 +14,6 @@ Acceleration is the rate of velocity change. It is a vector with the same direct
 $$
 \begin{array}{l}
 F = m \, a \\
-a = \frac{dv}{dt} \\
-$$
-v = \frac{dx}{dt} \\
 a = \frac{dv}{dt} \\
 x(t) = x(0) + v(0)t + a \frac{t^2}{2} \\
 v(t)^2 = v(0)^2 + 2ax(t)
