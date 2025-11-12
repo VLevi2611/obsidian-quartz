@@ -1,17 +1,12 @@
 ---
-tags: [formula]
+tags:
+  - formula
+  - chemistry
 ---
 ## Equation
-$$  $$
-## Variables
-| Symbol | Meaning | Units |
-| ------ | ------- | ----- |
-|        |         |       |
-## Description
-
+$$Aw = \sum_{i=1}^{n}p_i\,m_i$$
 ## Related Concepts
-
-## Example Calculation
-
+- [[General Chemistry]]
+- [[Atomic Weight]]
 ## Notes
 

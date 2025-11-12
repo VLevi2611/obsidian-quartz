@@ -8,7 +8,15 @@ Atomic Weight Aw of an [[Element]] is defined as the average mass of its [[Isoto
 ## Core Equation
 $$Aw = \sum_{i=1}^{n}p_i\,m_i$$
 n is the number of [[Isotope]]s 
+p is the prevalence of the isotope occurring 
+m is the [[Mass]] of the isotope
 ## Related Concepts
+- [[General Chemistry]]
+- [[Atomic Weight Formula]]
+- [[Element]]
+- [[Atoms]]
+- [[Isotope]]
+- [[Mass]]
 
 ## Notes
 
