@@ -8,7 +8,7 @@ tags:
 ## Key Concepts
 - [[Matter]]
 - [[Mass]]
-- [[atoms]]
+- [[Atoms]]
 
 ## Equations / Graphs
 

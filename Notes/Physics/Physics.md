@@ -4,12 +4,12 @@ tags:
   - physics
 ---
 ## Overview
-Physics is the study of [[matter]].
+Physics is the study of [[Matter]].
 ## Key Concepts
 [[Classical Mechanics]]
 - [[Dynamics]]: [[Force]], [[Mass]], [[Newton's Second Law]]
 - [[Kinematics]]: [[Displacement]], [[Velocity]], [[Acceleration]], [[Motion Equations]]
-[[matter]]
+[[Matter]]
 ## Equations / Graphs
 [[Newton's Second Law]]
 $$
