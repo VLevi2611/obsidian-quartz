@@ -24,9 +24,6 @@ $$
 The motion equations are the differential relations between distance, speed and acceleration.
 
 ## Related Concepts
-- [[Physics]]
-- [[Kinematics]]
-- [[Classical Mechanics]]
 - [[Displacement]]
 - [[Velocity]]
 - [[Acceleration]]

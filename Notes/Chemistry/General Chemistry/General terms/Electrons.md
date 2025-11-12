@@ -11,14 +11,11 @@ The electron is a subatomic particle whose electric charge is negative.
 | Symbol  | Mass                        | Electric charge |
 | ------- | --------------------------- | --------------- |
 | $$e^-$$ | $$9.1 \times 10^{-28} (g)$$ | $$-1e$$         |
-
 ## Related Concepts
-- [[General Chemistry]]
 - [[Matter]]
 - [[Atoms]]
 - [[Protons]]
 - [[Neutrons]]
 - [[Nucleus]]
 
-## Notes
 
