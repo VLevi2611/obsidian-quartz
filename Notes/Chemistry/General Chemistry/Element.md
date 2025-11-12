@@ -10,7 +10,7 @@ $$^{12}_6C$$
 C is the name of the element
 The lower number is the atomic number
 The upper number is the mass number
-mass number is the number of [[Protons]] + [[Neutrons]] in the element
+Mass number is the number of [[Protons]] + [[Neutrons]] in the element
 ## Related Concepts
 - [[General Chemistry]]
 - [[Protons]]
