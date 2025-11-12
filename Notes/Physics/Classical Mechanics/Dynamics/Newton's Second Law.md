@@ -9,11 +9,11 @@ tags:
 $$ F = m \, a $$
 
 ## Variables
-| Symbol | Meaning          | Units |
-| ------ | ---------------- | ----- |
-| F      | [[Force]]        | N     |
-| m      | [[Mass]]         | kg    |
-| a      | [[Acceleration]] | m/s^2 |
+| Symbol | Meaning          | Units             |
+| ------ | ---------------- | ----------------- |
+| $$F$$  | [[Force]]        | $$N$$             |
+| $$m$$  | [[Mass]]         | $$kg$$            |
+| $$a$$  | [[Acceleration]] | $$\frac{m}{s^2}$$ |
 
 ## Description
 Relates the net force acting on a body to its mass and acceleration.  

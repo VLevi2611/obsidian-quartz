@@ -15,11 +15,11 @@ v(t)^2 = v(0)^2 + 2ax(t)
 \end{array}
 $$
 ## Variables
-| Symbol | Meaning          | Units |
-| ------ | ---------------- | ----- |
-| x      | [[Displacement]] | m     |
-| v      | [[Velocity]]     | m/s   |
-| a      | [[Acceleration]] | m/s^2 |
+| Symbol | Meaning          | Units             |
+| ------ | ---------------- | ----------------- |
+| $$x$$  | [[Displacement]] | $$m$$             |
+| $$v$$  | [[Velocity]]     | $$\frac{m}{s}$$   |
+| $$a$$  | [[Acceleration]] | $$\frac{m}{s^2}$$ |
 ## Description
 The motion equations are the differential relations between distance, speed and acceleration.
 
