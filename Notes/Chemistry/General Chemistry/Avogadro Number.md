@@ -16,11 +16,8 @@ $$
 **Units:** mol$^{-1}$
 
 ## Related Formulas
-- [[Ideal Gas Law]]
-- [[Boltzmann Constant]]
-- [[Faraday Constant]]
 
-## Notes
-- Defined exactly since 2019 as part of the SI redefinition.
-- Links macroscopic quantities (moles) to microscopic particles.
+## Related Concepts
+- [[General Chemistry]]
+- [[Mole]]
 
