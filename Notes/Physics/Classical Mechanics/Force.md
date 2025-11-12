@@ -3,6 +3,7 @@ tags:
   - concept
   - "#physics"
   - "#classical-mechanics"
+  - vector
 ---
 ## Definition
 Force is a vector that causes an object to accelerate.
