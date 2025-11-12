@@ -12,13 +12,8 @@ The lower number is the atomic number
 The upper number is the mass number
 Mass number is the number of [[Protons]] + [[Neutrons]] in the element
 ## Related Concepts
-- [[General Chemistry]]
-- [[Protons]]
-- [[Electrons]]
-- [[Neutrons]]
-- [[Atoms]]
 - [[Isotope]]
 - [[Ion]]
+- [[Matter]]
 
-## Notes
 
