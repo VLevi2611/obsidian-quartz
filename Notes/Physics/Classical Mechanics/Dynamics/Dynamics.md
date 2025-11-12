@@ -4,7 +4,7 @@ tags:
   - physics
 ---
 ## Overview
-Dynamics is the study of forces on an  object.
+Dynamics is the study of forces on an object.
 ## Key Concepts
 - [[Force]]
 - [[Mass]]

@@ -16,11 +16,10 @@ $$ F = ma $$
 - Force (F): Newton (N)/ (kg * m / s^2)
 
 ## Related Concepts
-- [[Physics]]
-- [[Dynamics]]
 - [[Newton's Second Law]]
 - [[Mass]]
 - [[Gravity]]
+- [[Acceleration]]
 
 ## Notes
 - Direction of force determines direction of acceleration.

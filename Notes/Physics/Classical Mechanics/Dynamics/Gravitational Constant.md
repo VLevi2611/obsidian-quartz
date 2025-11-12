@@ -12,8 +12,3 @@ $$g = 9.8$$
 ## Related Formulas
 [[Gravity]]:  
 $$F_g = m\,g$$
-
-## Related Concepts
-- [[Physics]]
-- [[Gravity]]
-- [[Mass]]

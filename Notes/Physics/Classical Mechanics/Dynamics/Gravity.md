@@ -19,12 +19,8 @@ Where the [[Gravitational Constant]] $g = 9.8$
 
 Gravitational force $F_g: Newton (N)$
 ## Related Concepts
-- [[Physics]]
-- [[Classical Mechanics]]
-- [[Dynamics]]
 - [[Force]]
 - [[Mass]]
-- [[Gravitational Constant]]
-
+- [[Acceleration]]
 ## Notes
 
