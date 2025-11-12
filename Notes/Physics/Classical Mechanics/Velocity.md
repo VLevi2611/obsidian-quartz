@@ -15,13 +15,12 @@ v = \frac{dx}{dt} \\
 a = \frac{dv}{dt}
 \end{array}
 $$
-
-
-
 ## Units
+Velocity (v): (m/s)
 
 ## Related Concepts
-
+- [[Acceleration]]
+- [[Displacement]]
 ## Applications
 
 ## Notes
