@@ -9,7 +9,14 @@ tags:
 Velocity is a vector that measures speed in a certain direction.
 
 ## Core Equation(s)
-$$ a = \frac{dv}{dt} \ $$
+$$
+\begin{array}{l}
+F = ma \\
+a = \frac{dv}{dt}
+\end{array}
+$$
+
+
 
 ## Units
 
