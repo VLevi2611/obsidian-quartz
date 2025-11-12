@@ -9,4 +9,6 @@ Each [[Molecule]] is made up of [[Cation]] and [[Anion]] held together by an [[I
 
 ## Related Concepts
 - [[Molecular Compound]]
+- [[Ion]]
+
 

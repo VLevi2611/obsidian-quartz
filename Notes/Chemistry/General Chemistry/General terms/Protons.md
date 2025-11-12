@@ -14,7 +14,6 @@ Protons are subatomic particles with a positive charge.
 | $$p^+$$ | $$1.67 \times 10^{-24} (g)$$ | $$+1e$$         |
 
 ## Related Concepts
-- [[General Chemistry]]
 - [[Matter]]
 - [[Atoms]]
 - [[Electrons]]
