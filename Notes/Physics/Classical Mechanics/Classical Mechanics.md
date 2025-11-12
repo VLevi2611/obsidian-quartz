@@ -1,12 +1,14 @@
 ---
-tags: "#summary"
+tags:
+  - "#summary"
+  - physics
 ---
 ## Overview
-Physics is the study of matter.
+Classical mechanics is the study of force, matter and motion in physical objects.
 ## Key Concepts
-[[Classical Mechanics]]
 - [[Dynamics]]: [[Force]], [[Mass]], [[Newton's Second Law]]
 - [[Kinematics]]: [[Displacement]], [[Velocity]], [[Acceleration]], [[Motion Equations]]
+
 ## Equations / Graphs
 [[Newton's Second Law]]
 $$
@@ -21,4 +23,5 @@ v = \frac{dx}{dt} \\
 a = \frac{dv}{dt}
 \end{array}
 $$
+
 ## Questions to Review
