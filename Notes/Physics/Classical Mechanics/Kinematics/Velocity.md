@@ -20,6 +20,7 @@ $$
 Velocity (v): (m/s)
 
 ## Related Concepts
+- [[Physics]]
 - [[Acceleration]]
 - [[Displacement]]
 

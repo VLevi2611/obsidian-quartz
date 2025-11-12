@@ -1,0 +1,1 @@
+Physics is the study of matter, it includes [[Dynamics]], [[Kinematics]] and more fields.
