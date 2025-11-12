@@ -9,8 +9,6 @@ tags:
 Kinematics is the study of motion in objects.
 
 ## Key Concepts
-- [[Physics]]
-- [[Classical Mechanics]]
 - [[Displacement]]
 - [[Velocity]]
 - [[Acceleration]]

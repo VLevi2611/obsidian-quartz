@@ -20,8 +20,6 @@ Relates the net force acting on a body to its mass and acceleration.
 Foundation of classical dynamics and motion analysis.
 
 ## Related Concepts
-- [[Physics]]
-- [[Dynamics]]
 - [[Force]]
 - [[Mass]]
 - [[Acceleration]]

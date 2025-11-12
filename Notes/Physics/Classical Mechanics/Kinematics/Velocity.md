@@ -10,6 +10,7 @@ tags:
 Velocity is a vector that measures speed in a certain direction.
 
 ## Core Equation(s)
+[[Motion Equations]]
 $$
 \begin{array}{l}
 v = \frac{dx}{dt} \\
@@ -22,8 +23,6 @@ $$
 Velocity (v): (m/s)
 
 ## Related Concepts
-- [[Physics]]
-- [[Kinematics]]
 - [[Acceleration]]
 - [[Displacement]]
 
