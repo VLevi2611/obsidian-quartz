@@ -4,13 +4,11 @@ tags:
   - chemistry
 ---
 ## Definition
-Molecular compound is a set of 
-
-## Core Equation(s)
-
-## Units
-
+Molecular compound is a set of the same [[Molecule]]. 
+Each [[Molecule]] is held together by a [[Covalent Bond]].
 ## Related Concepts
-
-## Notes
+- [[General Chemistry]]
+- [[Molecule]]
+- [[Covalent Bond]]
+- [[Ionic Compound]]
 
