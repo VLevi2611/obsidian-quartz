@@ -6,9 +6,17 @@ tags:
 ## Definition
 A chemical element is the group of all the atoms that have the same number of [[Protons]]
 The number of [[Protons]] is called "Atomic Number"
-
-
+$$^{12}_6C$$
+C is the name of the element
+The lower number is the atomic number
+The upper number is the mass number
+mass number is the number of [[Protons]] + [[Neutrons]] in the element
 ## Related Concepts
+- [[General Chemistry]]
+- [[Protons]]
+- [[Electrons]]
+- [[Neutrons]]
+- [[a]]
 
 ## Notes
 
