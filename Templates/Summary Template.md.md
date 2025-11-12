@@ -7,4 +7,3 @@ tags: "#summary"
 
 ## Equations / Graphs
 
-## Questions to Review
