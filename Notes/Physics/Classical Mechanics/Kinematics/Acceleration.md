@@ -21,6 +21,7 @@ Acceleration (a): (m/s^2)
 
 ## Related Concepts
 - [[Physics]]
+- [[Kinematics]]
 - [[Newton's Second Law]]
 - [[Mass]]
 - [[Force]]

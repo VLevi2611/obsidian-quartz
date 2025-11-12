@@ -21,6 +21,7 @@ Displacement (x): meter (m)
 
 ## Related Concepts
 - [[Physics]]
+- [[Kinematics]]
 - [[Velocity]]
 
 ## Notes

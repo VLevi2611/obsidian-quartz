@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Dynamics/Newton's Second Law.md",
+                "file": "Templates/Summary Template.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton's Second Law"
+              "title": "Summary Template.md"
             }
           },
           {
@@ -193,19 +193,20 @@
   },
   "active": "17732917da5811b2",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Dynamics/Mass.md",
-    "Notes/Physics/Classical Mechanics/Dynamics/Newton's Second Law.md",
-    "Notes/Physics/Classical Mechanics/Dynamics/Force.md",
-    "Notes/Physics/Physics.md",
+    "Templates/Formula Template.md.md",
+    "Templates/Concept Template.md.md",
+    "Templates/Summary Template.md.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
+    "Notes/Physics/Classical Mechanics/Dynamics/Newton's Second Law.md",
+    "Notes/Physics/Classical Mechanics/Dynamics/Mass.md",
+    "Notes/Physics/Classical Mechanics/Dynamics/Force.md",
+    "Notes/Physics/Physics.md",
     "Notes/Welcome please seat yourself.md",
     "Notes/Physics/Classical Mechanics/Dynamics",
     "Resources/Images/Biomedical Engineering Map.png",
     "Notes/Physics/Classical Mechanics/Kinematics",
-    "Templates/Formula Template.md.md",
-    "Templates/Concept Template.md.md",
     "Resources/Images/ActionPotentialDiagram.png",
     "Notes/Physics/Control Theory/Control Theory.md",
     "Notes/Math/Differential Equations/Differential Equations.md",
@@ -215,7 +216,6 @@
     "Notes/Biology/Physiology/Action Potential.md.md",
     "Ion Channels.md",
     "Notes/Biology/Anatomy/yo.md",
-    "Templates/Summary Template.md.md",
     "Formula 1.md",
     "Notes/Physics/Electromagnetism/Electric Force.md",
     "Notes/Physics/Electromagnetism/Forces.md",
@@ -225,7 +225,6 @@
     "Resources",
     "Notes/Physics/Thermodynamics/Thermodynamics.md",
     "Templates",
-    "Indexes/Reviews.md.md",
     "Indexes",
     "Notes/Physics/Fluid Mechanics",
     "Notes/Physics/Control Theory",
