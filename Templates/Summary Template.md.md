@@ -1,14 +1,10 @@
 ---
-tags:
-  - summary
-  - "{ folder }":
+tags: "#summary"
 ---
 ## Overview
 
 ## Key Concepts
 
 ## Equations / Graphs
-
-## Connections
 
 ## Questions to Review
