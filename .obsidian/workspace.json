@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Acceleration.md",
+                "file": "Notes/Physics/Classical Mechanics/Newton's Second Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acceleration"
+              "title": "Newton's Second Law"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "17732917da5811b2",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Force.md",
     "Notes/Physics/Classical Mechanics/Acceleration.md",
+    "Notes/Physics/Classical Mechanics/Force.md",
     "Notes/Physics/Classical Mechanics/Newton's Second Law.md",
     "Resources/Images/ActionPotentialDiagram.png",
     "Notes/Physics/Control Theory/Control Theory.md",
