@@ -9,6 +9,7 @@ Physics is the study of [[matter]].
 [[Classical Mechanics]]
 - [[Dynamics]]: [[Force]], [[Mass]], [[Newton's Second Law]]
 - [[Kinematics]]: [[Displacement]], [[Velocity]], [[Acceleration]], [[Motion Equations]]
+[[matter]]
 ## Equations / Graphs
 [[Newton's Second Law]]
 $$
