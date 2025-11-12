@@ -2,17 +2,16 @@
 tags:
   - concept
   - chemistry
+  - particle
 ---
 ## Definition
 Neutrons are subatomic particles with a neutral charge
-
-## Core Equation(s)
 
 ## Properties
 
 | Symbol  | Mass                        | Electric charge |
 | ------- | --------------------------- | --------------- |
-| $$e^-$$ | $$9.1 \times 10^{-28} (g)$$ | $$-1e$$         |
+| $$n^0$$ | $$1.67 \times 10^{-24}(g)$$ | $$0e$$          |
 
 ## Related Concepts
 - [[General Chemistry]]

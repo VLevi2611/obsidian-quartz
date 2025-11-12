@@ -15,5 +15,3 @@ tags:
 - [[Nucleus]]
 
 ## Equations / Graphs
-
-## Questions to Review

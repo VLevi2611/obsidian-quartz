@@ -7,10 +7,6 @@ tags:
 ## Definition
 Matter is anything with [[Mass]] and takes volume in space.
 
-## Core Equation(s)
-
-## Units
-
 ## Related Concepts
 - [[General Chemistry]]
 - [[Physics]]

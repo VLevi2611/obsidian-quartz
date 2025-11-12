@@ -2,14 +2,17 @@
 tags:
   - concept
   - chemistry
+  - particle
 ---
 ## Definition
 Protons are subatomic particles with a positive charge.
 
 ## Properties
 
-## Units
-$$p^+$$
+| Symbol  | Mass                         | Electric charge |
+| ------- | ---------------------------- | --------------- |
+| $$p^+$$ | $$1.67 \times 10^{-24} (g)$$ | $$+1e$$         |
+
 ## Related Concepts
 - [[General Chemistry]]
 - [[Matter]]
