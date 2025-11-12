@@ -11,10 +11,14 @@
             "id": "17732917da5811b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/Classical Mechanics/Acceleration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acceleration"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:classical-mechanics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,10 +183,12 @@
   },
   "active": "17732917da5811b2",
   "lastOpenFiles": [
-    "Notes/Physics/Control Theory/Control Theory.md",
-    "Notes/Physics/Classical Mechanics/Newton's Second Law.md",
-    "Notes/Physics/Classical Mechanics/Mass.md",
     "Notes/Physics/Classical Mechanics/Force.md",
+    "Notes/Physics/Classical Mechanics/Acceleration.md",
+    "Notes/Physics/Classical Mechanics/Newton's Second Law.md",
+    "Resources/Images/ActionPotentialDiagram.png",
+    "Notes/Physics/Control Theory/Control Theory.md",
+    "Notes/Physics/Classical Mechanics/Mass.md",
     "Notes/Math/Differential Equations/Differential Equations.md",
     "Notes/Biology/Anatomy/Anatomy.md",
     "Indexes/Concepts.md.md",
@@ -198,7 +204,6 @@
     "Notes/Physics/Electromagnetism/Forces.md",
     "Templates/Lecture Template.md.md",
     "Notes/Physics/Classical Mechanics/Intro.md",
-    "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images",
     "Resources",
     "Notes/Physics/Thermodynamics/Thermodynamics.md",
@@ -209,7 +214,6 @@
     "Notes/Physics/Signal Processing/Signal Processing.md",
     "Notes/Physics/Optics and Waves/Optics and Waves.md",
     "Notes/Physics/Fluid Mechanics/Fluid Mechanics.md",
-    "Notes/Physics/Electromagnetism/Electromagnetism.md",
     "Notes/Physics/Fluid Mechanics",
     "Notes/Physics/Control Theory",
     "Notes/Physics/Signal Processing",
