@@ -4,6 +4,7 @@ tags:
   - "#chemistry"
 ---
 ## Overview
+General Chemistry is the study of the properties and behavior of matter.
 
 ## Key Concepts
 - [[Matter]]
@@ -13,5 +14,3 @@ tags:
 - [[Neutrons]]
 - [[Protons]]
 - [[Nucleus]]
-
-## Equations / Graphs
