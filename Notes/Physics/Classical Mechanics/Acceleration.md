@@ -24,7 +24,5 @@ Acceleration (a): (m/s^2)
 - [[Force]]
 - [[Velocity]]
 
-## Applications
-
 ## Notes
 

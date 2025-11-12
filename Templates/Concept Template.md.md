@@ -9,7 +9,5 @@ tags: [concept]
 
 ## Related Concepts
 
-## Applications
-
 ## Notes
 

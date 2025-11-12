@@ -21,7 +21,6 @@ Velocity (v): (m/s)
 ## Related Concepts
 - [[Acceleration]]
 - [[Displacement]]
-## Applications
 
 ## Notes
 

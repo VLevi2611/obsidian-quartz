@@ -18,11 +18,6 @@ $$ F = ma $$
 - [[Newton's Second Law]]
 - [[Mass]]
 
-## Applications
-- Calculating motion in kinematics and dynamics
-- Engineering stress analysis
-- Biomechanics of muscle forces
-
 ## Notes
 - Direction of force determines direction of acceleration.
 - Net force determines changes in motion.

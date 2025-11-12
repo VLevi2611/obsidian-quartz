@@ -17,10 +17,5 @@ $$ F = ma $$
 - [[Force]]
 - [[Newton's Second Law]]
 
-## Applications
-- Used in calculating weight: \( W = mg \)
-- Fundamental parameter in all mechanics and energy relations
-- Determines inertia and gravitational effects
-
 ## Notes
 - Do not confuse mass with weight.
