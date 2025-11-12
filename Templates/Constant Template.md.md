@@ -1,7 +1,17 @@
-## Overview
+---
+tags:
+  - constant
+---
+## Symbol
 
-## Key Concepts
+## Name
 
-## Equations / Graphs
+## Definition
 
-## Questions to Review
+## Value
+
+**Units:** 
+
+## Related Formulas
+
+
