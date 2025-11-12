@@ -13,5 +13,8 @@ Dynamics is the study of forces on an  object.
 ## Equations / Graphs
 $$
 \begin{array}{l}
+F = m \, a
+\end{array}
+$$
 
 ## Questions to Review
