@@ -30,7 +30,14 @@ The motion equations are the differential relations between distance, speed and 
 - [[Acceleration]]
 
 ## Example Calculation
-An object is moving 5 (m) 
+An object starts moving from rest for 2 seconds. It crosses in the first second 5 metes. in the second second it crosses 6 meters.
+$$
+\begin{array}{l}
+v_1 = \frac{dx_1}{dt} = \frac{5}{1} = 5 (\frac{m}{s}) \\
+v_2 = \frac{dx_2}{dt} = \frac{6}{1} = 6 (\frac{m}{s}) \\
+a = \frac{dv}
+\end{array}
+$$
 
 ## Notes
 
