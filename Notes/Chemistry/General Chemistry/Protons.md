@@ -6,7 +6,7 @@ tags:
 ## Definition
 Protons are subatomic particles with a positive charge.
 
-## Core Equation(s)
+## Properties
 
 ## Units
 $$p^+$$
@@ -18,4 +18,5 @@ $$p^+$$
 - [[Neutrons]]
 - [[Nucleus]]
 ## Notes
+Protons are much larger than [[Electrons]]
 

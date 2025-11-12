@@ -8,8 +8,11 @@ Neutrons are subatomic particles with a neutral charge
 
 ## Core Equation(s)
 
-## Units
-$$e^-$$
+## Properties
+
+| Symbol  | Mass                        | Electric charge |
+| ------- | --------------------------- | --------------- |
+| $$e^-$$ | $$9.1 \times 10^{-28} (g)$$ | $$-1e$$         |
 
 ## Related Concepts
 - [[General Chemistry]]
