@@ -10,11 +10,16 @@ Displacement is a vector whose length is the shortest distance between 2 points.
 
 ## Core Equation(s)
 $$
-\begi
+\begin{array}{l}
+v = \frac{dx}{dt}
+\end{array}
+$$
 
 ## Units
+Displacement (x): meter (m)
 
 ## Related Concepts
+- [[Velocity]]
 
 ## Notes
 
