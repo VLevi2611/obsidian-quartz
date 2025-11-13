@@ -13,8 +13,7 @@ $$
 ## Variables
 | Symbol | Meaning                    | Units           |
 | ------ | -------------------------- | --------------- |
-| $F_G$  | [[Gravity]]                | $N$             |
+| $F_g$  | [[Gravity]]                | $N$             |
 | $m$    | [[Mass]]                   | $kg$            |
 | $g$    | [[Gravitational Constant]] | $\frac{m}{s^2}$ |
-## Related Concepts
 
