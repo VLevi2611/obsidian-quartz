@@ -6,7 +6,7 @@ $$  $$
 ## Variables
 | Symbol | Meaning | Units |
 | ------ | ------- | ----- |
-|        |         |       |
+| $$     |         | $$    |
 ## Description
 
 ## Related Concepts
