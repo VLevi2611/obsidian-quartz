@@ -25,9 +25,14 @@ $x^3>1 \Leftrightarrow x>1$
 
 ### For all
 #### Definition 
-the symbol $\forall$ means for all.
+The symbol $\forall$ means for all.
 #### Example
-$\forall n in $
+$\forall n \in \mathbb{Z}$ means for all of integer n.
+### There exists
+#### Definition
+The symbol $\exists$ means something exists.
+#### Example
+$\exists n \in \mathbb{z}$ means that an integer n exists.
 
 ## Related Concepts
 
