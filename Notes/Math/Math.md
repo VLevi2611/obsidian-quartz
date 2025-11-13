@@ -14,8 +14,7 @@ tags:
 - [[Exists]]
 - [[For All]]
 - [[Absolute Value]]
-#### Sets
-- [[Set]]
+#### [[Set]]
 - [[Subset]]
 - [[Infimum]]
 - [[Minimum]]
@@ -34,7 +33,16 @@ tags:
 - [[Half Open Interval]]
 - [[Open Interval]]
 - [[Closed Interval]]
-#### Functions
-- [[Function]]
+#### [[Function]]
 #### Key Equations
 
+
+### [[Linear Algebra]]
+
+### [[Differential Equations]]
+
+### [[Numerical Analysis]]
+
+### [[Probability]]
+
+### [[Complex Analysis]]

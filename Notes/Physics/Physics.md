@@ -6,8 +6,11 @@ tags:
 ## Overview
 Physics is the study of [[Matter]].
 ## Key Summaries
-[[Classical Mechanics]]
-- [[Dynamics]]: [[Force]], [[Mass]], [[Gravity]]
+### [[Classical Mechanics]]
+#### [[Dynamics]]
+- [[Force]]
+- [[Mass]]
+- [[Gravity]]
 - [[Kinematics]]: [[Displacement]], [[Velocity]], [[Acceleration]],
 [[Matter]]
 ## Equations / Graphs
