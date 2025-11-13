@@ -9,7 +9,7 @@ tags:
 ## Definition
 Velocity is a vector that measures speed in a certain direction.
 
-## Core Equation(s)
+## Key Equations
 [[Motion Equations]]
 $$
 \begin{array}{l}
@@ -20,11 +20,5 @@ v(t)^2 = v(0)^2 + 2ax(t)
 \end{array}
 $$
 ## Units
-Velocity (v): (m/s)
-
-## Related Concepts
-- [[Acceleration]]
-- [[Displacement]]
-
-## Notes
+Velocity ($v$): ($\frac{m}{s}$)
 

@@ -10,7 +10,8 @@ tags:
 ## Definition
 Acceleration is the rate of velocity change. It is a vector with the same direction as the force.
 
-## Core Equation(s)
+## Key Equations
+[[]]
 $$
 \begin{array}{l}
 F = m \, a \\

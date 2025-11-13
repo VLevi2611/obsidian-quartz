@@ -23,11 +23,6 @@ $$
 ## Description
 The motion equations are the differential relations between distance, speed and acceleration.
 
-## Related Concepts
-- [[Displacement]]
-- [[Velocity]]
-- [[Acceleration]]
-
 ## Example Calculation
 An object starts moving from rest for 2 seconds. It crosses in the first second 5 metes in steady motion. in the second second it crosses 10 meters in steady motion.
 $$

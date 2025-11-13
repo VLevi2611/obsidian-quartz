@@ -2,6 +2,8 @@
 tags:
   - "#summary"
   - physics
+  - classical-mechanics
+  - dynamics
 ---
 ## Overview
 Dynamics is the study of forces on an object.
@@ -10,7 +12,7 @@ Dynamics is the study of forces on an object.
 - [[Mass]]
 - [[Gravity]]
 
-## Equations / Graphs
+## Key Equations
 [[Newton's Second Law]]
 $$
 \begin{array}{l}
@@ -23,4 +25,3 @@ $$
 F_g = m \, g
 \end{array}
 $$
-## Questions to Review
