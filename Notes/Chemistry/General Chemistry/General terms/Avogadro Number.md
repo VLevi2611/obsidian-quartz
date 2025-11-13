@@ -2,6 +2,8 @@
 tags:
   - constant
   - chemistry
+  - general-chemistry
+  - general-chemistry-terms
 ---
 ## Symbol
 $$N_A$$
@@ -10,8 +12,8 @@ The number of constituent particles (usually atoms or molecules) in one [[Mole]]
 
 ## Value
 $$
-N_A = 6.02214076 \times 10^{23}
+N_A = 6.02214076 \times 10^{23} (mol^{-1})
 $$
 
-**Units:** mol$^{-1}$
+
 

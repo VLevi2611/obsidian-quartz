@@ -3,6 +3,7 @@ tags:
   - concept
   - chemistry
   - general-chemistry
+  - general-chemistry-terms
 ---
 ## Definition
 An ion is an atom with a different number of [[Electrons]] and [[Protons]]. 

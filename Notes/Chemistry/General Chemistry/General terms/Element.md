@@ -2,6 +2,8 @@
 tags:
   - concept
   - chemistry
+  - general-chemistry
+  - general-chemistry-terms
 ---
 ## Definition
 A chemical element is the group of all the [[Atoms]] that have the same number of [[Protons]]

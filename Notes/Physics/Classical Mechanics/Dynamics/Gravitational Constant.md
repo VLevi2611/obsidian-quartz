@@ -10,7 +10,7 @@ $$g$$
 ## Definition
 Gravitational constant gives the strength of the gravitational field induced by a [[Mass]].
 ## Value
-$$g = 9.8$$
+$$g = 9.8 (\frac{m}{s^2})$$
 ## #formula 
 
 [[Gravity Force Formula]]
