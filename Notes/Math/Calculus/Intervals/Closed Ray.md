@@ -2,11 +2,9 @@
 tags:
   - concept
   - math
+  - calculus
+  - intervals
 ---
 ## Definition
-A closed ray is defined as: $$(-\infty,a]/[a,\infty)$$
-## Related Concepts
-- [[Closed Interval]]
-- [[Open Interval]]
-- [[Open Ray]]
-
+A closed ray is defined as: 
+$$(-\infty,a]/[a,\infty)$$
