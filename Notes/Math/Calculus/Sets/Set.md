@@ -14,9 +14,10 @@ There are some standard sets:
 - Natural Numbers Set $$\mathbb{N} = \{1,2,3,...\}$$
 - Whole Numbers Set $$\mathbb{Z} = \{...,-2,-1,0,1,2,...\}$$
 - Rational Numbers Set $$\mathbb{Q} = \{ \frac{n}{m}|n \in \mathbb{Z}, m \in \mathbb{N}\} $$
-- Real 
-
+- Real Numbers Set $$\mathbb{R}$$
+- Complex Numbers Set $$\mathbb{C}$$
 ## Related Concepts
+- [[Mathematical Symbols]]
 
 ## Notes
 
