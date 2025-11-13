@@ -2,10 +2,15 @@
 tags:
   - "#subject"
   - physics
+  - "#optics-and-waves"
 ---
 ## Overview
 
-## Key Summaries
+## #summary 
 
-## Key Equations
+#### #concept 
+
+#### #formula 
+
+#### #constant 
 

@@ -10,9 +10,9 @@ tags:
 
 ## Value
 
-## Related Formulas
+## #concept 
 
-## Related Concepts
+## #formula 
 
 
 

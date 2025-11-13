@@ -9,8 +9,6 @@ $$  $$
 | $$     |         | $$    |
 ## Description
 
-## Related Concepts
-
 ## Example Calculation
 
 ## Notes

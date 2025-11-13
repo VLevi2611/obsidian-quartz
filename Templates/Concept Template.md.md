@@ -3,11 +3,9 @@ tags: [concept]
 ---
 ## Definition
 
-## Key Equations 
+## #formula 
 
 ## Units
-
-## Related Concepts
 
 ## Notes
 

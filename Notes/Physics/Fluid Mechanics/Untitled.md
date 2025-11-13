@@ -1,8 +1,6 @@
 ---
 tags:
   - "#subject"
-  - physics
-  - "#thermodynamics"
 ---
 ## Overview
 
