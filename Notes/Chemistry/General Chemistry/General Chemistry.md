@@ -1,7 +1,8 @@
 ---
 tags:
-  - "#summary"
-  - "#chemistry"
+  - subject
+  - chemistry
+  - "#general-chemistry"
 ---
 ## Overview
 General Chemistry is the study of the properties and behavior of matter.
