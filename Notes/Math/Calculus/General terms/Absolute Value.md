@@ -26,7 +26,12 @@ x, & x \ge 0 \\
 ## Properties
 - $|x| \ge 0$
 - $|x|=0 \Leftrightarrow x=0$
-- $|x|=\sqrt{x^2}= \max{x,-x}$  
+- $|x|=\sqrt{x^2}= \max{\{x,-x\}}$ 
+- $|x|< B \Leftrightarrow x,-x \le B  \Leftrightarrow -B \le x \le  B$
+- $|xy|=|x||y|$
+- $y \not = 0: |\frac{x}{y} | = \frac{|x|}{|y|}$
+- $|x+y| \le |x| + |y|$
+- 
 
 
 
