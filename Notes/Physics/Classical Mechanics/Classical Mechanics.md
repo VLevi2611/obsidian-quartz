@@ -5,15 +5,16 @@ tags:
 ---
 ## Overview
 Classical mechanics is the study of force, matter and motion in physical objects.
-## Key Summaries
+## #summary 
 
 ### [[Dynamics]]
 
-#### Key Concepts
+#### #concept
 - [[Force]]
 - [[Mass]]
 - [[Gravity]]
-#### Key Equations
+#### #formula
+
 - [[Newton's Second Law]]
 $$
 \begin{array}{l}
@@ -26,14 +27,16 @@ $$
 F_g = m \, g
 \end{array}
 $$
-
+#### #constant 
+- [[Gravitational Constant]]
 ### [[Kinematics]]
 
-#### Key Concepts
+#### #concept 
 - [[Displacement]]
 - [[Velocity]]
 - [[Acceleration]]
-####  Equations
+
+#### #formula 
 - [[Motion Equations]] 
 $$
 - \begin{array}{l}
@@ -43,3 +46,4 @@ x(t) = x(0) + v(0)t + a \frac{t^2}{2} \\
 v(t)^2 = v(0)^2 + 2ax(t)
 \end{array}
 $$
+#### #constant 
