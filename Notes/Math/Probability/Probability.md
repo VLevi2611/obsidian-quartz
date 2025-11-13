@@ -2,6 +2,7 @@
 tags:
   - "#subject"
   - math
+  - "#probability"
 ---
 ## Overview
 

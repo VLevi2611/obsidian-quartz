@@ -2,6 +2,7 @@
 tags:
   - "#subject"
   - medicine
+  - "#medical-equipment"
 ---
 ## Overview
 
