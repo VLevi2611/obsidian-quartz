@@ -1,11 +1,11 @@
 ---
 tags:
-  - "#summary"
+  - subject
   - physics
 ---
 ## Overview
 Physics is the study of [[Matter]].
-## Key Concepts
+## Key Summaries
 [[Classical Mechanics]]
 - [[Dynamics]]: [[Force]], [[Mass]], [[Gravity]]
 - [[Kinematics]]: [[Displacement]], [[Velocity]], [[Acceleration]],

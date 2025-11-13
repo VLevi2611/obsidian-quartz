@@ -5,7 +5,6 @@ tags:
 ## Overview
 
 ## Key Summaries
-## Key Concepts
 
 ## Key Equations
 
