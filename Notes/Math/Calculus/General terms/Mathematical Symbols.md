@@ -17,7 +17,18 @@ $x>1 \Rightarrow x^3>1$
 
 ### If and only if
 #### Definition
-$T_1$ and $T_2$ are the same if $T_1$ implies $T_2$ and the other way around. 
+$T_1$ and $T_2$ are the same if $T_1$ implies $T_2$ and the other way around.  Denoting: 
+$T_1 \Leftrightarrow T_2$
+#### Example
+$x>1$ is the same as $x^3>1$ so denote:
+$x^3>1 \Leftrightarrow x>1$
+
+### For all
+#### Definition 
+the symbol $\forall$ means for all.
+#### Example
+$\forall n in $
+
 ## Related Concepts
 
 ## Notes
