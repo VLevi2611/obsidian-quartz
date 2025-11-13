@@ -2,10 +2,11 @@
 tags:
   - subject
   - math
+  - "#calculus"
 ---
 ## Overview
 
-## Key Summaries
+## #summary 
 
 ### Math Symbols
 - [[Implication]]
