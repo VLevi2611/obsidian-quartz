@@ -5,7 +5,7 @@ tags:
   - classical-mechanics
   - kinematics
 ---
-## Equation
+## #formula 
 $$
 \begin{array}{l}
 v = \frac{dx}{dt} \\

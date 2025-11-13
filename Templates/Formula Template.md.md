@@ -1,7 +1,7 @@
 ---
 tags: [formula]
 ---
-## Equation
+## #formula 
 $$  $$
 ## Variables
 | Symbol | Meaning | Units |

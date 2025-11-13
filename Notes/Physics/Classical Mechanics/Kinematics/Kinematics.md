@@ -8,13 +8,15 @@ tags:
 ## Overview
 Kinematics is the study of motion in objects.
 
-## Key Concepts
+## #concept 
+
 - [[Displacement]]
 - [[Velocity]]
 - [[Acceleration]]
 - [[Motion Equations]]
 
-## Key Equations
+## #formula 
+
 [[Motion Equations]]
 $$
 \begin{array}{l}

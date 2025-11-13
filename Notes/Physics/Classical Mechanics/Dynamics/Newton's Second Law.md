@@ -5,9 +5,9 @@ tags:
   - classical-mechanics
   - dynamics
 ---
-## Equation
-$$ F = m \, a $$
+## #formula 
 
+$$ F = m \, a $$
 ## Variables
 | Symbol | Meaning          | Units             |
 | ------ | ---------------- | ----------------- |

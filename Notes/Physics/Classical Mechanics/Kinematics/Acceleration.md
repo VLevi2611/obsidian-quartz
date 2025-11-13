@@ -10,7 +10,8 @@ tags:
 ## Definition
 Acceleration is the rate of velocity change. It is a vector with the same direction as the force.
 
-## Key Equations
+## #formula 
+
 [[Newton's Second Law]]
 $$F = m \, a $$
 [[Motion Equations]]
@@ -22,6 +23,6 @@ v(t)^2 = v(0)^2 + 2ax(t)
 \end{array}
 $$
 ## Units
-Acceleration ($a$): ($\frac{m}{s^2}$)
+$$\frac{m}{s^2}$$
 
 
