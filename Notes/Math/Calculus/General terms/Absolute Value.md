@@ -31,7 +31,5 @@ x, & x \ge 0 \\
 - $|xy|=|x||y|$
 - $y \not = 0: |\frac{x}{y} | = \frac{|x|}{|y|}$
 - $|x+y| \le |x| + |y|$
-- 
-
-
+- $||x|-|y|| \le |x \pm y|$
 

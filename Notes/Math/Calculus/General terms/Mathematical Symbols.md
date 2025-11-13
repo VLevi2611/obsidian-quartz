@@ -11,6 +11,7 @@ A mathematical symbol is one or more figures that is used to represent a mathema
 - [[If and Only If]]
 - [[Exists]]
 - [[For All]]
+- [[Absolute Value]]
 ## Set  Symbols
 - [[Infimum]]
 - [[Minimum]]
