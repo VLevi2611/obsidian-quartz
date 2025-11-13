@@ -11,9 +11,6 @@ C is the name of the element
 The lower number is the atomic number
 The upper number is the mass number
 Mass number is the number of [[Protons]] + [[Neutrons]] in the element
-## Related Concepts
-- [[Isotope]]
-- [[Ion]]
-- [[Matter]]
+
 
 
