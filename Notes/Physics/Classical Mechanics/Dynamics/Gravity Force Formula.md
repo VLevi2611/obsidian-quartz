@@ -6,7 +6,6 @@ tags:
 ---
 ## #formula 
 
-[[Gravity Force Formula]]
 $$
 \begin{array}{l}
 F_g = m \, g

@@ -5,10 +5,10 @@ tags:
 ---
 ## Overview
 Physics is the study of [[Matter]].
-## Key Subjects
+## #subject 
 ### [[Classical Mechanics]]
 
-#### Key Summaries
+#### #summary 
 ##### [[Dynamics]]
 - [[Force]]
 - [[Mass]]
