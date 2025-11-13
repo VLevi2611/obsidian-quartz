@@ -179,6 +179,10 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Math/Calculus/General terms/Mathematical Symbols.md",
+    "Notes/Math/Calculus/General terms",
+    "Notes/Math/Calculus/Functions/Function.md",
+    "Notes/Math/Calculus/Functions",
     "Notes/Chemistry/General Chemistry/General terms/Molecule.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecular Formula.md",
     "Notes/Chemistry/General Chemistry/General terms/Ionic Bond.md",
@@ -204,8 +208,6 @@
     "Notes/Chemistry/General Chemistry/General terms/Atomic Weight Formula.md",
     "Notes/Chemistry/General Chemistry/General terms",
     "Templates/Constant Template.md.md",
-    "Notes/Physics/Classical Mechanics/Dynamics/Gravitational Constant.md",
-    "Notes/Chemistry/General Chemistry/Mole.md",
     "Notes/Physics/Classical Mechanics/Dynamics",
     "Resources/Images/Biomedical Engineering Map.png",
     "Notes/Physics/Classical Mechanics/Kinematics",
@@ -214,8 +216,6 @@
     "Resources",
     "Templates",
     "Indexes",
-    "Notes/Physics/Fluid Mechanics",
-    "Notes/Physics/Control Theory",
-    "Notes/Physics/Signal Processing"
+    "Notes/Physics/Fluid Mechanics"
   ]
 }
