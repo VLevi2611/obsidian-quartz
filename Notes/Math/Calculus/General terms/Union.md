@@ -16,8 +16,7 @@ Given two [[Set]]s, $A,B$ the union if $A,B$ is adding all the elements of the t
 \cup
 
 ## Example
-$A-Even, B-Uneven$
-$$A \cup B = \mathbb{Z}$$
+$$\{1,2\} \cup \{2,3,4\} = \{1,2,3,4\}$$
 
 
 

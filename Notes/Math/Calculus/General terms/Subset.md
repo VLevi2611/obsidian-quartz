@@ -16,6 +16,6 @@ If $A,B$ are two [[Set]]s and every [[Element Of]] $A$ is an element in $B$, we 
 \subset
 
 ## Example
-$$\mathbb{N} \subset  \mathbb{Z}$$
+$$\{1,2\} \subset \{1,2,3,4\}$$
 
 

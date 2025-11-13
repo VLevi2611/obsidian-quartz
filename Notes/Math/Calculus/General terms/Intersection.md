@@ -16,6 +16,6 @@ Given two [[Set]]s $A,B$, the intersection of them is a new set with only [[Elem
 \cap
 
 ## Example
-$$\{1,2,3\} \cap \{$$
+$$\{1,2,3\} \cap \{2,3,4\} = \{2,3\}$$
 
 
