@@ -2,6 +2,8 @@
 tags:
   - concept
   - chemistry
+  - general-chemistry
+  - general-chemistry-terms
 ---
 ## Definition
 Every chemical element is built from tiny undestroyable particles called atoms. Atoms cannot be created or destroyed during a chemical process. 
