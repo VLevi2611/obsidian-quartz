@@ -179,6 +179,13 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Templates/Symbol Template.md.md",
+    "Notes/Math/Calculus/Sets/Set.md",
+    "Notes/Math/Calculus/Sets",
+    "Notes/Math/Calculus/General terms/Implication.md",
+    "Notes/Math/Calculus/General terms/If and Only If.md",
+    "Notes/Math/Calculus/General terms/For All.md",
+    "Notes/Math/Calculus/General terms/Exists.md",
     "Notes/Math/Calculus/General terms/Mathematical Symbols.md",
     "Notes/Math/Calculus/General terms",
     "Notes/Math/Calculus/Functions/Function.md",
@@ -201,13 +208,7 @@
     "Notes/Chemistry/General Chemistry/General terms/Ion.md",
     "Notes/Chemistry/General Chemistry/General terms/Element.md",
     "Notes/Chemistry/General Chemistry/General terms/Electrons.md",
-    "Notes/Chemistry/General Chemistry/General terms/Covalent Bond.md",
-    "Notes/Chemistry/General Chemistry/General terms/Avogadro Number.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atoms.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atomic Weight.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atomic Weight Formula.md",
     "Notes/Chemistry/General Chemistry/General terms",
-    "Templates/Constant Template.md.md",
     "Notes/Physics/Classical Mechanics/Dynamics",
     "Resources/Images/Biomedical Engineering Map.png",
     "Notes/Physics/Classical Mechanics/Kinematics",
@@ -215,7 +216,6 @@
     "Resources/Images",
     "Resources",
     "Templates",
-    "Indexes",
-    "Notes/Physics/Fluid Mechanics"
+    "Indexes"
   ]
 }
