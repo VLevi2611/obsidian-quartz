@@ -16,6 +16,12 @@ $$
 F = m \,a
 \end{array}
 $$
+[[Gravity Force Formula]]
+$$
+\begin{array}{l}
+F_g = m \, g
+\end{array}
+$$
 [[Motion Equations]]
 $$
 \begin{array}{l}
