@@ -11,6 +11,8 @@ T_1 \Rightarrow T_2
 \end{array}
 $$
 
+## Definition
+Implication means that if claim $T_2$ correctness is coming from the correctness of claim $T_1$.
 ## Latex
 \Rightarrow
 

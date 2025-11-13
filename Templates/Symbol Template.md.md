@@ -6,6 +6,8 @@ tags:
 $$
 \begin{array}{l}
 \end{array}
+$$
+## Definition
 ## Latex
 
 ## Example
