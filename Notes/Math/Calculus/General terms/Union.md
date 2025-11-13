@@ -6,16 +6,15 @@ tags:
 ## Sign 
 $$
 \begin{array}{l}
-\in \\
-\in \mathbb{Z}
+\cup  \\
+A \cup B
 \end{array}
 $$
 ## Definition
-If an element is in a [[Set]], he is an element of the set.
+Given two [[Set]]s, $A,B$ the union if $$
 ## Latex
-\in
 
 ## Example
-$$1 \in \mathbb{N}$$
+
 
 
