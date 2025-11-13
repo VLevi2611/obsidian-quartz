@@ -18,8 +18,14 @@ $$\{1,2,3\} = \{3,1,2\} = \{1,2,2,3,3,3\}$$
 
 ## #constant 
 
+- [[Complement]]
+- [[Complex Number]]
+- [[Element Of]]
+- [[Intersection]]
 - [[Natural Number]]
-- [[Whole Number]]
 - [[Rational Number]]
 - [[Real Number]]
-- [[Complex Number]]
+- [[Set Difference]]
+- [[Subset]]
+- [[Union]]
+- [[Whole Number]]
