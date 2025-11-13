@@ -7,7 +7,7 @@ tags:
 Physics is the study of [[Matter]].
 ## Key Concepts
 [[Classical Mechanics]]
-- [[Dynamics]]: [[Force]], [[Mass]], [[Newton's Second Law]], [[Gravity]], [[Gravitational Constant]]
+- [[Dynamics]]: [[Force]], [[Mass]], [[Newton's Second Law]], [[Gravity]]
 - [[Kinematics]]: [[Displacement]], [[Velocity]], [[Acceleration]], [[Motion Equations]]
 [[Matter]]
 ## Equations / Graphs
