@@ -1,11 +1,19 @@
 ---
 tags:
   - "#world"
-  - "#biology"
+  - biology
 ---
 ## Overview
 
-## Key Subjects
+## #subject 
 
-#### Key Summaries 
+### [[Anatomy]]
+#### #summary 
+
+#
+##### #concept 
+
+##### #formula 
+
+##### #constant 
 
