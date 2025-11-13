@@ -10,15 +10,14 @@ Physics is the study of [[Matter]].
 
 #### #summary 
 ##### [[Dynamics]]
+
+###### #concept 
+
 - [[Force]]
 - [[Mass]]
 - [[Gravity]]
-##### [[Kinematics]]
-- [[Displacement]]
-- [[Velocity]]
-- [[Acceleration]]
-- [[Matter]]
-#### Key Equations
+###### #formula 
+
 - [[Newton's Second Law]]
 $$
 \begin{array}{l}
@@ -26,11 +25,19 @@ F = m \,a
 \end{array}
 $$
 - [[Gravity Force Formula]]
-$$
-\begin{array}{l}
-F_g = m \, g
-\end{array}
-$$
+###### #constant 
+
+##### [[Kinematics]]
+
+###### #concept 
+
+- [[Displacement]]
+- [[Velocity]]
+- [[Acceleration]]
+- [[Matter]]
+
+###### #formula 
+
 - [[Motion Equations]]
 $$
 \begin{array}{l}
@@ -41,6 +48,7 @@ v(t)^2 = v(0)^2 + 2ax(t)
 \end{array}
 $$
 
+###### #constant 
 
 ### [[Electromagnetism]]
 
