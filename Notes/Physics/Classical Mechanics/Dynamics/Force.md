@@ -9,17 +9,17 @@ tags:
 ## Definition
 Force is a vector that causes an object to accelerate.
 
-## Core Equation
+## Key Equations
+[[Newton's Second Law]]
 $$ F = ma $$
-
+[[Gravity Force Formula]]
+$$
+\begin{array}{l}
+F_g = m \, g
+\end{array}
+$$
 ## Units
-- Force (F): Newton (N)/ (kg * m / s^2)
-
-## Related Concepts
-- [[Newton's Second Law]]
-- [[Mass]]
-- [[Gravity]]
-- [[Acceleration]]
+Force ($F$): Newton ($N)/ (\frac{kg\,m} {s^2}$)
 
 ## Notes
 - Direction of force determines direction of acceleration.
