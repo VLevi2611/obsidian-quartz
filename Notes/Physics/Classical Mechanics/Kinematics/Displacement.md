@@ -9,7 +9,9 @@ tags:
 ## Definition
 Displacement is a vector whose length is the shortest distance between 2 points.
 
-## Core Equation(s)
+## #formula 
+
+[[Motion Equations]]
 $$
 \begin{array}{l}
 v = \frac{dx}{dt} \\
@@ -19,11 +21,7 @@ v(t)^2 = v(0)^2 + 2ax(t)
 $$
 
 ## Units
-Displacement (x): meter (m)
+Meters
+$$m$$
 
-## Related Concepts
-- [[Acceleration]]
-- [[Velocity]]
-
-## Notes
 

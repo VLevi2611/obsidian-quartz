@@ -3,7 +3,9 @@ tags: "#summary"
 ---
 ## Overview
 
-## Key Concepts
+## #concept 
 
-## Equations / Graphs
+## #formula 
+
+## #constant 
 

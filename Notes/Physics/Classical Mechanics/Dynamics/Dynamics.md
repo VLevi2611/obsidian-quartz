@@ -2,20 +2,26 @@
 tags:
   - "#summary"
   - physics
+  - classical-mechanics
+  - dynamics
 ---
 ## Overview
 Dynamics is the study of forces on an object.
 ## Key Concepts
 - [[Force]]
 - [[Mass]]
-- [[Newton's Second Law]]
 - [[Gravity]]
 
-## Equations / Graphs
+## Key Equations
+[[Newton's Second Law]]
 $$
 \begin{array}{l}
 F = m \, a
 \end{array}
 $$
-
-## Questions to Review
+[[Gravity Force Formula]]
+$$
+\begin{array}{l}
+F_g = m \, g
+\end{array}
+$$

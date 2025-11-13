@@ -8,17 +8,11 @@ tags:
 ## Definition
 Mass is a scalar quantity that measures the amount of matter in an object and represents its resistance to acceleration when a force is applied.
 
-## Core Equation(s) 
+## #formula 
+
+[[Newton's Second Law]]
 $$ F = ma $$
-
 ## Units
-- Mass (m): kilogram (kg)
-
-## Related Concepts
-- [[Force]]
-- [[Newton's Second Law]]
-- [[Gravity]]
-- [[Matter]]
-
+Kilogram  $$kg$$
 ## Notes
 - Do not confuse mass with weight.

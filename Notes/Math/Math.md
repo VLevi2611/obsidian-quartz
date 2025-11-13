@@ -1,20 +1,23 @@
 ---
 tags:
-  - subject
+  - world
   - math
 ---
 ## Overview
 
-## Key Summaries
+## Key Subjects
 
-### Math Symbols
+### [[Calculus]]
+
+#### Key Summaries
+
+##### Math Symbols
 - [[Implication]]
 - [[If and Only If]]
 - [[Exists]]
 - [[For All]]
 - [[Absolute Value]]
-### Sets
-- [[Set]]
+##### [[Set]]
 - [[Subset]]
 - [[Infimum]]
 - [[Minimum]]
@@ -27,12 +30,22 @@ tags:
 - [[Element Of]]
 - [[Complement]]
 - [[Intersection]]
-### Interval Concepts
+##### Interval Concepts
 - [[Open Ray]]
 - [[Closed Ray]]
 - [[Half Open Interval]]
 - [[Open Interval]]
 - [[Closed Interval]]
-### Functions
-- [[Function]]
-## Key Equations
+##### [[Function]]
+#### Key Equations
+
+
+### [[Linear Algebra]]
+
+### [[Differential Equations]]
+
+### [[Numerical Analysis]]
+
+### [[Probability]]
+
+### [[Complex Analysis]]

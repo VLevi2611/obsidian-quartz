@@ -3,11 +3,9 @@ tags: [concept]
 ---
 ## Definition
 
-## Core Equation(s)
+## #formula 
 
 ## Units
-
-## Related Concepts
 
 ## Notes
 

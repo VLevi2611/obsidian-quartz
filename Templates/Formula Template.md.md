@@ -1,15 +1,13 @@
 ---
 tags: [formula]
 ---
-## Equation
+## #formula 
 $$  $$
 ## Variables
 | Symbol | Meaning | Units |
 | ------ | ------- | ----- |
-|        |         |       |
+| $$     |         | $$    |
 ## Description
-
-## Related Concepts
 
 ## Example Calculation
 
