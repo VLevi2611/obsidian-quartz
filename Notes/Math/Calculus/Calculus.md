@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#summary"
+  - subject
   - math
 ---
 ## Overview

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#subject"
+  - world
   - math
 ---
 ## Overview

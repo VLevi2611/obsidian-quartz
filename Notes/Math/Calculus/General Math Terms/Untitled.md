@@ -1,10 +1,9 @@
 ---
-tags:
-  - "#subject"
+tags: "#summary"
 ---
 ## Overview
 
-## Key Summaries
+## Key Concepts
 
 ## Key Equations
 
