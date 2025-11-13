@@ -9,9 +9,7 @@ tags:
 
 ## #concept 
 
-- [[Atoms]]
 - [[Electrons]]
-- [[Molecule]]
 - [[Neutrons]]
 - [[Protons]]
 ## #formula 

@@ -2,6 +2,7 @@
 tags:
   - concept
   - chemistry
+  - general-chemistry
   - particle
 ---
 ## Definition
