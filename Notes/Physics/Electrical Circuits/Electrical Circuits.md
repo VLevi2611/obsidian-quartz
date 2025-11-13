@@ -2,10 +2,15 @@
 tags:
   - "#subject"
   - physics
+  - "#electrical-circuits"
 ---
 ## Overview
 
-## Key Summaries
+## #summary 
 
-## Key Equations
+#### #concept 
+
+#### #formula 
+
+#### #constant 
 

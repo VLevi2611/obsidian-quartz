@@ -1,6 +1,8 @@
 ---
 tags:
   - "#subject"
+  - physics
+  - "#fluid-mechanics"
 ---
 ## Overview
 
