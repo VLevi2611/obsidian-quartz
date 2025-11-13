@@ -5,9 +5,11 @@ tags:
 ---
 ## Overview
 
-## Key Summaries
+## Key Subjects
 
 ### [[Calculus]]
+
+
 #### Math Symbols
 - [[Implication]]
 - [[If and Only If]]

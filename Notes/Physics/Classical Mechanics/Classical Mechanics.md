@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#summary"
+  - subject
   - physics
 ---
 ## Overview
