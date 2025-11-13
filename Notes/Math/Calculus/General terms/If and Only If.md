@@ -1,11 +1,10 @@
 ---
 tags:
   - "#symbol"
+  - math
 ---
 ## Sign 
-$$
-\begin{array}{l}
-\end{array}
+
 ## Latex
 
 ## Example
