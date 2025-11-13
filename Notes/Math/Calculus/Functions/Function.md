@@ -1,15 +1,15 @@
 ---
 tags:
-  - concept
-  - "#math"
+  - "#summary"
+  - math
+  - calculus
+  - "#functions"
 ---
-## Definition
+## Overview
 
-## Core Equation(s)
+## #concept 
 
-## Units
+## #formula 
 
-## Related Concepts
-
-## Notes
+## #constant 
 

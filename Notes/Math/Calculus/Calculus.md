@@ -9,6 +9,8 @@ tags:
 ## #summary 
 
 ### Math Symbols
+
+#### #concept 
 - [[Implication]]
 - [[If and Only If]]
 - [[Exists]]
