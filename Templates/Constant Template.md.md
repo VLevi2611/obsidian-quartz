@@ -10,8 +10,6 @@ tags:
 
 ## Value
 
-**Units:** 
-
 ## Related Formulas
 
 ## Related Concepts

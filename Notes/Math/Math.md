@@ -9,14 +9,15 @@ tags:
 
 ### [[Calculus]]
 
+#### Key Summaries
 
-#### Math Symbols
+##### Math Symbols
 - [[Implication]]
 - [[If and Only If]]
 - [[Exists]]
 - [[For All]]
 - [[Absolute Value]]
-#### [[Set]]
+##### [[Set]]
 - [[Subset]]
 - [[Infimum]]
 - [[Minimum]]
@@ -29,13 +30,13 @@ tags:
 - [[Element Of]]
 - [[Complement]]
 - [[Intersection]]
-#### Interval Concepts
+##### Interval Concepts
 - [[Open Ray]]
 - [[Closed Ray]]
 - [[Half Open Interval]]
 - [[Open Interval]]
 - [[Closed Interval]]
-#### [[Function]]
+##### [[Function]]
 #### Key Equations
 
 

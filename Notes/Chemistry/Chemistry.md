@@ -5,11 +5,13 @@ tags:
 ---
 ## Overview
 
-## Key Summaries
+## Key Subjects
 
 ### [[General Chemistry]]
 
+#### Key Summaries
 
+###### [[General term]]
 #### Key Equations
 
 

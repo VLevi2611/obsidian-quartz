@@ -5,5 +5,5 @@ tags: "#summary"
 
 ## Key Concepts
 
-## Key Equations
+## Equations
 

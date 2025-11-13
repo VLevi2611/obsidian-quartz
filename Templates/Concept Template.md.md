@@ -3,7 +3,7 @@ tags: [concept]
 ---
 ## Definition
 
-## Core Equation(s)
+## Key Equations 
 
 ## Units
 
