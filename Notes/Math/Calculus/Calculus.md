@@ -1,9 +1,11 @@
 ---
-tags: "#summary"
+tags:
+  - "#summary"
+  - math
 ---
 ## Overview
 
 ## Key Concepts
-
-## Equations / Graphs
+- [[Mathematical Symbols]]
+- [[Set]]
 
