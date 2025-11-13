@@ -8,7 +8,7 @@ tags:
 
 ## #summary 
 
-### [[Mathematical Symbols]]
+### [[Math Symbols]]
 
 #### #concept 
 

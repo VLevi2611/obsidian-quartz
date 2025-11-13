@@ -5,18 +5,18 @@ tags:
 ---
 ## Overview
 
-## Key Subjects
+## #subject 
 
 ### [[Calculus]]
 
-#### Key Summaries
+#### #summary 
 
-##### Math Symbols
-- [[Implication]]
-- [[If and Only If]]
+##### [[Math Symbols]]
+- [[Absolute Value]]
 - [[Exists]]
 - [[For All]]
-- [[Absolute Value]]
+- [[If and Only If]]
+- [[Implication]]
 ##### [[Set]]
 - [[Subset]]
 - [[Infimum]]
