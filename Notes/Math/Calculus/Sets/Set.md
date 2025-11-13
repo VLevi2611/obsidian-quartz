@@ -12,7 +12,9 @@ In a set there is no order for the elements and no relevance to repetitions:
 $$\{1,2,3\} = \{3,1,2\} = \{1,2,2,3,3,3\}$$
 There are some standard sets:
 - Natural Numbers Set $$\mathbb{N} = \{1,2,3,...\}$$
-- Whole 
+- Whole Numbers Set $$\mathbb{Z} = \{...,-2,-1,0,1,2,...\}$$
+- Rational Numbers Set $$\mathbb{Q} = \{ \frac{n}{m}|n \in \mathbb{Z}, m \in \mathbb{N}\} $$
+- Real 
 
 ## Related Concepts
 
