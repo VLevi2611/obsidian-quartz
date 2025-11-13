@@ -2,6 +2,7 @@
 tags:
   - subject
   - physics
+  - classical-mechanics
 ---
 ## Overview
 Classical mechanics is the study of force, matter and motion in physical objects.
