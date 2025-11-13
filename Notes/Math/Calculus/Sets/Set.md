@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept
+  - "#summary"
   - math
 ---
 ## Definition
