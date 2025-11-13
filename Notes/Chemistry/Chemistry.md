@@ -1,8 +1,7 @@
 ---
 tags:
-  - "#subject"
+  - world
   - chemistry
-  - general-chemistry
 ---
 ## Overview
 
