@@ -9,3 +9,5 @@ $a,b$ are inside the interval
 ## Related Concepts
 - [[Open Interval]]
 - [[Half Open Interval]]
+- [[Open Ray]]
+- [[Closed Ray]]

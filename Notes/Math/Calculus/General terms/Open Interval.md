@@ -9,4 +9,6 @@ $a,b$ are outside the interval
 ## Related Concepts
 - [[Closed Interval]]
 - [[Half Open Interval]]
+- [[Closed Ray]]
+- [[Open Ray]]
 
