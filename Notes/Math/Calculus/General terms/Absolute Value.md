@@ -14,10 +14,19 @@ x, & x \ge 0 \\
 \end{array}
 $$
 ## Definition
-The geometrical meaning of the absu
+The geometrical meaning of the absolute value is the [[Displacement]] of $x$ from 0.
+The expression  $|x-a|$ is the [[Displacement]] between $a,x$.
+$$(a-\delta, a+\delta) = \{x \in \mathbb{R}|,|x-a|<\delta\}$$
 ## Latex
-
-## Example
+|x| = 
+\begin{cases}
+x, & x \ge 0 \\
+-x, & x < 0
+\end{cases}
+## Properties
+- $|x| \ge 0$
+- $|x|=0 \Leftrightarrow x=0$
+- $|x|=\sqrt{x^2}= \max{x,-x}$  
 
 
 
