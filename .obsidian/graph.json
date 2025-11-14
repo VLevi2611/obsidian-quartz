@@ -36,23 +36,30 @@
       }
     },
     {
-      "query": "tag:fo",
+      "query": "tag:#formula  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#constant  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.22989501953125,
-  "lineSizeMultiplier": 1.12302652994792,
+  "nodeSizeMultiplier": 1.62447102864583,
+  "lineSizeMultiplier": 1.308251953125,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0,
+  "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.6047858415082286,
-  "close": false
+  "scale": 0.036031105845532076,
+  "close": true
 }
