@@ -14,7 +14,13 @@ A mathematical #symbol is one or more figures that is used to represent a mathem
 - [[Associativity Of Addition]]
 - [[Commutativity Of Addition]]
 - [[Additive Identity]]
-- 
+- [[Additive Inverse]]
+- [[Closure Of Multiplication]]
+- [[Associativity Of Multiplication]]
+- [[Commutativity Of Multiplication]]
+- [[Multiplicative Identity]]
+- [[Multiplicative Inverse]]
+- [[Distributivity]]
 
 ## #formula 
 
