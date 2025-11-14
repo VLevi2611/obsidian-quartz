@@ -276,6 +276,13 @@
         "type": "FILES",
         "pattern": "Notes/Biology/Anatomy/Anatomy.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Classical Mechanics/Kinematics/Kinematics Problems/Kinematics Problems.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
