@@ -6,14 +6,14 @@ tags:
 ---
 ## Sign 
 $$
-\begin{array}{l} +
+\begin{array}{l} -
 \end{array}
 $$
 ## Definition
 
-Addition is the sum of two values.
+Subtraction is the difference between of two values.
 ## Latex
-+
+-
 
 ## Example
 2+2=4 -1=3

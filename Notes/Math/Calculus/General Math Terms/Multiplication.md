@@ -6,12 +6,12 @@ tags:
 ---
 ## Sign 
 $$
-\begin{array}{l} +
+\begin{array}{l} \cdot/ \times
 \end{array}
 $$
 ## Definition
 
-Addition is the sum of two values.
+Multiplication is the sum of two values.
 ## Latex
 +
 
