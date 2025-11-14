@@ -26,10 +26,13 @@ A mathematical #symbol is one or more figures that is used to represent a mathem
 
 ## #constant 
 
+## #symbol  
+
 - [[Absolute Value]]
+- [[Addition]]
 - [[Exists]]
 - [[For All]]
 - [[If and Only If]]
 - [[Implication]]
-
+ 
 

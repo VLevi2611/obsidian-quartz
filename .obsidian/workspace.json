@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/General Math Terms/Subtraction.md",
+                "file": "Notes/Math/Calculus/General Math Terms/Math Symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subtraction"
+              "title": "Math Symbols"
             }
           }
         ]
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:dynamics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +202,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98c8ba494855f1ff",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Math/Calculus/General Math Terms/Subtraction.md",
     "Notes/Math/Calculus/General Math Terms/Division.md",
     "Notes/Math/Calculus/Calculus.md",
     "Notes/Math/Linear Algebra/Fields/Field.md",
@@ -221,7 +222,6 @@
     "Notes/Math/Calculus/General Math Terms/Commutativity Of Addition.md",
     "Notes/Math/Calculus/General Math Terms/Associativity Of Addition.md",
     "Notes/Math/Calculus/General Math Terms/Closure Of Addition.md",
-    "Notes/Math/Calculus/General Math Terms/Subtraction.md",
     "Notes/Math/Calculus/General Math Terms/Addition.md",
     "Notes/Math/Calculus/General Math Terms/Multiplication.md",
     "Notes/Math/Calculus/Sets/Set.md",
