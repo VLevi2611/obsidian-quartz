@@ -72,45 +72,51 @@ tags:
 
 ###### #constant 
 
+#### #problem 
 ### [[Linear Algebra]]
 
 #### #summary 
 
-##### #concept 
+###### #concept 
 
-##### #formula 
+###### #formula 
 
-##### #constant 
+###### #constant 
+
+#### #problem 
 ### [[Differential Equations]]
 
 #### #summary 
 
-##### #concept 
+###### #concept 
 
-##### #formula 
+###### #formula 
 
-##### #constant 
+###### #constant 
 
+#### #problem 
 ### [[Numerical Analysis]]
 
 #### #summary 
 
-##### #concept 
+###### #concept 
 
-##### #formula 
+###### #formula 
 
-##### #constant 
+###### #constant 
 
+#### #problem 
 ### [[Probability]]
 
 #### #summary 
 
-##### #concept 
+###### #concept 
 
-##### #formula 
+###### #formula 
 
-##### #constant 
+###### #constant 
 
+#### #problem 
 ### [[Complex Analysis]]
 
 #### #summary 
@@ -120,3 +126,5 @@ tags:
 ###### #formula 
 
 ###### #constant 
+
+#### #problem 

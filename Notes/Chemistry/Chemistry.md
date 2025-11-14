@@ -35,15 +35,14 @@ tags:
 
 - [[Avogadro Number]]
 
-###### #problem 
 
 ##### [[Chemical Bonds]]
 
-##### #concept 
+###### #concept 
 
-##### #formula 
+###### #formula 
 
-##### #constant 
+###### #constant 
 
 #### #problem 
 ### [[Organic Chemistry]]
