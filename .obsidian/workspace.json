@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "56207cee358f6845",
   "lastOpenFiles": [
     "Templates/Symbol Template.md",
     "Templates/Problem Template.md",
