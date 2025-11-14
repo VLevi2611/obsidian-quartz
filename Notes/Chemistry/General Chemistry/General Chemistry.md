@@ -39,6 +39,11 @@ General Chemistry is the study of the properties and behavior of matter.
 
 #### #concept 
 
+- [[Anion]]
+- [[Cation]]
+- [[Covalent Bond]]
+- [[Ionic Bond]]
+
 #### #formula 
 
 #### #constant 
@@ -48,6 +53,9 @@ General Chemistry is the study of the properties and behavior of matter.
 ### [[Chemical Formula]]
 
 #### #concept 
+
+- [[Molecular Formula]]
+- [[Empirical Formula]]
 
 #### #formula 
 
@@ -59,31 +67,13 @@ General Chemistry is the study of the properties and behavior of matter.
 
 #### #concept 
 
+- [[Electrons]]
+- [[Neutrons]]
+- [[Protons]]
+
 #### #formula 
 
 #### #constant 
 
 #### #problem 
 
-- [[Anion]]
-- [[Atomic Weight]]
-- [[Atomic Weight Formula]]
-- [[Atoms]]
-- [[Cation]]
-- [[Chemical Formula]]
-- [[Covalent Bond]]
-- [[Electrons]]
-- [[Element]]
-- [[Empirical Formula]]
-- [[Ion]]
-- [[Ionic Bond]]
-- [[Ionic Compound]]
-- [[Isotope]]
-- [[Matter]]
-- [[Mole]]
-- [[Molecular Compound]]
-- [[Molecular Formula]]
-- [[Molecule]]
-- [[Neutrons]]
-- [[Nucleus]]
-- [[Protons]]
