@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/General Math Terms/Multiplicative Inverse.md",
+                "file": "Notes/Math/Calculus/General Math Terms/Math Symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplicative Inverse"
+              "title": "Math Symbols"
             }
           }
         ]
@@ -204,9 +204,10 @@
   },
   "active": "eb56cac86cb35fd7",
   "lastOpenFiles": [
-    "Notes/Math/Calculus/General Math Terms/Multiplicative Identity.md",
-    "Notes/Math/Calculus/General Math Terms/Multiplicative Inverse.md",
+    "Notes/Math/Calculus/General Math Terms/Distributivity.md",
     "Notes/Math/Linear Algebra/Fields/Field.md",
+    "Notes/Math/Calculus/General Math Terms/Multiplicative Inverse.md",
+    "Notes/Math/Calculus/General Math Terms/Multiplicative Identity.md",
     "Notes/Math/Calculus/General Math Terms/Commutativity Of Multiplication.md",
     "Notes/Math/Calculus/General Math Terms/Associativity Of Multiplication.md",
     "Notes/Math/Calculus/General Math Terms/Closure Of Multiplication.md",
@@ -233,7 +234,6 @@
     "Notes/Physics/Classical Mechanics/Problems",
     "Templates/Problem Template.md",
     "Templates/World Template.md",
-    "Notes/Chemistry/General Chemistry/Chemical Formulas/Chemical Formula.md",
     "Progress/Day 2.png",
     "Progress/Day 1.png",
     "Progress",

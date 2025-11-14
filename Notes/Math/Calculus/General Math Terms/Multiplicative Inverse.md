@@ -4,5 +4,5 @@ tags:
   - math
 ---
 ## Definition
-Multiplicative identity is the one [[Element Of]] every element in a [[Set]] that [[Multiplication]] of them both gets the [[Additive Identity]]. $$a + (-a) = 0$$
+Multiplicative identity is the one [[Element Of]] every element in a [[Set]] that [[Multiplication]] of them both gets the [[Multiplicative Identity]]. $$\forall a \not= 0, a \times(a^{-1}) = 1$$
 
