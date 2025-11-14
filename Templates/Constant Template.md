@@ -1,6 +1,5 @@
 ---
-tags:
-  - constant
+tags: [constant]
 ---
 ## Symbol
 

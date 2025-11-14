@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#symbol"
+tags: [symbol]
 ---
 ## Sign 
 $$
