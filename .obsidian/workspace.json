@@ -11,12 +11,10 @@
             "id": "ac389ff8ec91656f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Progress/Day 3.png"
-              },
-              "icon": "lucide-image",
-              "title": "Day 3"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,12 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "ac389ff8ec91656f",
   "lastOpenFiles": [
+    "Progress/Day 3.png",
     "Progress/Day 2.png",
     "Progress/Day 1.png",
     "Notes/Math/Linear Algebra/Fields/Field.md",
-    "Progress/Day 3.png",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Math.md",
     "Notes/Math/Calculus/General Math Terms/Math Symbols.md",
