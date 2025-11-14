@@ -27,3 +27,7 @@ $$
 F_g = m \, g
 \end{array}
 $$
+
+## #problem 
+
+### [[Dynamics Problems]]
