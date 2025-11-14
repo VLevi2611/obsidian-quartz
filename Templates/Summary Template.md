@@ -1,5 +1,5 @@
 ---
-tags: "#summary"
+tags: [summary]
 ---
 ## Overview
 

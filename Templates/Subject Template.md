@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#subject"
+tags: [subject]
 ---
 ## Overview
 

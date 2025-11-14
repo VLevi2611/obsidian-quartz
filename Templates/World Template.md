@@ -1,6 +1,5 @@
 ---
-tags:
-  - "#world"
+tags: [world]
 ---
 ## Overview
 

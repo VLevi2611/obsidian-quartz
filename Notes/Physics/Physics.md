@@ -50,6 +50,10 @@ $$
 
 ###### #constant 
 
+#### #problem 
+
+- [[Dynamics Problems]]
+- [[Kinematics Problems]]
 ### [[Electromagnetism]]
 
 ### [[Electrical Circuits]]
