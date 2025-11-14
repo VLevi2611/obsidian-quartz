@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/Sets/Set.md",
+                "file": "Notes/Math/Calculus/General Math Terms/Addition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set"
+              "title": "Addition"
             }
           }
         ]
@@ -202,11 +202,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a6e44ce802b59f2",
+  "active": "eb56cac86cb35fd7",
   "lastOpenFiles": [
     "Notes/Math/Calculus/Sets/Set.md",
-    "Notes/Math/Calculus/Intervals/Interval.md",
+    "Notes/Math/Calculus/General Math Terms/Addition.md",
     "Notes/Math/Linear Algebra/Fields/Field.md",
+    "Notes/Math/Calculus/Intervals/Interval.md",
     "Notes/Physics/Physics.md",
     "Notes/Math/Linear Algebra/Fields",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
@@ -236,7 +237,6 @@
     "Notes/Math/Calculus/Sets/Set Difference.md",
     "Notes/Math/Calculus/Sets/Real Number.md",
     "Notes/Math/Calculus/Sets/Rational Number.md",
-    "Notes/Math/Calculus/Sets/Natural Number.md",
     "Notes/Math/Calculus/Intervals",
     "Notes/Chemistry/General Chemistry/Particles",
     "Notes/Chemistry/General Chemistry/Chemical Formulas",
