@@ -12,11 +12,12 @@ $$
 ## Definition
 
 Subtraction is the difference between of two values.
+The product of subtracting 2 terms is called "difference"
 ## Latex
 -
 
 ## Example
-2+2=4 -1=3
+$$2+2=4 -1=3$$
 
 
 

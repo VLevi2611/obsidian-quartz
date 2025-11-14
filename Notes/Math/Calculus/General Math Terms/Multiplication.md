@@ -11,12 +11,11 @@ $$
 $$
 ## Definition
 
-Multiplication is the sum of two values.
+Multiplication is the [[Addition]] of one number by another number of times. 
+The product of multiplying to factors is called "product"
 ## Latex
-+
+\cdot / \times
 
-## Example
-2+2=4 -1=3
 
 
 

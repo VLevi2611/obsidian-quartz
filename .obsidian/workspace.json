@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/General Math Terms/Multiplication.md",
+                "file": "Notes/Math/Calculus/General Math Terms/Subtraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplication"
+              "title": "Subtraction"
             }
           }
         ]
@@ -204,9 +204,9 @@
   },
   "active": "eb56cac86cb35fd7",
   "lastOpenFiles": [
+    "Notes/Math/Calculus/General Math Terms/Addition.md",
     "Notes/Math/Calculus/General Math Terms/Subtraction.md",
     "Notes/Math/Calculus/General Math Terms/Multiplication.md",
-    "Notes/Math/Calculus/General Math Terms/Addition.md",
     "Notes/Math/Calculus/Sets/Set.md",
     "Notes/Math/Linear Algebra/Fields/Field.md",
     "Notes/Math/Calculus/Intervals/Interval.md",
