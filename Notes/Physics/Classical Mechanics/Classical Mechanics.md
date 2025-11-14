@@ -32,6 +32,10 @@ $$
 #### #constant 
 
 - [[Gravitational Constant]]
+
+#### #problem 
+
+##### [[Dynamics Problems]]
 ### [[Kinematics]]
 
 #### #concept 
@@ -53,7 +57,6 @@ v(t)^2 = v(0)^2 + 2ax(t)
 $$
 #### #constant 
 
-## #problem 
+#### #problem 
 
-- [[Dynamics Problems]]
-- [[Kinematics Problems]]
+##### [[Kinematics Problems]]

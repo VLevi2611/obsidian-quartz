@@ -21,6 +21,8 @@ tags:
 - [[Exists]]
 - [[For All]]
 - [[Absolute Value]]
+
+#### #problem 
 ### [[Set]]
 
 #### #concept 
@@ -41,7 +43,9 @@ tags:
 - [[Element Of]]
 - [[Complement]]
 - [[Intersection]]
-### Interval Concepts
+
+#### #problem 
+### [[Interval]]
 
 #### #concept 
 
@@ -53,6 +57,8 @@ tags:
 - [[Half Open Interval]]
 - [[Open Interval]]
 - [[Closed Interval]]
+
+#### #problem 
 ### [[Function]]
 
 #### #concept 
@@ -60,5 +66,6 @@ tags:
 #### #formula 
 
 #### #constant 
-- [[Function]]
+
+#### #problem 
 ## Key Equations
