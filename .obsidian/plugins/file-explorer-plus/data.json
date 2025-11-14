@@ -248,6 +248,34 @@
         "type": "FILES",
         "pattern": "Notes/Biology/Biology.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Biology/Physiology/Physiology.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Biology/Cell Biology/Cell Biology.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Biology/Biochemistry/Biochemistry.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Biology/Anatomy/Anatomy.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
