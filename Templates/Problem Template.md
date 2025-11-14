@@ -1,11 +1,13 @@
 ---
 tags:
+  - "#problem"
+cssclasses:
 ---
-## Definition
+## Overview
+
+## Given
 
 ## #formula 
 
-## Units
-
-## Notes
+## Solution
 
