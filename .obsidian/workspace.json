@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/General Math Terms/Closure Of Addition.md",
+                "file": "Notes/Math/Calculus/General Math Terms/Associativity Of Addition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closure Of Addition"
+              "title": "Associativity Of Addition"
             }
           }
         ]
@@ -204,12 +204,14 @@
   },
   "active": "eb56cac86cb35fd7",
   "lastOpenFiles": [
-    "Notes/Math/Calculus/General Math Terms/Subtraction.md",
+    "Notes/Math/Calculus/General Math Terms/Commutativity Of Addition.md",
+    "Notes/Math/Calculus/General Math Terms/Associativity Of Addition.md",
+    "Notes/Math/Linear Algebra/Fields/Field.md",
     "Notes/Math/Calculus/General Math Terms/Closure Of Addition.md",
+    "Notes/Math/Calculus/General Math Terms/Subtraction.md",
     "Notes/Math/Calculus/General Math Terms/Addition.md",
     "Notes/Math/Calculus/General Math Terms/Multiplication.md",
     "Notes/Math/Calculus/Sets/Set.md",
-    "Notes/Math/Linear Algebra/Fields/Field.md",
     "Notes/Math/Calculus/Intervals/Interval.md",
     "Notes/Physics/Physics.md",
     "Notes/Math/Linear Algebra/Fields",
@@ -235,8 +237,6 @@
     "Progress/Day 1.png",
     "Progress",
     "Notes/Math/Calculus/Sets/Whole Number.md",
-    "Notes/Math/Calculus/Sets/Union.md",
-    "Notes/Math/Calculus/Sets/Subset.md",
     "Notes/Math/Calculus/Intervals",
     "Notes/Chemistry/General Chemistry/Particles",
     "Notes/Chemistry/General Chemistry/Chemical Formulas",
