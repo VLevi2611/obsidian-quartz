@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c22b8c676b5975cc",
+        "id": "00d02375954d7eb3",
         "type": "tabs",
         "children": [
           {
-            "id": "9859ea5352f61be6",
+            "id": "eb56cac86cb35fd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,8 +181,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9859ea5352f61be6",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Templates/Symbol Template.md",
+    "Templates/Problem Template.md",
+    "Templates/Concept Template.md",
+    "Templates/Constant Template.md",
+    "Templates/Formula Template.md",
+    "Templates/Subject Template.md",
+    "Templates/Summary Template.md",
+    "Templates/World Template.md",
     "Templates/Problem Template.md",
     "Progress/Day 2.png",
     "Progress/Day 1.png",
@@ -204,15 +212,7 @@
     "Notes/Math/Calculus/Intervals/Open Interval.md",
     "Notes/Math/Calculus/Intervals/Minimum.md",
     "Notes/Math/Calculus/Intervals/Maximum.md",
-    "Notes/Math/Calculus/Intervals/Lower Bound.md",
-    "Notes/Math/Calculus/Intervals/Interval.md",
-    "Notes/Math/Calculus/Intervals/Infimum.md",
-    "Notes/Math/Calculus/Intervals/Half Open Interval.md",
-    "Notes/Math/Calculus/Intervals/Closed Ray.md",
-    "Notes/Math/Calculus/Intervals/Closed Interval.md",
     "Notes/Math/Calculus/Intervals",
-    "Notes/Math/Calculus/General Math Terms/Math Symbols.md",
-    "Notes/Chemistry/General Chemistry/Particles/Protons.md",
     "Notes/Chemistry/General Chemistry/Particles",
     "Notes/Chemistry/General Chemistry/Chemical Formulas",
     "Notes/Chemistry/General Chemistry/Chemical Bonds",

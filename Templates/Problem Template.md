@@ -1,13 +1,5 @@
 ---
 tags:
   - "#problem"
-cssclasses:
+difficulty:
 ---
-## Overview
-
-## Given
-
-## #formula 
-
-## Solution
-
