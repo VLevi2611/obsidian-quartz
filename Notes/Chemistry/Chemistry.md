@@ -40,6 +40,34 @@ tags:
 
 ###### #concept 
 
+- [[Anion]]
+- [[Cation]]
+- [[Covalent Bond]]
+- [[Ionic Bond]]
+
+###### #formula 
+
+###### #constant 
+
+##### [[Chemical Formula]]
+
+###### #concept 
+
+- [[Molecular Formula]]
+- [[Empirical Formula]]
+
+###### #formula 
+
+###### #constant 
+
+##### [[Particles]]
+
+###### #concept 
+
+ [[Electrons]]
+- [[Neutrons]]
+- [[Protons]]
+
 ###### #formula 
 
 ###### #constant 
