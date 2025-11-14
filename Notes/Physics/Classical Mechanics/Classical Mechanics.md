@@ -55,4 +55,5 @@ $$
 
 ## #problem 
 
-- [[Classical Mechanics Problems]]
+- [[Dynamics Problems]]
+- [[Kinematics Problems]]
