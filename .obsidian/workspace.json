@@ -11,10 +11,14 @@
             "id": "eb56cac86cb35fd7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/Classical Mechanics/Problems/Classical Mechanics Problems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Classical Mechanics Problems"
             }
           }
         ]
@@ -179,6 +183,7 @@
   },
   "active": "eb56cac86cb35fd7",
   "lastOpenFiles": [
+    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Math/Calculus/General Math Terms/Absolute Value.md",
     "Notes/Physics/Classical Mechanics/Problems/Classical Mechanics Problems.md",
     "Notes/Chemistry/General Chemistry/Chemical Formulas/Empirical Formula.md",
@@ -208,7 +213,6 @@
     "Notes/Math/Calculus/Sets/Complement.md",
     "Notes/Math/Calculus/Intervals/Upper Bound.md",
     "Notes/Math/Calculus/Intervals/Supremum.md",
-    "Notes/Math/Calculus/Intervals/Open Ray.md",
     "Notes/Math/Calculus/Intervals",
     "Notes/Chemistry/General Chemistry/Particles",
     "Notes/Chemistry/General Chemistry/Chemical Formulas",
