@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/General Math Terms/Closure Of Multiplication.md",
+                "file": "Notes/Math/Calculus/General Math Terms/Multiplicative Inverse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closure Of Multiplication"
+              "title": "Multiplicative Inverse"
             }
           }
         ]
@@ -204,9 +204,13 @@
   },
   "active": "eb56cac86cb35fd7",
   "lastOpenFiles": [
-    "Notes/Math/Calculus/General Math Terms/Additive Inverse.md",
-    "Notes/Math/Calculus/General Math Terms/Closure Of Multiplication.md",
+    "Notes/Math/Calculus/General Math Terms/Multiplicative Identity.md",
+    "Notes/Math/Calculus/General Math Terms/Multiplicative Inverse.md",
     "Notes/Math/Linear Algebra/Fields/Field.md",
+    "Notes/Math/Calculus/General Math Terms/Commutativity Of Multiplication.md",
+    "Notes/Math/Calculus/General Math Terms/Associativity Of Multiplication.md",
+    "Notes/Math/Calculus/General Math Terms/Closure Of Multiplication.md",
+    "Notes/Math/Calculus/General Math Terms/Additive Inverse.md",
     "Notes/Math/Calculus/General Math Terms/Additive Identity.md",
     "Notes/Math/Calculus/General Math Terms/Commutativity Of Addition.md",
     "Notes/Math/Calculus/General Math Terms/Associativity Of Addition.md",
@@ -230,10 +234,6 @@
     "Templates/Problem Template.md",
     "Templates/World Template.md",
     "Notes/Chemistry/General Chemistry/Chemical Formulas/Chemical Formula.md",
-    "Templates/Symbol Template.md",
-    "Templates/Summary Template.md",
-    "Templates/Subject Template.md",
-    "Templates/Formula Template.md",
     "Progress/Day 2.png",
     "Progress/Day 1.png",
     "Progress",
