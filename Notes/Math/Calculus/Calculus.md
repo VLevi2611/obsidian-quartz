@@ -2,18 +2,32 @@
 tags:
   - subject
   - math
+  - "#calculus"
 ---
 ## Overview
 
-## Key Summaries
+## #summary 
 
-### Math Symbols
+### [[Math Symbols]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
 - [[Implication]]
 - [[If and Only If]]
 - [[Exists]]
 - [[For All]]
 - [[Absolute Value]]
-### Sets
+### [[Set]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
 - [[Set]]
 - [[Subset]]
 - [[Infimum]]
@@ -28,11 +42,23 @@ tags:
 - [[Complement]]
 - [[Intersection]]
 ### Interval Concepts
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
 - [[Open Ray]]
 - [[Closed Ray]]
 - [[Half Open Interval]]
 - [[Open Interval]]
 - [[Closed Interval]]
-### Functions
+### [[Function]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
 - [[Function]]
 ## Key Equations

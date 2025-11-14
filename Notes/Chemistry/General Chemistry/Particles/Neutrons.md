@@ -2,6 +2,7 @@
 tags:
   - concept
   - chemistry
+  - general-chemistry
   - particle
 ---
 ## Definition
@@ -13,11 +14,4 @@ Neutrons are subatomic particles with a neutral charge
 | ------- | --------------------------- | --------------- |
 | $$n^0$$ | $$1.67 \times 10^{-24}(g)$$ | $$0e$$          |
 
-## Related Concepts
-- [[Matter]]
-- [[Atoms]]
-- [[Electrons]]
-- [[Protons]]
-- [[Nucleus]]
-## Notes
 

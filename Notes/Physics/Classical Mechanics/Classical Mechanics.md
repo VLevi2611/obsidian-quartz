@@ -2,6 +2,7 @@
 tags:
   - subject
   - physics
+  - classical-mechanics
 ---
 ## Overview
 Classical mechanics is the study of force, matter and motion in physical objects.
@@ -10,6 +11,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 ### [[Dynamics]]
 
 #### #concept
+
 - [[Force]]
 - [[Mass]]
 - [[Gravity]]
@@ -28,15 +30,18 @@ F_g = m \, g
 \end{array}
 $$
 #### #constant 
+
 - [[Gravitational Constant]]
 ### [[Kinematics]]
 
 #### #concept 
+
 - [[Displacement]]
 - [[Velocity]]
 - [[Acceleration]]
 
 #### #formula 
+
 - [[Motion Equations]] 
 $$
 - \begin{array}{l}

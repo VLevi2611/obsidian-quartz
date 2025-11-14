@@ -2,6 +2,7 @@
 tags:
   - concept
   - chemistry
+  - general-chemistry
   - particle
 ---
 ## Definition
@@ -13,12 +14,6 @@ Protons are subatomic particles with a positive charge.
 | ------- | ---------------------------- | --------------- |
 | $$p^+$$ | $$1.67 \times 10^{-24} (g)$$ | $$+1e$$         |
 
-## Related Concepts
-- [[Matter]]
-- [[Atoms]]
-- [[Electrons]]
-- [[Neutrons]]
-- [[Nucleus]]
 ## Notes
 Protons are much larger than [[Electrons]]
 

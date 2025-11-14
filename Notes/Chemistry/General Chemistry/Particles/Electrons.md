@@ -2,6 +2,7 @@
 tags:
   - concept
   - chemistry
+  - general-chemistry
   - particle
 ---
 ## Definition
@@ -11,11 +12,6 @@ The electron is a subatomic particle whose electric charge is negative.
 | Symbol  | Mass                        | Electric charge |
 | ------- | --------------------------- | --------------- |
 | $$e^-$$ | $$9.1 \times 10^{-28} (g)$$ | $$-1e$$         |
-## Related Concepts
-- [[Matter]]
-- [[Atoms]]
-- [[Protons]]
-- [[Neutrons]]
-- [[Nucleus]]
+
 
 

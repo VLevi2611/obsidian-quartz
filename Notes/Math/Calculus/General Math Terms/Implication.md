@@ -2,6 +2,8 @@
 tags:
   - "#symbol"
   - math
+  - calculus
+  - math-symbols
 ---
 ## Sign 
 $$

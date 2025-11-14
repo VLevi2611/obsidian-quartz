@@ -5,7 +5,17 @@ tags:
 ---
 ## Overview
 
-## Key Subjects
+## #subject 
 
-#### Key Summaries 
+### [[Medical Equipment]]
+
+#### #summary 
+
+##### [[Medical Equipment]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
 

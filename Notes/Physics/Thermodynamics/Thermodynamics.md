@@ -14,3 +14,4 @@ tags:
 
 #### #constant 
 
+![[Day 2.png]]

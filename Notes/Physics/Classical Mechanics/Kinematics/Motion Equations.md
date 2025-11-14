@@ -6,6 +6,7 @@ tags:
   - kinematics
 ---
 ## #formula 
+
 $$
 \begin{array}{l}
 v = \frac{dx}{dt} \\

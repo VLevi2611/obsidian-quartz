@@ -9,7 +9,8 @@ tags:
 ## Definition
 Force is a vector that causes an object to accelerate.
 
-## Key Equations
+## #formula 
+
 [[Newton's Second Law]]
 $$ F = ma $$
 [[Gravity Force Formula]]
@@ -19,8 +20,7 @@ F_g = m \, g
 \end{array}
 $$
 ## Units
-Force ($F$): Newton ($N)/ (\frac{kg\,m} {s^2}$)
-
+Newtons $$N$$
 ## Notes
 - Direction of force determines direction of acceleration.
 - Net force determines changes in motion.

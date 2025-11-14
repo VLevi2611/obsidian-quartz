@@ -2,10 +2,15 @@
 tags:
   - "#subject"
   - medicine
+  - "#medical-equipment"
 ---
 ## Overview
 
-## Key Summaries
+## #summary 
 
-## Key Equations
+#### #concept 
+
+#### #formula 
+
+#### #constant 
 
