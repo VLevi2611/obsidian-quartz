@@ -35,7 +35,8 @@ tags:
 - [[Absolute Value]]
 - [[Addition]]
 - [[Multiplication]]
-- [[]]
+- [[Subtraction]]
+- 
 
 #### #problem 
 ### [[Set]]
