@@ -17,11 +17,12 @@ The field must have all of the following 11 properties:
 - [[Additive Identity]] $$a + 0 = 0 + a = a$$
 - [[Additive Inverse]] $$a + (-a) = 0$$
 - [[Closure of Multiplication]] $$ a \times b \in F$$
-- [[Associativity Of Multiplication]] $$(a \times$$
-- [[Commutativity Of Multiplication]]
-- [[Multiplicative Identity]]
-- [[Multiplicative Inverse]]
-- [[Distributivity]]
+- [[Associativity Of Multiplication]] $$(a \times b) \times c = a \times (b \times c)$$
+- [[Commutativity Of Multiplication]] $$a \times b = b \times a$$
+- [[Multiplicative Identity]] $$a \times 1 = 1 \times a = a$$
+- [[Multiplicative Inverse]] $$\forall a \not= 0, a \times(a^{-1}) = 1$$
+- [[Distributivity]] $$a \times (b + c) = a \times b + a \times c$$
+There is only one [[Additive Identity]]
 
 ## #concept 
 
