@@ -28,15 +28,17 @@ tags:
 
 #### #constant 
 
-- [[Implication]]
-- [[If and Only If]]
-- [[Exists]]
-- [[For All]]
+#### #symbol 
+
 - [[Absolute Value]]
 - [[Addition]]
+- [[Division]]
+- [[Exists]]
+- [[For All]]
+- [[If and Only If]]
+- [[Implication]]
 - [[Multiplication]]
 - [[Subtraction]]
-- 
 
 #### #problem 
 ### [[Set]]

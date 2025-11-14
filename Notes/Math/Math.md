@@ -31,11 +31,17 @@ tags:
 
 ###### #constant 
 
+###### #symbol 
+
 - [[Absolute Value]]
+- [[Addition]]
+- [[Division]]
 - [[Exists]]
 - [[For All]]
 - [[If and Only If]]
 - [[Implication]]
+- [[Multiplication]]
+- [[Subtraction]]
 
 ##### [[Interval]]
 
@@ -62,7 +68,9 @@ tags:
 
 ###### #formula 
 
-###### #constant 
+###### #constant
+
+###### #symbol 
 
 - [[Complement]]
 - [[Complex Number]]
@@ -84,10 +92,14 @@ tags:
 
 ###### #constant 
 
+###### #symbol 
+
 #### #problem 
 ### [[Linear Algebra]]
 
 #### #summary 
+
+##### 
 
 ###### #concept 
 

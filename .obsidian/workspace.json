@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/General Math Terms/Division.md",
+                "file": "Notes/Math/Math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Division"
+              "title": "Math"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Calculus/General Math Terms/Math Symbols.md",
+                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Symbols"
+              "title": "Linear Algebra"
             }
           }
         ]
@@ -202,15 +202,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "3f75dec5006feb30",
   "lastOpenFiles": [
-    "Notes/Math/Calculus/General Math Terms/Subtraction.md",
-    "Notes/Math/Calculus/General Math Terms/Division.md",
-    "Notes/Math/Calculus/Calculus.md",
     "Notes/Math/Linear Algebra/Fields/Field.md",
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Calculus/General Math Terms/Math Symbols.md",
+    "Notes/Math/Calculus/Functions/Function.md",
+    "Notes/Math/Calculus/Sets/Set.md",
+    "Notes/Math/Calculus/Intervals/Interval.md",
+    "Notes/Math/Calculus/Calculus.md",
+    "Notes/Math/Calculus/General Math Terms/Division.md",
+    "Notes/Math/Calculus/General Math Terms/Subtraction.md",
     "Notes/Math/Calculus/General Math Terms/Distributivity.md",
     "Notes/Math/Calculus/General Math Terms/Multiplicative Inverse.md",
     "Notes/Math/Calculus/General Math Terms/Multiplicative Identity.md",
@@ -224,14 +227,11 @@
     "Notes/Math/Calculus/General Math Terms/Closure Of Addition.md",
     "Notes/Math/Calculus/General Math Terms/Addition.md",
     "Notes/Math/Calculus/General Math Terms/Multiplication.md",
-    "Notes/Math/Calculus/Sets/Set.md",
-    "Notes/Math/Calculus/Intervals/Interval.md",
     "Notes/Physics/Physics.md",
     "Notes/Math/Linear Algebra/Fields",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Physics/Classical Mechanics/Dynamics/Dynamics Problems/Dynamics Problems.md",
     "Notes/Physics/Classical Mechanics/Dynamics/Dynamics Problems",
-    "Notes/Physics/Classical Mechanics/Kinematics/Kinematics Problems/Kinematics Problems.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Kinematics Problems",
     "Notes/Physics/Classical Mechanics/Problems",
     "Progress/Day 2.png",

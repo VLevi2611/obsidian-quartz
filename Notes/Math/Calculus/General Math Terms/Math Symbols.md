@@ -30,9 +30,12 @@ A mathematical #symbol is one or more figures that is used to represent a mathem
 
 - [[Absolute Value]]
 - [[Addition]]
+- [[Division]]
 - [[Exists]]
 - [[For All]]
 - [[If and Only If]]
 - [[Implication]]
+- [[Multiplication]]
+- [[Subtraction]]
  
 
