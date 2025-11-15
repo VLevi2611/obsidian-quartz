@@ -56,13 +56,82 @@ $$
 - [[Kinematics Problems]]
 ### [[Electromagnetism]]
 
+#### #summary 
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+#### #problem 
+
 ### [[Electrical Circuits]]
+
+#### #summary 
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+#### #problem 
 
 ### [[Optics and Waves]]
 
+#### #summary 
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+#### #problem 
+
 ### [[Thermodynamics]]
 
+#### #summary 
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+#### #problem 
+
 ### [[Fluid Mechanics]]
+
+#### #summary 
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+#### #problem 
 ### [[Control Theory]]
 
+#### #summary 
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+#### #problem 
 ### [[Signal Processing]]
+
+#### #summary 
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+#### #problem 

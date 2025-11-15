@@ -118,6 +118,8 @@ tags:
 
 ###### #constant 
 
+##### [[Linear]]
+
 #### #problem 
 ### [[Differential Equations]]
 
