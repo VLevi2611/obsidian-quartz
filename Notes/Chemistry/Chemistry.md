@@ -11,30 +11,15 @@ tags:
 
 #### #summary 
 
-##### [[General Chemical Terms]]
+##### [[Atomic Structure]]
 
 ###### #concept 
 
-- [[Atomic Weight]]
-- [[Atoms]]
-- [[Element]]
-- [[Ion]]
-- [[Ionic Compound]]
-- [[Isotope]]
-- [[Matter]]
-- [[Mole]]
-- [[Molecular Compound]]
-- [[Molecule]]
-- [[Nucleus]]
+- [[Electrons]]
 
 ###### #formula 
 
-- [[Atomic Weight Formula]]
-
 ###### #constant 
-
-- [[Avogadro Number]]
-
 
 ##### [[Chemical Bonding]]
 
@@ -49,24 +34,45 @@ tags:
 
 ###### #constant 
 
-##### [[Chemical Formula]]
+##### [[Gases]]
 
 ###### #concept 
-
-- [[Molecular Formula]]
-- [[Empirical Formula]]
 
 ###### #formula 
 
 ###### #constant 
 
-##### [[Atomic Structure]]
+##### [[General Chemical Terms]]
 
 ###### #concept 
 
  [[Electrons]]
 - [[Neutrons]]
 - [[Protons]]
+
+###### #formula 
+
+###### #constant 
+
+##### [[Periodic Trends]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Stoichiometry]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Thermochemistry]]
+
+###### #concept 
 
 ###### #formula 
 
