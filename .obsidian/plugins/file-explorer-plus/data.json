@@ -218,28 +218,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Particles/Particles.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Chemical Formulas/Chemical Formula.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Chemical Bonds/Chemical Bonds.md",
         "patternType": "STRICT"
       },
       {
