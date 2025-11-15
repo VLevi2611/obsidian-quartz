@@ -9,7 +9,7 @@ Physics is the study of [[Matter]].
 ### [[Classical Mechanics]]
 
 #### #summary 
-##### [[Dynamics]]
+##### [[Newton's Laws]]
 
 ###### #concept 
 
