@@ -9,23 +9,6 @@ Physics is the study of [[Matter]].
 ### [[Classical Mechanics]]
 
 #### #summary 
-##### [[Dynamics]]
-
-###### #concept 
-
-- [[Force]]
-- [[Mass]]
-- [[Gravity]]
-###### #formula 
-
-- [[Newton's Second Law]]
-$$
-\begin{array}{l}
-F = m \,a
-\end{array}
-$$
-- [[Gravity Force Formula]]
-###### #constant 
 
 ##### [[Kinematics]]
 
@@ -34,29 +17,32 @@ $$
 - [[Displacement]]
 - [[Velocity]]
 - [[Acceleration]]
-- [[Matter]]
+- [[Motion Equations]]
 
 ###### #formula 
 
 - [[Motion Equations]]
-$$
-\begin{array}{l}
-v = \frac{dx}{dt} \\
-a = \frac{dv}{dt} \\
-x(t) = x(0) + v(0)t + a \frac{t^2}{2} \\
-v(t)^2 = v(0)^2 + 2ax(t)
-\end{array}
-$$
 
 ###### #constant 
 
-#### #problem 
+##### [[Newton's Laws]]
 
-- [[Dynamics Problems]]
-- [[Kinematics Problems]]
-### [[Electromagnetism]]
+###### #concept 
 
-#### #summary 
+- [[Force]]
+- [[Mass]]
+- [[Gravity]]
+
+###### #formula 
+
+- [[Newton's Second Law]]
+- [[Gravity Force Formula]]
+
+###### #constant 
+
+- [[Gravitational Constant]]
+
+##### [[Energy]]
 
 ###### #concept 
 
@@ -64,9 +50,94 @@ $$
 
 ###### #constant 
 
+##### [[Momentum]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Rotation]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Oscillations]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Gravitation]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+### [[Electromagnetism]]
+
+#### #summary 
+
+##### [[Electrostatics]]
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Gauss's Law]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Capacitance]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Circuits]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Magnetic Fields]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Faraday's Law]]
+
+###### #concept 
+
+###### #formula 
+
+###### #constant 
+
+##### [[Maxwell's Equations]]
+
+
 #### #problem 
 
-### [[Electrical Circuits]]
+### [[Electric Circuits]]
 
 #### #summary 
 

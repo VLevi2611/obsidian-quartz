@@ -1,12 +1,14 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - physics
-  - "#signal-processing"
+  - signal-processing
 ---
 ## Overview
 
 ## #summary 
+
+### [[Sampling]]
 
 #### #concept 
 
@@ -14,4 +16,79 @@ tags:
 
 #### #constant 
 
+#### #symbol 
+
 #### #problem 
+
+### [[Fourier Series]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #symbol 
+
+#### #problem 
+
+### [[Fourier Transform]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #symbol 
+
+#### #problem 
+
+### [[toolbox file/Notes/Physics/Signal Processing/Filters/Filters]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #symbol 
+
+#### #problem 
+
+### [[Convolution]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #symbol 
+
+#### #problem 
+
+### [[Frequency Response]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #symbol 
+
+#### #problem 
+
+### [[Digital Signals]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #symbol 
+
+#### #problem 
+

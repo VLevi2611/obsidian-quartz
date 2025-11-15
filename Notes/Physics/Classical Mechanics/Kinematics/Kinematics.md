@@ -27,6 +27,9 @@ v(t)^2 = v(0)^2 + 2ax(t)
 \end{array}
 $$
 
+## #constant 
+
+## #symbol 
+
 ## #problem 
 
-### [[Kinematics Problems]]
