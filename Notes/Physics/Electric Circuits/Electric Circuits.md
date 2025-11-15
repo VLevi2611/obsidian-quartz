@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - physics
-  - "#electrical-circuits"
+  - "#electric-circuit"
 ---
 ## Overview
 
@@ -14,4 +14,7 @@ tags:
 
 #### #constant 
 
+#### #symbol 
+
 #### #problem 
+

@@ -66,7 +66,7 @@ $$
 
 #### #problem 
 
-### [[Electrical Circuits]]
+### [[Electric Circuits]]
 
 #### #summary 
 
