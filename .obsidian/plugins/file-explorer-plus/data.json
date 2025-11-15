@@ -36,28 +36,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Dynamics/Dynamics.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Physics/Control Theory/Control Theory.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Physics/Electrical Circuits/Electrical Circuits.md",
         "patternType": "STRICT"
       },
       {
@@ -226,20 +205,6 @@
         "active": true,
         "type": "FILES",
         "pattern": "Notes/Biology/Anatomy/Anatomy.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Kinematics/Kinematics Problems/Kinematics Problems.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Dynamics/Dynamics Problems/Dynamics Problems.md",
         "patternType": "STRICT"
       },
       {
