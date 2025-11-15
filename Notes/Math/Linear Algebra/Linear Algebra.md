@@ -8,6 +8,27 @@ tags:
 
 ## #summary 
 
+### [[Set]]
+
+#### #concept 
+
+#### #formula 
+
+#### #symbol 
+
+- [[Complement]]
+- [[Complex Number]]
+- [[Element Of]]
+- [[Intersection]]
+- [[Natural Number]]
+- [[Rational Number]]
+- [[Real Number]]
+- [[Set Difference]]
+- [[Subset]]
+- [[Union]]
+- [[Whole Number]]
+
+#### #problem 
 ### [[Field]]
 
 #### #concept 
@@ -26,7 +47,7 @@ tags:
 
 #### #formula 
 
-#### #constant 
+#### #symbol  
 
 #### #problem 
 
@@ -36,7 +57,7 @@ tags:
 
 #### #formula 
 
-#### #constant 
+#### #symbol  
 
 #### #problem 
 
@@ -46,7 +67,7 @@ tags:
 
 #### #formula 
 
-#### #constant 
+#### #symbol  
 
 #### #problem 
 
@@ -56,7 +77,7 @@ tags:
 
 #### #formula 
 
-#### #constant 
+#### #symbol  
 
 #### #problem 
 
@@ -66,7 +87,7 @@ tags:
 
 #### #formula 
 
-#### #constant 
+#### #symbol  
 
 #### #problem 
 
@@ -76,7 +97,7 @@ tags:
 
 #### #formula 
 
-#### #constant 
+#### #symbol  
 
 #### #problem 
 
@@ -86,7 +107,7 @@ tags:
 
 #### #formula 
 
-#### #constant 
+#### #symbol  
 
 #### #problem 
 

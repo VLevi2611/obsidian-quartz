@@ -2,8 +2,8 @@
 tags:
   - "#summary"
   - math
-  - "#calculus"
-  - "#sets"
+  - linear-algebra
+  - sets
 ---
 ## Overview
 A set is a collection of elements. Notate a set with curly brackets "{}"

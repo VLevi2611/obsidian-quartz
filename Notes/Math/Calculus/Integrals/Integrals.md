@@ -1,9 +1,8 @@
 ---
 tags:
-  - "#summary"
+  - summary
   - math
   - calculus
-  - "#functions"
 ---
 ## Overview
 
@@ -13,5 +12,4 @@ tags:
 
 ## #constant 
 
-## #symbol 
-
+## #problem 
