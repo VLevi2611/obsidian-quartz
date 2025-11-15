@@ -2,7 +2,6 @@
 tags:
   - summary
   - math
-  - calculus
   - "#math-symbols"
 ---
 ## Overview
