@@ -11,6 +11,24 @@
             "id": "ac389ff8ec91656f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Progress/Day 2.png"
+              },
+              "icon": "lucide-image",
+              "title": "Day 2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9bef5f062a28a5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f45c6bf2706cce",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -74,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91b0d70549f4c0e7",
@@ -162,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +197,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ac389ff8ec91656f",
+  "active": "81f45c6bf2706cce",
   "lastOpenFiles": [
+    "Progress/Day 2.png",
+    "Progress/Day 3.png",
+    "Progress/Day 4.png",
     "Notes/Physics/Thermodynamics/Temperature and Heat/Temperature and Heat.md",
     "Notes/Physics/Thermodynamics/Temperature and Heat",
     "Notes/Physics/Thermodynamics/Second Law/Second Law.md",
@@ -214,9 +237,6 @@
     "Notes/Physics/Fluid Mechanics/Fluid Properties/Fluid Properties.md",
     "Notes/Physics/Fluid Mechanics/Continuity/Continuity.md",
     "Notes/Physics/Fluid Mechanics/Bernoulli/Bernoulli.md",
-    "Notes/Physics/Electromagnetism/Maxwell's Equations/Maxwell's Equations.md",
-    "Progress/Day 3.png",
-    "Progress/Day 2.png",
     "Progress/Day 1.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/ActionPotentialDiagram.png"
