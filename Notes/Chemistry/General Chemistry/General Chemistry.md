@@ -9,33 +9,17 @@ General Chemistry is the study of the properties and behavior of matter.
 
 ## #summary 
 
-### [[General Chemical Terms]]
+### [[Atomic Structure]]
 
 #### #concept 
 
-- [[Atomic Weight]]
-- [[Atoms]]
-- [[Element]]
-- [[Ion]]
-- [[Ionic Compound]]
-- [[Isotope]]
-- [[Matter]]
-- [[Mole]]
-- [[Molecular Compound]]
-- [[Molecule]]
-- [[Nucleus]]
-
 #### #formula 
-
-- [[Atomic Weight Formula]]
 
 #### #constant 
 
-- [[Avogadro Number]]
-
 #### #problem 
 
-### [[Chemical Bonds]]
+### [[Chemical Bonding]]
 
 #### #concept 
 
@@ -50,26 +34,57 @@ General Chemistry is the study of the properties and behavior of matter.
 
 #### #problem 
 
-### [[Chemical Formula]]
+### [[Gases]]
 
 #### #concept 
 
-- [[Molecular Formula]]
+#### #formula 
+
+#### #constant 
+
+#### #problem 
+
+### [[General Chemical Terms]]
+
+#### #concept 
+
+- [[Atomic Weight]]
+- [[Atoms]]
+- [[Element]]
 - [[Empirical Formula]]
+- [[Ion]]
+- [[Ionic Compound]]
+- [[Isotope]]
+- [[Matter]]
+- [[Mole]]
+- [[Molecular Compound]]
+- [[Molecular Formula]]
+- [[Molecule]]
+- [[Nucleus]]
 
 #### #formula 
 
+- [[Atomic Weight Formula]]
+
 #### #constant 
+
+- [[Avogadro Number]]
 
 #### #problem 
 
-### [[Particles]]
+### [[Periodic Trends]]
 
 #### #concept 
 
-- [[Electrons]]
-- [[Neutrons]]
-- [[Protons]]
+#### #formula 
+
+#### #constant 
+
+#### #problem 
+
+### [[Stoichiometry]]
+
+#### #concept 
 
 #### #formula 
 
@@ -77,3 +92,12 @@ General Chemistry is the study of the properties and behavior of matter.
 
 #### #problem 
 
+### [[Thermochemistry]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #problem 

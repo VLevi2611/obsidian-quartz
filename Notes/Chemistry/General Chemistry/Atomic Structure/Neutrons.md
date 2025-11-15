@@ -1,0 +1,16 @@
+---
+tags:
+  - concept
+  - chemistry
+  - general-chemistry
+---
+## Definition
+Neutrons are subatomic particles with a neutral charge
+
+## Properties
+
+| Symbol  | Mass                        | Electric charge |
+| ------- | --------------------------- | --------------- |
+| $$n^0$$ | $$1.67 \times 10^{-24}(g)$$ | $$0e$$          |
+
+
