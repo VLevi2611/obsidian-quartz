@@ -11,56 +11,56 @@ tags:
 
 #### #summary 
 
-##### [[Math Symbols]]
+##### [[Limits]]
 
 ###### #concept 
 
-- [[Closure Of Addition]]
-- [[Associativity Of Addition]]
-- [[Commutativity Of Addition]]
-- [[Additive Identity]]
-- [[Additive Inverse]]
-- [[Closure Of Multiplication]]
-- [[Associativity Of Multiplication]]
-- [[Commutativity Of Multiplication]]
-- [[Multiplicative Identity]]
-- [[Multiplicative Inverse]]
-- [[Distributivity]]
-
 ###### #formula 
-
-###### #constant 
 
 ###### #symbol 
 
-- [[Absolute Value]]
-- [[Addition]]
-- [[Division]]
-- [[Exists]]
-- [[For All]]
-- [[If and Only If]]
-- [[Implication]]
-- [[Multiplication]]
-- [[Subtraction]]
-
-##### [[Interval]]
+##### [[Derivatives]]
 
 ###### #concept 
 
-- [[Lower Bound]]
-- [[Upper Bound]]
-- [[Infimum]]
-- [[Supremum]]
-- [[Minimum]]
-- [[Maximum]]
-- [[Closed Interval]]
-- [[Open Interval]]
-- [[Half Open Interval]]
-- [[Closed Ray]]
-- [[Open Ray]]
 ###### #formula 
 
-###### #constant 
+###### #symbol  
+
+##### [[Integrals]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+##### [[Series]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+
+##### [[Multivariable]]
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+
+##### [[Vector Calculus]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+
+#### #problem 
+### [[Linear Algebra]]
+
+#### #summary 
 
 ##### [[Set]]
 
@@ -68,9 +68,7 @@ tags:
 
 ###### #formula 
 
-###### #constant
-
-###### #symbol 
+###### #symbol  
 
 - [[Complement]]
 - [[Complex Number]]
@@ -83,21 +81,6 @@ tags:
 - [[Subset]]
 - [[Union]]
 - [[Whole Number]]
-
-##### [[Function]]
-
-###### #concept 
-
-###### #formula 
-
-###### #constant 
-
-###### #symbol 
-
-#### #problem 
-### [[Linear Algebra]]
-
-#### #summary 
 
 ##### [[Field]]
 
@@ -142,7 +125,7 @@ tags:
 
 ###### #constant 
 
-##### [[Polynomial]]
+##### [[Basis and Dimension]]
 
 ###### #concept 
 
@@ -165,6 +148,22 @@ tags:
 ###### #formula 
 
 ###### #constant 
+
+##### [[Eigenvalues and Eigenvectors]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+
+##### [[Diagonalization]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
 
 #### #problem 
 ### [[Differential Equations]]

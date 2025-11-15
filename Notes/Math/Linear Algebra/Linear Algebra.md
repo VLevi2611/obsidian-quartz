@@ -81,7 +81,7 @@ tags:
 
 #### #problem 
 
-### [[Polynomial]]
+### [[Basis and Dimension]]
 
 #### #concept 
 
@@ -111,3 +111,22 @@ tags:
 
 #### #problem 
 
+### [[Eigenvalues and Eigenvectors]]
+
+#### #concept 
+
+#### #formula 
+
+#### #symbol  
+
+#### #problem 
+
+### [[Diagonalization]]
+
+#### #concept 
+
+#### #formula 
+
+#### #symbol  
+
+#### #problem 
