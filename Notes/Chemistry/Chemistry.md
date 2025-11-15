@@ -36,7 +36,7 @@ tags:
 - [[Avogadro Number]]
 
 
-##### [[Chemical Bonds]]
+##### [[Chemical Bonding]]
 
 ###### #concept 
 
@@ -60,7 +60,7 @@ tags:
 
 ###### #constant 
 
-##### [[Particles]]
+##### [[Atomic Structure]]
 
 ###### #concept 
 

@@ -35,7 +35,7 @@ General Chemistry is the study of the properties and behavior of matter.
 
 #### #problem 
 
-### [[Chemical Bonds]]
+### [[Chemical Bonding]]
 
 #### #concept 
 
@@ -63,7 +63,7 @@ General Chemistry is the study of the properties and behavior of matter.
 
 #### #problem 
 
-### [[Particles]]
+### [[Atomic Structure]]
 
 #### #concept 
 
