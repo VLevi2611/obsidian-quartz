@@ -216,7 +216,7 @@ tags:
 ###### #symbol  
 
 #### #problem 
-### [[Differential Equations]]
+### [[Ordinary Differential Equations]]
 
 #### #summary 
 

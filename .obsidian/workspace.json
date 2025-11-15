@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f77cb6bec8f37c75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac389ff8ec91656f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Progress/Day 2.png"
-              },
-              "icon": "lucide-image",
-              "title": "Day 2"
-            }
-          }
-        ]
-      },
-      {
         "id": "9bef5f062a28a5be",
         "type": "tabs",
         "children": [
@@ -199,6 +181,7 @@
   },
   "active": "81f45c6bf2706cce",
   "lastOpenFiles": [
+    "Notes/Math/Differential Equations/Ordinary Differential Equations.md",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
     "Progress/Day 4.png",

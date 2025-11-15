@@ -32,28 +32,28 @@
       "query": "tag:#concept  ",
       "color": {
         "a": 1,
-        "rgb": 5431478
+        "rgb": 4970322
       }
     },
     {
       "query": "tag:#formula  ",
       "color": {
         "a": 1,
-        "rgb": 10084434
+        "rgb": 5155034
       }
     },
     {
       "query": "tag:#constant  ",
       "color": {
         "a": 1,
-        "rgb": 14701276
+        "rgb": 5395159
       }
     },
     {
       "query": "tag:#symbol  ",
       "color": {
         "a": 1,
-        "rgb": 7303163
+        "rgb": 5494610
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6554574160745199,
-  "close": false
+  "scale": 0.8795308159711609,
+  "close": true
 }

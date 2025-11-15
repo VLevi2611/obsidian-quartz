@@ -120,7 +120,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Differential Equations/Differential Equations.md",
+        "pattern": "Notes/Math/Differential Equations/Ordinary Differential Equations.md",
         "patternType": "STRICT"
       },
       {
