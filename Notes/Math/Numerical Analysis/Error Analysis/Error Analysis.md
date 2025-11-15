@@ -1,5 +1,8 @@
 ---
-tags: [summary]
+tags:
+  - summary
+  - math
+  - numerical-analysis
 ---
 ## Overview
 
@@ -8,7 +11,5 @@ tags: [summary]
 ## #formula 
 
 ## #constant 
-
-## #symbol 
 
 ## #problem 
