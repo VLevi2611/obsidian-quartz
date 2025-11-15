@@ -162,34 +162,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Calculus/Functions/Function.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Math/Calculus/General Math Terms/Math Symbols.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Math/Calculus/Intervals/Interval.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Math/Calculus/Sets/Set.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Chemistry/Chemistry.md",
         "patternType": "STRICT"
       },
