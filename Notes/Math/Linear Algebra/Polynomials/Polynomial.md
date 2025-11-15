@@ -3,6 +3,7 @@ tags:
   - summary
   - math
   - linear-algebra
+  - "#polinomials"
 ---
 ## Overview
 
