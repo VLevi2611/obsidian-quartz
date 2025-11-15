@@ -3,15 +3,14 @@ tags:
   - concept
   - chemistry
   - general-chemistry
-  - particle
 ---
 ## Definition
-The electron is a subatomic particle whose electric charge is negative.
+Neutrons are subatomic particles with a neutral charge
+
 ## Properties
 
 | Symbol  | Mass                        | Electric charge |
 | ------- | --------------------------- | --------------- |
-| $$e^-$$ | $$9.1 \times 10^{-28} (g)$$ | $$-1e$$         |
-
+| $$n^0$$ | $$1.67 \times 10^{-24}(g)$$ | $$0e$$          |
 
 

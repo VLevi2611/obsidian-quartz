@@ -3,7 +3,6 @@ tags:
   - "#summary"
   - chemistry
   - general-chemistry
-  - particle
 ---
 ## Overview
 

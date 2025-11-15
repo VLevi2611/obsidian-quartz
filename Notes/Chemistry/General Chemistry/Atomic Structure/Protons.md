@@ -3,7 +3,6 @@ tags:
   - concept
   - chemistry
   - general-chemistry
-  - particle
 ---
 ## Definition
 Protons are subatomic particles with a positive charge.
