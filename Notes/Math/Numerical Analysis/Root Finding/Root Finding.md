@@ -2,7 +2,7 @@
 tags:
   - summary
   - math
-  - probability
+  - numerical-analysis
 ---
 ## Overview
 
