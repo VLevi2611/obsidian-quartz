@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - physics
   - "#fluid-mechanics"
 ---
@@ -14,4 +14,7 @@ tags:
 
 #### #constant 
 
+#### #symbol 
+
 #### #problem 
+
