@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - physics
   - "#electromagnetism"
 ---
@@ -8,10 +8,29 @@ tags:
 
 ## #summary 
 
+### [[Electrostatics]]
+
 #### #concept 
 
 #### #formula 
 
 #### #constant 
 
+#### #symbol 
+
 #### #problem 
+
+### [[Gauss's Law]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #symbol 
+
+#### #problem 
+
+##
+
