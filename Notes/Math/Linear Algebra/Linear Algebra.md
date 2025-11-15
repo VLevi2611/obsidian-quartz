@@ -51,7 +51,7 @@ tags:
 
 #### #problem 
 
-### [[Linear System Of Equations]]
+### [[Linear Systems]]
 
 #### #concept 
 

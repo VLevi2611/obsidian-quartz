@@ -118,7 +118,7 @@ tags:
 
 ###### #constant 
 
-##### [[Linear System Of Equations]]
+##### [[Linear Systems]]
 
 ###### #concept 
 
