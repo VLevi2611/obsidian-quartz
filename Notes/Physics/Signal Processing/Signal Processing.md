@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - physics
-  - "#signal-processing"
+  - signal-processing
 ---
 ## Overview
 
@@ -14,4 +14,7 @@ tags:
 
 #### #constant 
 
+#### #symbol 
+
 #### #problem 
+
