@@ -79,4 +79,52 @@ tags:
 
 #### #problem 
 
-### [[]]
+### [[Nucleic Acids]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #problem 
+
+### [[Oxidative Phosphorylation]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #problem 
+
+### [[Proteins]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #problem 
+
+### [[Transcription]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #problem 
+
+### [[Translation]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+#### #problem 
