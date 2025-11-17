@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03f50d6bfc54fcbd",
+        "id": "75cf892612c13fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "98c0a6fa87c00c65",
+            "id": "550b31e9a1c4dba6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stoichiometry"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3271fffdcf453c01",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "39f138be55313761",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Chemistry"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -98,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "91b0d70549f4c0e7",
@@ -202,13 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "39f138be55313761",
+  "active": "550b31e9a1c4dba6",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
-    "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
     "Notes/Chemistry/General Chemistry/General terms/Reagents.md",
@@ -242,7 +220,6 @@
     "Notes/Physics/Signal Processing/Digital Signals/Digital Signals.md",
     "Notes/Physics/Signal Processing/Convolution/Convolution.md",
     "Notes/Physics/Optics and Waves/Wave Properties/Wave Properties.md",
-    "Notes/Physics/Optics and Waves/Refraction/Refraction.md",
     "Progress/Day 1.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/ActionPotentialDiagram.png"
