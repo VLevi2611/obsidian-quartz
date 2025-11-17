@@ -6,12 +6,17 @@ tags:
 ---
 ## Definition
 
-Chemical equations are a main way to write [[Chemical Reaction]]s. 
-In the equation, the [[Reagents]] are on the left side and the [[Chemical Products]] are on the right side.
+To balance a [[Chemical Equation]], we need to use stoichiometric coefficients. 
+Use them to make the same number of [[Molecule]]s on the [[Reagents]] side and the [[Chemical Products]] side.
 
 ## #formula 
 
-$$\mathrm{A+B \rightarrow C+D}$$
+$$
+\begin{aligned}
+\mathrm{\color{red}{2} }
+\end{aligned}
+$$
+
 
 ## Units
 
