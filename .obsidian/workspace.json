@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
+                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemical Terms"
+              "title": "Chemical Equation"
             }
           }
         ]
@@ -185,6 +185,7 @@
   "active": "98c0a6fa87c00c65",
   "lastOpenFiles": [
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
     "Notes/Chemistry/General Chemistry/General terms/Reagents.md",
@@ -222,7 +223,6 @@
     "Notes/Physics/Optics and Waves/Refraction/Refraction.md",
     "Notes/Physics/Optics and Waves/Polarization/Polarization.md",
     "Notes/Physics/Optics and Waves/Lenses/Lenses.md",
-    "Notes/Physics/Optics and Waves/Interference/Interference.md",
     "Progress/Day 1.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/ActionPotentialDiagram.png"
