@@ -8,7 +8,7 @@ tags:
 
 When balancing a [[Chemical Equation]], we need to account for [[Conservation of Mass Law]].
 To balance the equation we use [[Stoichiometric Coefficients]]. 
-
+Also, denote the state of matter of each [[Molecular Compound]]: $\mathrm {(s) Solid, $ 
 ## #concept 
 
 - [[Chemical Equation]]

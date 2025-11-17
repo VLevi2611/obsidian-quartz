@@ -13,12 +13,7 @@ Use them to make the same number of [[Molecule]]s on the [[Reagents]] side and t
 
 $$
 \begin{aligned}
-\mathrm{\color{red}{2} }
+\mathrm{\textcolor{green}{2} Na + Cl_2 \rightarrow \textcolor{green}{2} NaCl}
 \end{aligned}
 $$
-
-
-## Units
-
-## Notes
 
