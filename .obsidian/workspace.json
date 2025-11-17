@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
+                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stoichiometry"
+              "title": "Stoichiometric Coefficients"
             }
           }
         ]
@@ -184,9 +184,9 @@
   },
   "active": "98c0a6fa87c00c65",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
