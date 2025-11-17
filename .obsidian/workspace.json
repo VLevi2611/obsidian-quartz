@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +184,8 @@
   "active": "98c0a6fa87c00c65",
   "lastOpenFiles": [
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
