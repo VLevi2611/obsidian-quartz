@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91b0d70549f4c0e7",
@@ -182,6 +181,7 @@
   "active": "550b31e9a1c4dba6",
   "lastOpenFiles": [
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Progress/Day 5.png",
     "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
@@ -219,7 +219,6 @@
     "Notes/Physics/Signal Processing/Filters",
     "Notes/Physics/Signal Processing/Digital Signals/Digital Signals.md",
     "Notes/Physics/Signal Processing/Convolution/Convolution.md",
-    "Notes/Physics/Optics and Waves/Wave Properties/Wave Properties.md",
     "Progress/Day 1.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/ActionPotentialDiagram.png"
