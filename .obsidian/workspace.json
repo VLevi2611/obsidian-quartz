@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General terms/Molecular Mass.md",
+                "file": "Notes/Chemistry/General Chemistry/General terms/Molar Mass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Molecular Mass"
+              "title": "Molar Mass"
             }
           }
         ]
@@ -184,8 +184,9 @@
   },
   "active": "98c0a6fa87c00c65",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/General terms/Mole.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecular Mass.md",
+    "Notes/Chemistry/General Chemistry/General terms/Molar Mass.md",
+    "Notes/Chemistry/General Chemistry/General terms/Mole.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
     "Notes/Math/Differential Equations/Ordinary Differential Equations.md",
     "Progress/Day 2.png",
@@ -222,7 +223,6 @@
     "Notes/Physics/Fluid Mechanics/Viscosity/Viscosity.md",
     "Notes/Physics/Fluid Mechanics/Pressure/Pressure.md",
     "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows/Laminar and Turbulent Flows.md",
-    "Notes/Physics/Fluid Mechanics/Hydrostatics/Hydrostatics.md",
     "Progress/Day 1.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/ActionPotentialDiagram.png"

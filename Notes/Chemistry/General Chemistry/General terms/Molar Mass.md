@@ -7,7 +7,7 @@ tags:
 ---
 ## Definition 
 
-The molecular mass of a [[Molecule]] is the [[Mass]] in [[Atomic Weight]], Denotes as $M$.
+The molar mass of a [[Molecule]] is the [[Mass]] of 1 [[Mole]].
 The molecular mass is calculated by summing all of its [[Atoms]] mass.
 For example: $$
 \begin{align}
