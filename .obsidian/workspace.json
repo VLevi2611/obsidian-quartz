@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9bef5f062a28a5be",
+        "id": "03f50d6bfc54fcbd",
         "type": "tabs",
         "children": [
           {
-            "id": "81f45c6bf2706cce",
+            "id": "98c0a6fa87c00c65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2fc01236141bf776",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Notes/Chemistry/General Chemistry/General terms/Mole.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Mole"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "91b0d70549f4c0e7",
@@ -192,8 +182,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2fc01236141bf776",
+  "active": "98c0a6fa87c00c65",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
     "Notes/Math/Differential Equations/Ordinary Differential Equations.md",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
@@ -232,7 +223,6 @@
     "Notes/Physics/Fluid Mechanics/Hydrostatics/Hydrostatics.md",
     "Notes/Physics/Fluid Mechanics/Fluid Properties/Fluid Properties.md",
     "Notes/Physics/Fluid Mechanics/Continuity/Continuity.md",
-    "Notes/Physics/Fluid Mechanics/Bernoulli/Bernoulli.md",
     "Progress/Day 1.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/ActionPotentialDiagram.png"

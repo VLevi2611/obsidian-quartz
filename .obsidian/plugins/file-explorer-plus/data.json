@@ -213,6 +213,48 @@
         "type": "FILES",
         "pattern": "Notes/Math/Linear Algebra/Fields/Field.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Gases/Gases.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
