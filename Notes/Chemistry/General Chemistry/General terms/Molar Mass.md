@@ -8,11 +8,11 @@ tags:
 ## Definition 
 
 The molar mass of a [[Molecule]] is the [[Mass]] of 1 [[Mole]].
-The molar mass is calculated by multiplying [[Avogadro Number]] mass is calculated by summing all of its [[Atoms]] mass.
+The molar mass is calculated by multiplying [[Avogadro Number]] and the [[Molecular Mass]].
 For example: $$
 \begin{align}
-M(\mathrm{H_2O}) &= 2 \cdot A_w(\mathrm{H}) + A_w(\mathrm{O}) \\
-&= 2(1.00794~\mathrm{amu}) + 15.999~\mathrm{amu} \\
+1 \mathrm{mol} &= M(\mathrm{H_2O}) \cdot N_A\\
+&= 6.022 \times 10^{23} \cdot M(\mathrm{H_2O})\\
 &= 18.0153~\mathrm{amu} = 18.0153~\mathrm{g/mol}
 \end{align}
 $$
