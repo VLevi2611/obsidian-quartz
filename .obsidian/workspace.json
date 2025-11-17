@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2fc01236141bf776",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "81f45c6bf2706cce",
+  "active": "2fc01236141bf776",
   "lastOpenFiles": [
     "Notes/Math/Differential Equations/Ordinary Differential Equations.md",
     "Progress/Day 2.png",
