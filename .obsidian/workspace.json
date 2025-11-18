@@ -11,10 +11,14 @@
             "id": "550b31e9a1c4dba6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/General terms/Combustion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combustion"
             }
           }
         ]
@@ -180,6 +184,8 @@
   },
   "active": "550b31e9a1c4dba6",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
+    "Notes/Chemistry/General Chemistry/General terms/Combustion.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Progress/Day 5.png",
     "Notes/Chemistry/Chemistry.md",
@@ -187,7 +193,6 @@
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
-    "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
     "Notes/Chemistry/General Chemistry/General terms/Reagents.md",
     "Notes/Chemistry/General Chemistry/General terms/Molar Mass.md",
