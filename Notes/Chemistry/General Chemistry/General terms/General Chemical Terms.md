@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview
 
+Matter is anything with [[mass]] and has a volume in space.
+
 ## #concept 
 
 - [[Atomic Weight]]
