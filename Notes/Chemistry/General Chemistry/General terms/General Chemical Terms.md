@@ -19,20 +19,23 @@ They’re just labels so we can talk about how matter behaves.
 - **Mole** = a giant counting number
 - **Concentration** = how crowded molecules are
 
+---
 ## Identify Gaps
 
 - Difference between element vs atom vs molecule?
 - Why do we need the mole unit?
 - What exactly counts as a reaction?
-
+---
 ## Refine
 
 Atoms combine to form molecules. Molecules can be made of the same element or different ones. A reaction is when bonds break and new ones form. We use moles so that amounts of atoms match reactions.
 
+---
 ## Even Simpler
 
 Chemistry words are just tools for describing tiny particles and how many we have.
 
+---
 ## Mini Example
 
 Water = a molecule + a compound (H₂O).  

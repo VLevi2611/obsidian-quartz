@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
+                "file": "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Structure"
+              "title": "General Chemical Terms"
             }
           }
         ]
@@ -183,9 +183,10 @@
   },
   "active": "550b31e9a1c4dba6",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
     "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
     "Notes/Math/General Math Terms/General Math Symbols.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
     "Templates/Summary Template.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
@@ -211,9 +212,7 @@
     "Progress/Day 2.png",
     "Progress/Day 3.png",
     "Progress/Day 4.png",
-    "Notes/Physics/Thermodynamics/Temperature and Heat/Temperature and Heat.md",
     "Notes/Physics/Thermodynamics/Temperature and Heat",
-    "Notes/Physics/Thermodynamics/Second Law/Second Law.md",
     "Notes/Physics/Thermodynamics/Second Law",
     "Notes/Physics/Thermodynamics/Heat Engines",
     "Notes/Physics/Thermodynamics/First Law",

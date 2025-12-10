@@ -33,7 +33,8 @@ Electron arrangement decides reactivity.
 
 ## 5. Related Examples / Mini-Feynman (Optional)
 $_6^{12}C$ vs $_6^{14}C$ 
-Same element, 
+Same element, one has 2 more neutrons and is an isotope.
+
 ## #concept 
 
 - [[Electrons]]
