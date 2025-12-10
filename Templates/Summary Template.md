@@ -1,9 +1,6 @@
 ---
 tags: [summary]
 ---
-
-# {{title}}
-
 ## 1. Explain Like I'm 12 (Core Idea)
 Write the idea in the simplest way possible.  
 Avoid jargon unless you immediately explain it.  

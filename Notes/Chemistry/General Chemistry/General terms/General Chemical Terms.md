@@ -22,11 +22,8 @@ They’re just labels so we can talk about how matter behaves.
 ## Identify Gaps
 
 - Difference between element vs atom vs molecule?
-    
 - Why do we need the mole unit?
-    
 - What exactly counts as a reaction?
-    
 
 ## Refine
 
