@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemistry"
+              "title": "General Chemical Terms"
             }
           }
         ]
@@ -183,13 +183,14 @@
   },
   "active": "550b31e9a1c4dba6",
   "lastOpenFiles": [
+    "Templates/Summary Template.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/General terms/Element.md",
     "Notes/Chemistry/General Chemistry/General terms/Empirical Formula.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecular Mass.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecular Compound.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecular Formula.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
     "Notes/Chemistry/General Chemistry/General terms/Solution.md",
@@ -216,7 +217,6 @@
     "Notes/Physics/Thermodynamics/Heat Engines",
     "Notes/Physics/Thermodynamics/First Law/First Law.md",
     "Notes/Physics/Thermodynamics/First Law",
-    "Notes/Physics/Thermodynamics/Entropy/Entropy.md",
     "Notes/Physics/Thermodynamics/Entropy",
     "Notes/Physics/Signal Processing/Sampling",
     "Notes/Physics/Signal Processing/Frequency Response",

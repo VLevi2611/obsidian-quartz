@@ -6,10 +6,41 @@ tags:
 ---
 ## Overview
 
-Matter is anything with [[mass]] and has a volume in space.
-Every element is composed from tiny particles called atoms. Atoms cannot be created or destroyed during chemical reaction. The same atoms that were before the reaction will remain after the reaction.
-Each atom is made up of subatomic particles: the [[Protons]] and the [[Neutrons]] form the compact nucleus and there are [[Electrons]] "spinning" around it.
-Each element has the same amount of protons. Elements with different number of neutrons are called isotopes of that element. Elements with different number of electrons are called ions.
+## Explain Like I'm 12
+
+Chemistry has certain “words” everyone uses. These include things like **atom**, **molecule**, **element**, **compound**, **reaction**, and **solution**.  
+They’re just labels so we can talk about how matter behaves.
+
+- **Atom** = tiny building block of everything
+- **Element** = one type of atom
+- **Molecule** = atoms stuck together
+- **Compound** = molecule made of different atoms
+- **Reaction** = atoms rearranging
+- **Mole** = a giant counting number
+- **Concentration** = how crowded molecules are
+
+## Identify Gaps
+
+- Difference between element vs atom vs molecule?
+    
+- Why do we need the mole unit?
+    
+- What exactly counts as a reaction?
+    
+
+## Refine
+
+Atoms combine to form molecules. Molecules can be made of the same element or different ones. A reaction is when bonds break and new ones form. We use moles so that amounts of atoms match reactions.
+
+## Even Simpler
+
+Chemistry words are just tools for describing tiny particles and how many we have.
+
+## Mini Example
+
+Water = a molecule + a compound (H₂O).  
+O₂ = a molecule but NOT a compound.  
+NaCl = NOT a molecule → it’s an ionic compound.
 
 ## #concept 
 
