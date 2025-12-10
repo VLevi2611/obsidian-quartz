@@ -8,7 +8,7 @@ tags:
 
 Matter is anything with [[mass]] and has a volume in space.
 Every element is composed from tiny particles called atoms. Atoms cannot be created or destroyed during chemical reaction. The same atoms that were before the reaction will remain after the reaction.
-
+Each atom is made up of subatomic particles: the [[Protons]] and the [[Neutrons]] form the compact nucleus and there are [[Electrons]] "spinning" around it.
 
 ## #concept 
 
