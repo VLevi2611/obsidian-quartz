@@ -14,7 +14,7 @@ $$U_g=mgh$$
 ## ## Variables
 | Symbol | Meaning                            | Units             |
 | ------ | ---------------------------------- | ----------------- |
-| $U_g$  | [[Gravitational Potential Energy]] | $(J)$             |
+| $U_g$  | [[toolbox file/Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy]] | $(J)$             |
 | $m$    | [[Mass]]                           | $(Kg)$            |
 | $g$    | [[Gravitational Constant]]         | $(\frac{m}{s^2})$ |
 | $h$    | Height                             | $(m)$             |
