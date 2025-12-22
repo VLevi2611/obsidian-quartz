@@ -15,7 +15,6 @@ $$U_{sp}= \frac{1}{2}Kx^2$$
 | Symbol   | Meaning                      | Units             |
 | -------- | ---------------------------- | ----------------- |
 | $U_{sp}$ | [[Elastic Potential Energy]] | $(J)$             |
-| $m$      | [[Mass]]                     | $(Kg)$            |
-| $g$      | [[Gravitational Constant]]   | $(\frac{m}{s^2})$ |
-|          |                              |                   |
+| $K$      | [[Stiffness]]                | $(\frac{N}{m})$   |
+| $x$      | [[Displacement]]             | $(\frac{m}{s^2})$ |
 
