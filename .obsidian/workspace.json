@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
+                "file": "Notes/Physics/Classical Mechanics/Energy/Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Energy"
+              "title": "Energy"
             }
           }
         ]
@@ -184,8 +184,14 @@
   },
   "active": "90631d8517fcafae",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Elastic Potential Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Power.md",
+    "Notes/Physics/Classical Mechanics/Energy/Non Conservative Forces.md",
+    "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
+    "Notes/Physics/Classical Mechanics/Energy/Work Energy Theorem.md",
+    "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
     "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
     "Notes/Physics/Classical Mechanics/Energy/Work.md",
     "Notes/Physics/Classical Mechanics/Energy/Energy.md",
     "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
@@ -204,12 +210,6 @@
     "Templates/Formula Template.md",
     "Templates/Constant Template.md",
     "Notes/Chemistry/General Chemistry/Gases/Gases.md",
-    "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atomic Weight.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atomic Weight Formula.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atoms.md",
-    "Notes/Chemistry/General Chemistry/General terms/Avogadro Number.md",
-    "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
