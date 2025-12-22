@@ -21,7 +21,6 @@ v(t)^2 = v(0)^2 + 2ax(t)
 $$
 
 ## Units
-Meters
 $$m$$
 
 

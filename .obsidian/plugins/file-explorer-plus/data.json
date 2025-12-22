@@ -255,6 +255,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Gases/Gases.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
