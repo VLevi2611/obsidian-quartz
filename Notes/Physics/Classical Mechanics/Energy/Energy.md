@@ -21,8 +21,3 @@ tags:
 - [[Gravitational Potential Energy]]
 - [[Elastic Potential Energy]]
 
-## #constant 
-
-## #symbol 
-
-## #problem 

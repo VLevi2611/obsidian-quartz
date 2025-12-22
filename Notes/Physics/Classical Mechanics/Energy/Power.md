@@ -6,8 +6,8 @@ tags:
 ---
 ## Definition
 
-Power $P$ is the amount of [[Energy]] transferred or converted per unit time. 
+Power $P$ is the amount of [[Energy]] transferred or converted per unit time. Power has watt units $(W)$.
 
 ## #formula 
 
-
+$$P = \frac{dW}{dt}$$
