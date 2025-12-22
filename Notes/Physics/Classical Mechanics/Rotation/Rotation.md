@@ -14,6 +14,13 @@ tags:
 - [[Torque]]
 - [[Moment Of Inertia]]
 - [[Parallel Axis Theorem]]
+- [[Perpendicular Axis Theorem]]
+- [[Rotational Kinetic Energy]]
+- [[Angular Momentum]]
+- [[Angular Momentum Of A Particle]]
+- [[Angular Momentum Of A Rigid Body]]
+- [[Torque Angular Momentum Relation]]
+- [[Conservation Of Angular Momentum]]
 
 ## #formula 
 
