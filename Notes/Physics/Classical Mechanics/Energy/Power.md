@@ -6,9 +6,8 @@ tags:
 ---
 ## Definition
 
+Power $P$ is the amount of [[Energy]] transferred or converted per unit time. 
+
 ## #formula 
 
-## Units
-
-## Notes
 
