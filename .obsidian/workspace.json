@@ -11,10 +11,14 @@
             "id": "550b31e9a1c4dba6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atomic Structure"
             }
           }
         ]
@@ -179,13 +183,14 @@
   },
   "active": "550b31e9a1c4dba6",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
     "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
     "Notes/Math/General Math Terms/General Math Symbols.md",
     "Templates/Summary Template.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/General terms/Element.md",
     "Notes/Chemistry/General Chemistry/General terms/Empirical Formula.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecular Mass.md",
@@ -193,7 +198,6 @@
     "Notes/Chemistry/General Chemistry/General terms/Molecular Formula.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
     "Notes/Chemistry/General Chemistry/General terms/Solution.md",
-    "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General terms/Combustion.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md",
     "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
