@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Energy/Elastic Potential Energy.md",
+                "file": "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elastic Potential Energy"
+              "title": "Gravitational Potential Energy"
             }
           }
         ]
@@ -184,15 +184,15 @@
   },
   "active": "90631d8517fcafae",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
-    "Templates/Formula Template.md",
-    "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
-    "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
     "Notes/Physics/Classical Mechanics/Energy/Elastic Potential Energy.md",
-    "Notes/Physics/Classical Mechanics/Energy/Energy.md",
-    "Notes/Physics/Classical Mechanics/Energy/Work.md",
+    "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
     "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
+    "Templates/Formula Template.md",
+    "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Energy.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
+    "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Work.md",
     "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Physics/Classical Mechanics/Energy/Power.md",

@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept
+  - formula
   - physics
   - classical-mechanics
   - energy
@@ -11,10 +11,10 @@ Elastic potential energy $(U_{sp})$ is a type of [[Potential Energy]] that stems
 ## #formula 
 
 $$U_{sp}= \frac{1}{2}Kx^2$$
-## ## Variables
-| Symbol   | Meaning                      | Units             |
-| -------- | ---------------------------- | ----------------- |
-| $U_{sp}$ | [[Elastic Potential Energy]] | $(J)$             |
-| $K$      | [[Stiffness]]                | $(\frac{N}{m})$   |
-| $x$      | [[Displacement]]             | $(\frac{m}{s^2})$ |
+## Variables
+| Symbol   | Meaning                      | Units           |
+| -------- | ---------------------------- | --------------- |
+| $U_{sp}$ | [[Elastic Potential Energy]] | $(J)$           |
+| $K$      | [[Stiffness]]                | $(\frac{N}{m})$ |
+| $x$      | [[Displacement]]             | $(m)$           |
 

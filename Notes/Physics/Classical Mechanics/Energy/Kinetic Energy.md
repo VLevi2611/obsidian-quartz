@@ -13,8 +13,9 @@ The more [[Velocity]] / [[Mass]] an object has, the more kinetic energy it has.
 ## #formula 
 
 $$E_K=\frac{1}{2}mv^2$$
-
-## Units
-
-Joules $$(J)$$
-
+## Variables
+| Symbol | Meaning            | Units           |
+| ------ | ------------------ | --------------- |
+| $E_K$  | [[Kinetic Energy]] | $(J)$           |
+| $m$    | [[Mass]]           | $(Kg)$          |
+| $v$    | [[Velocity]]       | $(\frac{m}{s})$ |
