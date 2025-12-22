@@ -14,7 +14,9 @@ tags:
 - [[Gravitational Potential Energy]]
 - [[Elastic Potential Energy]]
 - [[Work Energy Theorem]]
-- [[ene]]
+- [[Energy Conservation]]
+- [[Non Conservative Forces]]
+- [[Power]]
 
 ## #formula 
 
