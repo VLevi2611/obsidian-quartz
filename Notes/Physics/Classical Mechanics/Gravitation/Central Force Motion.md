@@ -1,5 +1,8 @@
 ---
-tags: [concept]
+tags:
+  - concept
+  - physics
+  - classical-mechanics
 ---
 ## Definition
 

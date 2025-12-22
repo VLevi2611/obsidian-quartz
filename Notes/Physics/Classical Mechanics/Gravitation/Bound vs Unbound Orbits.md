@@ -3,7 +3,6 @@ tags:
   - concept
   - physics
   - classical-mechanics
-  - energy
 ---
 ## Definition
 
