@@ -36,7 +36,7 @@ Electron arrangement decides reactivity.
 
 ## 5. Related Examples 
 
-$$_6^{12}C\, vs _6^{14}C$$ 
+$$_6^{12}C\, vs \,_6^{14}C$$ 
 Same element, one has 2 more neutrons and is an isotope.
 
 ## #concept 

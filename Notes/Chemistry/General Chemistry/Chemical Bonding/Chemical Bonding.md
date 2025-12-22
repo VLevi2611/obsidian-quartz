@@ -4,7 +4,7 @@ tags:
   - chemistry
   - general-chemistry
 ---
-## 1. Explain Like I'm 12 (Core Idea)
+## 1. Explain Like I'm 12 
 
 Atoms bond because they want to reach a more stable, lower-energy state.  
 They can **give**, **take**, or **share** electrons:
@@ -25,7 +25,7 @@ Bond type affects melting point, shape, strength, and conductivity.
 
 ---
 
-## 3. Fill the Gaps (Refine the Explanation)
+## 3. Fill the Gaps 
 
 Molecular shape comes from electron repulsion (VSEPR). Polarity comes from unequal sharing (electronegativity). Ionic compounds conduct because ions are mobile when melted.
 
