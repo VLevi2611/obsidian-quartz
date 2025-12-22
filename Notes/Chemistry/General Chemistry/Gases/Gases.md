@@ -9,15 +9,14 @@ tags:
 Matter in the gas phase has these key characters:
 - Low density
 - High compression
-- Applies pressure on the enviroment 
+- Applies pressure on the environment 
+- Takes the entire volume of the vessel holding it.
 
 ---
 
 ## 2. Identify Gaps in Understanding
 
-- Write questions you *cannot* fully answer yet.
-- Write confusing steps, definitions, exceptions.
-- Include anything that doesn't feel intuitive.
+- What are ideal and non ideal gases
 
 ---
 
