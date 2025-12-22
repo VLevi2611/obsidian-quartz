@@ -12,10 +12,14 @@ Gravitational potential energy $(U_g)$ is a type of [[Potential Energy]] that st
 ## #formula 
 
 $$U_g=mgh$$
-## Va
-## Units 
+## ## Variables
+| Symbol | Meaning                            | Units             |
+| ------ | ---------------------------------- | ----------------- |
+| $U_g$  | [[Gravitational Potential Energy]] | $(J)$             |
+| $m$    | [[Mass]]                           | $(Kg)$            |
+| $g$    | [[Gravitational Constant]]         | $(\frac{m}{s^2})$ |
+| $h$    | Height                             | $(m)$             |
 
-Joules $$(J)$$
 
 ## Notes
 
