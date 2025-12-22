@@ -1,5 +1,8 @@
 ---
-tags: [formula]
+tags:
+  - formula
+  - physics
+  - classical-mechanics
 ---
 ## #formula 
 $$  $$
