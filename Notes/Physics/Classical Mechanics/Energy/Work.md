@@ -6,13 +6,12 @@ tags:
 ---
 ## Definition
 
-Work is the transfer of [[Energy]] to or from an object via the application of a [[Force]] along a [[Displacement]].
+Work $(W)$ is the transfer of [[Energy]] to or from an object via the application of a [[Force]] along a [[Displacement]].
 
 ## #formula 
 
-$$W = F \cdot $$
+$$W = F \cdot x$$
 
 ## Units
 
-## Notes
-
+Joules $$(J)$$
