@@ -9,11 +9,6 @@ tags:
 ## Definition
 
 Potential energy is an energy that an object stores due to its position configuration or state.
-i
+It represents the capacity to do [[Work]] and can convert to [[Kinetic Energy]] when released.
 
-## #formula 
-
-## Units
-
-## Notes
 
