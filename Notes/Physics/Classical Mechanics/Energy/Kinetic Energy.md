@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept
+  - formula
   - physics
   - classical-mechanics
   - energy
@@ -8,7 +8,6 @@ tags:
 ## Definition
 
 Kinetic energy $(E_K)$ is the energy that an object has from its motion.
-The more [[Velocity]] / [[Mass]] an object has, the more kinetic energy it has.
 
 ## #formula 
 
