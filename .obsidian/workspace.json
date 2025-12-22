@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/General Chemistry/General terms/Atoms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemistry"
+              "title": "Atoms"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "550b31e9a1c4dba6",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Gases/Gases.md",
     "Notes/Chemistry/General Chemistry/General terms/Combustion.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
@@ -201,7 +202,6 @@
     "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Protons.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Templates/World Template.md",
     "Templates/Constant Template.md",
     "Templates/Formula Template.md",
