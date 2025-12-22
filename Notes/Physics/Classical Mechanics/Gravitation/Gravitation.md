@@ -15,12 +15,12 @@ tags:
 - [[Circular Orbits]]
 - [[Orbital Speed]]
 - [[Escape Velocity]]
-- [[Keppler's Laws]]
 - [[Bound vs Unbound Orbits]]
 - [[Energy Of An Orbiting Body]]
 
-
 ## #formula 
+
+- [[Keppler's Laws]]
 
 ## #constant 
 
