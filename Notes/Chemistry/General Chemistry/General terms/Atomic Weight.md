@@ -4,6 +4,7 @@ tags:
   - chemistry
 ---
 ## Definition
+
 Atomic Weight $Aw$ of an [[Element]] is defined as the average mass of its [[Isotope]]s.
 ## #formula 
 

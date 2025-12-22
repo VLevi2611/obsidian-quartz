@@ -6,6 +6,7 @@ tags:
   - general-chemistry-terms
 ---
 ## Definition
+
 An ion is an atom with a different number of [[Electrons]] and [[Protons]]. 
 Ions have a charge.
 $$^{16}_8O^{2-}$$

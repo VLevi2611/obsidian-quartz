@@ -6,6 +6,7 @@ tags:
   - general-chemistry-terms
 ---
 ## Definition
+
 A chemical element is the group of all the [[Atoms]] that have the same number of [[Protons]]
 The number of [[Protons]] is called "Atomic Number"
 $$^{12}_6C$$
