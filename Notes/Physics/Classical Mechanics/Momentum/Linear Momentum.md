@@ -3,14 +3,17 @@ tags:
   - concept
   - physics
   - classical-mechanics
+  - vector
 ---
 ## Definition
 
-Linear momentum is the quantity of move ment a body has.
+Linear momentum is the quantity of movement a body has.
 ## #formula 
 
 ## Variables
 
-|  Symbol  |  Meaning  |  Units  |
-|  p  |  linear momentum  |  ms/kg  
-
+| Symbol | Meaning             | Units                    |
+| :----: | ------------------- | ------------------------ |
+|  $P$   | [[Linear Momentum]] | $(\frac{m \cdot Kg}{s})$ |
+|  $v$   | [[Velocity]]        | $(\frac{m}{s})$          |
+|  $m$   | [[Mass]]            | $(Kg)$                   |
