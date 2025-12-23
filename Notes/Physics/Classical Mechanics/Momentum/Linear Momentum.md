@@ -7,13 +7,15 @@ tags:
 ---
 ## Definition
 
-Linear momentum is the quantity of movement a body has.
+Linear momentum is a [[Vector]] representing an object's "quantity of motion" in a straight line.
+Linear momentum is conserved in closed systems.
 ## #formula 
 
+$$p=mv$$
 ## Variables
 
 | Symbol | Meaning             | Units                    |
 | :----: | ------------------- | ------------------------ |
-|  $P$   | [[Linear Momentum]] | $(\frac{m \cdot Kg}{s})$ |
+|  $p$   | [[Linear Momentum]] | $(\frac{m \cdot Kg}{s})$ |
 |  $v$   | [[Velocity]]        | $(\frac{m}{s})$          |
 |  $m$   | [[Mass]]            | $(Kg)$                   |
