@@ -11,10 +11,14 @@
             "id": "1e86028051483a96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Classical Mechanics"
             }
           }
         ]
@@ -179,6 +183,17 @@
   },
   "active": "1e86028051483a96",
   "lastOpenFiles": [
+    "Notes/Physics/Physics.md",
+    "Notes/Physics/Classical Mechanics/Energy/Energy.md",
+    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
+    "toolbox file/Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
+    "toolbox file/Notes/Physics/Classical Mechanics/Energy",
+    "toolbox file/Notes/Physics/Classical Mechanics",
+    "toolbox file/Notes/Physics",
+    "toolbox file/Notes",
+    "toolbox file",
+    "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
     "Notes/Physics/Classical Mechanics/Rotation/Torque.md",
     "Notes/Physics/Classical Mechanics/Rotation/Torque Angular Momentum Relation.md",
     "Notes/Physics/Classical Mechanics/Rotation/Rotational Kinetic Energy.md",
@@ -199,12 +214,6 @@
     "Notes/Physics/Classical Mechanics/Oscillations/Simple Harmonic Motion.md",
     "Notes/Physics/Classical Mechanics/Oscillations/SHM Equations Of Motion.md",
     "Notes/Physics/Classical Mechanics/Oscillations/Restoring Force.md",
-    "Notes/Physics/Classical Mechanics/Oscillations/Resonance.md",
-    "Notes/Physics/Classical Mechanics/Oscillations/Quality Factor.md",
-    "Notes/Physics/Classical Mechanics/Oscillations/Physical Pendulum.md",
-    "Notes/Physics/Classical Mechanics/Oscillations/Phase.md",
-    "Notes/Physics/Classical Mechanics/Oscillations/Period And Frequency.md",
-    "Notes/Physics/Classical Mechanics/Oscillations/Oscillatory Motion.md",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
@@ -214,11 +223,6 @@
     "Notes/Physics/Thermodynamics/Heat Engines",
     "Notes/Physics/Thermodynamics/First Law",
     "Notes/Physics/Thermodynamics/Entropy",
-    "Notes/Physics/Signal Processing/Sampling",
-    "Notes/Physics/Signal Processing/Frequency Response",
-    "Notes/Physics/Signal Processing/Fourier Transform",
-    "Notes/Physics/Signal Processing/Fourier Series",
-    "Notes/Physics/Signal Processing/Filters",
     "Progress/Day 1.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/ActionPotentialDiagram.png"

@@ -269,6 +269,34 @@
         "type": "FILES",
         "pattern": "Notes/Physics/Classical Mechanics/Energy/Energy.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Classical Mechanics/Oscillations/Oscillations.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Classical Mechanics/Gravitation/Gravitation.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

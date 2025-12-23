@@ -18,6 +18,6 @@ tags:
 ## #formula 
 
 - [[Kinetic Energy]]
-- [[toolbox file/Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy]]
+- [[Gravitational Potential Energy]]
 - [[Elastic Potential Energy]]
 

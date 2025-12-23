@@ -17,14 +17,9 @@ Classical mechanics is the study of force, matter and motion in physical objects
 - [[Acceleration]]
 - [[Motion Equations]]
 
-
 #### #formula 
 
 - [[Motion Equations]]
-
-#### #constant 
-
-#### #symbol 
 
 #### #problem 
 
@@ -45,8 +40,6 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 - [[Gravitational Constant]]
 
-#### #symbol 
-
 #### #problem 
 
 ### [[Energy]]
@@ -63,7 +56,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 #### #formula 
 
 - [[Kinetic Energy]] 
-- [[toolbox file/Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy]]
+- [[Gravitational Potential Energy]]
 - [[Elastic Potential Energy]]
 
 #### #constant 
