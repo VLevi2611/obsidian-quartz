@@ -23,10 +23,6 @@ Physics is the study of [[Matter]].
 
 - [[Motion Equations]]
 
-###### #constant 
-
-###### #symbol 
-
 ##### [[Newton's Laws]]
 
 ###### #concept 
@@ -43,8 +39,6 @@ Physics is the study of [[Matter]].
 ###### #constant 
 
 - [[Gravitational Constant]]
-
-###### #symbol 
 ##### [[Energy]]
 
 ###### #concept 
