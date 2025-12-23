@@ -15,10 +15,16 @@ that are located in space with the coordinates $\mathbf{r_i}$, the coordinates $
 ## #formula 
 
 $$
-\align{}
-\end$$
+\sum_{i=1}^{n} m_i \left( \mathbf{r}_i - \mathbf{R} \right) = 0.
+$$
 
-## Units
+Solving this equation for $\mathbf{R}$ yields the formula
+
+$$
+\mathbf{R}=\frac{\sum_{i=1}^{n} m_i \mathbf{r}_i}{\sum_{i=1}^{n} m_i}.
+$$
 
 ## Notes
+
+The center of mass of an object doesn't have to be inside the object, a ring for example.
 
