@@ -20,7 +20,7 @@ tags:
 
 ## #formula 
 
-- [[Keppler's Laws]]
+- [[Kepler's Laws]]
 
 ## #constant 
 

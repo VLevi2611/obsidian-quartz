@@ -59,10 +59,6 @@ Classical mechanics is the study of force, matter and motion in physical objects
 - [[Gravitational Potential Energy]]
 - [[Elastic Potential Energy]]
 
-#### #constant 
-
-#### #symbol 
-
 #### #problem 
 
 ### [[Momentum]]
@@ -85,10 +81,6 @@ Classical mechanics is the study of force, matter and motion in physical objects
 - [[Coefficient Of Restitution]]
 
 #### #formula 
-
-#### #constant 
-
-#### #symbol 
 
 #### #problem 
 
@@ -114,10 +106,6 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 - [[Rotational Kinematic Equations]]
 - [[Newton's Second Law For Rotation]]
-
-#### #constant 
-
-#### #symbol 
 
 #### #problem 
 
@@ -147,10 +135,6 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 - [[SHM Equations Of Motion]]
 
-#### #constant 
-
-#### #symbol 
-
 #### #problem 
 
 ### [[Gravitation]]
@@ -169,10 +153,6 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 #### #formula 
 
-- [[Keppler's Laws]]
-
-#### #constant 
-
-#### #symbol 
+- [[Kepler's Laws]]
 
 #### #problem 

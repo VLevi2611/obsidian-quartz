@@ -61,10 +61,6 @@ Physics is the study of [[Matter]].
 - [[Gravitational Potential Energy]]
 - [[Elastic Potential Energy]]
 
-###### #constant 
-
-###### #symbol 
-
 ##### [[Momentum]]
 
 ###### #concept 
@@ -83,12 +79,6 @@ Physics is the study of [[Matter]].
 - [[Inelastic Collision]]
 - [[Perfectly Inelastic Collision]]
 - [[Coefficient Of Restitution]]
-
-###### #formula 
-
-###### #constant 
-
-###### #symbol 
 
 ##### [[Rotation]]
 
@@ -112,10 +102,6 @@ Physics is the study of [[Matter]].
 
 - [[Rotational Kinematic Equations]]
 - [[Newton's Second Law For Rotation]]
-
-###### #constant 
-
-###### #symbol 
 
 ##### [[Oscillations]]
 
@@ -143,10 +129,6 @@ Physics is the study of [[Matter]].
 
 - [[SHM Equations Of Motion]]
 
-###### #constant 
-
-###### #symbol 
-
 ##### [[Gravitation]]
 
 ###### #concept 
@@ -163,9 +145,7 @@ Physics is the study of [[Matter]].
 
 ###### #formula 
 
-- [[Keppler's Laws]]
-
-###### #constant 
+- [[Kepler's Laws]]
 
 ###### #symbol 
 ### [[Electromagnetism]]
