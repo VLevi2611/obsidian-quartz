@@ -6,11 +6,11 @@ tags:
 ---
 ## Definition
 
-| v |
-|
+Linear momentum is the quantity of move ment a body has.
 ## #formula 
 
-## Units
+## Variables
 
-## Notes
+|  Symbol  |  Meaning  |  Units  |
+|  p  |  linear momentum  |  ms/kg  
 
