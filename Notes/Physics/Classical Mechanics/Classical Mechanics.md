@@ -73,7 +73,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 - [[Impulse]]
 - [[Impulse Momentum Theorem]]
 - [[Conservation Of Momentum]]
-- [[Isolated Systems]]
+- [[Isolated System]]
 - [[Collision]]
 - [[Elastic Collision]]
 - [[Inelastic Collision]]

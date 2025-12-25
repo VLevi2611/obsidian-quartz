@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-Impulse $J$ is the change of [[Momentum]] of an object. Impulse is conserved
+Impulse $J$ is the change of [[Momentum]] of an object. Impulse is conserved in an [[Isolated System]].
 
 ## #formula 
 

@@ -6,7 +6,8 @@ tags:
 ---
 ## Definition
 
-Conservation of momentum states that the total [[Momentum]] in an isolated system remains constant.
+Conservation of momentum states that the total [[Momentum]] in an [[Isolated System]] remains constant.
 
-$$\sum_{i=1}^{n}$$
+## #formula 
+$$\sum_{j=1}^{n} m_{intial,j}v_{initial,j}=\sum_{j=1}^{n}m_{final,j}v_{final,j}$$
 

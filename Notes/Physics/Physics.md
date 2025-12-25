@@ -67,7 +67,7 @@ Physics is the study of [[Matter]].
 - [[Impulse]]
 - [[Impulse Momentum Theorem]]
 - [[Conservation Of Momentum]]
-- [[Isolated Systems]]
+- [[Isolated System]]
 - [[Collision]]
 - [[Elastic Collision]]
 - [[Inelastic Collision]]
