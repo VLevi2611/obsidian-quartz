@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+                "file": "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Momentum"
+              "title": "Impulse"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "1e86028051483a96",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
     "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
     "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
     "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
     "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",

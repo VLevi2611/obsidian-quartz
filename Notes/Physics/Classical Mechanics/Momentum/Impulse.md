@@ -11,6 +11,7 @@ Impulse $J$ is the change of [[Momentum]] of an object. Impulse is conserved
 ## #formula 
 
 $$J = p_2-p_1$$
+$$J=\int Fdt$$
 ## Variables
 
 | Symbol | Meaning             | Units     |
