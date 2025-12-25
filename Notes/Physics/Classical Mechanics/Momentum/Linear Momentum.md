@@ -14,8 +14,8 @@ Linear momentum is conserved in closed systems.
 $$p=mv$$
 ## Variables
 
-| Symbol | Meaning             | Units                    |
-| :----: | ------------------- | ------------------------ |
-|  $p$   | [[Linear Momentum]] | $(\frac{m \cdot Kg}{s})$ |
-|  $v$   | [[Velocity]]        | $(\frac{m}{s})$          |
-|  $m$   | [[Mass]]            | $(Kg)$                   |
+| Symbol | Meaning             | Units                      |
+| :----: | ------------------- | -------------------------- |
+| $$p$$  | [[Linear Momentum]] | $$(\frac{m \cdot Kg}{s})$$ |
+| $$v$$  | [[Velocity]]        | $$(\frac{m}{s})$$          |
+| $$m$$  | [[Mass]]            | $$(Kg)$$                   |

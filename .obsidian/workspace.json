@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
+                "file": "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impulse"
+              "title": "Momentum"
             }
           }
         ]
@@ -183,8 +183,14 @@
   },
   "active": "1e86028051483a96",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
     "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
+    "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
     "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
     "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
     "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
@@ -193,12 +199,8 @@
     "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
     "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
     "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
-    "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Math/Linear Algebra/Vectors/Vector.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
     "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Gravitation/Kepler's Laws.md",
     "Notes/Physics/Classical Mechanics/Energy/Energy.md",
@@ -212,8 +214,6 @@
     "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
     "Notes/Physics/Classical Mechanics/Rotation/Torque.md",
     "Notes/Physics/Classical Mechanics/Rotation/Torque Angular Momentum Relation.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Rotational Kinetic Energy.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Rotational Kinematic Equations.md",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
