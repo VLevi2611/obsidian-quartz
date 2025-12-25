@@ -10,8 +10,8 @@ Impulse $J$ is the change of [[Momentum]] of an object. Impulse is conserved
 
 ## #formula 
 
-$$J = p_2-p_1$$
-$$J=\int_{t_1}^{t_2} Fdt$$
+$$J = p_f-p_i$$
+$$J=\int_{t_i}^{t_f} Fdt$$
 ## Variables
 
 | Symbol | Meaning             | Units     |
