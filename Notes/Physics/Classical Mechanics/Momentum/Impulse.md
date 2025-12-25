@@ -11,12 +11,13 @@ Impulse $J$ is the change of [[Momentum]] of an object. Impulse is conserved
 ## #formula 
 
 $$J = p_2-p_1$$
-$$J=\int Fdt$$
+$$J=\int_{t_1}^{t_2} Fdt$$
 ## Variables
 
 | Symbol | Meaning             | Units     |
 | ------ | ------------------- | --------- |
 | $$J$$  | [[Impulse]]         | $$(N s)$$ |
 | $$p$$  | [[Linear Momentum]] | $$(Ns)$$  |
+| $$F$$  | [[Force]]           | $$(N)$$   |
 
 
