@@ -6,9 +6,6 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+Internal forces are [[Force]]s that act on an object from the inside, unlike [[External Force]].
+[[Gravity]], and spring force are i
 
