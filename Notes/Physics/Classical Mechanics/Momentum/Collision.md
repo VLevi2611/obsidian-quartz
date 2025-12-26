@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A collision occurs between 2 objects that touch each other and transfer [[Energy]] to one ano
+A collision occurs between 2 objects that touch each other and transfer [[Energy]] to one another.
 

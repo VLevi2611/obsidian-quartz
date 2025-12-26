@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+A perfectly inelastic collision is a type of [[Collision]] that loses [[Energy]]
 

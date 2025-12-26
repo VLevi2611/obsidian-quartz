@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+An inelastic collision is a type of [[Collision]], unlike [[Elastic Collision]] where [[Energy]] is not conserved.
 
