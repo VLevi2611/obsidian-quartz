@@ -11,14 +11,10 @@
             "id": "1e86028051483a96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Impulse Momentum Theorem"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:concept",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,9 +177,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "864432d9a8390295",
+  "active": "1e86028051483a96",
   "lastOpenFiles": [
+    "Notes/Physics/Physics.md",
+    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
     "Templates/Formula Template.md",
     "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
     "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
@@ -195,17 +194,13 @@
     "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
     "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
     "Notes/Physics/Classical Mechanics/Momentum/External Force.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
     "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
     "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
     "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
-    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Math/Linear Algebra/Vectors/Vector.md",
-    "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Gravitation/Kepler's Laws.md",
     "Notes/Physics/Classical Mechanics/Energy/Energy.md",
     "toolbox file/Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",

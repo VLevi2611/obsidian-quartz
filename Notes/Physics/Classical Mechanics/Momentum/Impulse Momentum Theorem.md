@@ -1,6 +1,6 @@
 ---
 tags:
-  - concept
+  - formula
   - physics
   - classical-mechanics
 ---

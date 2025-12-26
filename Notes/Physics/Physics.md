@@ -65,14 +65,17 @@ Physics is the study of [[Matter]].
 - [[External Force]]
 - [[Internal Force]]
 - [[Impulse]]
-- [[Impulse Momentum Theorem]]
-- [[Conservation Of Momentum]]
 - [[Isolated System]]
 - [[Collision]]
 - [[Elastic Collision]]
 - [[Inelastic Collision]]
 - [[Perfectly Inelastic Collision]]
 - [[Coefficient Of Restitution]]
+
+###### #formula 
+
+- [[Impulse Momentum Theorem]]
+- [[Conservation Of Momentum]]
 
 ##### [[Rotation]]
 
