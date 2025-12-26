@@ -15,7 +15,6 @@ tags:
 - [[Internal Force]]
 - [[Impulse]]
 - [[Impulse Momentum Theorem]]
-- [[Conservation Of Momentum]]
 - [[Isolated System]]
 - [[Collision]]
 - [[Elastic Collision]]
@@ -25,8 +24,5 @@ tags:
 
 ## #formula 
 
-## #constant 
-
-## #symbol 
-
+- [[Conservation Of Momentum]]
 ## #problem 

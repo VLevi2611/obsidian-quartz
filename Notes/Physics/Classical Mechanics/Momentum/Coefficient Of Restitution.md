@@ -15,6 +15,7 @@ $$e=\frac{|Relative \ velocity \ of \ seperation \ after \ collision|}{|Relative
 $$e=\frac{|v_{f1}-v_{f2}|}{|v_{i1}-v_{i2}|}$$
 ## Variables
 
-| Symbol | Meaning | Units |
-| ------ | ------- | ----- |
-|        |         |       |
+| Symbol | Meaning                        | Units             |
+| ------ | ------------------------------ | ----------------- |
+| $$e$$  | [[Coefficient Of Restitution]] | none              |
+| $$v$$  | [[Velocity]]                   | $$(\frac{m}{s})$$ |
