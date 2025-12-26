@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
+                "file": "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Isolated System"
+              "title": "Collision"
             }
           }
         ]
@@ -184,6 +184,7 @@
   "active": "1e86028051483a96",
   "lastOpenFiles": [
     "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
     "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
     "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
     "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
@@ -194,7 +195,6 @@
     "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
     "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
     "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
     "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
     "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",

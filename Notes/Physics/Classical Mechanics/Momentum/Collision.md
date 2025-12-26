@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+A collision occurs between 2 objects that touch each other and transfer [[Energy]] to one ano
 

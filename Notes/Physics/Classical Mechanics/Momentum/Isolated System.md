@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+An isolated system does not exchange [[Energy]] or [[Matter]] with its environment.
 
