@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
+                "file": "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra"
+              "title": "Set Symbols"
             }
           }
         ]
@@ -183,6 +183,12 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Math/General Math Terms/Set Symbols",
+    "Notes/Math/General Math Terms/Set Symbols/Complement.md",
+    "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
+    "Notes/Math/General Math Terms/Set Symbols/Intersection.md",
+    "Notes/Math/General Math Terms/General Math Symbols.md",
+    "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
     "Notes/Physics/Physics.md",
@@ -203,12 +209,6 @@
     "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
-    "Notes/Math/Linear Algebra/Vectors/Vector.md",
-    "Notes/Physics/Classical Mechanics/Gravitation/Kepler's Laws.md",
-    "Notes/Physics/Classical Mechanics/Energy/Energy.md",
-    "toolbox file/Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
-    "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
     "toolbox file/Notes/Physics/Classical Mechanics/Energy",
     "toolbox file/Notes/Physics/Classical Mechanics",
     "toolbox file/Notes/Physics",

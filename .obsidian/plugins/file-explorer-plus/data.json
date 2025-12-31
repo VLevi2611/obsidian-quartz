@@ -297,6 +297,20 @@
         "type": "FILES",
         "pattern": "Notes/Physics/Classical Mechanics/Gravitation/Gravitation.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/General Math Terms/General Math Symbols.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
