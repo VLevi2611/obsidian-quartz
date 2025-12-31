@@ -302,7 +302,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/General Math Terms/General Math Symbols.md",
+        "pattern": "Notes/Math/General Math Terms/General Math Terms.md",
         "patternType": "STRICT"
       },
       {

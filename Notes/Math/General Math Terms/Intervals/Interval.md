@@ -2,8 +2,7 @@
 tags:
   - "#summary"
   - math
-  - calculus
-  - "#intervals"
+  - general-math-terms
 ---
 ## Overview
 

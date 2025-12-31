@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-This is a collection of all the set terms we use
+This is a collection of all the set terms we use.
 
 ## #concept 
 

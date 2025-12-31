@@ -7,7 +7,7 @@ tags:
 
 ## #subject 
 
-### [[General Math Symbols]]
+### [[General Math Terms]]
 
 #### #summary 
 ##### [[Interval]]
