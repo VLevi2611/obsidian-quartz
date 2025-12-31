@@ -6,12 +6,22 @@ tags:
 ---
 ## Overview 
 
+This is a collection of all the set terms we use
+
 ## #concept 
 
-## #formula 
-
-## #constant 
-
+- [[Set]]
+- 
 ## #symbol 
 
-## #problem 
+- [[Complement]]
+- [[Element Of]]
+- [[Intersection]]
+- [[Set Difference]]
+- [[Subset]]
+- [[Union]]
+- [[Natural Number]]
+- [[Whole Number]]
+- [[Rational Number]]
+- [[Real Number]]
+- [[Complex Number]]
