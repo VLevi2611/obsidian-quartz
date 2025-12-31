@@ -2,6 +2,7 @@
 tags:
   - "#symbol"
   - math
+  - general-math-terms
 ---
 ## Sign 
 $$

@@ -21,8 +21,4 @@ tags:
 - [[Closed Ray]]
 - [[Open Ray]]
 
-## #formula 
-
-## #constant 
-
 ## #symbol 

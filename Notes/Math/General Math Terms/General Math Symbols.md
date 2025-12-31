@@ -22,7 +22,6 @@ tags:
 - [[Multiplicative Identity]]
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
-#### #formula 
 
 #### #symbol  
 
@@ -53,8 +52,23 @@ tags:
 - [[Closed Ray]]
 - [[Open Ray]]
 
-#### #formula 
+### [[Set Symbols]]
 
-#### #constant 
+#### #concept 
 
-#### #problem 
+- [[Set]]
+
+#### #symbol 
+
+- [[Complement]]
+- [[Element Of]]
+- [[Intersection]]
+- [[Set Difference]]
+- [[Subset]]
+- [[Union]]
+- [[Natural Number]]
+- [[Whole Number]]
+- [[Rational Number]]
+- [[Real Number]]
+- [[Complex Number]]
+

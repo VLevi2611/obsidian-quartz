@@ -11,7 +11,6 @@ This is a collection of all the set terms we use
 ## #concept 
 
 - [[Set]]
-- 
 ## #symbol 
 
 - [[Complement]]
