@@ -8,8 +8,8 @@ tags:
 
 ## #concept 
 
-## #formula 
-
-## #constant 
+- [[Coordinates]]
+- [[Vector Addition]]
+- 
 
 ## #problem 
