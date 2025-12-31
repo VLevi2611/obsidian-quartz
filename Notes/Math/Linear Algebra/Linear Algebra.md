@@ -77,9 +77,11 @@ tags:
 
 #### #concept 
 
-#### #formula 
-
-#### #symbol  
+- [[Geometric Properties Of Linear Transformations]]
+- [[Matrix Representation]]
+- [[Composition]]
+- [[Non Square Matrices]]
+- [[Change Of Basis]]
 
 #### #problem 
 
@@ -87,9 +89,12 @@ tags:
 
 #### #concept 
 
-#### #formula 
-
-#### #symbol  
+- [[Eigenvector]]
+- [[Eigenvalue]]
+- [[Eigenvalue Equation]]
+- [[Characteristic Polynomial]]
+- [[Trace And Eigenvalues]]
+- [[Determinant And Eigenvalues]]
 
 #### #problem 
 

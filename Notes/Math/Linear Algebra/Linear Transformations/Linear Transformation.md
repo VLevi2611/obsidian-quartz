@@ -9,6 +9,9 @@ tags:
 ## #concept 
 
 - [[Geometric Properties Of Linear Transformations]]
-- [[toolbox file/Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation|Matrix Representation]]
+- [[Matrix Representation]]
+- [[Composition]]
+- [[Non Square Matrices]]
+- [[Change Of Basis]]
 
 ## #problem 
