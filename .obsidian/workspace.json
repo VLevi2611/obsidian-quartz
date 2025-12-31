@@ -11,10 +11,14 @@
             "id": "1e86028051483a96",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Math/General Math Terms/Fields/Field.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Field"
             }
           }
         ]
@@ -179,12 +183,13 @@
   },
   "active": "1e86028051483a96",
   "lastOpenFiles": [
+    "Notes/Math/General Math Terms/General Math Terms.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
+    "Notes/Math/General Math Terms/Fields/Field.md",
     "Notes/Math/Math.md",
     "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
     "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
     "Notes/Math/General Math Terms/Math Symbols/Closure Of Addition.md",
-    "Notes/Math/General Math Terms/General Math Terms.md",
     "Notes/Math/General Math Terms/Set Symbols/Set.md",
     "Notes/Math/General Math Terms/Intervals/Open Ray.md",
     "Notes/Math/General Math Terms/Intervals/Closed Ray.md",
@@ -204,7 +209,6 @@
     "Notes/Math/General Math Terms/Math Symbols/If and Only If.md",
     "Notes/Math/General Math Terms/Math Symbols/For All.md",
     "Notes/Math/General Math Terms/Math Symbols/Exists.md",
-    "Notes/Math/General Math Terms/Math Symbols/Division.md",
     "Notes/Math/General Math Terms/Set Symbols",
     "toolbox file/Notes/Physics/Classical Mechanics/Energy",
     "toolbox file/Notes/Physics/Classical Mechanics",

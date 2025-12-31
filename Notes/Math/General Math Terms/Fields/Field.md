@@ -2,8 +2,7 @@
 tags:
   - summary
   - math
-  - "#linear-algebra"
-  - "#fields"
+  - general-math-terms
 ---
 ## Overview
 

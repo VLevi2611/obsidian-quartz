@@ -211,7 +211,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Fields/Field.md",
+        "pattern": "Notes/Math/General Math Terms/Fields/Field.md",
         "patternType": "STRICT"
       },
       {
