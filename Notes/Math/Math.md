@@ -131,45 +131,6 @@ tags:
 
 #### #summary 
 
-##### [[Set]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol  
-
-- [[Complement]]
-- [[Complex Number]]
-- [[Element Of]]
-- [[Intersection]]
-- [[Natural Number]]
-- [[Rational Number]]
-- [[Real Number]]
-- [[Set Difference]]
-- [[Subset]]
-- [[Union]]
-- [[Whole Number]]
-
-##### [[Field]]
-
-###### #concept 
-
-- [[Closure Of Addition]]
-- [[Associativity Of Addition]]
-- [[Commutativity Of Addition]]
-- [[Additive Identity]]
-- [[Additive Inverse]]
-- [[Closure Of Multiplication]]
-- [[Associativity Of Multiplication]]
-- [[Commutativity Of Multiplication]]
-- [[Multiplicative Identity]]
-- [[Multiplicative Inverse]]
-- [[Distributivity]]
-###### #formula 
-
-###### #constant 
-
 ##### [[Linear Systems]]
 
 ###### #concept 
