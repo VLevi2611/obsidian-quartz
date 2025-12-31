@@ -10,6 +10,9 @@ tags:
 
 - [[Coordinates]]
 - [[Vector Addition]]
-- 
+- [[Scalar Multiplication]]
+- [[Dot Product]]
+- [[Orthogonal Vectors]]
+- [[Length (Norm)]]
 
 ## #problem 
