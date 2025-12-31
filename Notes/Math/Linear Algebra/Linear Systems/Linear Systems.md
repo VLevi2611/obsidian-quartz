@@ -9,7 +9,7 @@ tags:
 ## #concept 
 
 - [[Linear System Of Equations]]
-- [[Matrix Representation]]
+- [[toolbox file/Notes/Math/Linear Algebra/Linear Systems/Matrix Representation]]
 - [[Geometric Interpretation]]
 - [[Solvability]]
 - [[Unique Solution]]
