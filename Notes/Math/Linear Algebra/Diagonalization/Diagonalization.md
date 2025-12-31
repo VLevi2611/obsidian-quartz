@@ -8,8 +8,10 @@ tags:
 
 ## #concept 
 
-## #formula 
-
-## #constant 
+- [[Diagonal Matrix]]
+- [[Eigenvector Matrix]]
+- [[Eigenbasis]]
+- [[Condition For Diagonalization]]
+- [[Matrix Powers]]
 
 ## #problem 

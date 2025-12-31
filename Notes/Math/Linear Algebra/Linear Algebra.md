@@ -102,8 +102,10 @@ tags:
 
 #### #concept 
 
-#### #formula 
-
-#### #symbol  
+- [[Diagonal Matrix]]
+- [[Eigenvector Matrix]]
+- [[Eigenbasis]]
+- [[Condition For Diagonalization]]
+- [[Matrix Powers]]
 
 #### #problem 
