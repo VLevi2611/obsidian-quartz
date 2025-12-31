@@ -318,6 +318,13 @@
         "type": "FILES",
         "pattern": "Notes/Math/General Math Terms/Intervals/Interval.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

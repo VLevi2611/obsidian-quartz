@@ -2,8 +2,7 @@
 tags:
   - concept
   - math
-  - calculus
-  - intervals
+  - general-math-terms
 ---
 ## Definition
 A closed ray is defined as: 

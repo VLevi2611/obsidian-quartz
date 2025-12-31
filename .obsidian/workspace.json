@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
+                "file": "Notes/Math/Math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closed Interval"
+              "title": "Math"
             }
           }
         ]
@@ -183,7 +183,17 @@
   },
   "active": "1e86028051483a96",
   "lastOpenFiles": [
+    "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
+    "Notes/Math/Math.md",
+    "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
+    "Notes/Math/General Math Terms/Math Symbols/Closure Of Addition.md",
     "Notes/Math/General Math Terms/General Math Terms.md",
+    "Notes/Math/General Math Terms/Set Symbols/Set.md",
+    "Notes/Math/General Math Terms/Intervals/Open Ray.md",
+    "Notes/Math/General Math Terms/Intervals/Closed Ray.md",
+    "Notes/Math/General Math Terms/Intervals/Half Open Interval.md",
+    "Notes/Math/General Math Terms/Intervals/Open Interval.md",
+    "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
     "Notes/Math/General Math Terms/Intervals/Maximum.md",
     "Notes/Math/General Math Terms/Intervals/Minimum.md",
     "Notes/Math/General Math Terms/Intervals/Supremum.md",
@@ -199,16 +209,6 @@
     "Notes/Math/General Math Terms/Math Symbols/Exists.md",
     "Notes/Math/General Math Terms/Math Symbols/Division.md",
     "Notes/Math/General Math Terms/Math Symbols/Addition.md",
-    "Notes/Math/General Math Terms/Math Symbols/Absolute Value.md",
-    "Notes/Math/General Math Terms/Math Symbols/Multiplicative Inverse.md",
-    "Notes/Math/General Math Terms/Math Symbols/Multiplicative Identity.md",
-    "Notes/Math/General Math Terms/Math Symbols/Distributivity.md",
-    "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Multiplication.md",
-    "Notes/Math/General Math Terms/Math Symbols/Associativity Of Multiplication.md",
-    "Notes/Math/General Math Terms/Math Symbols/Closure Of Multiplication.md",
-    "Notes/Math/General Math Terms/Math Symbols/Additive Inverse.md",
-    "Notes/Math/General Math Terms/Math Symbols/Additive Identity.md",
-    "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Addition.md",
     "Notes/Math/General Math Terms/Set Symbols",
     "toolbox file/Notes/Physics/Classical Mechanics/Energy",
     "toolbox file/Notes/Physics/Classical Mechanics",
