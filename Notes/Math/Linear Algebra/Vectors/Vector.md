@@ -8,8 +8,11 @@ tags:
 
 ## #concept 
 
-## #formula 
-
-## #constant 
+- [[Coordinates]]
+- [[Vector Addition]]
+- [[Scalar Multiplication]]
+- [[Dot Product]]
+- [[Orthogonal Vectors]]
+- [[Length (Norm)]]
 
 ## #problem 

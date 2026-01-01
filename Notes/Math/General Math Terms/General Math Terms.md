@@ -22,6 +22,7 @@ tags:
 - [[Multiplicative Identity]]
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
+- [[Notes/Math/General Math Terms/Math Symbols/Field]]
 
 #### #symbol  
 
@@ -72,7 +73,7 @@ tags:
 - [[Real Number]]
 - [[Complex Number]]
 
-### [[Field]]
+### [[Notes/Math/General Math Terms/Math Symbols/Field]]
 
 #### #concept 
 #### #symbol 
