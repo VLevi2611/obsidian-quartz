@@ -11,14 +11,12 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Books/harry-potter-and-the-philosophers-stone-by-jk-rowling.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Harry Potter and the Philosopher's Stone - J K Rowling"
+              "icon": "lucide-file-text",
+              "title": "harry-potter-and-the-philosophers-stone-by-jk-rowling"
             }
           }
         ]
@@ -186,10 +184,10 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "harry-potter-and-the-philosophers-stone-by-jk-rowling.pdf",
-    "Resources/Book view.base",
-    "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
     "Resources/Images/ActionPotentialDiagram.png",
+    "Resources/Books/harry-potter-and-the-philosophers-stone-by-jk-rowling.pdf",
+    "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
+    "Resources/Book view.base",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/Welcome please seat yourself.md",
     "Resources/Books",
@@ -223,7 +221,6 @@
     "toolbox file/Notes/Physics/Classical Mechanics",
     "toolbox file/Notes/Physics",
     "toolbox file/Notes",
-    "toolbox file",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
