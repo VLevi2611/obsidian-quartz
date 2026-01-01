@@ -22,4 +22,15 @@ A unique solution occurs when:
 
 Each equation represents a plane.
 A unique solution occurs when:
-- Three 
+- Three planes intersect at exactly one point
+- No two planes are parallel
+- No plane is redundant
+
+---
+
+### In $\mathbb{R}^n$
+
+Each equation represents a hyperplane.
+A unique solution occurs when:
+- There are $n$ independent equations
+- Their intersection is a point

@@ -12,6 +12,5 @@ tags:
 - [[Geometric Interpretation]]
 - [[Solvability]]
 - [[Unique Solution]]
-- [[Cramer's Rule]]
 
 ## #problem 

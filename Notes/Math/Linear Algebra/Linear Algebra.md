@@ -16,7 +16,6 @@ tags:
 - [[Geometric Interpretation]]
 - [[Solvability]]
 - [[Unique Solution]]
-- [[Cramer's Rule]]
 
 #### #problem 
 
@@ -43,6 +42,7 @@ tags:
 - [[Determinant]]
 - [[Inverse Matrix]]
 - [[Transpose]]
+- [[Cramer's Rule]]
 
 #### #problem 
 
