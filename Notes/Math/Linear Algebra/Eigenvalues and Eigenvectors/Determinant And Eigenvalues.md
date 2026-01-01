@@ -1,8 +1,5 @@
 ---
-tags:
-  - concept
-  - math
-  - linear-algebra
+tags: [concept]
 ---
 ## Definition
 

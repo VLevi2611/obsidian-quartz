@@ -14,5 +14,6 @@ tags:
 - [[Determinant]]
 - [[Inverse Matrix]]
 - [[Transpose]]
-
+- [[Cramer's Rule]]
+- 
 ## #problem 

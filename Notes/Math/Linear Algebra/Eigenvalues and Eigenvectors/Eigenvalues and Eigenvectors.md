@@ -8,8 +8,11 @@ tags:
 
 ## #concept 
 
-## #formula 
-
-## #constant 
+- [[Eigenvector]]
+- [[Eigenvalue]]
+- [[Eigenvalue Equation]]
+- [[Characteristic Polynomial]]
+- [[Trace And Eigenvalues]]
+- [[Determinant And Eigenvalues]]
 
 ## #problem 
