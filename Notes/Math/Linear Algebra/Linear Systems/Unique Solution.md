@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-
+A [[Linear System Of Equations]] has a 
 

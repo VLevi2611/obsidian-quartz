@@ -6,6 +6,8 @@ tags:
 ---
 ## Definition
 
-A [[Linear System Of Equations]] is solvable in the [[Geometric Interpretation]] when the objects intersect simultaneously. If the planes would not intersect, there is no solution and the system cant be solved.
-
-A solution of a linear system is an assignment of 
+A solution of a [[Linear System Of Equations]] is an assignment of values to the variables $x_1,x_2,...,x_n$, such that each of the equations is satisfied.
+A linear system may behave in one of three possible ways:
+1. The system has *infinitely many solutions*.
+2. The system has a [[Unique Solution]].
+3. The system has *no solution*.
