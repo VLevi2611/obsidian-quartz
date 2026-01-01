@@ -39,8 +39,4 @@ For each [[Element Of]] the field, there is only one [[Additive Inverse]] and on
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
 
-## #formula 
-
-## #constant 
-
 ## #problem 
