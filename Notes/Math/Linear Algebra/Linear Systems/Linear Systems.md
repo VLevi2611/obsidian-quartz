@@ -27,7 +27,7 @@ $$\begin{cases}
 $$
 2. in a [[Matrix Representation]]:
 $$Ax=b$$
-Where $A$ is the coefficients [[Matrix]], $x$ is the va
+Where $A$ is the coefficients [[Matrix]], $x$ is the variable [[Vector]] and $b$ is the results vector.
 ## #concept 
 
 - [[Linear System Of Equations]]
