@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "newFileLocation": "root",
+  "newFileFolderPath": "Resources"
 }
