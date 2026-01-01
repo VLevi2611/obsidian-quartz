@@ -3,5 +3,9 @@
   "templater-obsidian",
   "dataview",
   "file-explorer-plus",
-  "code-styler"
+  "code-styler",
+  "obsidian-file-color",
+  "file-explorer-note-count",
+  "obsidian-icon-folder",
+  "obsidian-paste-image-rename"
 ]
