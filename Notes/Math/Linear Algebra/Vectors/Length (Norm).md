@@ -9,8 +9,8 @@ tags:
 The length of a vector $|A|$ is the square root of its [[Dot Product]] with itself.
 $$
 \begin{array}{l}
-X=(1,2) \\
-X \cdot X = 5 \\
-|X|=\sqrt{5}
+x=(1,2) \\
+x \cdot X = 5 \\
+|x|=\sqrt{5}
 \end{array}$$
 

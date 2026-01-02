@@ -11,8 +11,8 @@ Multiply each corresponding component, then summing the results.
 The result of scalar multiplication is a [[Scalar]].
 $$
 \begin{array}{l}
-X=(1,2),Y=(5,3) \\
-X \cdot Y=(1*5+2*3) \\
-X \cdot Y=11
+x=(1,2),y=(5,3) \\
+x \cdot y=(1*5+2*3) \\
+x \cdot y=11
 \end{array}$$
 
