@@ -8,7 +8,7 @@ tags:
 
 A dot product is an operation between two vectors. 
 Multiply each corresponding component, then summing the results.
-The 
+The result of scalar multiplication is a [[Scalar]].
 $$
 \begin{array}{l}
 X=(1,2),Y=(5,3) \\
