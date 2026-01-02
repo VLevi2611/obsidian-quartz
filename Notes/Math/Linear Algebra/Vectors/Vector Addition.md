@@ -6,9 +6,11 @@ tags:
 ---
 ## Definition
 
-## #formula 
+In a geometric sense, summing vectors looks like connecting the tip of 1 vector to the tail of the second vector and making a new vector between them.
 
-## Units
+In a numeric way, to sum vectors is to sum each corresponding components.
+$$
+\begin{array}{l}
 
-## Notes
+\end{array}$$
 
