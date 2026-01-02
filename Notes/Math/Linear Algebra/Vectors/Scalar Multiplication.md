@@ -11,5 +11,6 @@ The geometric interpretation of scalar multiplying is changing the size of the v
 $$
 \begin{array}{l}
 X=(1,2,0) \\
-6X=(1*6,2*6,)
+aX=(1*a,2*a,0*a) \\
+ax=(a,2a,0)
 \end{array}$$
