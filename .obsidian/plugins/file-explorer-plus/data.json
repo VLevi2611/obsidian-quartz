@@ -318,6 +318,62 @@
         "type": "FILES",
         "pattern": "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Vectors/Vector.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Matrices/Matrix.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
