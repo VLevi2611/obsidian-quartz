@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview
 
+A vector is an arrow in space that has ==length and direction==
+
 ## #concept 
 
 - [[Coordinates]]
