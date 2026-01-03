@@ -45,3 +45,7 @@ d & e \\
 g & h
 \end{vmatrix}
 $$
+---
+
+### Properties
+
