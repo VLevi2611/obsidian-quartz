@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-A matrix is a rectangular array of number
+A matrix is a rectangular array of numbers, used to represent a [[Linear Transformation]].
 
 ## #concept 
 
@@ -17,5 +17,5 @@ A matrix is a rectangular array of number
 - [[Inverse Matrix]]
 - [[Transpose]]
 - [[Cramer's Rule]]
-- 
+
 ## #problem 
