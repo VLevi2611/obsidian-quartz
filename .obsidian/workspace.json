@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Matrices/Matrix.md",
+                "file": "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix"
+              "title": "Harry Potter and the Philosopher's Stone - J K Rowling"
             }
           }
         ]
@@ -185,10 +185,17 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
+    "Resources/Book view.base",
+    "Resources/Books/The Runaway Species - David Eagleman Anthony Brandt.md",
+    "Resources/Books/Applied Minds - Guru Madhavan.md",
+    "Resources/Books/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
+    "Resources/Books/harry-potter-and-the-philosophers-stone-by-jk-rowling.pdf",
+    "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
+    "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Determinant.md",
-    "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
+    "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
+    "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Vectors/Vector.md",
@@ -200,10 +207,7 @@
     "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
     "Notes/Math/Linear Algebra/Linear Systems/Unique Solution.md",
     "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
-    "Resources/Books/harry-potter-and-the-philosophers-stone-by-jk-rowling.pdf",
     "Resources/Images/ActionPotentialDiagram.png",
-    "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
-    "Resources/Book view.base",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Images/Welcome please seat yourself.md",
     "Resources/Books",
@@ -211,11 +215,6 @@
     "Notes/Math/General Math Terms/Fields/Field.md",
     "Notes/Math/Calculus/Calculus.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
-    "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
-    "Notes/Math/Linear Algebra/Linear Transformations/Non Square Matrices.md",
-    "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
-    "Notes/Math/Linear Algebra/Linear Transformations/Geometric Properties Of Linear Transformations.md",
-    "Notes/Math/Linear Algebra/Linear Transformations/Composition.md",
     "Notes/Math/Linear Algebra/Fields",
     "Notes/Math/General Math Terms/Fields",
     "Notes/Math/General Math Terms/Set Symbols",
