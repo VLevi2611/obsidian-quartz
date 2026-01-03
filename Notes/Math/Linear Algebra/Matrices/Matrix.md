@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview
 
+A matrix is a rectangular array of number
+
 ## #concept 
 
 - [[Matrix Vector Multiplication]]
