@@ -6,9 +6,16 @@ tags:
 ---
 ## Definition
 
-## #formula 
+Matrix multiplication $AB$ represents the composition of two [[Linear Transformation]]s: applying $B$ first, then $A$. The calculation involves multiplying $A$ by each column of $B$.
 
-## Units
-
-## Notes
-
+$$A= 
+\begin{array}{l}
+\begin{bmatrix}
+a_{11} & a_{12} \\
+a_{21} & a_{22}
+\end{bmatrix},
+B=\begin{bmatrix}
+b_{11} & b_{12} \\
+b_{21} & b_{22}
+\end{bmatrix}
+\end{array}$$
