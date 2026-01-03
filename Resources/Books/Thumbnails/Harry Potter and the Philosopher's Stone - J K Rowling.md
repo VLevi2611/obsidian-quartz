@@ -16,4 +16,5 @@ previewLink: http://books.google.com/books?id=HFs9AwAAQBAJ&dq=Harry+Potter&hl=&a
 isbn13: 9781408834961
 isbn10: 1408834960
 ---
-![[harry-potter-and-the-philosophers-stone-by-jk-rowling.pdf]]
+[[Harry Potter And The Philosophers Stone.pdf]]
+![[Harry Potter And The Philosophers Stone.pdf]]

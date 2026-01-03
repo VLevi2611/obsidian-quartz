@@ -11,14 +11,13 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Book view.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Harry Potter and the Philosopher's Stone - J K Rowling"
+              "icon": "lucide-layout-grid",
+              "title": "Book view"
             }
           }
         ]
@@ -183,14 +182,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
+    "Resources/Books/Thumbnails",
     "Resources/Book view.base",
-    "Resources/Books/The Runaway Species - David Eagleman Anthony Brandt.md",
-    "Resources/Books/Applied Minds - Guru Madhavan.md",
-    "Resources/Books/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
-    "Resources/Books/harry-potter-and-the-philosophers-stone-by-jk-rowling.pdf",
-    "Resources/Books/Harry Potter and the Philosopher's Stone - J K Rowling.md",
+    "Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
+    "Resources/Books/Thumbnails/Applied Minds - Guru Madhavan.md",
+    "Resources/Books/Thumbnails/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
+    "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
     "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Determinant.md",
@@ -221,7 +221,6 @@
     "toolbox file/Notes/Physics/Classical Mechanics/Energy",
     "toolbox file/Notes/Physics/Classical Mechanics",
     "toolbox file/Notes/Physics",
-    "toolbox file/Notes",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
