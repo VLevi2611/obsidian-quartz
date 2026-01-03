@@ -14,8 +14,11 @@ $$A=\begin{bmatrix}
 1 & -1
 \end{bmatrix}$$
 Create the augmented matrix:
-$$A=\begin{matrix}
--1 & \frac{3}{2} \\
-1 & -1
-\end{matrix}
+$$\left[
+\begin{array}{cc|cc}
+-1 & \tfrac{3}{2} & 1 & 0 \\
+ 1 & -1           & 0 & 1
+\end{array}
+\right)
+
 $$
