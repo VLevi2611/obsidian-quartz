@@ -15,5 +15,5 @@ tags:
 - [[Inverse Matrix]]
 - [[Transpose]]
 - [[Cramer's Rule]]
-- 
+
 ## #problem 
