@@ -49,3 +49,7 @@ $$
 
 ### Properties
 
+1. The determinant of the [[Identity Matrix]] is 1.
+2. The exchange of two rows multiplies the determinant by -1.
+3. Multiplying a row by a number multiplies the determinant by this number.
+4. Adding a multiple of one row to another row does not change the determinant. 
