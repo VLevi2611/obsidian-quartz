@@ -12,8 +12,16 @@ If the determinant is 0, the space is compressed into a lower dimension.
 --- 
 
 ### In $2*2$
-
-This is called a minor.
 $$A = \begin{bmatrix}
-a 
+a & b \\
+c & d
 \end{bmatrix}$$
+$$\det A= \begin{vmatrix}
+a & b \\
+c & d
+\end{vmatrix} = ad-bc$$
+
+### In $3*3$
+
+To calculate 3x3 and higher order matrices, we need to compute their minor
+The minor of the entry in the $i$ row and $j$ column is the
