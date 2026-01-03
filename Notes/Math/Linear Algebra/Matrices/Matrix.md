@@ -7,6 +7,7 @@ tags:
 ## Overview
 
 A matrix is a rectangular array of numbers, used to represent a [[Linear Transformation]].
+The matrix has 
 
 ## #concept 
 
