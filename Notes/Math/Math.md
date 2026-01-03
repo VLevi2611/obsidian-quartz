@@ -156,6 +156,7 @@ tags:
 
 ###### #concept 
 
+- [[Identity Matrix]]
 - [[Matrix Vector Multiplication]]
 - [[Matrix Columns]]
 - [[Matrix Multiplication]]

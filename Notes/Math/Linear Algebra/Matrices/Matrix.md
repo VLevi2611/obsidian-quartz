@@ -15,6 +15,7 @@ a_{31} & a_{32} & a_{33}
 \end{bmatrix}$$
 ## #concept 
 
+- [[Identity Matrix]]
 - [[Matrix Vector Multiplication]]
 - [[Matrix Columns]]
 - [[Matrix Multiplication]]

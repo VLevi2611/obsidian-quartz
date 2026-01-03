@@ -37,11 +37,11 @@ e & f \\
 h & i
 \end{vmatrix}+
 b \begin{vmatrix}
-e & f \\
-h & i
+d & f \\
+g & i
 \end{vmatrix}+
-a \begin{vmatrix}
-e & f \\
-h & i
+c \begin{vmatrix}
+d & e \\
+g & h
 \end{vmatrix}
 $$
