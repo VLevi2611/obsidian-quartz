@@ -22,3 +22,6 @@ $$\left(
 \right)
 
 $$
+Manipulate the left side of the matrix to be the [[Identity Matrix]].
+Call the first row of the matrix $R_1$ and the second row $R_2$.
+Add the first row to the second row to make the first com
