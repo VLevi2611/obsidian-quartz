@@ -13,6 +13,10 @@ $$A=\begin{pmatrix}
 -1 & \frac{3}{2} \\
 1 & -1
 \end{pmatrix}$$
+First, check if the determinant is not 0:
+$$\begin{vmatrix}
+-1 & \frac{}
+\end{vmatrix}$$
 Create the augmented matrix:
 $$\left(
 \begin{array}{cc|cc}
@@ -33,4 +37,23 @@ $$\left(
 \right)
 $$
 Multiply the first row by -1 and the second by 2 to resemble the identity matrix.
-$R_1*-1 \rightarrow R_1$ , $R_2 * 2 \rightarrow 
+$R_1*-1 \rightarrow R_1$ , $R_2 * 2 \rightarrow R_2$ 
+$$\left(
+\begin{array}{cc|cc}
+1 & -\frac{3}{2} & -1 & 0 \\
+ 0 & 1 & 2 & 2
+\end{array}
+\right)$$
+Finally, $R_1+\frac{3}{2} R_2 \rightarrow R_1$ 
+$$\left(
+\begin{array}{cc|cc}
+1 & 0 & 2 & 3 \\
+ 0 & 1 & 2 & 2
+\end{array}
+\right)$$
+On the right side, we got the inverse matrix.
+$$
+\begin{pmatrix}
+2 & 3 \\
+2 & 2
+\end{pmatrix}$$
