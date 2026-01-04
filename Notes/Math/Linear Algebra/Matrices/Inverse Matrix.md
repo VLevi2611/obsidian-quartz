@@ -15,8 +15,10 @@ $$A=\begin{pmatrix}
 \end{pmatrix}$$
 First, check if the determinant is not 0:
 $$\begin{vmatrix}
--1 & \frac{}
-\end{vmatrix}$$
+-1 & \frac{3}{2} \\
+1 & 1
+\end{vmatrix}=
+(-1*1)-(\frac{3}{2}*1)=-\frac{5}{2}$$
 Create the augmented matrix:
 $$\left(
 \begin{array}{cc|cc}
