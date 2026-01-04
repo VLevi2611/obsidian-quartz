@@ -11,13 +11,14 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Book view.base",
-                "viewName": "View"
+                "file": "Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book view"
+              "icon": "lucide-file",
+              "title": "The Runaway Species - David Eagleman Anthony Brandt"
             }
           }
         ]
@@ -182,15 +183,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Resources/Books/The_Runaway_Species_How_human_B.pdf",
     "Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
-    "Resources/Books/Thumbnails",
-    "Resources/Book view.base",
-    "Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
     "Resources/Books/Thumbnails/Applied Minds - Guru Madhavan.md",
     "Resources/Books/Thumbnails/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
+    "Resources/Book view.base",
+    "Resources/Books/A Short History Of Nearly Everything.pdf",
+    "Resources/Books/The Runaway Species.pdf",
+    "Resources/Books/Thumbnails",
+    "Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
     "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
     "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix.md",
@@ -220,8 +222,6 @@
     "Notes/Math/General Math Terms/Fields",
     "Notes/Math/General Math Terms/Set Symbols",
     "toolbox file/Notes/Physics/Classical Mechanics/Energy",
-    "toolbox file/Notes/Physics/Classical Mechanics",
-    "toolbox file/Notes/Physics",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",
