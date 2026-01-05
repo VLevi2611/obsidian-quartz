@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+Linear combination is the result of scaling a [[Set]] of [[Vector]]s (using [[Scalar]]s) and summing them.
 

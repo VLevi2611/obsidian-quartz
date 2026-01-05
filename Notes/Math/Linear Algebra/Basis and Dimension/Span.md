@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+A span of a [[Matrix]] is the collection of all possible [[Vector]]s reachable through [[Linear Combination]] of a given [[Set]] of vectors.
 
