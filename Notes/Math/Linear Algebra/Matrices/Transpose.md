@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
-
+A transpose $ is a [[Matrix]] operation that flips a matrix over 
+its diagonal (rows and columns switch).
