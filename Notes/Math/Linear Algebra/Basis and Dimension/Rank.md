@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+The rank $rank(A)$ of a [[Matrix]] is the [[Dimension]] of the [[Vector Space]] [[Span]]ned by its columns ([[Column Space]])
 

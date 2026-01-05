@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
+                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rank"
+              "title": "Linear Algebra"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
@@ -210,7 +211,6 @@
     "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
