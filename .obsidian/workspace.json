@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
+                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Span"
+              "title": "Linear Independence"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Matrices/Determinant.md",
@@ -214,8 +216,6 @@
     "Resources/Books/The Runaway Species.pdf",
     "Resources/Books/Thumbnails",
     "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
-    "Notes/Math/Math.md",
-    "Notes/Math/Linear Algebra/Linear Systems/Unique Solution.md",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Resources/Books",

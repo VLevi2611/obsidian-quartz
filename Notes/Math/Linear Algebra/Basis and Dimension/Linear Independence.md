@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+Unlike [[]]
 
