@@ -13,6 +13,7 @@ $$
 ## Definition
 $$\mathbb{N} = \{1,2,3,...\}$$
 ## Latex
+
 \mathbb{N}
 
 

@@ -6,11 +6,10 @@ tags:
 ---
 ## Sign 
 $$
-\begin{array}{l}
 \mathbb{C}
-\end{array}
 $$
 ## Definition
+
 A complex number is an expression of the form $a+bi|a,b \in \mathbb{R}$ 
 ## Latex
 
