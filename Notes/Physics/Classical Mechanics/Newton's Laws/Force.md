@@ -7,6 +7,7 @@ tags:
   - vector
 ---
 ## Definition
+
 Force $\mathbf{F}$ is a [[Vector]] that causes an object with [[Mass]] to have [[Acceleration]].
 
 ## #formula 

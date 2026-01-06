@@ -7,14 +7,12 @@ tags:
 ## #formula 
 
 $$
-\begin{array}{l}
-F_g = m \, g
-\end{array}
+\mathbf{F}_g = m \mathbf{g}
 $$
 ## Variables
-| Symbol | Meaning                    | Units           |
-| ------ | -------------------------- | --------------- |
-| $F_g$  | [[Gravity]]                | $N$             |
-| $m$    | [[Mass]]                   | $kg$            |
-| $g$    | [[Gravitational Constant]] | $\frac{m}{s^2}$ |
+| Symbol           | Meaning                    | Units           |
+| ---------------- | -------------------------- | --------------- |
+| $$\mathbf{F}_g$$ | [[Gravity]]                | $N$             |
+| $m$              | [[Mass]]                   | $kg$            |
+| $g$              | [[Gravitational Constant]] | $\frac{m}{s^2}$ |
 
