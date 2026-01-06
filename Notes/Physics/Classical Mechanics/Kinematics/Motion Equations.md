@@ -7,7 +7,7 @@ tags:
 ---
 ## Overview
 
-The motion equation are he differential relations between
+The motion equation are he differential relations between [[Displacement]], [[Velocity]] and [[Acceleration]].
 ## #formula 
 
 $$
@@ -24,8 +24,6 @@ $$
 | $$\mathbf{x}$$ | [[Displacement]] | $$(m)$$             |
 | $$\mathbf{v}$$ | [[Velocity]]     | $$(\frac{m}{s})$$   |
 | $$\mathbf{a}$$ | [[Acceleration]] | $$(\frac{m}{s^2})$$ |
-## Description
-The motion equations are the differential relations between distance, speed and acceleration.
 
 ## Example Calculation
 An object starts moving from rest for 2 seconds. It crosses in the first second 5 metes in steady motion. in the second second it crosses 10 meters in steady motion.

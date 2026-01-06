@@ -7,7 +7,7 @@ tags:
   - vector
 ---
 ## Definition
-Force is a vector that causes an object to accelerate.
+Force is a [[Vector]] that causes an object with [[Mass]] to accelerate.
 
 ## #formula 
 
