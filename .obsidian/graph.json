@@ -11,49 +11,49 @@
       "query": "tag:#world  ",
       "color": {
         "a": 1,
-        "rgb": 14111314
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag:#subject ",
+      "query": "tag:#subject  ",
       "color": {
         "a": 1,
-        "rgb": 14135634
+        "rgb": 14725458
       }
     },
     {
       "query": "tag:#summary  ",
       "color": {
         "a": 1,
-        "rgb": 11720530
+        "rgb": 11657298
       }
     },
     {
       "query": "tag:#concept  ",
       "color": {
         "a": 1,
-        "rgb": 4970322
+        "rgb": 5431378
       }
     },
     {
       "query": "tag:#formula  ",
       "color": {
         "a": 1,
-        "rgb": 5155034
+        "rgb": 5431473
       }
     },
     {
       "query": "tag:#constant  ",
       "color": {
         "a": 1,
-        "rgb": 5395159
+        "rgb": 5419488
       }
     },
     {
       "query": "tag:#symbol  ",
       "color": {
         "a": 1,
-        "rgb": 5494610
+        "rgb": 5395168
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6026938292293911,
-  "close": false
+  "scale": 0.4989469651681099,
+  "close": true
 }
