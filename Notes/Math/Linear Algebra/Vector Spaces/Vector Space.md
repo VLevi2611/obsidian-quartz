@@ -7,7 +7,7 @@ tags:
 ## Overview
 
 A vector space is a [[Set]] of [[Vector]]s or [[Matrix]] where the operation of [[Vector Addition]] and [[Scalar Multiplication]] adhere to 8 axioms:
-1. [[Associativity Of Addition]] for vector
+1. [[Associativity Of Addition]] for vectors
 
 ## #concept 
 
