@@ -12,5 +12,5 @@ $$
 \begin{array}{l}
 \mathbf{x}=(1,2,0) \\
 a\mathbf{x}=(1*a,2*a,0*a) \\
-ax=(a,2a,0)
+a\mathbf{x}=(a,2a,0)
 \end{array}$$

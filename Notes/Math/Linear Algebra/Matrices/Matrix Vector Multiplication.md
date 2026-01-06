@@ -14,8 +14,8 @@ a_{11} & a_{12} \\
 a_{21} & a_{22} 
 \end{pmatrix}
 \begin{pmatrix}
-x \\
-y
+\mathbf{x} \\
+\mathbf{y}
 \end{pmatrix}=
 \begin{pmatrix}
 a_{11}x+a_{12}y \\
