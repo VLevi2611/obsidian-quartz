@@ -8,7 +8,7 @@ tags:
 
 ## Definition
 
-Potential energy is an energy that an object stores due to its position configuration or state.
-It represents the capacity to do [[Work]] and can convert to [[Kinetic Energy]] when released.
-
-
+Potential energy $U_g$ is an [[Energy]] that an object stores due to its position configuration or state.
+It represents the capacity to do [[Work]] and can convert to [[Kinetic Energy]] when released
+It relates the object's [[Mass]], [[Gravitational Constant]] and its height.
+$$U_g=m\mathbf{g}h$$
