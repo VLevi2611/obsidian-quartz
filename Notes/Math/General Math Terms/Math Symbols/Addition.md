@@ -14,6 +14,7 @@ $$
 Addition is the sum of two values.
 The product of adding 2 terms together is called "sum"
 ## Latex
+
 +
 
 ## Example

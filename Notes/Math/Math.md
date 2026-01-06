@@ -25,9 +25,6 @@ tags:
 - [[Half Open Interval]]
 - [[Closed Ray]]
 - [[Open Ray]]
-###### #formula 
-
-###### #symbol  
 
 ##### [[Math Symbols]] 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/General Math Terms/Intervals/Open Interval.md",
+                "file": "Notes/Math/General Math Terms/Math Symbols/For All.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Interval"
+              "title": "For All"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/General Math Terms/Intervals/Open Interval.md",
+                "file": "Notes/Math/General Math Terms/Math Symbols/For All.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Open Interval"
+              "title": "Graph of For All"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/General Math Terms/Intervals/Open Interval.md",
+                "file": "Notes/Math/General Math Terms/Math Symbols/For All.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Open Interval"
+              "title": "Graph of For All"
             }
           }
         ]
@@ -366,31 +366,31 @@
   "active": "01354666a8200162",
   "lastOpenFiles": [
     "Notes/Math/Math.md",
-    "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
+    "Notes/Math/General Math Terms/Math Symbols/Exists.md",
+    "Notes/Math/General Math Terms/Math Symbols/Division.md",
+    "Notes/Math/General Math Terms/Math Symbols/Addition.md",
+    "Notes/Math/General Math Terms/Math Symbols/Absolute Value.md",
+    "Notes/Math/General Math Terms/Math Symbols/Field.md",
+    "Notes/Math/General Math Terms/Math Symbols/Distributivity.md",
+    "Notes/Math/General Math Terms/Math Symbols/Multiplicative Inverse.md",
+    "Notes/Math/General Math Terms/Set Symbols/Element Of.md",
+    "Notes/Math/General Math Terms/Math Symbols/Multiplicative Identity.md",
+    "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Multiplication.md",
+    "Notes/Math/General Math Terms/Math Symbols/Associativity Of Multiplication.md",
+    "Notes/Math/General Math Terms/Math Symbols/Closure Of Multiplication.md",
+    "Notes/Math/General Math Terms/Math Symbols/Additive Inverse.md",
+    "Notes/Math/General Math Terms/Math Symbols/Additive Identity.md",
+    "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Addition.md",
+    "Notes/Math/General Math Terms/Math Symbols/Associativity Of Addition.md",
+    "Notes/Math/General Math Terms/Math Symbols/Closure Of Addition.md",
+    "Notes/Math/General Math Terms/Intervals/Open Ray.md",
+    "Notes/Math/General Math Terms/Intervals/Closed Ray.md",
+    "Notes/Math/General Math Terms/Intervals/Half Open Interval.md",
     "Notes/Math/General Math Terms/Intervals/Open Interval.md",
+    "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
     "Notes/Math/General Math Terms/Intervals/Maximum.md",
     "Notes/Math/General Math Terms/Intervals/Minimum.md",
     "Notes/Math/General Math Terms/Intervals/Supremum.md",
-    "Notes/Math/General Math Terms/Intervals/Infimum.md",
-    "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
-    "Notes/Math/General Math Terms/Intervals/Upper Bound.md",
-    "Notes/Math/General Math Terms/Intervals/Interval.md",
-    "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
-    "Notes/Math/General Math Terms/General Math Terms.md",
-    "Notes/Math/General Math Terms/Math Symbols/Absolute Value.md",
-    "Notes/Math/General Math Terms/Math Symbols/Field.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Conservation Of Angular Momentum.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Position.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Rigid Body.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Particle.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum.md",
-    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
