@@ -6,12 +6,9 @@ tags:
 ---
 ## Definition
 
-Impulse $J$ is the change of [[Momentum]] of an object. Impulse is conserved in an [[Isolated System]].
-
-## #formula 
-
-$$J = p_f-p_i$$
-$$J=\int_{t_i}^{t_f} Fdt$$
+Impulse $\mathbf{J}$ is the change of [[Momentum]] of an object. Impulse is conserved in an [[Isolated System]].
+$$\mathbf{J} = \mathbf{p}_f-\mathbf{p}_i$$
+$$\mathbf{J}=\int_{t_i}^{t_f} \mathbf{F}dt$$
 ## Variables
 
 | Symbol | Meaning             | Units     |

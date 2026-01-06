@@ -11,9 +11,7 @@ The center of mass behaves like a concentrated point and is used to simplify com
 It's found by calculating the [[Weighted Average]] of the object.
 
 In the case of a [[System Of Particles]] $P_i \, i=1,2, ... n$ each with mass $m_i$
-that are located in space with the coordinates $\mathbf{r_i}$, the coordinates $\mathbf{R}$ of the center of mass are:
-## #formula 
-
+that are located in space with the coordinates $\mathbf{r_i}$, the coordinates $\mathbf{R}$ of the center of mass are: 
 $$
 \sum_{i=1}^{n} m_i \left( \mathbf{r}_i - \mathbf{R} \right) = 0.
 $$
