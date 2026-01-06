@@ -7,10 +7,8 @@ tags:
 ---
 ## Definition
 
-Linear momentum is a [[Vector]] representing an object's "quantity of motion" in a straight line.
+Linear momentum $\mathbf{P}$ is a [[Vector]] representing an object's "quantity of motion" in a straight line.
 Linear momentum is conserved in [[Isolated System]].
-## #formula 
-
 $$p=mv$$
 ## Variables
 
