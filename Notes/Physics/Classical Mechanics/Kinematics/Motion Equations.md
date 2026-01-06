@@ -5,22 +5,25 @@ tags:
   - classical-mechanics
   - kinematics
 ---
+## Overview
+
+The motion equation are he differential relations between
 ## #formula 
 
 $$
 \begin{array}{l}
-v = \frac{dx}{dt} \\
-a = \frac{dv}{dt} \\
-x(t) = x(0) + v(0)t + a \frac{t^2}{2} \\
-v(t)^2 = v(0)^2 + 2ax(t)
+\mathbf{v} = \frac{d\mathbf{x}}{dt} \\
+\mathbf{a} = \frac{d\mathbf{v}}{dt} \\
+\mathbf{x}(t) = \mathbf{x}(0) + \mathbf{v}(0)t + \mathbf{a} \frac{t^2}{2} \\
+\mathbf{v}(t)^2 = \mathbf{v}(0)^2 + 2\mathbf{ax}(t)
 \end{array}
 $$
 ## Variables
-| Symbol | Meaning          | Units             |
-| ------ | ---------------- | ----------------- |
-| $$x$$  | [[Displacement]] | $$m$$             |
-| $$v$$  | [[Velocity]]     | $$\frac{m}{s}$$   |
-| $$a$$  | [[Acceleration]] | $$\frac{m}{s^2}$$ |
+| Symbol         | Meaning          | Units               |
+| -------------- | ---------------- | ------------------- |
+| $$\mathbf{x}$$ | [[Displacement]] | $$(m)$$             |
+| $$\mathbf{v}$$ | [[Velocity]]     | $$(\frac{m}{s})$$   |
+| $$\mathbf{a}$$ | [[Acceleration]] | $$(\frac{m}{s^2})$$ |
 ## Description
 The motion equations are the differential relations between distance, speed and acceleration.
 

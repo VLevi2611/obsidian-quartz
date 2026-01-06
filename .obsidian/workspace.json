@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acceleration"
+              "title": "Motion Equations"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Acceleration"
+              "title": "Graph of Motion Equations"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Acceleration"
+              "title": "Graph of Motion Equations"
             }
           }
         ]
@@ -365,9 +365,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
     "Notes/Physics/Physics.md",
