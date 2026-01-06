@@ -14,13 +14,13 @@ Displacement is a vector whose length is the shortest distance between 2 points.
 [[Motion Equations]]
 $$
 \begin{array}{l}
-v = \frac{dx}{dt} \\
-x(t) = x(0) + v(0)t + a \frac{t^2}{2} \\
-v(t)^2 = v(0)^2 + 2ax(t)
+\mathbf{v} = \frac{d\mathbf{x}}{dt} \\
+\mathbf{x}(t) = \mathbf{x}(0) + \mathbf{v}(0)t + \mathbf{a} \frac{t^2}{2} \\
+\mathbf{v}(t)^2 = \mathbf{v}(0)^2 + 2\mathbf{ax}(t)
 \end{array}
 $$
 
-## Units
+## va
 $$m$$
 
 

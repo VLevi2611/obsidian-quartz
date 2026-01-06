@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vectors/Length (Norm).md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Length (Norm)"
+              "title": "Displacement"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vectors/Length (Norm).md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Length (Norm)"
+              "title": "Graph of Displacement"
             }
           },
           {
@@ -249,11 +249,104 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
+      },
+      {
+        "id": "e98c538aadd58dda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b683650bb45996cb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#world  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#subject  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#summary  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:#concept  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "tag:#formula  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    },
+                    {
+                      "query": "tag:#constant  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    },
+                    {
+                      "query": "tag:#symbol  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7220004025429937,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Displacement"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 346.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,12 +365,22 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+    "Notes/Physics/Physics.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
+    "Notes/Physics/Classical Mechanics/Oscillations/Amplitude Dependence.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Angular Acceleration.md",
+    "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
+    "Notes/Math/Linear Algebra/Vector Spaces/Subspace.md",
+    "Notes/Math/Linear Algebra/Linear Algebra.md",
+    "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
+    "Notes/Math/Linear Algebra/Vectors/Length (Norm).md",
     "Notes/Math/Linear Algebra/Vectors/Orthogonal Vectors.md",
     "Notes/Math/Linear Algebra/Vectors/Scalar Multiplication.md",
     "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
     "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
     "Notes/Math/Linear Algebra/Matrices/Transpose.md",
-    "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Biology/Biochemistry/Biochemistry.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
@@ -288,16 +391,6 @@
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
-    "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
-    "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
-    "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
-    "Notes/Math/Linear Algebra/Matrices/Determinant.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
-    "Notes/Math/Linear Algebra/Vectors/Length (Norm).md",
-    "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
