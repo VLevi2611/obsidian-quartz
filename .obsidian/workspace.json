@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md",
+                "file": "Notes/Physics/Classical Mechanics/Energy/Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton's Second Law"
+              "title": "Work"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md",
+                "file": "Notes/Physics/Classical Mechanics/Energy/Work.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Newton's Second Law"
+              "title": "Graph of Work"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md",
+                "file": "Notes/Physics/Classical Mechanics/Energy/Work.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Newton's Second Law"
+              "title": "Graph of Work"
             }
           }
         ]
@@ -365,16 +365,17 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity Force Formula.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
+    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
     "Notes/Physics/Classical Mechanics/Newton's Laws/Force.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity Force Formula.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md",
     "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
     "Notes/Physics/Physics.md",
-    "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
@@ -390,7 +391,6 @@
     "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
     "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
     "Notes/Math/Linear Algebra/Matrices/Transpose.md",
-    "Notes/Biology/Biochemistry/Biochemistry.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
