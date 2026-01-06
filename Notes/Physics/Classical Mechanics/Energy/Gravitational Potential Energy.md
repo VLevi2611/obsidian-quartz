@@ -10,12 +10,11 @@ tags:
 Gravitational potential energy $(U_g)$ is a type of [[Potential Energy]] that stems from the position of an. object in space. 
 ## #formula 
 
-$$U_g=mgh$$
+$$U_g=m\mathbf{g}h$$
 ## ## Variables
-| Symbol | Meaning                            | Units             |
-| ------ | ---------------------------------- | ----------------- |
-| $U_g$  | [[toolbox file/Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy]] | $(J)$             |
-| $m$    | [[Mass]]                           | $(Kg)$            |
-| $g$    | [[Gravitational Constant]]         | $(\frac{m}{s^2})$ |
-| $h$    | Height                             | $(m)$             |
+| Symbol         | Meaning                    | Units               |
+| -------------- | -------------------------- | ------------------- |
+| $$m$$          | [[Mass]]                   | $$(Kg)$$            |
+| $$\mathbf{g}$$ | [[Gravitational Constant]] | $$(\frac{m}{s^2})$$ |
+| $$h$$          | Height                     | $(m)$               |
 

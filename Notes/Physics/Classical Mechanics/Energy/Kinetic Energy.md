@@ -7,7 +7,7 @@ tags:
 ---
 ## Definition
 
-Kinetic energy $(E_K)$ is the energy that an object has from its motion.
+Kinetic energy $(E_K)$ is the energy that an object has from its motion. 
 
 ## #formula 
 
