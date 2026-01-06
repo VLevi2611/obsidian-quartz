@@ -11,10 +11,9 @@ $$\mathbf{J} = \mathbf{p}_f-\mathbf{p}_i$$
 $$\mathbf{J}=\int_{t_i}^{t_f} \mathbf{F}dt$$
 ## Variables
 
-| Symbol | Meaning             | Units     |
-| ------ | ------------------- | --------- |
-| $$J$$  | [[Impulse]]         | $$(N s)$$ |
-| $$p$$  | [[Linear Momentum]] | $$(Ns)$$  |
-| $$F$$  | [[Force]]           | $$(N)$$   |
+| Symbol         | Meaning             | Units    |
+| -------------- | ------------------- | -------- |
+| $$\mathbf{p}$$ | [[Linear Momentum]] | $$(Ns)$$ |
+| $$\mathbf{F}$$ | [[Force]]           | $$(N)$$  |
 
 

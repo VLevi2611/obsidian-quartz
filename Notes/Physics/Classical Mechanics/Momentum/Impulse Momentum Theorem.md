@@ -10,16 +10,16 @@ The impulse momentum theorem states that the [[Impulse]] applied to an object is
 
 ## #formula 
 
-$$J= \int_{t_i}^{t_f} Fdt = m(v_f-v_i)$$
+$$\mathbf{J}= \int_{t_i}^{t_f} \mathbf{F}dt = m(\mathbf{v}_f-\mathbf{v}_i)$$
 ## Variables
 
-| Symbol | Meaning             | Units             |
-| ------ | ------------------- | ----------------- |
-| $$J$$  | [[Impulse]]         | $$(N s)$$         |
-| $$p$$  | [[Linear Momentum]] | $$(Ns)$$          |
-| $$F$$  | [[Force]]           | $$(N)$$           |
-| $$m$$  | [[Mass]]            | $$(Kg)$$          |
-| $$v$$  | [[Velocity]]        | $$(\frac{m}{s})$$ |
+| Symbol         | Meaning             | Units             |
+| -------------- | ------------------- | ----------------- |
+| $$\mathbf{J}$$ | [[Impulse]]         | $$(N s)$$         |
+| $$\mathbf{p}$$ | [[Linear Momentum]] | $$(Ns)$$          |
+| $$\mathbf{F}$$ | [[Force]]           | $$(N)$$           |
+| $$m$$          | [[Mass]]            | $$(Kg)$$          |
+| $$\mathbf{v}$$ | [[Velocity]]        | $$(\frac{m}{s})$$ |
 
 
 
