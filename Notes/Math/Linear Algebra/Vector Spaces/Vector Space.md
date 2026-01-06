@@ -10,6 +10,9 @@ A vector space is a [[Set]] of [[Vector]]s or [[Matrix]] where the operation of 
 1. [[Associativity Of Addition]] for vectors: $$\mathbf{u+(v+w)=(u+v)+w}$$
 2. [[Commutativity Of Addition]] for vectors: $$\mathbf{u+v=v+u}$$
 3. [[Additive Identity]] for vectors: There [[Exists]] [[Element Of]] the set $\mathbf{0} \in V$ called the [[Zero Vector]], such that $$\mathbf{v+(-v)=0}$$
+4. Compatibility of [[Scalar Multiplication]] with [[Field Multiplication]]: $$a(b\mathbf{v})=(ab)\mathbf{v}$$
+5. [[Multiplicative Identity]] for vectors: $$1\mathbf{v=v}$$
+6. [[Distributivity]] of scalar multiplication with respect to vector a
 
 ## #concept 
 

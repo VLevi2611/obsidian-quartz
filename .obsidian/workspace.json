@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
+                "file": "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zero Vector"
+              "title": "Vector Space"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Vectors/Vector.md",
-    "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
+    "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
+    "Notes/Math/Linear Algebra/Vectors/Vector.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
