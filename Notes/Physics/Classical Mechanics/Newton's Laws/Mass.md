@@ -6,13 +6,11 @@ tags:
   - dynamics
 ---
 ## Definition
-Mass is a scalar quantity that measures the amount of matter in an object and represents its resistance to acceleration when a force is applied.
 
-## #formula 
+Mass $m$ is a [[Scalar]] quantity that measures the amount of [[Matter]] in an object and represents its resistance to [[Acceleration]] when a [[Force]] is applied.
 
-[[Newton's Second Law]]
-$$ F = ma $$
 ## Units
-Kilogram  $$kg$$
+
+Kilogram  $$(Kg)$$
 ## Notes
 - Do not confuse mass with weight.

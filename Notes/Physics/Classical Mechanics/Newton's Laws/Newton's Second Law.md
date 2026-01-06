@@ -5,15 +5,17 @@ tags:
   - classical-mechanics
   - dynamics
 ---
+## Description
+Newton's second 
 ## #formula 
 
-$$ F = m \, a $$
+$$ \mathbf{F} = m \mathbf{a} $$
 ## Variables
-| Symbol | Meaning          | Units             |
-| ------ | ---------------- | ----------------- |
-| $$F$$  | [[Force]]        | $$N$$             |
-| $$m$$  | [[Mass]]         | $$kg$$            |
-| $$a$$  | [[Acceleration]] | $$\frac{m}{s^2}$$ |
+| Symbol         | Meaning          | Units               |
+| -------------- | ---------------- | ------------------- |
+| $$\mathbf{F}$$ | [[Force]]        | $$(N)$$             |
+| $$m$$          | [[Mass]]         | $$(Kg)$$            |
+| $$\mathbf{a}$$ | [[Acceleration]] | $$(\frac{m}{s^2})$$ |
 
 ## Description
 Relates the net force acting on a body to its mass and acceleration.  
