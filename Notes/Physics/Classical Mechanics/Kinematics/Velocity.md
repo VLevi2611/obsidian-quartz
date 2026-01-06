@@ -7,19 +7,10 @@ tags:
   - vector
 ---
 ## Definition
-Velocity is a vector that measures speed in a certain direction.
 
-## #formula 
+Velocity $\mathbf{v}$ is a [[Vector]] that measures speed in a certain direction.
+Velocity is the integral of [[Acceleration]]
 
-[[Motion Equations]]
-$$
-\begin{array}{l}
-v = \frac{dx}{dt} \\
-a = \frac{dv}{dt} \\
-x(t) = x(0) + v(0)t + a \frac{t^2}{2} \\
-v(t)^2 = v(0)^2 + 2ax(t)
-\end{array}
-$$
 ## Units
-$$\frac{m}{s}$$
+Meters per second $$(\frac{m}{s})$$
 

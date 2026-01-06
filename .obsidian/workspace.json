@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Displacement"
+              "title": "Velocity"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Displacement"
+              "title": "Graph of Velocity"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+                "file": "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Displacement"
+              "title": "Graph of Velocity"
             }
           }
         ]
@@ -365,9 +365,10 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
     "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Oscillations/Amplitude Dependence.md",
@@ -390,7 +391,6 @@
     "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
