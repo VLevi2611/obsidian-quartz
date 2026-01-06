@@ -7,20 +7,18 @@ tags:
   - vector
 ---
 ## Definition
-Force is a [[Vector]] that causes an object with [[Mass]] to accelerate.
+Force $\mathbf{F}$ is a [[Vector]] that causes an object with [[Mass]] to have [[Acceleration]].
 
 ## #formula 
 
 [[Newton's Second Law]]
-$$ F = ma $$
+$$ \mathbf{F} = m\mathbf{a} $$
 [[Gravity Force Formula]]
 $$
-\begin{array}{l}
-F_g = m \, g
-\end{array}
+\mathbf{F}_g = m \mathbf{g}
 $$
 ## Units
-Newtons $$N$$
+Newtons $$(N)$$
 ## Notes
 - Direction of force determines direction of acceleration.
 - Net force determines changes in motion.

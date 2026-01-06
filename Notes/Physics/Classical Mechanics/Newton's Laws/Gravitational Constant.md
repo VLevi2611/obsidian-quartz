@@ -5,10 +5,10 @@ tags:
   - classical-mechanics
   - dynamics
 ---
-## Symbol
-$$g$$
 ## Definition
-Gravitational constant gives the strength of the gravitational field induced by a [[Mass]].
+
+Gravitational constant $\mathbf{g}$ gives the strength of the gravitational field induced by a [[Mass]].
+
 ## Value
 $$g = 9.8 (\frac{m}{s^2})$$
 ## #formula 
