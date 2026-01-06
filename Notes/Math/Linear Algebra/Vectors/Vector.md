@@ -17,5 +17,6 @@ Notate vectors in **bald** $\mathbf{r}$ and not $r$.
 - [[Dot Product]]
 - [[Orthogonal Vectors]]
 - [[Length (Norm)]]
+- [[Zero Vector]]
 
 ## #problem 

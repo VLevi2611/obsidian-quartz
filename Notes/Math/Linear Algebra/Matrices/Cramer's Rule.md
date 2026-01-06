@@ -12,4 +12,4 @@ In the general case, a system of $n$ linear equations for $n$ unknowns, represen
 $$\mathbf{Ax}=\mathbf{b}$$
 where the $n$x$n$ [[Matrix]] $A$ has a non 0 [[Determinant]].
 $$x_i=\frac{\det \mathbf{A}_i}{\det \mathbf{A}}$$
-where $A_i$ is the matrix formed by replacing the $i$ column of $A$ with the [[Vector]] $b$.
+where $\mathbf{A}_i$ is the matrix formed by replacing the $i$ column of $\mathbf{A}$ with the [[Vector]] $\mathbf{b}$.
