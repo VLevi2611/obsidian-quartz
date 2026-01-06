@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
+                "file": "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Independence"
+              "title": "Zero Vector"
             }
           }
         ]
@@ -185,7 +185,14 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Math/Linear Algebra/Vectors/Vector.md",
+    "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
+    "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
@@ -204,13 +211,6 @@
     "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
     "Notes/Math/Linear Algebra/Vectors/Coordinates.md",
     "Notes/Math/Math.md",
-    "Notes/Math/Linear Algebra/Vectors/Vector.md",
-    "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
