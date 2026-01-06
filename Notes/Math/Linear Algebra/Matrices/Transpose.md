@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-A transpose $A^T$ is a [[Matrix]] operation that flips a matrix over 
+A transpose $\mathbf{A}^T$ is a [[Matrix]] operation that flips a matrix over 
 its diagonal (rows and columns switch).
 
 $$\mathbf{A}=\begin{pmatrix}

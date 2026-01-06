@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-The inverse of a [[Matrix]] $A^{-1}$ exists only when the [[Determinant]] is not 0. The inverse reverses the [[Linear Transformation]] of the matrix.
+The inverse of a [[Matrix]] $\mathbf{A}^{-1}$ exists only when the [[Determinant]] is not 0. The inverse reverses the [[Linear Transformation]] of the matrix.
 There are several ways to compute the inverse:
 ### Gaussian elimination
 $$\mathbf{A}=\begin{pmatrix}

@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-Matrix multiplication $AB$ represents the composition of two [[Linear Transformation]]s: applying $B$ first, then $A$. The calculation involves multiplying $A$ by each column of $B$.
+Matrix multiplication $AB$ represents the composition of two [[Linear Transformation]]s: applying $\mathbf{B}$ first, then $\mathbf{A}$. The calculation involves multiplying $\mathbf{A}$ by each column of $\mathbf{B}$.
 
 $$\mathbf{A}= 
 \begin{pmatrix}
