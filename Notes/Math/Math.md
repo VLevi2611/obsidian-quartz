@@ -44,7 +44,7 @@ tags:
 - [[Multiplicative Identity]]
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
-- [[Notes/Math/General Math Terms/Math Symbols/Field]]
+- [[Field]]
 
 ###### #symbol 
 
@@ -76,7 +76,7 @@ tags:
 - [[Whole Number]]
 - [[Rational Number]]
 - [[Real Number]]
-- [[Complex Number
+- [[Complex Number]]
 ### [[Calculus]]
 
 #### #summary 
