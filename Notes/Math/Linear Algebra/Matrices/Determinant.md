@@ -12,11 +12,11 @@ If the determinant is 0, the space is compressed into a lower dimension.
 --- 
 
 ### In $2*2$
-$$A = \begin{pmatrix}
+$$\mathbf{A} = \begin{pmatrix}
 a & b \\
 c & d
 \end{pmatrix}$$
-$$\det A= \begin{vmatrix}
+$$\det \mathbf{A}= \begin{vmatrix}
 a & b \\
 c & d
 \end{vmatrix} = ad-bc$$

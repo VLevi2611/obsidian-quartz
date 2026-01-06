@@ -18,8 +18,8 @@ a_{21} & a_{22}
 \mathbf{y}
 \end{pmatrix}=
 \begin{pmatrix}
-a_{11}x+a_{12}y \\
-a_{21}x+a_{22}y
+a_{11}\mathbf{x}+a_{12}\mathbf{y} \\
+a_{21}\mathbf{x}+a_{22}\mathbf{y}
 \end{pmatrix}
 $$
 

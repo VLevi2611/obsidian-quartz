@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
+                "file": "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Vector Multiplication"
+              "title": "Cramer's Rule"
             }
           }
         ]
@@ -186,6 +186,12 @@
   "active": "01354666a8200162",
   "lastOpenFiles": [
     "Notes/Math/Linear Algebra/Matrices/Matrix.md",
+    "Notes/Math/Linear Algebra/Matrices/Transpose.md",
+    "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
+    "Notes/Math/Linear Algebra/Matrices/Determinant.md",
+    "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
+    "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
+    "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
     "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Vectors/Vector.md",
@@ -205,12 +211,6 @@
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
-    "Notes/Math/Linear Algebra/Matrices/Determinant.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
