@@ -6,14 +6,13 @@ tags:
 ---
 ## Sign 
 $$
-\begin{array}{l}
-^c /' \\
-A^c
-\end{array}
+^c /' 
 $$
 ## Definition
-Given a set, the complement to that set is composed of every non [[Element Of]] the set.
+
+Given a [[Set]], the complement to that set is composed of every non [[Element Of]] the set.
 ## Latex
+
 ^c /'
 ## Example
 $$

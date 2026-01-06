@@ -6,14 +6,13 @@ tags:
 ---
 ## Sign 
 $$
-\begin{array}{l}
-\in \\
-\in \mathbb{Z}
-\end{array}
+\in 
 $$
 ## Definition
+
 If an element is in a [[Set]], he is an element of the set.
 ## Latex
+
 \in
 
 ## Example

@@ -6,10 +6,7 @@ tags:
 ---
 ## Sign 
 $$
-\begin{array}{l}
-\exists \\
-\exists n \in \mathbb{Z}
-\end{array}
+\exists 
 $$
 ## Definition
 

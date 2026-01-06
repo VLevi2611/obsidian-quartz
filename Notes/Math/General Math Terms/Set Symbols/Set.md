@@ -5,6 +5,7 @@ tags:
   - general-math-terms
 ---
 ## Overview
+
 A set is a collection of elements. Notate a set with curly brackets "{}"
 for example:
 $$\{1,2,3\}$$
