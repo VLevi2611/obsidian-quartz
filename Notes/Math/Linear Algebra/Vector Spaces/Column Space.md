@@ -45,4 +45,4 @@ $$\mathbf{A}=\begin{bmatrix}
 The column vectors are $\mathbf{v_1}=\begin{bmatrix}1 & 0 & 2 \end{bmatrix}^T$ and $\mathbf{v_2}=\begin{bmatrix}0 & 1 & 0 \end{bmatrix}^T$. A linear combination of them is any vector of the form
 $$c_1\begin{bmatrix}1 \\ 0 \\ 2 \end{bmatrix}+
 c_2\begin{bmatrix}0 \\ 1 \\ 0 \end{bmatrix}=
-$$
+\begin{bmatrix} c_1 \\ c_2 \\ 2c_1 \end{bmatrix}$$
