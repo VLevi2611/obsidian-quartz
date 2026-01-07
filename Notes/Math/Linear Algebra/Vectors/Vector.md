@@ -18,5 +18,7 @@ Notate vectors in **bald** $\mathbf{r}$ and not $r$.
 - [[Orthogonal Vectors]]
 - [[Length (Norm)]]
 - [[Zero Vector]]
+- [[Column Vector]]
+- [[Row Vector]]
 
 ## #problem 

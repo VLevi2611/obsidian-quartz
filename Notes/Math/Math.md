@@ -149,6 +149,8 @@ tags:
 - [[Orthogonal Vectors]]
 - [[Length (Norm)]]
 - [[Zero Vector]]
+- [[Column Vector]]
+- [[Row Vector]]
 
 ##### [[Matrix]]
 
