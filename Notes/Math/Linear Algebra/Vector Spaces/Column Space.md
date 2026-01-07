@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-A column space of a [[Matrix]] is a [[Span]] of its [[column ve]]
+A column space of a [[Matrix]] is a [[Span]] of its [[Column Vector]]s.
 
 
