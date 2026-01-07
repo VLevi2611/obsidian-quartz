@@ -15,5 +15,5 @@ $$c_1\mathbf{v}_1+c_2\mathbf{v}_2+...+c_n\mathbf{v}_n$$ The [[Set]] of all possi
 ## Example
 
 Given $\mathbf{A}=\begin{bmatrix}1 & 0  & 2 \\ 0 & 1 & 0 \end{bmatrix}$
-Then the row vectors are $\mathbf{v_1}=\begin{bmatrix} 1 & 0 & 2 \end{bmatrix}$ and $\mathbf{v_2}=$
+Then the row vectors are $\mathbf{v_1}=\begin{bmatrix} 1 & 0 & 2 \end{bmatrix}$ and $\mathbf{v_2}=\begin{bmatrix} 0 & 1 & 0 \end{bmatrix}$. A linear combination of them is any vector of the form $c_1\begin{bmatrix} 1 & 0 & 2 \end{bmatrix}+c_2\begin{bmatrix} 0 & 1 & 0 \end{bmatrix}=\begin{bmatrix} c_1 & c_2 & 2c_1 \end{bmatrix}$
 
