@@ -16,5 +16,24 @@ $$\mathbf{A}
 c_1 \\ c_2 \\ ... \\ c_n 
 \end{bmatrix}=
 \begin{bmatrix}
-
-\end{bmatrix}$$
+a_{11} & ... & a_{1n} \\
+... & ... & ... \\
+a_{m1} & ... & a_{mn}
+\end{bmatrix}
+\begin{bmatrix}
+c_1 \\ c_2 \\ ... \\ c_n 
+\end{bmatrix}=
+\begin{bmatrix}
+c_1a_{11} & ... & c_na_{1n} \\
+... & ... & ... \\
+c_1a_{m1} & ... & c_na_{mn}
+\end{bmatrix}=c_1
+\begin{bmatrix}
+a_{11}  \\ ... \\ a_{m1} 
+\end{bmatrix}+ ...+
+c_n
+\begin{bmatrix}
+a_{1n}  \\ ... \\ a_{mn}
+\end{bmatrix}=
+$$ $$=c_1\mathbf{v}_1+c_2\mathbf{v}_2+...+c_n\mathbf{v}_n$$
+## Example
