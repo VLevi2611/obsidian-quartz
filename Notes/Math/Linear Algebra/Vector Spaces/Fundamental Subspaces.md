@@ -6,7 +6,9 @@ tags:
 ---
 ## Definition
 
-The 4 fundamental [[Subspace]]s of an $m \times n$ [[Matrix]] $\mathbf{A}$ with [[Rank]] $r$ ar:
+The 4 fundamental [[Subspace]]s of an $m \times n$ [[Matrix]] $\mathbf{A}$ with [[Rank]] $r$ are:
 1. [[Column Space]] with rank $r$.
-2. [[Row Space]] with rank 
+2. [[Row Space]] with rank $r$
+3. [[Null Space]] with rank $n-r$.
+4. Left null space with rank $m-r$.
 
