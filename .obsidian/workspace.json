@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
+                "file": "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Representation"
+              "title": "Linear Transformation"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
+                "file": "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Matrix Representation"
+              "title": "Graph of Linear Transformation"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
+                "file": "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Matrix Representation"
+              "title": "Graph of Linear Transformation"
             }
           }
         ]
@@ -365,7 +365,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Math/Linear Algebra/Linear Transformations/Composition.md",
     "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
+    "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
     "Notes/Math/Linear Algebra/Linear Transformations/Geometric Properties Of Linear Transformations.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
@@ -389,8 +391,6 @@
     "Notes/Math/General Math Terms/Set Symbols/Real Number.md",
     "Notes/Math/General Math Terms/Set Symbols/Rational Number.md",
     "Notes/Math/General Math Terms/Set Symbols/Whole Number.md",
-    "Notes/Math/General Math Terms/Set Symbols/Natural Number.md",
-    "Notes/Math/General Math Terms/Set Symbols/Intersection.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
