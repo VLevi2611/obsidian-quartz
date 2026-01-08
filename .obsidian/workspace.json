@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
+                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orthogonality"
+              "title": "Linear Algebra"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
+                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Orthogonality"
+              "title": "Graph of Linear Algebra"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
+                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Orthogonality"
+              "title": "Graph of Linear Algebra"
             }
           }
         ]
@@ -365,8 +365,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
+    "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
+    "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Null Space.md",
     "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Subspace.md",
@@ -390,7 +391,6 @@
     "Notes/Math/General Math Terms/Set Symbols/Intersection.md",
     "Notes/Math/General Math Terms/Set Symbols/Union.md",
     "Notes/Math/General Math Terms/Set Symbols/Subset.md",
-    "Notes/Math/General Math Terms/Set Symbols/Set Difference.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",

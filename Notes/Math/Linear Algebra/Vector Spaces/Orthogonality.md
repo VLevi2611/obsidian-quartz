@@ -14,4 +14,8 @@ Two subspaces are orthogonal if **every vector** in one is orthogonal to **every
 Let $\mathbf{A} \in \mathbb{R}^{m \times n}$. 
 In $\mathbb{R}^m$ $$Row(\mathbf{A}) \perp Null(\mathbf{A})$$
 In $\mathbb{R}^n$ $$Col(\mathbf{A}) \perp Null(\mathbf{A}^T)$$
-
+There are [[Dimension]]al relationships between the subspaces:
+$$\begin{array}{l}
+\dim (Row(\mathbf{A})) + \dim(Null(\mathbf{A}))=n \\
+\dim (Col(\mathbf{a})) + \dim(Null(\mathbf{A}^T))=m
+\end{array}$$
