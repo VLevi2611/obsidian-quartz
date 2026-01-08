@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
+                "file": "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamental Subspaces"
+              "title": "Orthogonality"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
+                "file": "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Fundamental Subspaces"
+              "title": "Graph of Orthogonality"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
+                "file": "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Fundamental Subspaces"
+              "title": "Graph of Orthogonality"
             }
           }
         ]
@@ -365,12 +365,12 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Null Space.md",
     "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Subspace.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
-    "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Row Space.md",
     "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
     "Notes/Math/Linear Algebra/Vectors/Row Vector.md",
