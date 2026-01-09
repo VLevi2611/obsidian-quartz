@@ -18,4 +18,10 @@ $$\begin{bmatrix}
 \begin{bmatrix}
 c_1 \\ c_2 \\ ... \\ c_n
 \end{bmatrix}$$
+Let $\mathbf{P_B}$ be a matrix whose columns are the vectors of $\mathbf{B}$ written in the standard basis.
+$$\begin{array}{l}
+\mathbf{v}=\mathbf{P_B}\begin{bmatrix}\mathbf{v}\end{bmatrix}_\mathbf{B} \\
+\begin{bmatrix}\mathbf{v}\end{bmatrix}_\mathbf{B}=
+\mathbf{P_B}^{-1}\mathbf{v}
+\end{array}$$
 
