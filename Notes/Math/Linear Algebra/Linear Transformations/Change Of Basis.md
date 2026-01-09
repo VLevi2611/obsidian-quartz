@@ -29,5 +29,15 @@ $$\begin{array}{l}
 \begin{bmatrix}
 \mathbf{v}
 \end{bmatrix} _\mathbf{C}=
-\mathbf{P_C}^{-1}
+\mathbf{P_C}^{-1} \mathbf{v} \\
+\begin{bmatrix}
+\mathbf{v}
+\end{bmatrix} _\mathbf{C}=
+\mathbf{P_C}^{-1} \mathbf{P_B[v]} \\
+\mathbf{P_{C \leftarrow B}} = \mathbf{P_C}^{-1} \mathbf{P_B}
 \end{array}$$
+$\mathbf{P_{C \leftarrow B}}$ is the change of basis [[Matrix]].
+
+## Properties
+
+- Change of basis matrices are invertable
