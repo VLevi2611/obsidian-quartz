@@ -24,4 +24,10 @@ $$\begin{array}{l}
 \begin{bmatrix}\mathbf{v}\end{bmatrix}_\mathbf{B}=
 \mathbf{P_B}^{-1}\mathbf{v}
 \end{array}$$
-
+Let $\mathbf{C}$ be a basis for $\mathbb{R}^n$. To convert coordinates from $\mathbf{B}$ to $\mathbf{C}$:
+$$\begin{array}{l}
+\begin{bmatrix}
+\mathbf{v}
+\end{bmatrix} _\mathbf{C}=
+\mathbf{P_C}^{-1}
+\end{array}$$
