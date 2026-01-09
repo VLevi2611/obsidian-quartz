@@ -12,7 +12,7 @@ tags:
 - [[Eigenvalue]]
 - [[Eigenvalue Equation]]
 - [[Characteristic Polynomial]]
-- [[Trace And Eigenvalues]]
+- [[Trace]]
 - [[Determinant And Eigenvalues]]
 
 ## #problem 

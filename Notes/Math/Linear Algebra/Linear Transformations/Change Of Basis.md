@@ -40,4 +40,7 @@ $\mathbf{P_{C \leftarrow B}}$ is the change of basis [[Matrix]].
 
 ## Properties
 
-- Change of basis matrices are invertable
+- Change of basis matrices are invertible. (have inverse)
+- The [[Inverse Matrix]] corresponds to reversing the direction of change.
+- Basis change is linear.
+- The same vector has different coordinates in different bases.
