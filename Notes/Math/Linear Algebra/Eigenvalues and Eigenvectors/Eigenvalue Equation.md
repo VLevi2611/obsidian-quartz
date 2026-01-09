@@ -6,9 +6,6 @@ tags:
 ---
 ## Definition
 
-## #formula 
+The Eigenvalue equation describes how a [[Linear Transformation]] $\mathbf{A}$ acts on a [[Eigenvector]] $\mathbf{v}$,
 
-## Units
-
-## Notes
 

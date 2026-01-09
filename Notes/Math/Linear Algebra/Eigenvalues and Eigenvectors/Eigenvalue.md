@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+Eigenvalue is the [[Scalar]] $\lambda$ that scales the [[Eigenvector]].
 
