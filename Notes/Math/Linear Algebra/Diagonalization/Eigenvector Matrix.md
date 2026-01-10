@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+The eigenvector matrix $\mathbf{X}$ is a [[Matrix]] formed by placing the [[Eigenvector]]
 
