@@ -1108,9 +1108,9 @@
         "Notes/Physics/Electromagnetism",
         "Notes/Physics/Electric Circuits",
         "Notes/Physics/Optics and Waves",
+        "Notes/Physics/Thermodynamics",
         "Notes/Physics/Fluid Mechanics",
-        "Notes/Physics/Signal Processing",
-        "Notes/Physics/Thermodynamics"
+        "Notes/Physics/Signal Processing"
       ],
       "sortOrder": "custom"
     },
@@ -1246,14 +1246,14 @@
     },
     "Notes/Physics/Electric Circuits": {
       "children": [
+        "Notes/Physics/Electric Circuits/Electric Circuits.md",
         "Notes/Physics/Electric Circuits/Ohm's and Kirchhoff's Laws",
         "Notes/Physics/Electric Circuits/Thevenin and Norton",
         "Notes/Physics/Electric Circuits/AC Circuits",
         "Notes/Physics/Electric Circuits/Impedance",
         "Notes/Physics/Electric Circuits/Filters",
         "Notes/Physics/Electric Circuits/Transients",
-        "Notes/Physics/Electric Circuits/Op Amps",
-        "Notes/Physics/Electric Circuits/Electric Circuits.md"
+        "Notes/Physics/Electric Circuits/Op Amps"
       ],
       "sortOrder": "custom"
     },
@@ -1357,13 +1357,13 @@
     "Notes/Physics/Fluid Mechanics": {
       "children": [
         "Notes/Physics/Fluid Mechanics/Fluid Mechanics.md",
+        "Notes/Physics/Fluid Mechanics/Fluid Properties",
+        "Notes/Physics/Fluid Mechanics/Pressure",
+        "Notes/Physics/Fluid Mechanics/Hydrostatics",
         "Notes/Physics/Fluid Mechanics/Bernoulli",
         "Notes/Physics/Fluid Mechanics/Continuity",
-        "Notes/Physics/Fluid Mechanics/Fluid Properties",
-        "Notes/Physics/Fluid Mechanics/Hydrostatics",
-        "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows",
-        "Notes/Physics/Fluid Mechanics/Pressure",
-        "Notes/Physics/Fluid Mechanics/Viscosity"
+        "Notes/Physics/Fluid Mechanics/Viscosity",
+        "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows"
       ],
       "sortOrder": "custom"
     },
@@ -1412,12 +1412,12 @@
     "Notes/Physics/Optics and Waves": {
       "children": [
         "Notes/Physics/Optics and Waves/Optics and Waves.md",
-        "Notes/Physics/Optics and Waves/Diffraction",
+        "Notes/Physics/Optics and Waves/Wave Properties",
         "Notes/Physics/Optics and Waves/Interference",
-        "Notes/Physics/Optics and Waves/Lenses",
-        "Notes/Physics/Optics and Waves/Polarization",
+        "Notes/Physics/Optics and Waves/Diffraction",
         "Notes/Physics/Optics and Waves/Refraction",
-        "Notes/Physics/Optics and Waves/Wave Properties"
+        "Notes/Physics/Optics and Waves/Lenses",
+        "Notes/Physics/Optics and Waves/Polarization"
       ],
       "sortOrder": "custom"
     },
@@ -1515,11 +1515,11 @@
     "Notes/Physics/Thermodynamics": {
       "children": [
         "Notes/Physics/Thermodynamics/Thermodynamics.md",
-        "Notes/Physics/Thermodynamics/Entropy",
+        "Notes/Physics/Thermodynamics/Temperature and Heat",
         "Notes/Physics/Thermodynamics/First Law",
-        "Notes/Physics/Thermodynamics/Heat Engines",
         "Notes/Physics/Thermodynamics/Second Law",
-        "Notes/Physics/Thermodynamics/Temperature and Heat"
+        "Notes/Physics/Thermodynamics/Entropy",
+        "Notes/Physics/Thermodynamics/Heat Engines"
       ],
       "sortOrder": "custom"
     },
@@ -1538,12 +1538,6 @@
     "Notes/Physics/Thermodynamics/Heat Engines": {
       "children": [
         "Notes/Physics/Thermodynamics/Heat Engines/Heat Engines.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Physics/Thermodynamics/Second Law": {
-      "children": [
-        "Notes/Physics/Thermodynamics/Second Law/Second Law.md"
       ],
       "sortOrder": "custom"
     },
@@ -1606,6 +1600,12 @@
         "Templates/Subject Template.md",
         "Templates/World Template.md",
         "Templates/Summary Template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Thermodynamics/Second Law": {
+      "children": [
+        "Notes/Physics/Thermodynamics/Second Law/Second Law.md"
       ],
       "sortOrder": "custom"
     }

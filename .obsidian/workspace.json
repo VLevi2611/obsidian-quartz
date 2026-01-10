@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Physics.md",
+                "file": "Notes/Physics/Thermodynamics/Thermodynamics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics"
+              "title": "Thermodynamics"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Physics.md",
+                "file": "Notes/Physics/Thermodynamics/Thermodynamics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Physics"
+              "title": "Graph of Thermodynamics"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Physics.md",
+                "file": "Notes/Physics/Thermodynamics/Thermodynamics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Physics"
+              "title": "Graph of Thermodynamics"
             }
           }
         ]
@@ -365,9 +365,13 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Physics/Physics.md",
+    "Notes/Physics/Fluid Mechanics/Fluid Mechanics.md",
+    "Notes/Physics/Optics and Waves/Optics and Waves.md",
+    "Notes/Physics/Electric Circuits/Filters/Filters.md",
+    "Notes/Physics/Electric Circuits/Electric Circuits.md",
     "Notes/Physics/Electromagnetism/Electromagnetism.md",
     "Notes/Physics/Electromagnetism/Electrostatics/Electrostatics.md",
-    "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Vectors/Column Vector.md",
@@ -387,10 +391,6 @@
     "Notes/Math/Linear Algebra/Diagonalization/Eigenbasis.md",
     "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
-    "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md",
-    "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Trace.md",
-    "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Characteristic Polynomial.md",
-    "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalue Equation.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
