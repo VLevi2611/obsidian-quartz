@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
+                "file": "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diagonal Matrix"
+              "title": "Diagonalization"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
+                "file": "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Diagonal Matrix"
+              "title": "Graph of Diagonalization"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
+                "file": "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -339,7 +339,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Diagonal Matrix"
+              "title": "Graph of Diagonalization"
             }
           }
         ]
@@ -366,6 +366,8 @@
   "active": "01354666a8200162",
   "lastOpenFiles": [
     "Notes/Math/Linear Algebra/Linear Algebra.md",
+    "Notes/Math/Linear Algebra/Diagonalization/Eigenvector Matrix.md",
+    "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
     "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md",
@@ -389,8 +391,6 @@
     "Notes/Math/Linear Algebra/Vector Spaces/Subspace.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Row Space.md",
-    "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
-    "Notes/Math/Linear Algebra/Vectors/Row Vector.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",

@@ -6,6 +6,7 @@ tags:
 ---
 ## Overview
 
+Diagonalization 
 ## #concept 
 
 - [[Diagonal Matrix]]
