@@ -13,11 +13,11 @@ This is a collection of all the set terms we use.
 - [[Set]]
 ## #symbol 
 
-- [[Complement]]
+- [[Subset]]
 - [[Element Of]]
+- [[Complement]]
 - [[Intersection]]
 - [[Set Difference]]
-- [[Subset]]
 - [[Union]]
 - [[Natural Number]]
 - [[Whole Number]]

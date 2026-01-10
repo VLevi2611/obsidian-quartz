@@ -11,6 +11,8 @@ tags:
 
 #### #concept 
 
+- [[Scalar]]
+- [[Field]]
 - [[Closure Of Addition]]
 - [[Associativity Of Addition]]
 - [[Commutativity Of Addition]]
@@ -22,19 +24,18 @@ tags:
 - [[Multiplicative Identity]]
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
-- [[Field]]
 
 #### #symbol  
 
-- [[Absolute Value]]
 - [[Addition]]
+- [[Subtraction]]
+- [[Multiplication]]
 - [[Division]]
+- [[Absolute Value]]
 - [[Exists]]
 - [[For All]]
 - [[If and Only If]]
 - [[Implication]]
-- [[Multiplication]]
-- [[Subtraction]]
 #### #problem 
 
 ### [[Interval]]
@@ -61,16 +62,15 @@ tags:
 
 #### #symbol 
 
-- [[Complement]]
+- [[Subset]]
 - [[Element Of]]
+- [[Complement]]
 - [[Intersection]]
 - [[Set Difference]]
-- [[Subset]]
 - [[Union]]
 - [[Natural Number]]
 - [[Whole Number]]
 - [[Rational Number]]
 - [[Real Number]]
 - [[Complex Number]]
-
 

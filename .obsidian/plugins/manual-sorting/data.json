@@ -792,14 +792,14 @@
     "Notes/Math/Linear Algebra": {
       "children": [
         "Notes/Math/Linear Algebra/Linear Algebra.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension",
-        "Notes/Math/Linear Algebra/Diagonalization",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors",
         "Notes/Math/Linear Algebra/Linear Systems",
-        "Notes/Math/Linear Algebra/Linear Transformations",
+        "Notes/Math/Linear Algebra/Vectors",
         "Notes/Math/Linear Algebra/Matrices",
+        "Notes/Math/Linear Algebra/Basis and Dimension",
         "Notes/Math/Linear Algebra/Vector Spaces",
-        "Notes/Math/Linear Algebra/Vectors"
+        "Notes/Math/Linear Algebra/Linear Transformations",
+        "Notes/Math/Linear Algebra/Diagonalization",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors"
       ],
       "sortOrder": "custom"
     },
@@ -808,11 +808,11 @@
         "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
         "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
         "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
         "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
         "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md"
+        "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md"
       ],
       "sortOrder": "custom"
     },
@@ -843,29 +843,18 @@
       "children": [
         "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
         "Notes/Math/Linear Algebra/Linear Systems/Linear System Of Equations.md",
+        "Notes/Math/Linear Algebra/Linear Systems/Geometric Interpretation.md",
         "Notes/Math/Linear Algebra/Linear Systems/Solvability.md",
-        "Notes/Math/Linear Algebra/Linear Systems/Unique Solution.md",
-        "Notes/Math/Linear Algebra/Linear Systems/Geometric Interpretation.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Math/Linear Algebra/Linear Transformations": {
-      "children": [
-        "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Geometric Properties Of Linear Transformations.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Composition.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Non Square Matrices.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Change Of Basis.md"
+        "Notes/Math/Linear Algebra/Linear Systems/Unique Solution.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Math/Linear Algebra/Matrices": {
       "children": [
         "Notes/Math/Linear Algebra/Matrices/Matrix.md",
-        "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
         "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
         "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
+        "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
         "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
         "Notes/Math/Linear Algebra/Matrices/Determinant.md",
         "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
@@ -877,10 +866,10 @@
     "Notes/Math/Linear Algebra/Vector Spaces": {
       "children": [
         "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Row Space.md",
         "Notes/Math/Linear Algebra/Vector Spaces/Subspace.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
         "Notes/Math/Linear Algebra/Vector Spaces/Null Space.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Row Space.md",
         "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
         "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md"
       ],
@@ -1606,6 +1595,17 @@
         "Templates/Subject Template.md",
         "Templates/World Template.md",
         "Templates/Summary Template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Linear Transformations": {
+      "children": [
+        "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Geometric Properties Of Linear Transformations.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Composition.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Non Square Matrices.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Change Of Basis.md"
       ],
       "sortOrder": "custom"
     }
