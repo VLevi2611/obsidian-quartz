@@ -20,4 +20,3 @@ tags:
 - [[Closed Ray]]
 - [[Open Ray]]
 
-## #symbol 

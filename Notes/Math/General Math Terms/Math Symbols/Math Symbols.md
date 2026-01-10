@@ -9,6 +9,8 @@ A mathematical #symbol is one or more figures that is used to represent a mathem
 
 ## #concept 
 
+- [[Scalar]]
+- [[Field]]
 - [[Closure Of Addition]]
 - [[Associativity Of Addition]]
 - [[Commutativity Of Addition]]
@@ -20,22 +22,16 @@ A mathematical #symbol is one or more figures that is used to represent a mathem
 - [[Multiplicative Identity]]
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
-- [[Field]]
-
-## #formula 
-
-## #constant 
-
 ## #symbol  
 
-- [[Absolute Value]]
 - [[Addition]]
+- [[Subtraction]]
+- [[Multiplication]]
 - [[Division]]
+- [[Absolute Value]]
 - [[Exists]]
 - [[For All]]
 - [[If and Only If]]
 - [[Implication]]
-- [[Multiplication]]
-- [[Subtraction]]
  
 

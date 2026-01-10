@@ -10,21 +10,6 @@ tags:
 ### [[General Math Terms]]
 
 #### #summary 
-##### [[Interval]]
-
-###### #concept 
-
-- [[Lower Bound]]
-- [[Upper Bound]]
-- [[Infimum]]
-- [[Supremum]]
-- [[Minimum]]
-- [[Maximum]]
-- [[Closed Interval]]
-- [[Open Interval]]
-- [[Half Open Interval]]
-- [[Closed Ray]]
-- [[Open Ray]]
 
 ##### [[Math Symbols]] 
 
@@ -55,6 +40,22 @@ tags:
 - [[For All]]
 - [[If and Only If]]
 - [[Implication]]
+
+##### [[Interval]]
+
+###### #concept 
+
+- [[Lower Bound]]
+- [[Upper Bound]]
+- [[Infimum]]
+- [[Supremum]]
+- [[Minimum]]
+- [[Maximum]]
+- [[Closed Interval]]
+- [[Open Interval]]
+- [[Half Open Interval]]
+- [[Closed Ray]]
+- [[Open Ray]]
 
 ##### [[Set Symbols]]
 
@@ -168,6 +169,58 @@ tags:
 - [[Eigenbasis]]
 - [[Condition For Diagonalization]]
 - [[Matrix Powers]]
+
+#### #problem 
+
+### [[Calculus]]
+
+#### #summary 
+
+##### [[Limits]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol 
+
+##### [[Derivatives]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+
+##### [[Integrals]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+##### [[Series]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+
+##### [[Multivariable]]
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
+
+##### [[Vector Calculus]]
+
+###### #concept 
+
+###### #formula 
+
+###### #symbol  
 
 #### #problem 
 ### [[Ordinary Differential Equations]]

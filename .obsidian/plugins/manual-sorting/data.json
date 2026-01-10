@@ -720,8 +720,8 @@
     "Notes/Math/General Math Terms": {
       "children": [
         "Notes/Math/General Math Terms/General Math Terms.md",
-        "Notes/Math/General Math Terms/Intervals",
         "Notes/Math/General Math Terms/Math Symbols",
+        "Notes/Math/General Math Terms/Intervals",
         "Notes/Math/General Math Terms/Set Symbols"
       ],
       "sortOrder": "custom"
