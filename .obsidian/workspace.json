@@ -334,7 +334,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09243096672841636,
+                  "scale": 0.58952018986905,
                   "close": true
                 }
               },
@@ -363,14 +363,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "b683650bb45996cb",
   "lastOpenFiles": [
+    "Notes/Math/Math.md",
+    "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
     "Notes/Math/Linear Algebra/Diagonalization/Matrix Powers.md",
     "Notes/Math/Linear Algebra/Diagonalization/Eigenvector Matrix.md",
     "Notes/Math/Linear Algebra/Diagonalization/Condition For Diagonalization.md",
     "Notes/Math/Linear Algebra/Diagonalization/Eigenbasis.md",
-    "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md",
@@ -379,7 +380,6 @@
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalue Equation.md",
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalue.md",
     "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvector.md",
-    "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
     "Notes/Math/Linear Algebra/Linear Transformations/Change Of Basis.md",
     "Notes/Math/Linear Algebra/Linear Transformations/Non Square Matrices.md",
