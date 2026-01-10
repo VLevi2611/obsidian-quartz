@@ -2,11 +2,18 @@
   "customOrder": {
     "/": {
       "children": [
+        "Excalidraw",
         "Notes",
         "Progress",
         "Resources",
         "Templates",
         "Book view.base"
+      ],
+      "sortOrder": "custom"
+    },
+    "Excalidraw": {
+      "children": [
+        "Excalidraw/Drawing 2026-01-10 23.36.45.excalidraw.md"
       ],
       "sortOrder": "custom"
     },
