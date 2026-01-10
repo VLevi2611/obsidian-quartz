@@ -605,6 +605,55 @@
         "type": "FILES",
         "pattern": "Notes/Physics/Thermodynamics/Entropy/Entropy.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Signal Processing/Digital Signals/Digital Signals.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Signal Processing/Frequency Response/Frequency Response.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Signal Processing/Convolution/Convolution.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Signal Processing/Filters/Filters.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Signal Processing/Fourier Transform/Fourier Transform.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Signal Processing/Fourier Series/Fourier Series.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Signal Processing/Sampling/Sampling.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

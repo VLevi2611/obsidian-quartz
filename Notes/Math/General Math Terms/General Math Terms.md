@@ -36,7 +36,6 @@ tags:
 - [[For All]]
 - [[If and Only If]]
 - [[Implication]]
-#### #problem 
 
 ### [[Interval]]
 
