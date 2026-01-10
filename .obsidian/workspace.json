@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -363,7 +363,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b683650bb45996cb",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
