@@ -1,0 +1,1616 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Notes",
+        "Progress",
+        "Resources",
+        "Templates",
+        "Book view.base"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes": {
+      "children": [
+        "Notes/Math",
+        "Notes/Physics",
+        "Notes/Chemistry",
+        "Notes/Biology",
+        "Notes/Medicine"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology": {
+      "children": [
+        "Notes/Biology/Biology.md",
+        "Notes/Biology/Anatomy",
+        "Notes/Biology/Biochemistry",
+        "Notes/Biology/Cell Biology",
+        "Notes/Biology/Physiology"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy": {
+      "children": [
+        "Notes/Biology/Anatomy/Anatomy.md",
+        "Notes/Biology/Anatomy/Cardiovascular System",
+        "Notes/Biology/Anatomy/Digestive System",
+        "Notes/Biology/Anatomy/Endocrine System",
+        "Notes/Biology/Anatomy/Lymphatic and Immune System",
+        "Notes/Biology/Anatomy/Muscular System",
+        "Notes/Biology/Anatomy/Nervous System",
+        "Notes/Biology/Anatomy/Renal and Urinary System",
+        "Notes/Biology/Anatomy/Reproductive System",
+        "Notes/Biology/Anatomy/Respiratory System",
+        "Notes/Biology/Anatomy/Skeletal System"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Cardiovascular System": {
+      "children": [
+        "Notes/Biology/Anatomy/Cardiovascular System/Cardiovascular System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Digestive System": {
+      "children": [
+        "Notes/Biology/Anatomy/Digestive System/Digestive System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Endocrine System": {
+      "children": [
+        "Notes/Biology/Anatomy/Endocrine System/Endocrine System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Lymphatic and Immune System": {
+      "children": [
+        "Notes/Biology/Anatomy/Lymphatic and Immune System/Lymphatic and Immune System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Muscular System": {
+      "children": [
+        "Notes/Biology/Anatomy/Muscular System/Muscular System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Nervous System": {
+      "children": [
+        "Notes/Biology/Anatomy/Nervous System/Nervous System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Renal and Urinary System": {
+      "children": [
+        "Notes/Biology/Anatomy/Renal and Urinary System/Renal and Urinary System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Reproductive System": {
+      "children": [
+        "Notes/Biology/Anatomy/Reproductive System/Reproductive System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Respiratory System": {
+      "children": [
+        "Notes/Biology/Anatomy/Respiratory System/Respiratory System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Anatomy/Skeletal System": {
+      "children": [
+        "Notes/Biology/Anatomy/Skeletal System/Skeletal System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry": {
+      "children": [
+        "Notes/Biology/Biochemistry/Biochemistry.md",
+        "Notes/Biology/Biochemistry/Amino Acids",
+        "Notes/Biology/Biochemistry/Carbohydrates",
+        "Notes/Biology/Biochemistry/Citric Acid Cycle",
+        "Notes/Biology/Biochemistry/DNA replication",
+        "Notes/Biology/Biochemistry/Enzymes and Kinetics",
+        "Notes/Biology/Biochemistry/Glycolysis",
+        "Notes/Biology/Biochemistry/Lipids and Membranes",
+        "Notes/Biology/Biochemistry/Nucleic Acids",
+        "Notes/Biology/Biochemistry/Oxidative Phosphorylation",
+        "Notes/Biology/Biochemistry/Proteins",
+        "Notes/Biology/Biochemistry/Transciption",
+        "Notes/Biology/Biochemistry/Translation"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Amino Acids": {
+      "children": [
+        "Notes/Biology/Biochemistry/Amino Acids/Amino Acids.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Carbohydrates": {
+      "children": [
+        "Notes/Biology/Biochemistry/Carbohydrates/Carbohydrates.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Citric Acid Cycle": {
+      "children": [
+        "Notes/Biology/Biochemistry/Citric Acid Cycle/Citric Acid Cycle.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/DNA replication": {
+      "children": [
+        "Notes/Biology/Biochemistry/DNA replication/DNA replication.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Enzymes and Kinetics": {
+      "children": [
+        "Notes/Biology/Biochemistry/Enzymes and Kinetics/Enzymes and Kinetics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Glycolysis": {
+      "children": [
+        "Notes/Biology/Biochemistry/Glycolysis/Glycolysis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Lipids and Membranes": {
+      "children": [
+        "Notes/Biology/Biochemistry/Lipids and Membranes/Lipids and Membranes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Nucleic Acids": {
+      "children": [
+        "Notes/Biology/Biochemistry/Nucleic Acids/Nucleic Acids.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Oxidative Phosphorylation": {
+      "children": [
+        "Notes/Biology/Biochemistry/Oxidative Phosphorylation/Oxidative Phosphorylation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Proteins": {
+      "children": [
+        "Notes/Biology/Biochemistry/Proteins/Proteins.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Transciption": {
+      "children": [
+        "Notes/Biology/Biochemistry/Transciption/Transcription.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Biochemistry/Translation": {
+      "children": [
+        "Notes/Biology/Biochemistry/Translation/Translation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology": {
+      "children": [
+        "Notes/Biology/Cell Biology/Cell Biology.md",
+        "Notes/Biology/Cell Biology/Apoptosis",
+        "Notes/Biology/Cell Biology/Cell Division",
+        "Notes/Biology/Cell Biology/Cell Membrane",
+        "Notes/Biology/Cell Biology/Cell Signaling",
+        "Notes/Biology/Cell Biology/Cytoskeleton",
+        "Notes/Biology/Cell Biology/Organelles",
+        "Notes/Biology/Cell Biology/Prokaryotic vs Eukaryotic",
+        "Notes/Biology/Cell Biology/Stem Cells",
+        "Notes/Biology/Cell Biology/Transport Mechanisms"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Apoptosis": {
+      "children": [
+        "Notes/Biology/Cell Biology/Apoptosis/Apoptosis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Cell Division": {
+      "children": [
+        "Notes/Biology/Cell Biology/Cell Division/Cell Division.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Cell Membrane": {
+      "children": [
+        "Notes/Biology/Cell Biology/Cell Membrane/Cell Membrane.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Cell Signaling": {
+      "children": [
+        "Notes/Biology/Cell Biology/Cell Signaling/Cell signaling.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Cytoskeleton": {
+      "children": [
+        "Notes/Biology/Cell Biology/Cytoskeleton/Cytoskeleton.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Organelles": {
+      "children": [
+        "Notes/Biology/Cell Biology/Organelles/Organelles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Prokaryotic vs Eukaryotic": {
+      "children": [
+        "Notes/Biology/Cell Biology/Prokaryotic vs Eukaryotic/Prokaryotic vs Eukaryotic.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Stem Cells": {
+      "children": [
+        "Notes/Biology/Cell Biology/Stem Cells/Stem Cells.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Cell Biology/Transport Mechanisms": {
+      "children": [
+        "Notes/Biology/Cell Biology/Transport Mechanisms/Transport Mechanisms.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology": {
+      "children": [
+        "Notes/Biology/Physiology/Physiology.md",
+        "Notes/Biology/Physiology/Cardiovascular Physiology",
+        "Notes/Biology/Physiology/Endocrine Physiology",
+        "Notes/Biology/Physiology/Gastrointestinal Physiology",
+        "Notes/Biology/Physiology/Homeostasis",
+        "Notes/Biology/Physiology/Muscle Physiology",
+        "Notes/Biology/Physiology/Neurons and Action Potentials",
+        "Notes/Biology/Physiology/Renal Physiology",
+        "Notes/Biology/Physiology/Respiratory Physiology",
+        "Notes/Biology/Physiology/Sensory Systems"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Cardiovascular Physiology": {
+      "children": [
+        "Notes/Biology/Physiology/Cardiovascular Physiology/Cardiovascular Physiology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Endocrine Physiology": {
+      "children": [
+        "Notes/Biology/Physiology/Endocrine Physiology/Endocrine Physiology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Gastrointestinal Physiology": {
+      "children": [
+        "Notes/Biology/Physiology/Gastrointestinal Physiology/Gastrointestinal Physiology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Homeostasis": {
+      "children": [
+        "Notes/Biology/Physiology/Homeostasis/Homeostasis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Muscle Physiology": {
+      "children": [
+        "Notes/Biology/Physiology/Muscle Physiology/Muscle Physiology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Neurons and Action Potentials": {
+      "children": [
+        "Notes/Biology/Physiology/Neurons and Action Potentials/Neurons and Action Potentials.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Renal Physiology": {
+      "children": [
+        "Notes/Biology/Physiology/Renal Physiology/Renal Physiology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Respiratory Physiology": {
+      "children": [
+        "Notes/Biology/Physiology/Respiratory Physiology/Respiratory Physiology.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Biology/Physiology/Sensory Systems": {
+      "children": [
+        "Notes/Biology/Physiology/Sensory Systems/Sensory Systems.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry": {
+      "children": [
+        "Notes/Chemistry/Chemistry.md",
+        "Notes/Chemistry/General Chemistry",
+        "Notes/Chemistry/Organic Chemistry",
+        "Notes/Chemistry/Physical Chemistry"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/General Chemistry.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding",
+        "Notes/Chemistry/General Chemistry/Gases",
+        "Notes/Chemistry/General Chemistry/General terms",
+        "Notes/Chemistry/General Chemistry/Periodic Trends",
+        "Notes/Chemistry/General Chemistry/Stoichiometry",
+        "Notes/Chemistry/General Chemistry/Thermochemistry"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Atomic Structure": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Protons.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Chemical Bonding": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Anion.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Cation.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Covalent Bond.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Ionic Bond.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Gases": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/Gases/Gases.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/General terms": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
+        "Notes/Chemistry/General Chemistry/General terms/Atomic Weight Formula.md",
+        "Notes/Chemistry/General Chemistry/General terms/Avogadro Number.md",
+        "Notes/Chemistry/General Chemistry/General terms/Molecular Formula.md",
+        "Notes/Chemistry/General Chemistry/General terms/Molecular Mass.md",
+        "Notes/Chemistry/General Chemistry/General terms/Molar Mass.md",
+        "Notes/Chemistry/General Chemistry/General terms/Reagents.md",
+        "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
+        "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
+        "Notes/Chemistry/General Chemistry/General terms/Combustion.md",
+        "Notes/Chemistry/General Chemistry/General terms/Solution.md",
+        "Notes/Chemistry/General Chemistry/General terms/Nucleus.md",
+        "Notes/Chemistry/General Chemistry/General terms/Atoms.md",
+        "Notes/Chemistry/General Chemistry/General terms/Molecule.md",
+        "Notes/Chemistry/General Chemistry/General terms/Molecular Compound.md",
+        "Notes/Chemistry/General Chemistry/General terms/Mole.md",
+        "Notes/Chemistry/General Chemistry/General terms/Matter.md",
+        "Notes/Chemistry/General Chemistry/General terms/Isotope.md",
+        "Notes/Chemistry/General Chemistry/General terms/Ionic Compound.md",
+        "Notes/Chemistry/General Chemistry/General terms/Ion.md",
+        "Notes/Chemistry/General Chemistry/General terms/Empirical Formula.md",
+        "Notes/Chemistry/General Chemistry/General terms/Element.md",
+        "Notes/Chemistry/General Chemistry/General terms/Atomic Weight.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Periodic Trends": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Stoichiometry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equation.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometric Coefficients.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Thermochemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Organic Chemistry.md",
+        "Notes/Chemistry/Organic Chemistry/Alcohols and Ethers",
+        "Notes/Chemistry/Organic Chemistry/Alkanes Alkenes Alkynes",
+        "Notes/Chemistry/Organic Chemistry/Amines",
+        "Notes/Chemistry/Organic Chemistry/Aromatics",
+        "Notes/Chemistry/Organic Chemistry/Biomolecules",
+        "Notes/Chemistry/Organic Chemistry/Carbonyl Compounds",
+        "Notes/Chemistry/Organic Chemistry/Carboxylic Acids",
+        "Notes/Chemistry/Organic Chemistry/Functional Groups",
+        "Notes/Chemistry/Organic Chemistry/Reaction Mechanisms",
+        "Notes/Chemistry/Organic Chemistry/Stereochemistry"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Alcohols and Ethers": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Alcohols and Ethers/Alcohols and Ethers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Alkanes Alkenes Alkynes": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Alkanes Alkenes Alkynes/Alkanes Alkenes Alkynes.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Amines": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Amines/Amines.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Aromatics": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Aromatics/Aromatics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Biomolecules": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Biomolecules/Biomolecules.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Carbonyl Compounds": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Carbonyl Compounds/Carbonyl Compounds.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Carboxylic Acids": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Carboxylic Acids/Carboxylic Acids.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Functional Groups": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Functional Groups/Functional Groups.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Reaction Mechanisms": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Reaction Mechanisms/Reaction Mechanisms.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Organic Chemistry/Stereochemistry": {
+      "children": [
+        "Notes/Chemistry/Organic Chemistry/Stereochemistry/Stereochemistry.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Physical Chemistry.md",
+        "Notes/Chemistry/Physical Chemistry/Electrochemistry",
+        "Notes/Chemistry/Physical Chemistry/Kinetics",
+        "Notes/Chemistry/Physical Chemistry/Molecular Orbitals",
+        "Notes/Chemistry/Physical Chemistry/Quantum Basics",
+        "Notes/Chemistry/Physical Chemistry/Spectroscopy",
+        "Notes/Chemistry/Physical Chemistry/Statistical Mechanics",
+        "Notes/Chemistry/Physical Chemistry/Thermodynamics"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry/Electrochemistry": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Electrochemistry/Electrochemistry.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry/Kinetics": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Kinetics/Chemical Kinetics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry/Molecular Orbitals": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Molecular Orbitals/Molecular Orbitals.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry/Quantum Basics": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Quantum Basics/Quantum Basics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry/Spectroscopy": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Spectroscopy/Spectroscopy.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry/Statistical Mechanics": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Statistical Mechanics/Statistical Mechanics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/Physical Chemistry/Thermodynamics": {
+      "children": [
+        "Notes/Chemistry/Physical Chemistry/Thermodynamics/Chemical Thermodynamics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math": {
+      "children": [
+        "Notes/Math/Math.md",
+        "Notes/Math/General Math Terms",
+        "Notes/Math/Linear Algebra",
+        "Notes/Math/Calculus",
+        "Notes/Math/Differential Equations",
+        "Notes/Math/Numerical Analysis",
+        "Notes/Math/Probability",
+        "Notes/Math/Complex Analysis"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Calculus": {
+      "children": [
+        "Notes/Math/Calculus/Calculus.md",
+        "Notes/Math/Calculus/Derivatives",
+        "Notes/Math/Calculus/Integrals",
+        "Notes/Math/Calculus/Limits",
+        "Notes/Math/Calculus/Multivariable",
+        "Notes/Math/Calculus/Series",
+        "Notes/Math/Calculus/Vector Calculus"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Calculus/Derivatives": {
+      "children": [
+        "Notes/Math/Calculus/Derivatives/Derivatives.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Calculus/Integrals": {
+      "children": [
+        "Notes/Math/Calculus/Integrals/Integrals.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Calculus/Limits": {
+      "children": [
+        "Notes/Math/Calculus/Limits/Limits.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Calculus/Multivariable": {
+      "children": [
+        "Notes/Math/Calculus/Multivariable/Multivariable.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Calculus/Series": {
+      "children": [
+        "Notes/Math/Calculus/Series/Series.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Calculus/Vector Calculus": {
+      "children": [
+        "Notes/Math/Calculus/Vector Calculus/Vector Calculus.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis": {
+      "children": [
+        "Notes/Math/Complex Analysis/Complex Analysis.md",
+        "Notes/Math/Complex Analysis/Analytic Functions",
+        "Notes/Math/Complex Analysis/Cauchy's Theorem",
+        "Notes/Math/Complex Analysis/Complex Numbers",
+        "Notes/Math/Complex Analysis/Counter Integrals",
+        "Notes/Math/Complex Analysis/CR Equations",
+        "Notes/Math/Complex Analysis/Laurent Series",
+        "Notes/Math/Complex Analysis/Residues"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis/Analytic Functions": {
+      "children": [
+        "Notes/Math/Complex Analysis/Analytic Functions/Analytic Functions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis/Cauchy's Theorem": {
+      "children": [
+        "Notes/Math/Complex Analysis/Cauchy's Theorem/Cauchy's Theorem.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis/Complex Numbers": {
+      "children": [
+        "Notes/Math/Complex Analysis/Complex Numbers/Complex Numbers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis/Counter Integrals": {
+      "children": [
+        "Notes/Math/Complex Analysis/Counter Integrals/Counter Integrals.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis/CR Equations": {
+      "children": [
+        "Notes/Math/Complex Analysis/CR Equations/CR Equations.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis/Laurent Series": {
+      "children": [
+        "Notes/Math/Complex Analysis/Laurent Series/Laurent Series.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Complex Analysis/Residues": {
+      "children": [
+        "Notes/Math/Complex Analysis/Residues/Residues.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Differential Equations": {
+      "children": [
+        "Notes/Math/Differential Equations/Ordinary Differential Equations.md",
+        "Notes/Math/Differential Equations/1st Order ODEs",
+        "Notes/Math/Differential Equations/2nd Order ODEs",
+        "Notes/Math/Differential Equations/Laplace Transforms",
+        "Notes/Math/Differential Equations/Series Solutions",
+        "Notes/Math/Differential Equations/Systems of ODEs"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Differential Equations/1st Order ODEs": {
+      "children": [
+        "Notes/Math/Differential Equations/1st Order ODEs/1st Order ODEs.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Differential Equations/2nd Order ODEs": {
+      "children": [
+        "Notes/Math/Differential Equations/2nd Order ODEs/2nd Order ODEs.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Differential Equations/Laplace Transforms": {
+      "children": [
+        "Notes/Math/Differential Equations/Laplace Transforms/Laplace Transforms.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Differential Equations/Series Solutions": {
+      "children": [
+        "Notes/Math/Differential Equations/Series Solutions/Series Solutions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Differential Equations/Systems of ODEs": {
+      "children": [
+        "Notes/Math/Differential Equations/Systems of ODEs/Systems of ODEs.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/General Math Terms": {
+      "children": [
+        "Notes/Math/General Math Terms/General Math Terms.md",
+        "Notes/Math/General Math Terms/Intervals",
+        "Notes/Math/General Math Terms/Math Symbols",
+        "Notes/Math/General Math Terms/Set Symbols"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/General Math Terms/Intervals": {
+      "children": [
+        "Notes/Math/General Math Terms/Intervals/Interval.md",
+        "Notes/Math/General Math Terms/Intervals/Upper Bound.md",
+        "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
+        "Notes/Math/General Math Terms/Intervals/Infimum.md",
+        "Notes/Math/General Math Terms/Intervals/Supremum.md",
+        "Notes/Math/General Math Terms/Intervals/Minimum.md",
+        "Notes/Math/General Math Terms/Intervals/Maximum.md",
+        "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
+        "Notes/Math/General Math Terms/Intervals/Open Interval.md",
+        "Notes/Math/General Math Terms/Intervals/Half Open Interval.md",
+        "Notes/Math/General Math Terms/Intervals/Closed Ray.md",
+        "Notes/Math/General Math Terms/Intervals/Open Ray.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/General Math Terms/Math Symbols": {
+      "children": [
+        "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
+        "Notes/Math/General Math Terms/Math Symbols/Field.md",
+        "Notes/Math/General Math Terms/Math Symbols/Scalar.md",
+        "Notes/Math/General Math Terms/Math Symbols/Closure Of Addition.md",
+        "Notes/Math/General Math Terms/Math Symbols/Associativity Of Addition.md",
+        "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Addition.md",
+        "Notes/Math/General Math Terms/Math Symbols/Additive Identity.md",
+        "Notes/Math/General Math Terms/Math Symbols/Additive Inverse.md",
+        "Notes/Math/General Math Terms/Math Symbols/Closure Of Multiplication.md",
+        "Notes/Math/General Math Terms/Math Symbols/Associativity Of Multiplication.md",
+        "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Multiplication.md",
+        "Notes/Math/General Math Terms/Math Symbols/Multiplicative Identity.md",
+        "Notes/Math/General Math Terms/Math Symbols/Multiplicative Inverse.md",
+        "Notes/Math/General Math Terms/Math Symbols/Distributivity.md",
+        "Notes/Math/General Math Terms/Math Symbols/Absolute Value.md",
+        "Notes/Math/General Math Terms/Math Symbols/Addition.md",
+        "Notes/Math/General Math Terms/Math Symbols/Division.md",
+        "Notes/Math/General Math Terms/Math Symbols/For All.md",
+        "Notes/Math/General Math Terms/Math Symbols/Exists.md",
+        "Notes/Math/General Math Terms/Math Symbols/If and Only If.md",
+        "Notes/Math/General Math Terms/Math Symbols/Implication.md",
+        "Notes/Math/General Math Terms/Math Symbols/Multiplication.md",
+        "Notes/Math/General Math Terms/Math Symbols/Subtraction.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/General Math Terms/Set Symbols": {
+      "children": [
+        "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
+        "Notes/Math/General Math Terms/Set Symbols/Set.md",
+        "Notes/Math/General Math Terms/Set Symbols/Complement.md",
+        "Notes/Math/General Math Terms/Set Symbols/Element Of.md",
+        "Notes/Math/General Math Terms/Set Symbols/Intersection.md",
+        "Notes/Math/General Math Terms/Set Symbols/Set Difference.md",
+        "Notes/Math/General Math Terms/Set Symbols/Subset.md",
+        "Notes/Math/General Math Terms/Set Symbols/Union.md",
+        "Notes/Math/General Math Terms/Set Symbols/Natural Number.md",
+        "Notes/Math/General Math Terms/Set Symbols/Whole Number.md",
+        "Notes/Math/General Math Terms/Set Symbols/Rational Number.md",
+        "Notes/Math/General Math Terms/Set Symbols/Real Number.md",
+        "Notes/Math/General Math Terms/Set Symbols/Complex Number.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra": {
+      "children": [
+        "Notes/Math/Linear Algebra/Linear Algebra.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension",
+        "Notes/Math/Linear Algebra/Diagonalization",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors",
+        "Notes/Math/Linear Algebra/Linear Systems",
+        "Notes/Math/Linear Algebra/Linear Transformations",
+        "Notes/Math/Linear Algebra/Matrices",
+        "Notes/Math/Linear Algebra/Vector Spaces",
+        "Notes/Math/Linear Algebra/Vectors"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Basis and Dimension": {
+      "children": [
+        "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
+        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Diagonalization": {
+      "children": [
+        "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
+        "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
+        "Notes/Math/Linear Algebra/Diagonalization/Eigenvector Matrix.md",
+        "Notes/Math/Linear Algebra/Diagonalization/Eigenbasis.md",
+        "Notes/Math/Linear Algebra/Diagonalization/Condition For Diagonalization.md",
+        "Notes/Math/Linear Algebra/Diagonalization/Matrix Powers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors": {
+      "children": [
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvector.md",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalue.md",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalue Equation.md",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Characteristic Polynomial.md",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Trace.md",
+        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Linear Systems": {
+      "children": [
+        "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
+        "Notes/Math/Linear Algebra/Linear Systems/Linear System Of Equations.md",
+        "Notes/Math/Linear Algebra/Linear Systems/Solvability.md",
+        "Notes/Math/Linear Algebra/Linear Systems/Unique Solution.md",
+        "Notes/Math/Linear Algebra/Linear Systems/Geometric Interpretation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Linear Transformations": {
+      "children": [
+        "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Geometric Properties Of Linear Transformations.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Composition.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Non Square Matrices.md",
+        "Notes/Math/Linear Algebra/Linear Transformations/Change Of Basis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Matrices": {
+      "children": [
+        "Notes/Math/Linear Algebra/Matrices/Matrix.md",
+        "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
+        "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
+        "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
+        "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
+        "Notes/Math/Linear Algebra/Matrices/Determinant.md",
+        "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
+        "Notes/Math/Linear Algebra/Matrices/Transpose.md",
+        "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Vector Spaces": {
+      "children": [
+        "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Row Space.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Subspace.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Null Space.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
+        "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/Vectors": {
+      "children": [
+        "Notes/Math/Linear Algebra/Vectors/Vector.md",
+        "Notes/Math/Linear Algebra/Vectors/Coordinates.md",
+        "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
+        "Notes/Math/Linear Algebra/Vectors/Scalar Multiplication.md",
+        "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
+        "Notes/Math/Linear Algebra/Vectors/Orthogonal Vectors.md",
+        "Notes/Math/Linear Algebra/Vectors/Length (Norm).md",
+        "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
+        "Notes/Math/Linear Algebra/Vectors/Column Vector.md",
+        "Notes/Math/Linear Algebra/Vectors/Row Vector.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Numerical Analysis": {
+      "children": [
+        "Notes/Math/Numerical Analysis/Numerical Analysis.md",
+        "Notes/Math/Numerical Analysis/Error Analysis",
+        "Notes/Math/Numerical Analysis/Interpolation",
+        "Notes/Math/Numerical Analysis/Linear System Solvers",
+        "Notes/Math/Numerical Analysis/Numerical Integration",
+        "Notes/Math/Numerical Analysis/ODE and PDE Methods",
+        "Notes/Math/Numerical Analysis/Root Finding"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Numerical Analysis/Error Analysis": {
+      "children": [
+        "Notes/Math/Numerical Analysis/Error Analysis/Error Analysis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Numerical Analysis/Interpolation": {
+      "children": [
+        "Notes/Math/Numerical Analysis/Interpolation/Interpolation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Numerical Analysis/Linear System Solvers": {
+      "children": [
+        "Notes/Math/Numerical Analysis/Linear System Solvers/Linear System Solvers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Numerical Analysis/Numerical Integration": {
+      "children": [
+        "Notes/Math/Numerical Analysis/Numerical Integration/Numerical Integration.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Numerical Analysis/ODE and PDE Methods": {
+      "children": [
+        "Notes/Math/Numerical Analysis/ODE and PDE Methods/ODE and PDE Methods.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Numerical Analysis/Root Finding": {
+      "children": [
+        "Notes/Math/Numerical Analysis/Root Finding/Root Finding.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability": {
+      "children": [
+        "Notes/Math/Probability/Probability.md",
+        "Notes/Math/Probability/CLT",
+        "Notes/Math/Probability/Conditional Probability",
+        "Notes/Math/Probability/Continuous Distributions",
+        "Notes/Math/Probability/Discrete Distributions",
+        "Notes/Math/Probability/Expectation and Variance",
+        "Notes/Math/Probability/Joint Distributions",
+        "Notes/Math/Probability/LLN",
+        "Notes/Math/Probability/Random Variables",
+        "Notes/Math/Probability/Sample Spaces"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/CLT": {
+      "children": [
+        "Notes/Math/Probability/CLT/CLT.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/Conditional Probability": {
+      "children": [
+        "Notes/Math/Probability/Conditional Probability/Conditional Probability.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/Continuous Distributions": {
+      "children": [
+        "Notes/Math/Probability/Continuous Distributions/Continuous Distributions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/Discrete Distributions": {
+      "children": [
+        "Notes/Math/Probability/Discrete Distributions/Discrete Distributions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/Expectation and Variance": {
+      "children": [
+        "Notes/Math/Probability/Expectation and Variance/Expectation and Variance.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/Joint Distributions": {
+      "children": [
+        "Notes/Math/Probability/Joint Distributions/Joint Distributions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/LLN": {
+      "children": [
+        "Notes/Math/Probability/LLN/LLN.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/Random Variables": {
+      "children": [
+        "Notes/Math/Probability/Random Variables/Random Variables.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Probability/Sample Spaces": {
+      "children": [
+        "Notes/Math/Probability/Sample Spaces/Sample Spaces.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine": {
+      "children": [
+        "Notes/Medicine/Medicine.md",
+        "Notes/Medicine/Medical Equipment"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Medical Equipment.md",
+        "Notes/Medicine/Medical Equipment/Defibrillators",
+        "Notes/Medicine/Medical Equipment/Diagnostic Equipment",
+        "Notes/Medicine/Medical Equipment/ECG and EEG",
+        "Notes/Medicine/Medical Equipment/Infusion Pumps",
+        "Notes/Medicine/Medical Equipment/MRI",
+        "Notes/Medicine/Medical Equipment/Patient Monitors",
+        "Notes/Medicine/Medical Equipment/Sterilization Equipment",
+        "Notes/Medicine/Medical Equipment/Ultrasound",
+        "Notes/Medicine/Medical Equipment/Ventilators",
+        "Notes/Medicine/Medical Equipment/X-ray and CT"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/Defibrillators": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Defibrillators/Defibrillators.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/Diagnostic Equipment": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Diagnostic Equipment/Diagnostic Equipment.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/ECG and EEG": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/ECG and EEG/ECG and EEG.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/Infusion Pumps": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Infusion Pumps/Infusion Pumps.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/MRI": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/MRI/MRI.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/Patient Monitors": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Patient Monitors/Patient Monitors.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/Sterilization Equipment": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Sterilization Equipment/Sterilization Equipment.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/Ultrasound": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Ultrasound/Ultrasound.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/Ventilators": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/Ventilators/Ventilators.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Medicine/Medical Equipment/X-ray and CT": {
+      "children": [
+        "Notes/Medicine/Medical Equipment/X-ray and CT/X-ray and CT.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics": {
+      "children": [
+        "Notes/Physics/Physics.md",
+        "Notes/Physics/Classical Mechanics",
+        "Notes/Physics/Electric Circuits",
+        "Notes/Physics/Electromagnetism",
+        "Notes/Physics/Fluid Mechanics",
+        "Notes/Physics/Optics and Waves",
+        "Notes/Physics/Signal Processing",
+        "Notes/Physics/Thermodynamics"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
+        "Notes/Physics/Classical Mechanics/Energy",
+        "Notes/Physics/Classical Mechanics/Gravitation",
+        "Notes/Physics/Classical Mechanics/Kinematics",
+        "Notes/Physics/Classical Mechanics/Momentum",
+        "Notes/Physics/Classical Mechanics/Newton's Laws",
+        "Notes/Physics/Classical Mechanics/Oscillations",
+        "Notes/Physics/Classical Mechanics/Rotation"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics/Energy": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Energy/Energy.md",
+        "Notes/Physics/Classical Mechanics/Energy/Non Conservative Forces.md",
+        "Notes/Physics/Classical Mechanics/Energy/Work Energy Theorem.md",
+        "Notes/Physics/Classical Mechanics/Energy/Work.md",
+        "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
+        "Notes/Physics/Classical Mechanics/Energy/Power.md",
+        "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
+        "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
+        "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
+        "Notes/Physics/Classical Mechanics/Energy/Elastic Potential Energy.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics/Gravitation": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Gravitation/Gravitation.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Bound vs Unbound Orbits.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Central Force Motion.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Circular Orbits.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Energy Of An Orbiting Body.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Escape Velocity.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Gravitational Field.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Kepler's Laws.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Newton's Gravitation Law.md",
+        "Notes/Physics/Classical Mechanics/Gravitation/Orbital Speed.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics/Kinematics": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+        "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+        "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
+        "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
+        "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics/Momentum": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+        "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
+        "Notes/Physics/Classical Mechanics/Momentum/External Force.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Elastic Collision.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics/Newton's Laws": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
+        "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
+        "Notes/Physics/Classical Mechanics/Newton's Laws/Force.md",
+        "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity.md",
+        "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity Force Formula.md",
+        "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
+        "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics/Oscillations": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Oscillations/Oscillations.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Amplitude Dependence.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Angular Frequency.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Damped Oscillations.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Damping.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Driven Oscillations.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Energy In Oscillatory Motion.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Mass Spring System.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Oscillatory Motion.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Period And Frequency.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Phase.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Physical Pendulum.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Quality Factor.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Resonance.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Restoring Force.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/SHM Equations Of Motion.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Simple Harmonic Motion.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Simple Pendulum.md",
+        "Notes/Physics/Classical Mechanics/Oscillations/Small Angle Approximation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Classical Mechanics/Rotation": {
+      "children": [
+        "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Angular Acceleration.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Particle.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Rigid Body.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Angular Velocity.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Angular Position.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Conservation Of Angular Momentum.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Moment Of Inertia.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Newton's Second Law For Rotation.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Parallel Axis Theorem.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Perpendicular Axis Theorem.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Rotational Kinematic Equations.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Rotational Kinetic Energy.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Torque.md",
+        "Notes/Physics/Classical Mechanics/Rotation/Torque Angular Momentum Relation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits": {
+      "children": [
+        "Notes/Physics/Electric Circuits/AC Circuits",
+        "Notes/Physics/Electric Circuits/Filters",
+        "Notes/Physics/Electric Circuits/Impedance",
+        "Notes/Physics/Electric Circuits/Ohm's and Kirchhoff's Laws",
+        "Notes/Physics/Electric Circuits/Op Amps",
+        "Notes/Physics/Electric Circuits/Thevenin and Norton",
+        "Notes/Physics/Electric Circuits/Transients",
+        "Notes/Physics/Electric Circuits/Electric Circuits.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits/AC Circuits": {
+      "children": [
+        "Notes/Physics/Electric Circuits/AC Circuits/AC Circuits.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits/Filters": {
+      "children": [
+        "Notes/Physics/Electric Circuits/Filters/Filters.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits/Impedance": {
+      "children": [
+        "Notes/Physics/Electric Circuits/Impedance/Impedance.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits/Ohm's and Kirchhoff's Laws": {
+      "children": [
+        "Notes/Physics/Electric Circuits/Ohm's and Kirchhoff's Laws/Ohm's and Kirchhoff's Laws.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits/Op Amps": {
+      "children": [
+        "Notes/Physics/Electric Circuits/Op Amps/Op Amps.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits/Thevenin and Norton": {
+      "children": [
+        "Notes/Physics/Electric Circuits/Thevenin and Norton/Thevenin and Norton.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electric Circuits/Transients": {
+      "children": [
+        "Notes/Physics/Electric Circuits/Transients/Transients.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Electromagnetism.md",
+        "Notes/Physics/Electromagnetism/Capacitance",
+        "Notes/Physics/Electromagnetism/Circuits",
+        "Notes/Physics/Electromagnetism/Electrostatics",
+        "Notes/Physics/Electromagnetism/Faraday's Law",
+        "Notes/Physics/Electromagnetism/Gauss's Law",
+        "Notes/Physics/Electromagnetism/Magnetic Fields",
+        "Notes/Physics/Electromagnetism/Maxwell's Equations"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism/Capacitance": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Capacitance/Capacitance.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism/Circuits": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Circuits/Circuits.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism/Electrostatics": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Electrostatics/Electrostatics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism/Faraday's Law": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Faraday's Law/Faraday's Law.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism/Gauss's Law": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Gauss's Law/Gauss's Law.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism/Magnetic Fields": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Magnetic Fields/Magnetic Fields.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Electromagnetism/Maxwell's Equations": {
+      "children": [
+        "Notes/Physics/Electromagnetism/Maxwell's Equations/Maxwell's Equations.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Fluid Mechanics.md",
+        "Notes/Physics/Fluid Mechanics/Bernoulli",
+        "Notes/Physics/Fluid Mechanics/Continuity",
+        "Notes/Physics/Fluid Mechanics/Fluid Properties",
+        "Notes/Physics/Fluid Mechanics/Hydrostatics",
+        "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows",
+        "Notes/Physics/Fluid Mechanics/Pressure",
+        "Notes/Physics/Fluid Mechanics/Viscosity"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics/Bernoulli": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Bernoulli/Bernoulli.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics/Continuity": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Continuity/Continuity.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics/Fluid Properties": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Fluid Properties/Fluid Properties.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics/Hydrostatics": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Hydrostatics/Hydrostatics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows/Laminar and Turbulent Flows.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics/Pressure": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Pressure/Pressure.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Fluid Mechanics/Viscosity": {
+      "children": [
+        "Notes/Physics/Fluid Mechanics/Viscosity/Viscosity.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Optics and Waves": {
+      "children": [
+        "Notes/Physics/Optics and Waves/Optics and Waves.md",
+        "Notes/Physics/Optics and Waves/Diffraction",
+        "Notes/Physics/Optics and Waves/Interference",
+        "Notes/Physics/Optics and Waves/Lenses",
+        "Notes/Physics/Optics and Waves/Polarization",
+        "Notes/Physics/Optics and Waves/Refraction",
+        "Notes/Physics/Optics and Waves/Wave Properties"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Optics and Waves/Diffraction": {
+      "children": [
+        "Notes/Physics/Optics and Waves/Diffraction/Diffraction.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Optics and Waves/Interference": {
+      "children": [
+        "Notes/Physics/Optics and Waves/Interference/Interference.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Optics and Waves/Lenses": {
+      "children": [
+        "Notes/Physics/Optics and Waves/Lenses/Lenses.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Optics and Waves/Polarization": {
+      "children": [
+        "Notes/Physics/Optics and Waves/Polarization/Polarization.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Optics and Waves/Refraction": {
+      "children": [
+        "Notes/Physics/Optics and Waves/Refraction/Refraction.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Optics and Waves/Wave Properties": {
+      "children": [
+        "Notes/Physics/Optics and Waves/Wave Properties/Wave Properties.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing": {
+      "children": [
+        "Notes/Physics/Signal Processing/Signal Processing.md",
+        "Notes/Physics/Signal Processing/Convolution",
+        "Notes/Physics/Signal Processing/Digital Signals",
+        "Notes/Physics/Signal Processing/Filters",
+        "Notes/Physics/Signal Processing/Fourier Series",
+        "Notes/Physics/Signal Processing/Fourier Transform",
+        "Notes/Physics/Signal Processing/Frequency Response",
+        "Notes/Physics/Signal Processing/Sampling"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing/Convolution": {
+      "children": [
+        "Notes/Physics/Signal Processing/Convolution/Convolution.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing/Digital Signals": {
+      "children": [
+        "Notes/Physics/Signal Processing/Digital Signals/Digital Signals.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing/Filters": {
+      "children": [
+        "Notes/Physics/Signal Processing/Filters/Filters.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing/Fourier Series": {
+      "children": [
+        "Notes/Physics/Signal Processing/Fourier Series/Fourier Series.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing/Fourier Transform": {
+      "children": [
+        "Notes/Physics/Signal Processing/Fourier Transform/Fourier Transform.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing/Frequency Response": {
+      "children": [
+        "Notes/Physics/Signal Processing/Frequency Response/Frequency Response.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Signal Processing/Sampling": {
+      "children": [
+        "Notes/Physics/Signal Processing/Sampling/Sampling.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Thermodynamics": {
+      "children": [
+        "Notes/Physics/Thermodynamics/Thermodynamics.md",
+        "Notes/Physics/Thermodynamics/Entropy",
+        "Notes/Physics/Thermodynamics/First Law",
+        "Notes/Physics/Thermodynamics/Heat Engines",
+        "Notes/Physics/Thermodynamics/Second Law",
+        "Notes/Physics/Thermodynamics/Temperature and Heat"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Thermodynamics/Entropy": {
+      "children": [
+        "Notes/Physics/Thermodynamics/Entropy/Entropy.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Thermodynamics/First Law": {
+      "children": [
+        "Notes/Physics/Thermodynamics/First Law/First Law.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Thermodynamics/Heat Engines": {
+      "children": [
+        "Notes/Physics/Thermodynamics/Heat Engines/Heat Engines.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Thermodynamics/Second Law": {
+      "children": [
+        "Notes/Physics/Thermodynamics/Second Law/Second Law.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Physics/Thermodynamics/Temperature and Heat": {
+      "children": [
+        "Notes/Physics/Thermodynamics/Temperature and Heat/Temperature and Heat.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Progress": {
+      "children": [
+        "Progress/Day 1.png",
+        "Progress/Day 2.png",
+        "Progress/Day 3.png",
+        "Progress/Day 4.png",
+        "Progress/Day 5.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Resources": {
+      "children": [
+        "Resources/Books",
+        "Resources/Images"
+      ],
+      "sortOrder": "custom"
+    },
+    "Resources/Books": {
+      "children": [
+        "Resources/Books/Thumbnails",
+        "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
+        "Resources/Books/The Runaway Species.pdf",
+        "Resources/Books/A Short History Of Nearly Everything.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "Resources/Books/Thumbnails": {
+      "children": [
+        "Resources/Books/Thumbnails/Applied Minds - Guru Madhavan.md",
+        "Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
+        "Resources/Books/Thumbnails/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
+        "Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Resources/Images": {
+      "children": [
+        "Resources/Images/ActionPotentialDiagram.png",
+        "Resources/Images/Biomedical Engineering Map.png",
+        "Resources/Images/Welcome please seat yourself.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Templates": {
+      "children": [
+        "Templates/Concept Template.md",
+        "Templates/Formula Template.md",
+        "Templates/Constant Template.md",
+        "Templates/Symbol Template.md",
+        "Templates/Problem Template.md",
+        "Templates/Subject Template.md",
+        "Templates/World Template.md",
+        "Templates/Summary Template.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "custom",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
