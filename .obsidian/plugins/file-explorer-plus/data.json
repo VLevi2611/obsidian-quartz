@@ -374,6 +374,62 @@
         "type": "FILES",
         "pattern": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electromagnetism/Maxwell's Equations/Maxwell's Equations.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electromagnetism/Faraday's Law/Faraday's Law.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electromagnetism/Magnetic Fields/Magnetic Fields.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electromagnetism/Circuits/Circuits.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electromagnetism/Capacitance/Capacitance.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electromagnetism/Gauss's Law/Gauss's Law.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electromagnetism/Electrostatics/Electrostatics.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Physics/Electric Circuits/Op Amps/Op Amps.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
