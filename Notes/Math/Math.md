@@ -30,18 +30,14 @@ tags:
 
 ###### #concept 
 
+- [[Scalar]]
+- [[Addition]]
+- [[Subtraction]]
+- [[Multiplication]]
+- [[Division]]
+- [[Field]]
 - [[Closure Of Addition]]
 - [[Associativity Of Addition]]
-- [[Commutativity Of Addition]]
-- [[Additive Identity]]
-- [[Additive Inverse]]
-- [[Closure Of Multiplication]]
-- [[Associativity Of Multiplication]]
-- [[Commutativity Of Multiplication]]
-- [[Multiplicative Identity]]
-- [[Multiplicative Inverse]]
-- [[Distributivity]]
-- [[Field]]
 
 ###### #symbol 
 

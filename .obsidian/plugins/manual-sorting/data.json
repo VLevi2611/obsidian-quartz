@@ -24,9 +24,9 @@
       "children": [
         "Notes/Biology/Biology.md",
         "Notes/Biology/Anatomy",
-        "Notes/Biology/Biochemistry",
+        "Notes/Biology/Physiology",
         "Notes/Biology/Cell Biology",
-        "Notes/Biology/Physiology"
+        "Notes/Biology/Biochemistry"
       ],
       "sortOrder": "custom"
     },
@@ -729,8 +729,8 @@
     "Notes/Math/General Math Terms/Intervals": {
       "children": [
         "Notes/Math/General Math Terms/Intervals/Interval.md",
-        "Notes/Math/General Math Terms/Intervals/Upper Bound.md",
         "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
+        "Notes/Math/General Math Terms/Intervals/Upper Bound.md",
         "Notes/Math/General Math Terms/Intervals/Infimum.md",
         "Notes/Math/General Math Terms/Intervals/Supremum.md",
         "Notes/Math/General Math Terms/Intervals/Minimum.md",
@@ -746,8 +746,12 @@
     "Notes/Math/General Math Terms/Math Symbols": {
       "children": [
         "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
-        "Notes/Math/General Math Terms/Math Symbols/Field.md",
         "Notes/Math/General Math Terms/Math Symbols/Scalar.md",
+        "Notes/Math/General Math Terms/Math Symbols/Addition.md",
+        "Notes/Math/General Math Terms/Math Symbols/Subtraction.md",
+        "Notes/Math/General Math Terms/Math Symbols/Multiplication.md",
+        "Notes/Math/General Math Terms/Math Symbols/Division.md",
+        "Notes/Math/General Math Terms/Math Symbols/Field.md",
         "Notes/Math/General Math Terms/Math Symbols/Closure Of Addition.md",
         "Notes/Math/General Math Terms/Math Symbols/Associativity Of Addition.md",
         "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Addition.md",
@@ -760,14 +764,10 @@
         "Notes/Math/General Math Terms/Math Symbols/Multiplicative Inverse.md",
         "Notes/Math/General Math Terms/Math Symbols/Distributivity.md",
         "Notes/Math/General Math Terms/Math Symbols/Absolute Value.md",
-        "Notes/Math/General Math Terms/Math Symbols/Addition.md",
-        "Notes/Math/General Math Terms/Math Symbols/Division.md",
         "Notes/Math/General Math Terms/Math Symbols/For All.md",
         "Notes/Math/General Math Terms/Math Symbols/Exists.md",
         "Notes/Math/General Math Terms/Math Symbols/If and Only If.md",
-        "Notes/Math/General Math Terms/Math Symbols/Implication.md",
-        "Notes/Math/General Math Terms/Math Symbols/Multiplication.md",
-        "Notes/Math/General Math Terms/Math Symbols/Subtraction.md"
+        "Notes/Math/General Math Terms/Math Symbols/Implication.md"
       ],
       "sortOrder": "custom"
     },
@@ -1107,8 +1107,8 @@
         "Notes/Physics/Classical Mechanics",
         "Notes/Physics/Electric Circuits",
         "Notes/Physics/Electromagnetism",
-        "Notes/Physics/Fluid Mechanics",
         "Notes/Physics/Optics and Waves",
+        "Notes/Physics/Fluid Mechanics",
         "Notes/Physics/Signal Processing",
         "Notes/Physics/Thermodynamics"
       ],
