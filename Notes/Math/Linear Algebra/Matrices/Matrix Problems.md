@@ -189,4 +189,23 @@ $$\begin{array}{l}
 
 ## [[Cramer's Rule]]
 
-### Questio
+### Question 1
+
+Find $\mathbf{x}$ in $\mathbf{Ax=b}$
+#### Given
+
+$$\begin{array}{l}
+\mathbf{A} = \begin{pmatrix}
+1 & 3 \\
+1 & 2
+\end{pmatrix} \\
+\mathbf{b} = \begin{pmatrix}
+2 \\
+1
+\end{pmatrix}
+\end{array}$$
+#### Solution
+
+Using Cramer's rule $$\begin{array}{l}
+x_i = \frac{\det \mathbf{A}_i}{\det } 
+\end{array}$$
