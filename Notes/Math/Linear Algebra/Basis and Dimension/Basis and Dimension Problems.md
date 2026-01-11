@@ -92,3 +92,21 @@ $$\begin{array}{l}
 \end{pmatrix}
 \end{array}$$
 No 2 [[Row Vector]]s are the same so the matrix $\mathbf{A}$ has [[Linear Independence]].
+
+## [[Basis]] 
+
+### Question 1
+
+What is the basis of matrix $\mathbf{A}$
+
+#### Given
+
+$$\mathbf{A} = \left (
+\begin{array}
+1 & 0 & 1 & 3 \\
+2 & 1 & 1 & 2 \\
+1 & 1 & 1 & 1 \\
+0 & 3 & 1 & 2
+\end{pmatrix}$$
+#### Solution
+
