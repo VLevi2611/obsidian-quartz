@@ -9,7 +9,7 @@ tags:
 
 ### Question 1
 
-whats the sum of $\mathbf{a+b+c}$ 
+Whats the sum of $\mathbf{a+b+c}$ 
 
 #### Given
 
@@ -22,14 +22,23 @@ $$\begin{array}{l}
 
 To sum vectors, sum their corresponding components
 $$\begin{array}{l}
-\sum_{i=1}^{n}\mathbf{v}=\sum_{j=1}^{m}\mathbf{v}_{i,j} \\
-\mathbf{a+b+c}=(1-2+0,2+3+1,5+3+2)=(-1)
+\mathbf{x}=\sum_{i=1}^{n}\sum_{j=1}^{m}\mathbf{v}_{j,i} \\
+\mathbf{a+b+c}=(1-2+0,2+3+1,5+3+2)=(-1,6,10)
 \end{array}$$
+
+## [[Scalar Multiplication]]
+
+### Question 1
+
+Whats the product $a\mathbf{
+#### Given
+
+
 ## [[Dot Product]]
 
 ### Question 1
 
-whats the dot product $\mathbf{a \cdot b}$
+Whats the dot product $\mathbf{a \cdot b}$
 #### Given
 
 $$\begin{array}{l}
@@ -46,7 +55,7 @@ $$\begin{array}{l}
 
 ### Question 2
 
-whats the dot product $\mathbf{a \cdot b}$ 
+Whats the dot product $\mathbf{a \cdot b}$ 
 
 #### Given
 
