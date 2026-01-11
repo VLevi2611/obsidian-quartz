@@ -172,7 +172,7 @@ tags:
 
 #### #problem 
 
-- 
+- [[Vector Problems]]
 
 ### [[Calculus]]
 

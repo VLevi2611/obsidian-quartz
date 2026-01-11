@@ -896,6 +896,7 @@
     "Notes/Math/Linear Algebra/Vectors": {
       "children": [
         "Notes/Math/Linear Algebra/Vectors/Vector.md",
+        "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
         "Notes/Math/Linear Algebra/Vectors/Coordinates.md",
         "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
         "Notes/Math/Linear Algebra/Vectors/Scalar Multiplication.md",
