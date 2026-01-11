@@ -13,7 +13,10 @@ tags:
 whats the dot product $\mathbf{a \cdot b}$
 #### Given
 
-$$\mathbf{a}=(9,5,-4,2),\mathbf{b}=(-3,-2,7,-1)$$
+$$\begin{array}{l}
+\mathbf{a}=(9,5,-4,2) \\ 
+\mathbf{b}=(-3,-2,7,-1)
+\end{array}$$
 #### Solution
 
 To solve a dot product, multiply the corresponding components and sum them.
@@ -28,5 +31,13 @@ whats the dot product $\mathbf{a \cdot b}$
 
 #### Given
 
-Given the size of $\mathbf{a,b}$, and the size of the angle between them
-$$||\mathbf{a}||=5,||\mathbf{b}||=\frac{3}{7}$$
+Given the size of $\mathbf{a,b}$, and the size of the angle between them is $\theta$  
+$$\begin{array}{l}
+|\mathbf{a}|=5 \\
+|\mathbf{b}|=\frac{3}{7} \\
+\theta=\frac{\pi}{12}
+\end{array}$$
+#### Solution
+
+Recall the other way to solve a dot product
+$$\mathbf{a \cdot b}=|\mathbf{a}||\mathbf{b}|\cos(\theta)$$
