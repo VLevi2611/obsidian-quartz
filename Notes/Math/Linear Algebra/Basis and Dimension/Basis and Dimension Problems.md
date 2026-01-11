@@ -113,7 +113,8 @@ $$
 #### Solution
 
 Solve the matrix
-$$\mathbf{A} = \left(
+$$\begin{array}{l}
+\mathbf{A} = \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
 2 & 0 & 0 & 1 & 0 \\
@@ -121,11 +122,76 @@ $$\mathbf{A} = \left(
 0 & 0 & 1 & 2 & 0
 \end{array}
 \right) \rightarrow 
-\mathbf{A} = \left(
+\left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
 0 & -2 & -6 & -1 & 0 \\
-1 & 2 & 2 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
 0 & 0 & 1 & 2 & 0
 \end{array}
-\right)$$
+\right) \\
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & -2 & -6 & -1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & 0 & 1 & 2 & 0
+\end{array}
+\right) \rightarrow
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & -2 & -6 & -1 & 0 \\
+0 & 0 & 1 & 2 & 0
+\end{array}
+\right) \\
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & -2 & -6 & -1 & 0 \\
+0 & 0 & 1 & 2 & 0
+\end{array}
+\right) \rightarrow
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & 0 & -8 & -1 & 0 \\
+0 & 0 & 1 & 2 & 0
+\end{array}
+\right) \\
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & 0 & -8 & -1 & 0 \\
+0 & 0 & 1 & 2 & 0
+\end{array}
+\right) \rightarrow
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & 0 & 1 & 2 & 0 \\
+0 & 0 & -8 & -1 & 0
+\end{array}
+\right) \\
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & 0 & 1 & 2 & 0 \\
+0 & 0 & -8 & -1 & 0
+\end{array}
+\right) \rightarrow
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & 0 & 1 & 2 & 0 \\
+0 & 0 & -8 & -1 & 0
+\end{array}
+\right)
+\end{array}$$
