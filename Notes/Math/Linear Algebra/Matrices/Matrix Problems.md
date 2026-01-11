@@ -58,22 +58,21 @@ $$\begin{array}{l}
 To multiply 2 matrix, multiply $\mathbf{A}$ by each column of $\mathbf{B}$
 $$\begin{array}{l}
 \mathbf{AB} = \begin{pmatrix}
-1 & 3 \\
-2 & 1
-\end{pmatrix}
-\begin{pmatrix}
-2 \\
-0
-\end{pmatrix} +
-\begin{pmatrix}
-1 & 3 \\
-2 & 1
-\end{pmatrix}
-\begin{pmatrix}
-2 \\
-1
+(1 \times 2) + (3 \times 0) & (1 \times 2) + (3 \times 1) \\
+(2 \times 2) + (1 \times 0) & (2 \times 2) + (1 \times 1)
 \end{pmatrix} \\
 \mathbf{AB} = \begin{pmatrix}
-2
+2 & 5 \\
+4 & 5
 \end{pmatrix}
 \end{array}$$
+
+## [[Determinant]]
+
+### Question 1
+
+What is the determinant of $\mathbf{A}$
+
+#### Given
+
+$$\mathbf{A} = \begin{pmatrix$$
