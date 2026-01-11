@@ -57,3 +57,18 @@ $$\mathbf{A} = \begin{pmatrix}
 1 & 1 & 1
 \end{pmatrix}$$
 #### Solution
+
+Preform gaussian elimination
+$$\begin{array}{l}
+\begin{pmatrix}
+1 & 2 & 2 \\
+2 & -1 & 0 \\
+1 & 1 & 1
+\end{pmatrix} \rightarrow
+\begin{pmatrix}
+1 & 2 & 2 \\
+0 & -5 &-4 \\
+0 & -1 & -1
+\end{pmatrix} \\
+
+\end{array}$$
