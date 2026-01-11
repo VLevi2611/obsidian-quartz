@@ -870,6 +870,7 @@
     "Notes/Math/Linear Algebra/Matrices": {
       "children": [
         "Notes/Math/Linear Algebra/Matrices/Matrix.md",
+        "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
         "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
         "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
         "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
