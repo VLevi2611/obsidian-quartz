@@ -25,3 +25,5 @@ a_{31} & a_{32} & a_{33}
 - [[Cramer's Rule]]
 
 ## #problem 
+
+- [[Matrix Problems]]

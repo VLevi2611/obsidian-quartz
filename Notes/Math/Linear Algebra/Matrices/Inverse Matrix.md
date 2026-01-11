@@ -9,7 +9,7 @@ tags:
 The inverse of a [[Matrix]] $\mathbf{A}^{-1}$ exists only when the [[Determinant]] is not 0. The inverse reverses the [[Linear Transformation]] of the matrix.
 There are several ways to compute the inverse:
 ### Gaussian elimination
-$$\mathbf{A}=\begin{pmatrix}
+$$\mathbf{A} = \begin{pmatrix}
 -1 & \frac{3}{2} \\
 1 & -1
 \end{pmatrix}$$
@@ -17,13 +17,13 @@ First, check if the determinant is not 0:
 $$\begin{vmatrix}
 -1 & \frac{3}{2} \\
 1 & 1
-\end{vmatrix}=
-(-1*1)-(\frac{3}{2}*1)=-\frac{5}{2}$$
+\end{vmatrix} =
+(-1 \times 1) - (\frac{3}{2} \times 1) = -\frac{5}{2}$$
 Create the augmented matrix:
 $$\left(
 \begin{array}{cc|cc}
 -1 & \frac{3}{2} & 1 & 0 \\
- 1 & -1           & 0 & 1
+ 1 & -1 & 0 & 1
 \end{array}
 \right)
 
@@ -39,14 +39,14 @@ $$\left(
 \right)
 $$
 Multiply the first row by -1 and the second by 2 to resemble the identity matrix.
-$R_1*-1 \rightarrow R_1$ , $R_2 * 2 \rightarrow R_2$ 
+$R_1 \times -1 \rightarrow R_1$ , $R_2 \times 2 \rightarrow R_2$ 
 $$\left(
 \begin{array}{cc|cc}
 1 & -\frac{3}{2} & -1 & 0 \\
  0 & 1 & 2 & 2
 \end{array}
 \right)$$
-Finally, $R_1+\frac{3}{2} R_2 \rightarrow R_1$ 
+Finally, $R_1 + \frac{3}{2} R_2 \rightarrow R_1$ 
 $$\left(
 \begin{array}{cc|cc}
 1 & 0 & 2 & 3 \\
