@@ -11,7 +11,7 @@ If the determinant is 0, the space is compressed into a lower dimension.
 
 --- 
 
-### In $2 2$
+### In $2 \times 2$
 $$\mathbf{A} = \begin{pmatrix}
 a & b \\
 c & d
@@ -21,7 +21,7 @@ a & b \\
 c & d
 \end{vmatrix} = ad-bc$$
 
-### In $3*3$
+### In $3 \times 3$
 
 To calculate 3x3 and higher order matrices, we need to compute their minors.
 The minor of the entry in the $i$ row and $j$ column $M_{i,j}$ is the determinant  of the submatrix formed by deleting the $i$ row and the $j$ column.

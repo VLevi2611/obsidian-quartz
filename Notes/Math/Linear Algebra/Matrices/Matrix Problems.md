@@ -104,3 +104,23 @@ $$\mathbf{A} = \begin{pmatrix}
 \end{pmatrix}$$
 #### Solution
 
+To calculate the determinant of a $3 \times 3$ matrix
+1. calculate the determinant of its minors
+2. multiply each determinant with the component of that minor
+3. sum all of them
+$$\begin{array}{l}
+\begin{vmatrix}
+1 & 2 & 3 \\
+4 & 4 & 2 \\
+2 & 1 & 2 
+\end{vmatrix} = 
+1 \times \begin{vmatrix}
+4 & 2 \\
+1 & 2
+\end{vmatrix}
++ 2 \times \begin{vmatrix}
+4 & 2 \\
+2 & 2
+\end{vmatrix}
++ 3
+\end{array}$$
