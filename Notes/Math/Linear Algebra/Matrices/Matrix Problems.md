@@ -55,4 +55,25 @@ $$\begin{array}{l}
 \end{array}$$
 #### Solution
 
-To multiply 2 matrix, multiply $\mathbf{
+To multiply 2 matrix, multiply $\mathbf{A}$ by each column of $\mathbf{B}$
+$$\begin{array}{l}
+\mathbf{AB} = \begin{pmatrix}
+1 & 3 \\
+2 & 1
+\end{pmatrix}
+\begin{pmatrix}
+2 \\
+0
+\end{pmatrix} +
+\begin{pmatrix}
+1 & 3 \\
+2 & 1
+\end{pmatrix}
+\begin{pmatrix}
+2 \\
+1
+\end{pmatrix} \\
+\mathbf{AB} = \begin{pmatrix}
+2
+\end{pmatrix}
+\end{array}$$
