@@ -6,9 +6,16 @@ tags:
   - linear-algebra
   - §
 ---
-## Question 1:
+## [[Dot Product]]
 
+### Question 1
 
-## Given
+whats the dot product $\mathbf{a \cdot b}$
+#### Given
 
-## Solution
+$$\mathbf{a}=(9,5,-4,2),\mathbf{b}=(-3,-2,7,-1)$$
+#### Solution
+
+To solve a dot product, multiply the corresponding components and sum them.
+$$\mathbf{a \cdot b}=\sum_{i=1}^{4}a_ib_i$$
+$$$$
