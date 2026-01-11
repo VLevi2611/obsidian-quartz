@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
+                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Column Space"
+              "title": "Basis and Dimension Problems"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
+                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Column Space"
+              "title": "Graph of Basis and Dimension Problems"
             }
           }
         ]
@@ -372,9 +372,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
-    "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
