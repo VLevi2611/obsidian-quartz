@@ -20,7 +20,11 @@ $$\begin{array}{l}
 \end{array}$$
 #### Solution
 
-To 
+To sum vectors, sum their corresponding components
+$$\begin{array}{l}
+\sum_{i=1}^{n}\mathbf{v}=\sum_{j=1}^{m}\mathbf{v}_{i,j} \\
+\mathbf{a+b+c}=(1-2+0,2+3+1,5+3+2)=(-1)
+\end{array}$$
 ## [[Dot Product]]
 
 ### Question 1
