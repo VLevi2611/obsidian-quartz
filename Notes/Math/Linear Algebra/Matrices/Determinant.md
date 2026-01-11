@@ -11,7 +11,7 @@ If the determinant is 0, the space is compressed into a lower dimension.
 
 --- 
 
-### In $2*2$
+### In $2 2$
 $$\mathbf{A} = \begin{pmatrix}
 a & b \\
 c & d

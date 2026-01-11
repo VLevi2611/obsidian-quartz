@@ -75,4 +75,32 @@ What is the determinant of $\mathbf{A}$
 
 #### Given
 
-$$\mathbf{A} = \begin{pmatrix$$
+$$\mathbf{A} = \begin{pmatrix}
+1 & 2 \\
+4 & 4
+\end{pmatrix}$$
+#### Solution
+
+To calculate the determinant of a $2 \times 2$ matrix
+$$\begin{array}{l}
+|\mathbf{A}| = a_{11} a_{22} - a_{21} a_{12} \\
+\begin{vmatrix}
+1 & 2 \\
+4 & 4
+\end{vmatrix} = 
+4 - 8 = -4
+\end{array}$$
+
+### Question 2
+
+What is the determinant of $\mathbf{A}$
+
+#### Given
+
+$$\mathbf{A} = \begin{pmatrix}
+1 & 2 & 3 \\
+4 & 4 & 2 \\
+2 & 1 & 2
+\end{pmatrix}$$
+#### Solution
+
