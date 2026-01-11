@@ -2,9 +2,8 @@
 tags:
   - problem
   - easy
-  - medium
-  - hard
-  - exam-level
+  - math
+  - linear-algebra
 ---
 ## [[Matrix Vector Multiplication]]
 
@@ -207,5 +206,16 @@ $$\begin{array}{l}
 #### Solution
 
 Using Cramer's rule $$\begin{array}{l}
-x_i = \frac{\det \mathbf{A}_i}{\det } 
+x_i = \frac{\det \mathbf{A}_i}{\det \mathbf{A}} \\
+\det \mathbf{A} = 2 - 3 = -1 \\
+\det \mathbf{A}_1 = \begin{vmatrix}
+2 & 3 \\
+1 & 2
+\end{vmatrix} = 1 \\
+\det \mathbf{A}_2 = \begin{vmatrix}
+1 & 2 \\
+1 & 1
+\end{vmatrix} = -1 \\
+x_1 = -1 \\
+x_2 = 1
 \end{array}$$

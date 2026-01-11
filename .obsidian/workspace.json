@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
+                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Problems"
+              "title": "Basis and Dimension Problems"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
+                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Matrix Problems"
+              "title": "Graph of Basis and Dimension Problems"
             }
           }
         ]
@@ -372,8 +372,11 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
+    "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
+    "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
     "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
@@ -396,9 +399,6 @@
     "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
     "Excalidraw/Drawing 2026-01-10 23.36.45.excalidraw.md",
     "Excalidraw",
-    "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
-    "Notes/Math/General Math Terms/Intervals/Interval.md",
-    "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
