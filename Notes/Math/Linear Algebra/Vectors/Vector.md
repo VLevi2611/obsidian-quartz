@@ -22,3 +22,5 @@ Notate vectors in **bald** $\mathbf{r}$ and not $r$.
 - [[Row Vector]]
 
 ## #problem 
+
+- [[Vector Problems]]

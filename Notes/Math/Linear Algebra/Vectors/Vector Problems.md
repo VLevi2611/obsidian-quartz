@@ -4,7 +4,6 @@ tags:
   - easy
   - math
   - linear-algebra
-  - §
 ---
 ## [[Dot Product]]
 

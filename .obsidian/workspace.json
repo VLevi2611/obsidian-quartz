@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
+                "file": "Notes/Math/Math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dot Product"
+              "title": "Math"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
+                "file": "Notes/Math/Math.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -322,6 +322,13 @@
                         "a": 1,
                         "rgb": 5395168
                       }
+                    },
+                    {
+                      "query": "tag:#problem  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11621088
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -339,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Dot Product"
+              "title": "Graph of Math"
             }
           }
         ]
@@ -365,8 +372,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
+    "Notes/Math/Linear Algebra/Vectors/Vector.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
+    "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
     "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
     "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
     "Notes/Math/Linear Algebra/Vectors/Coordinates.md",
@@ -391,7 +399,6 @@
     "Notes/Physics/Electromagnetism/Electromagnetism.md",
     "Notes/Physics/Electromagnetism/Electrostatics/Electrostatics.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
-    "Notes/Math/Linear Algebra/Vectors/Column Vector.md",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
