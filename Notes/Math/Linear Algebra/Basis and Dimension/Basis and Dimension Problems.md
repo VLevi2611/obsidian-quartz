@@ -210,4 +210,5 @@ $$\begin{array}{l}
 0 & 0 & 0 & 1 & 0
 \end{array}
 \right)
-\end{array}$$After some long algebra, we get the [[Identity Matrix]] $\mathbf{I}_4$, and the basis
+\end{array}$$After some long algebra, we get the [[Identity Matrix]] $\mathbf{I}_4$, and the basis is $$Col(\mathbf{A})=\mathbb{R}^4$$
+And the [[Dimension]] $$\dim(\mathbf{A})=4$$
