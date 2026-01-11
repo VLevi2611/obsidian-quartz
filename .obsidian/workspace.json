@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
+                "file": "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vector Problems"
+              "title": "Matrix Problems"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
+                "file": "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Vector Problems"
+              "title": "Graph of Matrix Problems"
             }
           }
         ]
@@ -372,18 +372,18 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
+    "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
     "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Transpose.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
     "Notes/Math/Linear Algebra/Matrices/Determinant.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
     "Templates/Problem Template.md",
-    "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
     "Notes/Math/Linear Algebra/Vectors/Vector.md",
     "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
     "Notes/Math/Linear Algebra/Vectors/Length (Norm).md",

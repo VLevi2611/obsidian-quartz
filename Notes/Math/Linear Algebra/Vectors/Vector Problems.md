@@ -14,9 +14,9 @@ Whats the sum of $\mathbf{a+b+c}$
 #### Given
 
 $$\begin{array}{l}
-\mathbf{a} = (1, 2, 5) \\
-\mathbf{b} = (-2, 3, 3) \\
-\mathbf{c} = (0, 1, 2)
+\mathbf{a} = (1,2,5) \\
+\mathbf{b} = (-2,3,3) \\
+\mathbf{c} = (0,1,2)
 \end{array}$$
 #### Solution
 
@@ -35,14 +35,14 @@ Whats the product $a\mathbf{x}$
 
 $$\begin{array}{l}
 a = 5 \\
-\mathbf{x} = (2, 3, 3)
+\mathbf{x} = (2,3,3)
 \end{array}$$
 #### Solution
 
 To multiply a vector by a scalar, multiply each component by that scalar
 $$\begin{array}{l}
 a\mathbf{x} = \sum_{i = 1}^{n} ax_i \\
-a\mathbf{x} = (5 \times 2, 5 \times 3, 5 \times 3) = (10, 15, 15)
+a\mathbf{x} = (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
 \end{array}$$
 
 ## [[Dot Product]]
@@ -53,8 +53,8 @@ Whats the dot product $\mathbf{a \cdot b}$
 #### Given
 
 $$\begin{array}{l}
-\mathbf{a} = (9, 5, -4, 2) \\ 
-\mathbf{b} = (-3, -2, 7, -1)
+\mathbf{a} = (9,5,-4,2) \\ 
+\mathbf{b} = (-3,-2,7,-1)
 \end{array}$$
 #### Solution
 
@@ -93,8 +93,8 @@ Check if $\mathbf{x,y}$ are orthogonal
 #### Given
 
 $$\begin{array}{l}
-\mathbf{x} = (1, 2) \\
-\mathbf{y} = (-1, 2)
+\mathbf{x} = (1,2) \\
+\mathbf{y} = (-1,2)
 \end{array}$$
 #### Solution
 
@@ -112,11 +112,11 @@ What is the length of $\mathbf{x}$
 
 #### Given
 
-$$\mathbf{x} = (1, 2, 3, 7)$$
+$$\mathbf{x} = (1,2,3,7)$$
 #### Solution
 
 Length of a vector is calculated by the square root of the dot product with itself
 $$\begin{array}{l}
 |\mathbf{x}| = \sqrt{\mathbf{x \cdot x}} \\
-|\mathbf{x}|=\sqrt{1^2+2^2+3^2+7^2}=\sqrt{63}
+|\mathbf{x}| = \sqrt{1^2 + 2^2 + 3^2 + 7^2} = \sqrt{63}
 \end{array}$$

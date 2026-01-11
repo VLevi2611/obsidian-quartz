@@ -24,11 +24,11 @@ $$\begin{array}{l}
 #### Solution
 
 To multiply a [[Matrix]] and a [[Vector]], do a [[Dot Product]] for each row with the vector
-$$\mathbf{Ax}=\begin{pmatrix}
+$$\mathbf{Ax} = \begin{pmatrix}
 1 \times 1 + 3 \times 0 + 2 \times 1 \\
 2 \times 1 + 2 \times 0 + 1 \times 1 \\
 0 \times 1 + 2 \times 0 + 4 \times 1
-\end{pmatrix}=
+\end{pmatrix} =
 \begin{pmatrix}
 3 \\
 3 \\
@@ -186,3 +186,7 @@ $$\begin{array}{l}
 3 & 1
 \end{pmatrix}
 \end{array}$$
+
+## [[Cramer's Rule]]
+
+### Questio
