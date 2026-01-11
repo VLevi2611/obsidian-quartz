@@ -100,5 +100,23 @@ $$\begin{array}{l}
 
 2 vectors are orthogonal if their dot product is 0 
 $$\begin{array}{l}
-\mathbf{x\cdot y}=1\times -1+2\times 2=
+\mathbf{x\cdot y}=1\times -1+2\times 2=3 \\
+\mathbf{x \not \perp y}
+\end{array}$$
+
+## [[Length (Norm)]]
+
+### Question 1
+
+What is the length of $\mathbf{x}$
+
+#### Given
+
+$$\mathbf{x}=(1,2,3,7)$$
+#### Solution
+
+Length of a vector is calculated by the square root of the dot product with itself
+$$\begin{array}{l}
+|\mathbf{x}|=\sqrt{\mathbf{x \cdot x}} \\
+|\mathbf{x}|=
 \end{array}$$
