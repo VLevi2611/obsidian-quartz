@@ -148,7 +148,25 @@ $$\mathbf{A} = \begin{pmatrix}
 #### Solution
 
 To solve for the inverse
-1. create an augmented matrix (the matrix on the left and the [[Identity Matrix]] on the right)
-2. manipulate the matrix to create the identity matrix on the left
-3. the inverse is the matrix on the right
-$$\begin{array$$
+1. check if the determinant is not 0
+2. create an augmented matrix (the matrix on the left and the [[Identity Matrix]] on the right)
+3. manipulate the matrix to create the identity matrix on the left
+4. the inverse is the matrix on the right
+$$\begin{array}{l}
+\begin{vmatrix}
+1 & 3 \\
+3 & 2
+\end{vmatrix} = -7 \not =0 \\
+\left (
+\begin{array}{cc|cc}
+1 & 3 & 1 & 0 \\
+3 & 2 & 0 & 1
+\end{array}
+\right ) \\
+\left (
+\begin{array}{cc|cc}
+1 & 3 & 1 & 0 \\
+0 & -7 & -3 & 1
+\end{array}
+\right ) \\
+\end{array}$$
