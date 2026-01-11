@@ -86,4 +86,19 @@ $$\begin{array}{l}
 
 ## [[Orthogonal Vectors]]
 
-### Question
+### Question 1
+
+Check if $\mathbf{x,y}$ are orthogonal
+
+#### Given
+
+$$\begin{array}{l}
+\mathbf{x}=(1,2) \\
+\mathbf{y}=(-1,2)
+\end{array}$$
+#### Solution
+
+2 vectors are orthogonal if their dot product is 0 
+$$\begin{array}{l}
+\mathbf{x\cdot y}=1\times -1+2\times 2=
+\end{array}$$
