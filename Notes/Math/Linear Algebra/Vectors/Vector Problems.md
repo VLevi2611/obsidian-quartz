@@ -30,9 +30,20 @@ $$\begin{array}{l}
 
 ### Question 1
 
-Whats the product $a\mathbf{
+Whats the product $a\mathbf{x}$ 
 #### Given
 
+$$\begin{array}{l}
+a=5 \\
+\mathbf{x}=(2,3,3)
+\end{array}$$
+#### Solution
+
+To multiply a vector by a scalar, multiply each component by that scalar
+$$\begin{array}{l}
+a\mathbf{x}=\sum_{i=1}^{n}ax_i \\
+a\mathbf{x}=(5 \times2,5\times3,5\times3)=(10,15,15)
+\end{array}$$
 
 ## [[Dot Product]]
 
@@ -72,3 +83,7 @@ $$\begin{array}{l}
 \mathbf{a \cdot b}=|\mathbf{a}||\mathbf{b}|\cos(\theta) \\
 \mathbf{a \cdot b}=5 \times \frac{3}{7} \times \cos (\frac{\pi}{12})=2.0698
 \end{array}$$
+
+## [[Orthogonal Vectors]]
+
+### Question
