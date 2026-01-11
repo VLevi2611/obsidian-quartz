@@ -174,6 +174,7 @@ tags:
 
 - [[Vector Problems]]
 - [[Matrix Problems]]
+- [[Basis and Dimension Problems]]
 
 ### [[Calculus]]
 
