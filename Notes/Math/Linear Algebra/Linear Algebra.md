@@ -35,6 +35,8 @@ tags:
 
 #### #problem 
 
+- [[Vector Problems]]
+
 ### [[Matrix]]
 
 #### #concept 
