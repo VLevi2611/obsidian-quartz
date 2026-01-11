@@ -169,4 +169,20 @@ $$\begin{array}{l}
 0 & -7 & -3 & 1
 \end{array}
 \right ) \\
+\left (
+\begin{array}{cc|cc}
+1 & 3 & 1 & 0 \\
+0 & 1 & \frac{3}{7} & \frac{1}{7}
+\end{array}
+\right ) \\
+\left (
+\begin{array}{cc|cc}
+1 & 0 & -\frac{2}{7} & -\frac{3}{7} \\
+0 & 1 & \frac{3}{7} & \frac{1}{7}
+\end{array}
+\right ) \\
+\mathbf{A}^{-1} = \frac{1}{7} \begin{pmatrix} 
+-2 & -3 \\
+3 & 1
+\end{pmatrix}
 \end{array}$$
