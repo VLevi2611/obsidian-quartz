@@ -118,5 +118,5 @@ $$\mathbf{x}=(1,2,3,7)$$
 Length of a vector is calculated by the square root of the dot product with itself
 $$\begin{array}{l}
 |\mathbf{x}|=\sqrt{\mathbf{x \cdot x}} \\
-|\mathbf{x}|=
+|\mathbf{x}|=\sqrt{1^2+2^2+3^2+7^2}=\sqrt{63}
 \end{array}$$
