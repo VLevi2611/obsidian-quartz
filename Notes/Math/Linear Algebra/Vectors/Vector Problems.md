@@ -40,4 +40,7 @@ $$\begin{array}{l}
 #### Solution
 
 Recall the other way to solve a dot product
-$$\mathbf{a \cdot b}=|\mathbf{a}||\mathbf{b}|\cos(\theta)$$
+$$\begin{array}{l}
+\mathbf{a \cdot b}=|\mathbf{a}||\mathbf{b}|\cos(\theta) \\
+\mathbf{a \cdot b}=5 \times \frac{3}{7} \times \cos (\frac{\pi}{12})=2.0698
+\end{array}$$
