@@ -112,7 +112,7 @@ $$\mathbf{A} = \left(
 $$
 #### Solution
 
-Solve the matrix
+Solve the matrix to row reduced form
 $$\begin{array}{l}
 \mathbf{A} = \left(
 \begin{array}{cccc|c}
@@ -191,7 +191,23 @@ $$\begin{array}{l}
 1 & 1 & 3 & 1 & 0 \\
 0 & 1 & -1 & 0 & 0 \\
 0 & 0 & 1 & 2 & 0 \\
-0 & 0 & -8 & -1 & 0
+0 & 0 & 0 & 15 & 0
+\end{array}
+\right) \\
+\left(
+\begin{array}{cccc|c}
+1 & 1 & 3 & 1 & 0 \\
+0 & 1 & -1 & 0 & 0 \\
+0 & 0 & 1 & 2 & 0 \\
+0 & 0 & 0 & 15 & 0
+\end{array}
+\right) \rightarrow 
+\left(
+\begin{array}{cccc|c}
+1 & 0 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 & 0 \\
+0 & 0 & 1 & 0 & 0 \\
+0 & 0 & 0 & 1 & 0
 \end{array}
 \right)
-\end{array}$$
+\end{array}$$After some long algebra, we get the [[Identity Matrix]] $\mathbf{I}_4$, and the basis
