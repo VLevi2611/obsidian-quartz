@@ -14,9 +14,9 @@ Whats the sum of $\mathbf{a+b+c}$
 #### Given
 
 $$\begin{array}{l}
-\mathbf{a}=(1,2,5) \\
-\mathbf{b}=(-2,3,3) \\
-\mathbf{c}=(0,1,2)
+\mathbf{a} = (1, 2, 5) \\
+\mathbf{b} = (-2, 3, 3) \\
+\mathbf{c} = (0, 1, 2)
 \end{array}$$
 #### Solution
 
