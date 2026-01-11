@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+                "file": "Notes/Math/Linear Algebra/Matrices/Canonical Form.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basis and Dimension Problems"
+              "title": "Canonical Form"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+                "file": "Notes/Math/Linear Algebra/Matrices/Canonical Form.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Basis and Dimension Problems"
+              "title": "Graph of Canonical Form"
             }
           }
         ]
@@ -372,8 +372,10 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+    "Notes/Math/Linear Algebra/Matrices/Canonical Form.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
+    "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
@@ -396,8 +398,6 @@
     "Notes/Math/Linear Algebra/Vectors/Orthogonal Vectors.md",
     "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
     "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
-    "Notes/Math/Linear Algebra/Vectors/Coordinates.md",
-    "Notes/Math/Linear Algebra/Linear Systems/Unique Solution.md",
     "Excalidraw",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",

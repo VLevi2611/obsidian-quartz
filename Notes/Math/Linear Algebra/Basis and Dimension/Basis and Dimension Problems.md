@@ -36,8 +36,24 @@ Span(\mathbf{A}) = c_1 \begin{pmatrix}
 1 \\
 1
 \end{pmatrix} \\
-\begin{pmatrix}
+Span(\mathbf{A}) = \begin{pmatrix}
 c_1 + 2c_3 \\
-
+2c_1 + c_2 + c_3 \\
+3c_2 + c_1
 \end{pmatrix}
 \end{array}$$
+
+## [[Linear Dependence]]
+
+### Question 1
+
+Check if the matrix $\mathbf{A}$ has linear dependent [[Vector]]s
+
+#### Given
+
+$$\mathbf{A} = \begin{pmatrix}
+1 & 2 & 2 \\
+2 & -1 & 0 \\
+1 & 1 & 1
+\end{pmatrix}$$
+#### Solution
