@@ -67,8 +67,28 @@ $$\begin{array}{l}
 \end{pmatrix} \rightarrow
 \begin{pmatrix}
 1 & 2 & 2 \\
-0 & -5 &-4 \\
+0 & -5 & -4 \\
 0 & -1 & -1
 \end{pmatrix} \\
-
+\begin{pmatrix}
+1 & 2 & 2 \\
+0 & -5 & -4 \\
+0 & -1 & -1
+\end{pmatrix} \rightarrow 
+\begin{pmatrix}
+1 & 2 & 2 \\
+0 & -1 & -1 \\
+0 & -5 & -4
+\end{pmatrix} \\
+\begin{pmatrix}
+1 & 2 & 2 \\
+0 & -1 & -1 \\
+0 & -5 & -4
+\end{pmatrix} \rightarrow
+\begin{pmatrix}
+1 & 2 & 2 \\
+0 & -1 & -1 \\
+0 & 0 & 1
+\end{pmatrix}
 \end{array}$$
+No 2 [[Row Vector]]s are the same so the matrix $\mathbf{A}$ has [[Linear Independence]].
