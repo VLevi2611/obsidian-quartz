@@ -122,5 +122,33 @@ $$\begin{array}{l}
 4 & 2 \\
 2 & 2
 \end{vmatrix}
-+ 3
++ 3 \times \begin{vmatrix}
+4 & 4 \\
+2 & 1
+\end{vmatrix} \\
+\begin{vmatrix}
+1 & 2 & 3 \\
+4 & 4 & 2 \\
+2 & 1 & 2 
+\end{vmatrix} = 6 + 8 - 12 = 2
 \end{array}$$
+
+## [[Inverse Matrix]]
+
+### Question 1
+
+Whats the inverse of the matrix $\mathbf{A}$
+
+#### Given
+
+$$\mathbf{A} = \begin{pmatrix}
+1 & 3 \\
+3 & 2
+\end{pmatrix}$$
+#### Solution
+
+To solve for the inverse
+1. create an augmented matrix (the matrix on the left and the [[Identity Matrix]] on the right)
+2. manipulate the matrix to create the identity matrix on the left
+3. the inverse is the matrix on the right
+$$\begin{array$$
