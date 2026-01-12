@@ -210,4 +210,11 @@ tags:
 
 - [[Reaction Rate]]
 - [[Reaction Order]]
-- [[ac]]
+- [[Activation Energy]]
+- [[Catalysts]]
+- [[Collision Theory]]
+
+#### #formula 
+
+- [[Rate Law]]
+- [[Arrhenius Equation]]

@@ -682,6 +682,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics Intro.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Chemical Equilibrium.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
