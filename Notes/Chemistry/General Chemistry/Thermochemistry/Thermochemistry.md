@@ -14,14 +14,15 @@ tags:
 - [[Enthalpy]]
 - [[Heat Capacity]]
 - [[Calorimetry]]
-- [[Hess's Law]]
 - [[Bond Enthalpy]]
 
 ## #formula 
 
-- [[Heat tra]]
+- [[Heat Formula]]
+- [[Enthalpy Formula]]
+- [[Hess's Law]]
 ## #constant 
 
-## #symbol 
+- [[Specific Heat Capacities Table]]
 
 ## #problem 
