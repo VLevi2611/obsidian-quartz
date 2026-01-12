@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass Formula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemistry Terms"
+              "title": "Atomic Mass Formula"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass Formula.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Terms"
+              "title": "Graph of Atomic Mass Formula"
             }
           }
         ]
@@ -372,8 +372,15 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Energy Of Photon.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass Formula.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Wavelength Frequency Formula.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Charge.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Mass.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Base Units.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
@@ -401,13 +408,6 @@
     "Notes/Chemistry/Physical Chemistry/Quantum Basics/Quantum Basics.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure",
-    "Notes/Chemistry/Chemistry.md",
-    "Chemical Equation.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
-    "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
-    "Notes/Chemistry/General Chemistry/General terms/Avogadro Number.md",
-    "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Progress/Day 5.png",
