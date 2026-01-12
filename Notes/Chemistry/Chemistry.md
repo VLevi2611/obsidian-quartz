@@ -66,7 +66,7 @@ tags:
 - [[Molecular Mass]]
 - [[Molecule]]
 - [[Nucleus]]
-- [[Reagents]]]]
+- [[Reagents]]
 
 ###### #formula 
 

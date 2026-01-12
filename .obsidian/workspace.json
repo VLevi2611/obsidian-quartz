@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Displacement"
+              "title": "General Chemistry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Displacement"
+              "title": "Graph of General Chemistry"
             }
           }
         ]
@@ -372,6 +372,12 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General terms/Element.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General terms/Matter.md",
+    "Notes/Chemistry/General Chemistry/General terms/Atomic Weight.md",
+    "Notes/Chemistry/Chemistry.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
@@ -392,12 +398,6 @@
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
     "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md",
-    "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix.md",
-    "Notes/Math/Linear Algebra/Matrices/Transpose.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
-    "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
-    "Templates/Problem Template.md",
     "Excalidraw",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
