@@ -13,7 +13,7 @@ tags:
 
 ##### [[General Chemistry Terms]]
 
-##### #concept 
+###### #concept 
 
 - [[Matter]]
 - [[Substance]]
@@ -26,12 +26,12 @@ tags:
 - [[Scientific Notation]]
 - [[Dimensional Analysis]]
 - [[SI Units]]
-##### #formula 
+###### #formula 
 
 - [[Precent Error]]
 - [[Density]]
 
-##### #constant 
+###### #constant 
 
 - [[SI base Units]]
 - [[Metric Prefixes]]
@@ -202,6 +202,60 @@ tags:
 
 - [[Solubility Rules Table]]
 
-##### [[chemic]]
+##### [[Chemical Kinetics]]
+
+###### #concept 
+
+- [[Reaction Rate]]
+- [[Reaction Order]]
+- [[Activation Energy]]
+- [[Catalysts]]
+- [[Collision Theory]]
+
+###### #formula 
+
+- [[Rate Law]]
+- [[Arrhenius Equation]]
+
+##### [[Chemical Equilibrium]]
+
+###### #concept 
+
+- [[Dynamic Equilibrium]]
+- [[Equilibrium Pressure Constant]]
+- [[Equilibrium Concentration Constant]]
+- [[Le Chatelier's Principle]]
+
+###### #formula 
+
+- [[Relation Between Pressure and Concentration Constants]]
+
+##### [[Acids and Bases]]
+
+###### #concept 
+
+- [[Acid]]
+- [[Base]]
+- [[Arrhenius Definition]]
+- [[Bronsted-Lowry Definition]]
+- [[Strong Acid]]
+- [[Weak Acid]]
+- [[Strong Base]]
+- [[Weak Base]]
+- [[Conjugate Pairs]]
+- [[pH Scale]]
+- [[Buffers]]
+- [[Acid Dissociation Constant]]
+- [[Base Dissociation Constant]]
+
+###### #formula 
+
+- [[pH Formula]]
+- [[Relation Between Ka and Kb]]
+- [[Henderson-Hasselbalch]]
+
+###### #constant 
+
+- [[Equilibrium Water Constant]]
 #### #problem 
 
