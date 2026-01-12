@@ -11,10 +11,14 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/Physical Chemistry/Physical Chemistry.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physical Chemistry"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Notes/Chemistry/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,6 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Chemistry/Physical Chemistry/Physical Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Physical Chemistry"
             }
           }
         ]
@@ -367,11 +372,20 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/Stoichiometry",
+    "Notes/Chemistry/General Chemistry/States of Matter",
+    "Notes/Chemistry/General Chemistry/Thermochemistry",
+    "Notes/Chemistry/General Chemistry/Solutions",
+    "Notes/Chemistry/General Chemistry/Chemical Kinetics",
+    "Notes/Chemistry/General Chemistry/Chemical Equilibrium",
+    "Notes/Chemistry/General Chemistry/Acids and Bases",
+    "Notes/Chemistry/General Chemistry/Periodic Trends",
+    "Notes/Chemistry/Physical Chemistry/Quantum Basics/Quantum Basics.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure",
     "Notes/Chemistry/General Chemistry/General Chemical Terms",
     "Notes/Chemistry/Chemistry.md",
     "Chemical Equation.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
@@ -393,18 +407,9 @@
     "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
-    "Notes/Math/Math.md",
     "Excalidraw",
-    "Book view.base",
-    "Resources/Books/A Short History Of Nearly Everything.pdf",
-    "Resources/Books/The Runaway Species.pdf",
-    "Resources/Books/Thumbnails",
-    "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
-    "Resources/Books",
-    "Notes/Math/Linear Algebra/Fields",
-    "Notes/Math/General Math Terms/Fields",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",

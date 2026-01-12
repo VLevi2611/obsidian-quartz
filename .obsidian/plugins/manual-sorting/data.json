@@ -345,7 +345,8 @@
     "Notes/Chemistry/General Chemistry": {
       "children": [
         "Notes/Chemistry/General Chemistry/General Chemical Terms",
-        "Notes/Chemistry/General Chemistry/Atomic Structure"
+        "Notes/Chemistry/General Chemistry/Atomic Structure",
+        "Notes/Chemistry/General Chemistry/Periodic Trends"
       ],
       "sortOrder": "custom"
     },
@@ -354,6 +355,10 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/General Chemical Terms": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Periodic Trends": {
       "children": [],
       "sortOrder": "custom"
     },
