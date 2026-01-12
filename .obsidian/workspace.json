@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
+                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theoretical Yield"
+              "title": "Stoichiometry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
+                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,24 +310,10 @@
                       }
                     },
                     {
-                      "query": "tag:#constant  ",
+                      "query": "",
                       "color": {
                         "a": 1,
                         "rgb": 5419488
-                      }
-                    },
-                    {
-                      "query": "tag:#symbol  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5395168
-                      }
-                    },
-                    {
-                      "query": "tag:#problem  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11621088
                       }
                     }
                   ],
@@ -341,12 +327,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.58952018986905,
-                  "close": true
+                  "scale": 1.0977041712409785,
+                  "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Theoretical Yield"
+              "title": "Graph of Stoichiometry"
             }
           }
         ]
@@ -370,16 +356,22 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "b683650bb45996cb",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Actual Yield.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Mole.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Molar Mass.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equations.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Limiting Reagent.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Balancing Chemical Equations.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Actual Yield.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Empirical Formula.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Molecular Formula.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Mass Mole conversion.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Precent Yield.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Mole Ratios.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Hydrogen Bond.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Ionic Bond.md",
@@ -392,12 +384,6 @@
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Molecular Geometry.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Bond Order.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Intermolecular Forces.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Formal Charge.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/London Dispersion.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole-Dipole.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole Moment.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
