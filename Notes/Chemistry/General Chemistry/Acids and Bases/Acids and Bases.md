@@ -29,6 +29,8 @@ tags:
 - [[Henderson-Hasselbalch]]
 ## #constant 
 
+- [[Equilibrium Water Constant]]
+
 ## #symbol 
 
 ## #problem 

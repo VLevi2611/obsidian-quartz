@@ -689,6 +689,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Chemical Equilibrium.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Acids and Bases/Acids and Bases.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
