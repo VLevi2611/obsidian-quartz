@@ -504,7 +504,20 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Thermochemistry": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/System vs Surroundings.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Endothermic Reaction.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Exothermic Reaction.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Enthalpy.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Heat Capacity.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Calorimetry.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Bond Enthalpy.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Heat Formula.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Enthalpy Formula.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Hess's Law.md",
+        "Notes/Chemistry/General Chemistry/Thermochemistry/Specific Heat Capacities Table.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/Organic Chemistry": {

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Thermochemistry/Untitled.md",
+                "file": "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Solutions"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Thermochemistry/Untitled.md",
+                "file": "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Solutions"
             }
           }
         ]
@@ -372,15 +372,20 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
-    "Notes/Chemistry/General Chemistry/Thermochemistry/Untitled.md",
+    "Notes/Chemistry/General Chemistry/Thermochemistry/Specific Heat Capacities Table.md",
+    "Notes/Chemistry/General Chemistry/Thermochemistry/Hess's Law.md",
+    "Notes/Chemistry/General Chemistry/Thermochemistry/Enthalpy Formula.md",
+    "Notes/Chemistry/General Chemistry/Thermochemistry/Heat Formula.md",
+    "Notes/Chemistry/General Chemistry/Thermochemistry/Bond Enthalpy.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Calorimetry.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Heat Capacity.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Enthalpy.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Exothermic Reaction.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Endothermic Reaction.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/System vs Surroundings.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
     "Notes/Chemistry/General Chemistry/States of Matter/STP.md",
@@ -393,11 +398,6 @@
     "Notes/Chemistry/General Chemistry/States of Matter/Real gas.md",
     "Notes/Chemistry/General Chemistry/States of Matter/Ideal Gas.md",
     "Notes/Chemistry/General Chemistry/States of Matter/Temperature.md",
-    "Notes/Chemistry/General Chemistry/States of Matter/Kinetic Molecular Theory.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
