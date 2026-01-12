@@ -1,6 +1,6 @@
 ---
 tags:
-  - constant
+  - "#constant"
   - chemistry
   - general-chemistry
 ---
