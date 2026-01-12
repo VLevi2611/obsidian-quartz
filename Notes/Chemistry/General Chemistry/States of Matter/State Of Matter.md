@@ -17,8 +17,15 @@ tags:
 ## #formula 
 
 - [[Ideal Gas Law]]
-- [[Boyle's ]]
+- [[Boyle's Law]]
+- [[Charles' Law]]
+- [[Gay-Lussac's Law]]
+- [[Dalton's Law]]
+
 ## #constant 
+
+- [[Gas Constant]]
+- [[STP]]
 
 ## #symbol 
 
