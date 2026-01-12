@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intensive"
+              "title": "General Chemistry Terms"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Intensive"
+              "title": "Graph of General Chemistry Terms"
             }
           }
         ]
@@ -370,10 +370,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Dimensional Analysis.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Accuracy vs Precision.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical vs Physical Properties.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Compound.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
@@ -403,11 +408,6 @@
     "Notes/Chemistry/General Chemistry/General terms/Element.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecule.md",
     "Notes/Chemistry/General Chemistry/General terms/Molecular Compound.md",
-    "Notes/Chemistry/General Chemistry/General terms/Mole.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atomic Weight.md",
-    "Notes/Chemistry/General Chemistry/General terms/Ion.md",
-    "Notes/Chemistry/General Chemistry/General terms/Isotope.md",
-    "Notes/Chemistry/General Chemistry/General terms/Atoms.md",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Progress/Day 5.png",
