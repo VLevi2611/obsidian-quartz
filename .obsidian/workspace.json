@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
+                "file": "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solutions"
+              "title": "Chemical Kinetics"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
+                "file": "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Solutions"
+              "title": "Graph of Chemical Kinetics"
             }
           }
         ]
@@ -372,13 +372,18 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/Solutions/Solubility.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics.md",
     "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
+    "Notes/Chemistry/General Chemistry/Solutions/Solubility Rules Table.md",
+    "Notes/Chemistry/General Chemistry/Solutions/Dilution.md",
+    "Notes/Chemistry/General Chemistry/Solutions/Molarity.md",
+    "Notes/Chemistry/General Chemistry/Solutions/Saturation.md",
+    "Notes/Chemistry/General Chemistry/Solutions/Solubility.md",
     "Notes/Chemistry/General Chemistry/Solutions/Electrolytes.md",
     "Notes/Chemistry/General Chemistry/Solutions/Solute.md",
     "Notes/Chemistry/General Chemistry/Solutions/Solvent.md",
     "Notes/Chemistry/General Chemistry/Solutions/Solution.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Specific Heat Capacities Table.md",
     "Notes/Chemistry/General Chemistry/Thermochemistry/Hess's Law.md",
@@ -393,11 +398,6 @@
     "Notes/Chemistry/General Chemistry/Thermochemistry/System vs Surroundings.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
-    "Notes/Chemistry/General Chemistry/States of Matter/STP.md",
-    "Notes/Chemistry/General Chemistry/States of Matter/Gas Constant.md",
-    "Notes/Chemistry/General Chemistry/States of Matter/Dalton's Law.md",
-    "Notes/Chemistry/General Chemistry/States of Matter/Gay-Lussac's Law.md",
-    "Notes/Chemistry/General Chemistry/States of Matter/Charles' Law.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

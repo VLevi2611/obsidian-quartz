@@ -18,7 +18,7 @@ tags:
 
 #### #problem 
 
-### [[Chemical Kinetics]]
+### [[Notes/Chemistry/Physical Chemistry/Kinetics/Chemical Kinetics]]
 
 #### #concept 
 
