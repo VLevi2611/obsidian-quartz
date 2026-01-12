@@ -44,22 +44,21 @@ Acids are strong when they almost completely break apart in water (ionize). Weak
 
 - [[Matter]]
 - [[Atoms]]
+- [[Molecule]]
 - [[Element]]
 - [[Isotope]]
 - [[Ion]]
 - [[Atomic Weight]]
-- [[Mole]]]]
-- [[Molecular Compound
+- [[Mole]]
+- [[Molecular Compound]]
+- [[Ionic Compound]]
+- [[Empirical Formula]]
+- [[Molecular Formula]]
+- [[Molecular Mass]]
+- [[Molar Mass]]
 - [[Chemical Products]]
 - [[Chemical Reaction]]
 - [[Combustion]]
-- [[Empirical Formula]]
-- [[Ionic Compound]]
-- [[Molar Mass]]
-- [[Molecular Formula]]
-- [[Molecular Mass]]
-- [[Molecule]]
-- [[Nucleus]]
 - [[Reagents]]
 #### #formula 
 
@@ -78,6 +77,7 @@ Acids are strong when they almost completely break apart in water (ionize). Weak
 - [[Electrons]]
 - [[Neutrons]]
 - [[Protons]]
+- [[Nucleus]]
 
 #### #problem 
 
