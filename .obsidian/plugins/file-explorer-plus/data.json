@@ -668,6 +668,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
