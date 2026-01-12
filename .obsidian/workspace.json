@@ -281,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -366,7 +366,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry"
+              "title": "Graph of Chemistry"
             }
           }
         ]
@@ -390,10 +390,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0b2b3e2f17076bdf",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/Chemistry.md",
     "Notes/Math/Math.md",
     "Notes/Physics/Physics.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acids and Bases.md",
