@@ -380,10 +380,22 @@
     },
     "Notes/Chemistry/General Chemistry/General Chemical Terms": {
       "children": [
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Mixture.md",
-        "Notes/Chemistry/General Chemistry/General Chemical Terms/Element.md"
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Element.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Compound.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical vs Physical Properties.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Accuracy vs Precision.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Dimensional Analysis.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Base Units.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md"
       ],
       "sortOrder": "custom"
     },
