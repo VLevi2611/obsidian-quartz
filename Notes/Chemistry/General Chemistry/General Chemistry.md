@@ -72,3 +72,44 @@ tags:
 - [[Speed Of Light]]
 - [[Electron Charge]]
 - [[Electron Mass]]
+
+### [[Periodic Trends]]
+
+#### #concept 
+
+- [[Periodic Table Structure]]
+- [[Groups vs Periods]]
+- [[Metal]]
+- [[Non-Metal]]
+- [[Metalloid]]
+- [[Ionic Radius]]
+- [[Ionization Energy]]
+- [[Electron Affinity]]
+- [[Electronegativity]]
+- [[Shielding Effect]]
+
+#### #constant 
+
+- [[Pauling Electronegativity Scale]]
+
+### [[Chemical Bonding]]
+
+#### #concept 
+
+- [[Ionic Bond]]
+- [[Covalent Bond]]
+- [[Non-Polar Bond]]
+- [[Polar Bond]]
+- [[Lewis Structure]]
+- [[Chemical Resonance]]
+- [[VSEPR Theory]]
+- [[Molecular Geometry]]
+- [[Bond Order]]
+- [[Intermolecular Forces]]
+- [[Hydrogen Bond]]
+- [[Dipole-Dipole]]
+- [[London Dispersion]]
+
+#### #formula 
+
+- [[for]]

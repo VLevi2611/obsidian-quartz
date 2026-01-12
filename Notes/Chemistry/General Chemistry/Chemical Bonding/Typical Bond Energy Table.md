@@ -12,9 +12,6 @@ tags:
 
 ## Value
 
-## #concept 
-
-## #formula 
 
 
 
