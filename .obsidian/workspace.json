@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "e8a325431c1aa33a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2b3e2f17076bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Chemistry"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/Chemistry.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +366,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Chemistry"
+              "title": "Graph of General Chemistry"
             }
           }
         ]
@@ -370,10 +390,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "0b2b3e2f17076bdf",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Math/Math.md",
+    "Notes/Physics/Physics.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acids and Bases.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Equilibrium Water Constant.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Henderson-Hasselbalch.md",
@@ -396,8 +418,6 @@
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Relation Between Pressure and Concentration Constants.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Le Chatelier's Principle.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Concentration Constant.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Pressure Constant.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Dynamic Equilibrium.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
