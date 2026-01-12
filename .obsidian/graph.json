@@ -43,10 +43,24 @@
       }
     },
     {
-      "query": "",
+      "query": "tag:#constant  ",
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#symbol  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#problem  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
       }
     }
   ],
@@ -60,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8356471288410725,
-  "close": false
+  "scale": 0.5949883548737869,
+  "close": true
 }

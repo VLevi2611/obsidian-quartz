@@ -11,10 +11,14 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Chemistry"
             }
           }
         ]
@@ -257,6 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -336,12 +341,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0977041712409785,
+                  "scale": 1.0918856352451316,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of General Chemistry"
             }
           }
         ]
@@ -367,6 +372,12 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
+    "Templates/Constant Template.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Base Units.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
@@ -386,13 +397,6 @@
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Hydrogen Bond.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Ionic Bond.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Covalent Bond.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Non-Polar Bond.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Polar Bond.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/VSEPR Theory.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Resonance.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Lewis Structure.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Molecular Geometry.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Bond Order.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

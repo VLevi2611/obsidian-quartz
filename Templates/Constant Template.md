@@ -9,9 +9,6 @@ tags: [constant]
 
 ## Value
 
-## #concept 
-
-## #formula 
 
 
 

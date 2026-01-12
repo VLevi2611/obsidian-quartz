@@ -8,6 +8,8 @@ tags:
 
 ## #summary 
 
+### [[gen]]
+
 #### #concept 
 
 #### #formula 
