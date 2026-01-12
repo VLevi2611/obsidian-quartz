@@ -44,25 +44,25 @@ NaCl = NOT a molecule → it’s an ionic compound.
 
 ## #concept 
 
-- [[Atomic Weight]]
-- [[Atoms]]
-- [[Chemical Products]]
-- [[Chemical Reaction]]
-- [[Combustion]]
-- [[Element]]
-- [[Empirical Formula]]
-- [[Ion]]
-- [[Ionic Compound]]
-- [[Isotope]]
 - [[Matter]]
-- [[Molar Mass]]
+- [[Atoms]]
+- [[Molecule]]
+- [[Element]]
+- [[Isotope]]
+- [[Ion]]
+- [[Atomic Weight]]
 - [[Mole]]
 - [[Molecular Compound]]
+- [[Ionic Compound]]
+- [[Empirical Formula]]
 - [[Molecular Formula]]
 - [[Molecular Mass]]
-- [[Molecule]]
-- [[Nucleus]]
+- [[Molar Mass]]
+- [[Chemical Reaction]]
 - [[Reagents]]
+- [[Chemical Products]]
+- [[Combustion]]
+- [[Solution]]
 
 ## #formula 
 

@@ -2,18 +2,11 @@
   "customOrder": {
     "/": {
       "children": [
-        "Excalidraw",
         "Notes",
         "Progress",
         "Resources",
         "Templates",
         "Book view.base"
-      ],
-      "sortOrder": "custom"
-    },
-    "Excalidraw": {
-      "children": [
-        "Excalidraw/Drawing 2026-01-10 23.36.45.excalidraw.md"
       ],
       "sortOrder": "custom"
     },
@@ -366,9 +359,10 @@
     "Notes/Chemistry/General Chemistry/Atomic Structure": {
       "children": [
         "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Protons.md"
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Protons.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Nucleus.md"
       ],
       "sortOrder": "custom"
     },
@@ -391,28 +385,27 @@
     "Notes/Chemistry/General Chemistry/General terms": {
       "children": [
         "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
+        "Notes/Chemistry/General Chemistry/General terms/Matter.md",
+        "Notes/Chemistry/General Chemistry/General terms/Atoms.md",
+        "Notes/Chemistry/General Chemistry/General terms/Molecule.md",
+        "Notes/Chemistry/General Chemistry/General terms/Element.md",
+        "Notes/Chemistry/General Chemistry/General terms/Isotope.md",
+        "Notes/Chemistry/General Chemistry/General terms/Ion.md",
+        "Notes/Chemistry/General Chemistry/General terms/Atomic Weight.md",
         "Notes/Chemistry/General Chemistry/General terms/Atomic Weight Formula.md",
+        "Notes/Chemistry/General Chemistry/General terms/Mole.md",
         "Notes/Chemistry/General Chemistry/General terms/Avogadro Number.md",
+        "Notes/Chemistry/General Chemistry/General terms/Molecular Compound.md",
+        "Notes/Chemistry/General Chemistry/General terms/Ionic Compound.md",
+        "Notes/Chemistry/General Chemistry/General terms/Empirical Formula.md",
         "Notes/Chemistry/General Chemistry/General terms/Molecular Formula.md",
         "Notes/Chemistry/General Chemistry/General terms/Molecular Mass.md",
         "Notes/Chemistry/General Chemistry/General terms/Molar Mass.md",
+        "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
         "Notes/Chemistry/General Chemistry/General terms/Reagents.md",
         "Notes/Chemistry/General Chemistry/General terms/Chemical Products.md",
-        "Notes/Chemistry/General Chemistry/General terms/Chemical Reaction.md",
         "Notes/Chemistry/General Chemistry/General terms/Combustion.md",
-        "Notes/Chemistry/General Chemistry/General terms/Solution.md",
-        "Notes/Chemistry/General Chemistry/General terms/Nucleus.md",
-        "Notes/Chemistry/General Chemistry/General terms/Atoms.md",
-        "Notes/Chemistry/General Chemistry/General terms/Molecule.md",
-        "Notes/Chemistry/General Chemistry/General terms/Molecular Compound.md",
-        "Notes/Chemistry/General Chemistry/General terms/Mole.md",
-        "Notes/Chemistry/General Chemistry/General terms/Matter.md",
-        "Notes/Chemistry/General Chemistry/General terms/Isotope.md",
-        "Notes/Chemistry/General Chemistry/General terms/Ionic Compound.md",
-        "Notes/Chemistry/General Chemistry/General terms/Ion.md",
-        "Notes/Chemistry/General Chemistry/General terms/Empirical Formula.md",
-        "Notes/Chemistry/General Chemistry/General terms/Element.md",
-        "Notes/Chemistry/General Chemistry/General terms/Atomic Weight.md"
+        "Notes/Chemistry/General Chemistry/General terms/Solution.md"
       ],
       "sortOrder": "custom"
     },
