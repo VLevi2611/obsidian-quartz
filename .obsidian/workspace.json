@@ -11,10 +11,14 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thermochemistry"
             }
           }
         ]
@@ -257,6 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Thermochemistry"
             }
           }
         ]
@@ -367,6 +372,7 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
@@ -391,7 +397,6 @@
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Mass.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Charge.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",

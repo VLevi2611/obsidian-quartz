@@ -661,6 +661,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
