@@ -11,6 +11,37 @@ tags:
 
 #### #summary 
 
+##### [[General Chemical Terms]]
+
+###### #concept 
+
+- [[Matter]]
+- [[Atoms]]
+- [[Molecule]]
+- [[Element]]
+- [[Isotope]]
+- [[Ion]]
+- [[Atomic Weight]]
+- [[Mole]]
+- [[Molecular Compound]]
+- [[Ionic Compound]]
+- [[Empirical Formula]]
+- [[Molecular Formula]]
+- [[Molecular Mass]]
+- [[Molar Mass]]
+- [[Chemical Reaction]]
+- [[Reagents]]
+- [[Chemical Products]]
+- [[Combustion]]
+- [[Solution]]
+
+###### #formula 
+
+- [[Atomic Weight Formula]]
+
+###### #constant 
+
+- [[Avogadro Number]]
 ##### [[Atomic Structure]]
 
 ###### #concept 
@@ -43,38 +74,6 @@ tags:
 ###### #formula 
 
 ###### #constant 
-
-##### [[General Chemical Terms]]
-
-###### #concept 
-
--  [[Atomic Weight]]
-- [[Atoms]]
-- [[Chemical Products]]
-- [[Chemical Reaction]]
-- [[Combustion]]
-- [[Element]]
-- [[Empirical Formula]]
-- [[Ion]]
-- [[Ionic Compound]]
-- [[Isotope]]
-- [[Matter]]
-- [[Molar Mass]]
-- [[Mole]]
-- [[Molecular Compound]]
-- [[Molecular Formula]]
-- [[Molecular Mass]]
-- [[Molecule]]
-- [[Nucleus]]
-- [[Reagents]]
-
-###### #formula 
-
-- [[Atomic Weight Formula]]
-
-###### #constant 
-
-- [[Avogadro Number]]
 
 ##### [[Periodic Trends]]
 

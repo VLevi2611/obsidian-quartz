@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemistry"
+              "title": "Chemistry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry"
+              "title": "Graph of Chemistry"
             }
           }
         ]
@@ -372,8 +372,8 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
     "Notes/Chemistry/General Chemistry/General terms/General Chemical Terms.md",
     "Notes/Chemistry/General Chemistry/General terms/Avogadro Number.md",
