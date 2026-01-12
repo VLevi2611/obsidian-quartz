@@ -231,3 +231,31 @@ tags:
 #### #formula 
 
 - [[Relation Between Pressure and Concentration Constants]]
+
+### [[Acids and Bases]]
+
+#### #concept 
+
+- [[Acid]]
+- [[Base]]
+- [[Arrhenius Definition]]
+- [[Bronsted-Lowry Definition]]
+- [[Strong Acid]]
+- [[Weak Acid]]
+- [[Strong Base]]
+- [[Weak Base]]
+- [[Conjugate Pairs]]
+- [[pH Scale]]
+- [[Buffers]]
+- [[Acid Dissociation Constant]]
+- [[Base Dissociation Constant]]
+
+#### #formula 
+
+- [[pH Formula]]
+- [[Relation Between Ka and Kb]]
+- [[Henderson-Hasselbalch]]
+
+#### #constant 
+
+- [[Equilibrium Water Constant]]

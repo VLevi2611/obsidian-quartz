@@ -360,7 +360,26 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Acids and Bases": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Acids and Bases.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Acid.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Base.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Arrhenius Definition.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Bronsted-Lowry Definition.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Strong Acid.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Weak Acid.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Strong Base.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Weak Base.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Conjugate Pairs.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/pH Scale.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Buffers.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Acid Dissociation Constant.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/pH Formula.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Relation Between Ka and Kb.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Henderson-Hasselbalch.md",
+        "Notes/Chemistry/General Chemistry/Acids and Bases/Equilibrium Water Constant.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Atomic Structure": {

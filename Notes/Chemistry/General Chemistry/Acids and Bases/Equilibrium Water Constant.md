@@ -1,14 +1,17 @@
 ---
 tags:
-  - concept
+  - constant
   - chemistry
   - general-chemistry
 ---
+## Symbol
+
+## Name
+
 ## Definition
 
-## #formula 
+## Value
 
-## Units
 
-## Notes
+
 

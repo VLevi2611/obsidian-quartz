@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base Dissociation Constant"
+              "title": "Chemistry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Base Dissociation Constant"
+              "title": "Graph of Chemistry"
             }
           }
         ]
@@ -372,7 +372,13 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acids and Bases.md",
+    "Notes/Chemistry/General Chemistry/Acids and Bases/Equilibrium Water Constant.md",
+    "Notes/Chemistry/General Chemistry/Acids and Bases/Henderson-Hasselbalch.md",
+    "Notes/Chemistry/General Chemistry/Acids and Bases/Relation Between Ka and Kb.md",
+    "Notes/Chemistry/General Chemistry/Acids and Bases/pH Formula.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acid Dissociation Constant.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Buffers.md",
@@ -386,18 +392,12 @@
     "Notes/Chemistry/General Chemistry/Acids and Bases/Arrhenius Definition.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Base.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acid.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Chemical Equilibrium.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Relation Between Pressure and Concentration Constants.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Le Chatelier's Principle.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Concentration Constant.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Pressure Constant.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Dynamic Equilibrium.md",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics Intro.md",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Arrhenius Equation.md",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Rate Law.md",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Collision Theory.md",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Catalysts.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
