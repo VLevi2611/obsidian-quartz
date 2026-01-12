@@ -1,5 +1,8 @@
 ---
-tags: [concept]
+tags:
+  - concept
+  - chemistry
+  - general-chemistry
 ---
 ## Definition
 

@@ -24,8 +24,11 @@ tags:
 
 ## #formula 
 
+- [[Formal Charge]]
+- [[Dipole Moment]]
+
 ## #constant 
 
-## #symbol 
+- [[Typical Bond Energy Table]]
 
 ## #problem 

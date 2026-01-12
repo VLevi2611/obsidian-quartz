@@ -633,6 +633,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

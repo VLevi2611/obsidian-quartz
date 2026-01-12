@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Chemical Bonding/Untitled.md",
+                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Theoretical Yield"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Chemical Bonding/Untitled.md",
+                "file": "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Theoretical Yield"
             }
           }
         ]
@@ -372,8 +372,16 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Actual Yield.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Empirical Formula.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Molecular Formula.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Mass Mole conversion.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Precent Yield.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Mole Ratios.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Untitled.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Hydrogen Bond.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Ionic Bond.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Covalent Bond.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Non-Polar Bond.md",
@@ -390,14 +398,6 @@
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole Moment.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Metalloid.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Non-Metal.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Metal.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Groups vs Periods.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Table Structure.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Ionic Radius.md",
-    "Notes/Chemistry/General Chemistry/Periodic Trends/Ionization Energy.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

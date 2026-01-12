@@ -344,6 +344,7 @@
     },
     "Notes/Chemistry/General Chemistry": {
       "children": [
+        "Notes/Chemistry/General Chemistry/General Chemistry.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms",
         "Notes/Chemistry/General Chemistry/Atomic Structure",
         "Notes/Chemistry/General Chemistry/Periodic Trends",
@@ -363,11 +364,57 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Atomic Structure": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Dalton's Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Thomson's Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Rutherford's Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Bohr's Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Quantum Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Proton.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Neutron.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Number.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Mass Number.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Isotope.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Shells.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Subshells.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Orbitals.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Quantum Numbers.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Configuration.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Aufbau Principle.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Pauli Exclusion Principle.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Hund's Rule.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass Formula.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Energy Of Photon.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Wavelength Frequency Formula.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Charge.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Mass.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Chemical Bonding": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Ionic Bond.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Covalent Bond.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Non-Polar Bond.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Polar Bond.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Lewis Structure.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Resonance.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/VSEPR Theory.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Molecular Geometry.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Bond Order.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Intermolecular Forces.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Hydrogen Bond.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole-Dipole.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/London Dispersion.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Formal Charge.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole Moment.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium": {
@@ -400,7 +447,20 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Periodic Trends": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Table Structure.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Groups vs Periods.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Metal.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Non-Metal.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Metalloid.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Ionic Radius.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Ionization Energy.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Electron Affinity.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Electronegativity.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Shielding Effect.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Pauling Electronegativity Scale.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Solutions": {
