@@ -654,6 +654,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

@@ -468,7 +468,10 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/States of Matter": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Kinetic Molecular Theory.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Stoichiometry": {
