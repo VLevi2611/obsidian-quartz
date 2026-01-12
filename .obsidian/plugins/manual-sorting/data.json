@@ -470,7 +470,17 @@
     "Notes/Chemistry/General Chemistry/States of Matter": {
       "children": [
         "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
-        "Notes/Chemistry/General Chemistry/States of Matter/Kinetic Molecular Theory.md"
+        "Notes/Chemistry/General Chemistry/States of Matter/Kinetic Molecular Theory.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Temperature.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Ideal Gas.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Real gas.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Ideal Gas Law.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Boyle's Law.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Charles' Law.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Gay-Lussac's Law.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Dalton's Law.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Gas Constant.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/STP.md"
       ],
       "sortOrder": "custom"
     },

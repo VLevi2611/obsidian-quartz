@@ -9,7 +9,7 @@ tags:
 ## #concept 
 
 - [[Matter]]
-- [[Subspace]]
+- [[Substance]]
 - [[Mixture]]
 - [[Element]]
 - [[Compound]]
