@@ -26,6 +26,5 @@ tags:
 ## #constant 
 
 - [[Avogadro's Number]]
-## #symbol 
 
 ## #problem 

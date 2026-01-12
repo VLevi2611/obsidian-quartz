@@ -341,7 +341,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0918856352451316,
+                  "scale": 0.4691817908923123,
                   "close": true
                 }
               },
@@ -370,10 +370,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "b683650bb45996cb",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
+    "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Pauling Electronegativity Scale.md",
@@ -390,14 +392,11 @@
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Base Units.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Mole.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Molar Mass.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equations.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Limiting Reagent.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Balancing Chemical Equations.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

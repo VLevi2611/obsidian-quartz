@@ -413,7 +413,7 @@
         "Notes/Chemistry/General Chemistry/Chemical Bonding/London Dispersion.md",
         "Notes/Chemistry/General Chemistry/Chemical Bonding/Formal Charge.md",
         "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole Moment.md",
-        "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table 1.md"
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md"
       ],
       "sortOrder": "custom"
     },
@@ -473,20 +473,20 @@
     },
     "Notes/Chemistry/General Chemistry/Stoichiometry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Actual Yield.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Balancing Chemical Equations.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equations.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Empirical Formula.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Limiting Reagent.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Mass Mole conversion.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Molar Mass.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Mole.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Mole Ratios.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Molecular Formula.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Precent Yield.md",
         "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
-        "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md"
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Mole.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Molar Mass.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Chemical Equations.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Balancing Chemical Equations.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Limiting Reagent.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Theoretical Yield.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Actual Yield.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Empirical Formula.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Molecular Formula.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Mass Mole conversion.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Precent Yield.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Mole Ratios.md",
+        "Notes/Chemistry/General Chemistry/Stoichiometry/Avogadro's Number.md"
       ],
       "sortOrder": "custom"
     },

@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#constant"
+  - constant
   - chemistry
   - general-chemistry
 ---
@@ -12,9 +12,6 @@ tags:
 
 ## Value
 
-## #concept 
-
-## #formula 
 
 
 

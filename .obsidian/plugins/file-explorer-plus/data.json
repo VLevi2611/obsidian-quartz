@@ -647,6 +647,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/General Chemistry.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
