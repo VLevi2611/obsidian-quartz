@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass Formula.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Isotope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Mass Formula"
+              "title": "Isotope"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass Formula.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Isotope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Atomic Mass Formula"
+              "title": "Graph of Isotope"
             }
           }
         ]
@@ -372,8 +372,17 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Energy Of Photon.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Shells.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Isotope.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Subshells.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Orbitals.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Quantum Numbers.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Configuration.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Aufbau Principle.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Pauli Exclusion Principle.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Hund's Rule.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass Formula.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Energy Of Photon.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Wavelength Frequency Formula.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md",
@@ -389,13 +398,6 @@
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Accuracy vs Precision.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical vs Physical Properties.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Compound.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Mixture.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Element.md",
-    "Notes/Chemistry/Physical Chemistry/Physical Chemistry.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
@@ -405,8 +407,6 @@
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium",
     "Notes/Chemistry/General Chemistry/Acids and Bases",
     "Notes/Chemistry/General Chemistry/Periodic Trends",
-    "Notes/Chemistry/Physical Chemistry/Quantum Basics/Quantum Basics.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
