@@ -418,12 +418,19 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Chemical Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Dynamic Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Pressure Constant.md",
+        "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Concentration Constant.md",
+        "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Le Chatelier's Principle.md",
+        "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Relation Between Pressure and Concentration Constants.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Chemical Kinetics": {
       "children": [
-        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics Intro.md",
         "Notes/Chemistry/General Chemistry/Chemical Kinetics/Reaction Rate.md",
         "Notes/Chemistry/General Chemistry/Chemical Kinetics/Reaction Order.md",
         "Notes/Chemistry/General Chemistry/Chemical Kinetics/Activation Energy.md",

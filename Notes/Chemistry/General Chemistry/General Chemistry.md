@@ -218,3 +218,16 @@ tags:
 
 - [[Rate Law]]
 - [[Arrhenius Equation]]
+
+### [[Chemical Equilibrium]]
+
+#### #concept 
+
+- [[Dynamic Equilibrium]]
+- [[Equilibrium Pressure Constant]]
+- [[Equilibrium Concentration Constant]]
+- [[Le Chatelier's Principle]]
+
+#### #formula 
+
+- [[Relation Between Pressure and Concentration Constants]]
