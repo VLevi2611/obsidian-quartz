@@ -11,14 +11,10 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Chemistry/Chemistry.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chemistry"
+              "title": "New tab"
             }
           }
         ]
@@ -261,7 +257,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +341,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Chemistry"
+              "title": "Graph view"
             }
           }
         ]
@@ -370,10 +365,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
-    "Chemical Equation.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms",
     "Notes/Chemistry/Chemistry.md",
+    "Chemical Equation.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Neutrons.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Electrons.md",
@@ -397,7 +394,6 @@
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
     "Notes/Math/Math.md",
-    "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Excalidraw",
     "Book view.base",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
@@ -409,7 +405,6 @@
     "Resources/Books",
     "Notes/Math/Linear Algebra/Fields",
     "Notes/Math/General Math Terms/Fields",
-    "Notes/Math/General Math Terms/Set Symbols",
     "Progress/Day 5.png",
     "Progress/Day 2.png",
     "Progress/Day 3.png",

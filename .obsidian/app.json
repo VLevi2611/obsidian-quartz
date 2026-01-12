@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "propertiesInDocument": "visible",
   "newFileLocation": "root",
-  "newFileFolderPath": "Resources"
+  "newFileFolderPath": "Resources",
+  "showUnsupportedFiles": false
 }
