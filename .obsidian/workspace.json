@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
+                "file": "Notes/Chemistry/General Chemistry/Chemical Bonding/Resonance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Periodic Trends"
+              "title": "Resonance"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
+                "file": "Notes/Chemistry/General Chemistry/Chemical Bonding/Resonance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Periodic Trends"
+              "title": "Graph of Resonance"
             }
           }
         ]
@@ -372,8 +372,18 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/VSEPR Theory.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Resonance.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Molecular Geometry.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Bond Order.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Intermolecular Forces.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Formal Charge.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/London Dispersion.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole-Dipole.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Dipole Moment.md",
+    "Notes/Chemistry/General Chemistry/Chemical Bonding/Typical Bond Energy Table.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Metalloid.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Non-Metal.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Metal.md",
@@ -388,16 +398,6 @@
     "Notes/Chemistry/General Chemistry/Periodic Trends/Typical Bond Energies.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Bohr's Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Rutherford's Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Dalton's Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Thomson's Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Quantum Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Proton.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Neutron.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Electron.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Number.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Mass Number.md",
-    "Notes/Chemistry/General Chemistry/Atomic Structure/Isotope.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

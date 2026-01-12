@@ -130,7 +130,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 - [[Damping]]
 - [[Damped Oscillations]]
 - [[Driven Oscillations]]
-- [[Resonance]]
+- [[Notes/Physics/Classical Mechanics/Oscillations/Resonance]]
 - [[Quality Factor]]
 
 #### #formula 

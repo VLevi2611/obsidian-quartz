@@ -23,7 +23,7 @@ tags:
 - [[Damping]]
 - [[Damped Oscillations]]
 - [[Driven Oscillations]]
-- [[Resonance]]
+- [[Notes/Physics/Classical Mechanics/Oscillations/Resonance]]
 - [[Quality Factor]]
 ## #formula 
 
