@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+                "file": "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basis and Dimension Problems"
+              "title": "Matrix Problems"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+                "file": "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Basis and Dimension Problems"
+              "title": "Graph of Matrix Problems"
             }
           }
         ]
@@ -372,8 +372,10 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
+    "Notes/Math/Math.md",
+    "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+    "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
     "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
     "Notes/Math/Linear Algebra/Matrices/Determinant.md",
@@ -383,8 +385,6 @@
     "Notes/Math/Linear Algebra/Matrices/Canonical Form.md",
     "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
-    "Notes/Math/Math.md",
-    "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
     "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
     "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
