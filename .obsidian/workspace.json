@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemistry"
+              "title": "Atomic Structure"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry"
+              "title": "Graph of Atomic Structure"
             }
           }
         ]
@@ -372,6 +372,12 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Charge.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
@@ -392,11 +398,6 @@
     "Notes/Chemistry/General Chemistry/Stoichiometry/Molecular Formula.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Mass Mole conversion.md",
     "Notes/Chemistry/General Chemistry/Stoichiometry/Precent Yield.md",
-    "Notes/Chemistry/General Chemistry/Stoichiometry/Mole Ratios.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Hydrogen Bond.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Ionic Bond.md",
-    "Notes/Chemistry/General Chemistry/Chemical Bonding/Covalent Bond.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

@@ -640,6 +640,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
