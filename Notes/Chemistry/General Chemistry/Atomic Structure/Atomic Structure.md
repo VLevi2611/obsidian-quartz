@@ -38,7 +38,7 @@ tags:
 
 - [[Planck Constant]]
 - [[Speed Of Light]]
-- [[Charge]]
+- [[Electron Charge]]
 - [[Electron Mass]]
 
 

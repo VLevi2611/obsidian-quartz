@@ -347,6 +347,7 @@
         "Notes/Chemistry/General Chemistry/General Chemistry.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms",
         "Notes/Chemistry/General Chemistry/Atomic Structure",
+        "Notes/Chemistry/General Chemistry/Electron Mass.md",
         "Notes/Chemistry/General Chemistry/Periodic Trends",
         "Notes/Chemistry/General Chemistry/Chemical Bonding",
         "Notes/Chemistry/General Chemistry/Stoichiometry",
@@ -389,15 +390,14 @@
         "Notes/Chemistry/General Chemistry/Atomic Structure/Energy Of Photon.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Wavelength Frequency Formula.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Charge.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Mass.md"
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Charge.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Chemical Bonding": {
       "children": [
         "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding/Speed Of Light.md",
         "Notes/Chemistry/General Chemistry/Chemical Bonding/Ionic Bond.md",
         "Notes/Chemistry/General Chemistry/Chemical Bonding/Covalent Bond.md",
         "Notes/Chemistry/General Chemistry/Chemical Bonding/Non-Polar Bond.md",

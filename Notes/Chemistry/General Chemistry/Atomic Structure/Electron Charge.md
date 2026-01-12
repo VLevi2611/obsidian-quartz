@@ -1,5 +1,8 @@
 ---
-tags: [constant]
+tags:
+  - constant
+  - chemistry
+  - general-chemistry
 ---
 ## Symbol
 
@@ -9,9 +12,6 @@ tags: [constant]
 
 ## Value
 
-## #concept 
-
-## #formula 
 
 
 
