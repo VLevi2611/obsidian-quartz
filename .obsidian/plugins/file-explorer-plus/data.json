@@ -626,6 +626,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
