@@ -37,8 +37,9 @@ tags:
 ## #constant 
 
 - [[Planck Constant]]
-- [[sp]]
+- [[Speed Of Light]]
+- [[Electron Charge]]
+- [[Electron Mass]]
 
-## #symbol 
 
 ## #problem 

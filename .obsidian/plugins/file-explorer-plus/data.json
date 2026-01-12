@@ -619,6 +619,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
