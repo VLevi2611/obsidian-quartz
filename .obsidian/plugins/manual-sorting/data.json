@@ -422,7 +422,16 @@
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Chemical Kinetics": {
-      "children": [],
+      "children": [
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Reaction Rate.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Reaction Order.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Activation Energy.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Catalysts.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Collision Theory.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Rate Law.md",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics/Arrhenius Equation.md"
+      ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/General Chemical Terms": {

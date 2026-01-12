@@ -203,3 +203,11 @@ tags:
 #### #constant 
 
 - [[Solubility Rules Table]]
+
+### [[Chemical Kinetics Intro]]
+
+#### #concept 
+
+- [[Reaction Rate]]
+- [[Reaction Order]]
+- [[ac]]

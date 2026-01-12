@@ -675,6 +675,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics Intro.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

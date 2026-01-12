@@ -16,10 +16,7 @@ tags:
 
 ## #formula 
 
-
-
-## #constant 
-
-## #symbol 
+- [[Rate Law]]
+- [[Arrhenius Equation]]
 
 ## #problem 
