@@ -346,19 +346,64 @@
       "children": [
         "Notes/Chemistry/General Chemistry/General Chemical Terms",
         "Notes/Chemistry/General Chemistry/Atomic Structure",
-        "Notes/Chemistry/General Chemistry/Periodic Trends"
+        "Notes/Chemistry/General Chemistry/Periodic Trends",
+        "Notes/Chemistry/General Chemistry/Chemical Bonding",
+        "Notes/Chemistry/General Chemistry/Stoichiometry",
+        "Notes/Chemistry/General Chemistry/States of Matter",
+        "Notes/Chemistry/General Chemistry/Thermochemistry",
+        "Notes/Chemistry/General Chemistry/Solutions",
+        "Notes/Chemistry/General Chemistry/Chemical Kinetics",
+        "Notes/Chemistry/General Chemistry/Chemical Equilibrium",
+        "Notes/Chemistry/General Chemistry/Acids and Bases"
       ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Acids and Bases": {
+      "children": [],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/Atomic Structure": {
       "children": [],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/General Chemical Terms": {
+    "Notes/Chemistry/General Chemistry/Chemical Bonding": {
       "children": [],
       "sortOrder": "custom"
     },
+    "Notes/Chemistry/General Chemistry/Chemical Equilibrium": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Chemical Kinetics": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/General Chemical Terms": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Mixture.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Element.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Notes/Chemistry/General Chemistry/Periodic Trends": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Solutions": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/States of Matter": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Stoichiometry": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/Thermochemistry": {
       "children": [],
       "sortOrder": "custom"
     },
