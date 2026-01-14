@@ -336,6 +336,7 @@
     },
     "Notes/Chemistry": {
       "children": [
+        "Notes/Chemistry/Chemistry.md",
         "Notes/Chemistry/General Chemistry",
         "Notes/Chemistry/Organic Chemistry",
         "Notes/Chemistry/Physical Chemistry"
@@ -384,6 +385,7 @@
     },
     "Notes/Chemistry/General Chemistry/Atomic Structure": {
       "children": [
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Dalton's Atomic Model.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Thomson's Atomic Model.md",

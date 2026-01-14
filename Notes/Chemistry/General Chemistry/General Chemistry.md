@@ -12,7 +12,7 @@ tags:
 
 #### #concept 
 
-- [[Matter
+- [[Matter]]
 - [[Mixture]]
 - [[Element]]
 - [[Compound]]
