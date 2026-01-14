@@ -19,7 +19,7 @@ tags:
 - [[Chemical vs Physical Properties]]
 - [[Intensive vs Extensive Properties]]
 - [[Accuracy vs Precision]]
-- [[Scientific Notation
+- [[Scientific Notation]]
 - [[SI Units]]
 
 #### #formula 
