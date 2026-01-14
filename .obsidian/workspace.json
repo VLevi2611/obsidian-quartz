@@ -11,10 +11,14 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matter"
             }
           }
         ]
@@ -257,6 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Matter"
             }
           }
         ]
@@ -367,6 +372,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Math/Math.md",
@@ -390,9 +398,6 @@
     "Notes/Chemistry/General Chemistry/Acids and Bases/Base.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acid.md",
     "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Chemical Equilibrium.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Relation Between Pressure and Concentration Constants.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Le Chatelier's Principle.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Concentration Constant.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+Matter is any [[Substance]] with [[Mass]] and takes up space by having volume.
 
