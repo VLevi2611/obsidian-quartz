@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+Substance is a unique form of [[Matter]], with constant chemical composition and properties.
 
