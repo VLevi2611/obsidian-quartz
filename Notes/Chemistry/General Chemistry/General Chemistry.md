@@ -196,7 +196,8 @@ tags:
 - [[Solvent]]
 - [[Solute]]
 - [[Electrolytes]]
-- [[Solubility]][[Saturation]]
+- [[Solubility]]
+- [[Saturation]]
 - [[Molarity]]
 - [[Dilution]]
 
