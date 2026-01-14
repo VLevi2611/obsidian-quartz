@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-Matter is any [[Substance]] with [[Mass]] and takes up space by having volume.
+Matter is any substance with [[Mass]] and takes up space by having volume.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Mixture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matter"
+              "title": "Mixture"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Mixture.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Matter"
+              "title": "Graph of Mixture"
             }
           }
         ]
@@ -372,11 +372,12 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Mixture.md",
     "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
     "Notes/Math/Math.md",
     "Notes/Physics/Physics.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acids and Bases.md",
@@ -397,7 +398,6 @@
     "Notes/Chemistry/General Chemistry/Acids and Bases/Arrhenius Definition.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Base.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Acid.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Chemical Equilibrium.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
