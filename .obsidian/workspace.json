@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scientific Notation"
+              "title": "General Chemistry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Scientific Notation"
+              "title": "Graph of General Chemistry"
             }
           }
         ]
@@ -372,15 +372,17 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Dimensional Analysis.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Accuracy vs Precision.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
     "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical vs Physical Properties.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Compound.md",
     "Notes/Math/General Math Terms/Set Symbols/Set.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
-    "Notes/Chemistry/Chemistry.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Element.md",
@@ -396,8 +398,6 @@
     "Notes/Chemistry/General Chemistry/Acids and Bases/Equilibrium Water Constant.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Henderson-Hasselbalch.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Relation Between Ka and Kb.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/pH Formula.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
