@@ -39,6 +39,8 @@ tags:
 
 #### #constant 
 
+- [[Atom]]
+- [[Molecule]]
 - [[Dalton's Atomic Model]]
 - [[Thomson's Atomic Model]]
 - [[Rutherford's Atomic Model]]
