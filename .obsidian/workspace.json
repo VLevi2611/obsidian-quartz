@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intensive vs Extensive Properties"
+              "title": "Scientific Notation"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Intensive vs Extensive Properties"
+              "title": "Graph of Scientific Notation"
             }
           }
         ]
@@ -372,6 +372,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Accuracy vs Precision.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical vs Physical Properties.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Compound.md",
     "Notes/Math/General Math Terms/Set Symbols/Set.md",
@@ -395,9 +398,6 @@
     "Notes/Chemistry/General Chemistry/Acids and Bases/Relation Between Ka and Kb.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/pH Formula.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Acid Dissociation Constant.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Buffers.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/pH Scale.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
