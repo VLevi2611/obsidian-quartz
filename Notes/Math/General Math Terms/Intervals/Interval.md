@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#summary"
+  - summary
   - math
   - general-math-terms
 ---

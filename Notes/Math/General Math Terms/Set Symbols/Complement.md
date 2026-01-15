@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#symbol"
+  - symbol
   - math
   - general-math-terms
 ---

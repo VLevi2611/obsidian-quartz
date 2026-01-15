@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Rotation/Newton's Second Law For Rotation.md",
+                "file": "Notes/Math/General Math Terms/Set Symbols/Complex Number.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Newton's Second Law For Rotation"
+              "title": "Complex Number"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Rotation/Newton's Second Law For Rotation.md",
+                "file": "Notes/Math/General Math Terms/Set Symbols/Complex Number.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Newton's Second Law For Rotation"
+              "title": "Graph of Complex Number"
             }
           }
         ]
@@ -372,32 +372,32 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Rotation/Moment Of Inertia.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Conservation Of Angular Momentum.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Position.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Velocity.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Rigid Body.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Particle.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Angular Acceleration.md",
-    "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
-    "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Elastic Collision.md",
-    "Notes/Physics/Classical Mechanics/Momentum/External Force.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
-    "Notes/Physics/Classical Mechanics/Energy/Elastic Potential Energy.md",
-    "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
+    "Notes/Math/General Math Terms/Set Symbols/Real Number.md",
+    "Notes/Math/General Math Terms/Set Symbols/Rational Number.md",
+    "Notes/Math/General Math Terms/Set Symbols/Whole Number.md",
+    "Notes/Math/General Math Terms/Set Symbols/Natural Number.md",
+    "Notes/Math/General Math Terms/Set Symbols/Union.md",
+    "Notes/Math/General Math Terms/Set Symbols/Set Difference.md",
+    "Notes/Math/General Math Terms/Set Symbols/Intersection.md",
+    "Notes/Math/General Math Terms/Set Symbols/Complement.md",
+    "Notes/Math/General Math Terms/Set Symbols/Element Of.md",
+    "Notes/Math/General Math Terms/Set Symbols/Subset.md",
+    "Notes/Math/General Math Terms/Set Symbols/Set.md",
+    "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
+    "Notes/Math/General Math Terms/Intervals/Open Ray.md",
+    "Notes/Math/General Math Terms/Intervals/Closed Ray.md",
+    "Notes/Math/General Math Terms/Intervals/Half Open Interval.md",
+    "Notes/Math/General Math Terms/Intervals/Open Interval.md",
+    "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
+    "Notes/Math/General Math Terms/Intervals/Maximum.md",
+    "Notes/Math/General Math Terms/Intervals/Minimum.md",
+    "Notes/Math/General Math Terms/Intervals/Supremum.md",
+    "Notes/Math/General Math Terms/Intervals/Infimum.md",
+    "Notes/Math/General Math Terms/Intervals/Upper Bound.md",
+    "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
+    "Notes/Math/General Math Terms/Intervals/Interval.md",
+    "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
+    "Notes/Math/General Math Terms/Math Symbols/Scalar.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
