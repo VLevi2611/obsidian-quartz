@@ -1,15 +1,11 @@
 ---
 tags: [formula]
 ---
-## #formula 
-$$  $$
+## Definition
+
 ## Variables
 | Symbol | Meaning | Units |
 | :------: | :-------: | :-----: |
 | $$     |         | $$    |
-## Description
 
-## Example Calculation
-
-## Notes
 

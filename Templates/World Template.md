@@ -7,11 +7,11 @@ tags: [world]
 
 #### #summary 
 
-##### #concept 
+###### #concept 
 
-##### #formula 
+###### #formula 
 
-##### #constant 
+###### #constant 
 
 ###### #symbol 
 

@@ -1,13 +1,8 @@
 ---
 tags: [constant]
 ---
-## Symbol
+## Definition 
 
-## Name
-
-## Definition
-
-## Value
 
 
 
