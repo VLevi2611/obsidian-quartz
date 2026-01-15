@@ -4,15 +4,11 @@ tags:
   - chemistry
   - general-chemistry
 ---
-## #formula 
-$$  $$
+## Definition
+
 ## Variables
 | Symbol | Meaning | Units |
 | :------: | :-------: | :-----: |
 | $$     |         | $$    |
-## Description
 
-## Example Calculation
-
-## Notes
 
