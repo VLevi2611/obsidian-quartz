@@ -26,12 +26,11 @@ tags:
 - [[SI Units]]
 ###### #formula 
 
-- [[Precent Error]]
+- [[Percent Error]]
 - [[Density]]
 
 ###### #constant 
 
-- [[SI base Units]]
 - [[Metric Prefixes]]
 
 ##### [[Atomic Structure]]

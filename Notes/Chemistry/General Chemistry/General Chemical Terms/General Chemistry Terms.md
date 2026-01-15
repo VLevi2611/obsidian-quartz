@@ -20,7 +20,7 @@ tags:
 
 ## #formula
 
-- [[Precent Error]]
+- [[Percent Error]]
 - [[Density]]
 
 ## #constant 

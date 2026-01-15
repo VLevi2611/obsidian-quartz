@@ -24,12 +24,11 @@ tags:
 
 #### #formula 
 
-- [[Precent Error]]
+- [[Percent Error]]
 - [[Density]]
 
 #### #constant 
 
-- [[SI base Units]]
 - [[Metric Prefixes]]
 
 #### #problem 
