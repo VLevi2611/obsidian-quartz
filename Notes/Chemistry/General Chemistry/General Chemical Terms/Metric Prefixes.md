@@ -8,4 +8,11 @@ tags:
 
 Since [[SI Units]] are a decimal system, prefixes are used to denote quantities that differ from the base unit by powers of 10.
 
-
+| Prefix Name | Prefix Symbol | Base 10 |  Decimal   |
+| :---------: | :-----------: | :-----: | :--------: |
+|    giga     |       G       | $10^9$  | 1000000000 |
+|    mega     |       M       | $10^6$  |  1000000   |
+|    kilo     |       k       | $10^3$  |    1000    |
+|    deca     |      da       | $10^1$  |     10     |
+|    deci     |       d       | $10^-1$ |    0.1     |
+|    centi    |       c       |         |            |
