@@ -5,7 +5,7 @@ tags: [formula]
 $$  $$
 ## Variables
 | Symbol | Meaning | Units |
-| ------ | ------- | ----- |
+| :------: | :-------: | :-----: |
 | $$     |         | $$    |
 ## Description
 

@@ -8,7 +8,7 @@ tags:
 $$  $$
 ## Variables
 | Symbol | Meaning | Units |
-| ------ | ------- | ----- |
+| :------: | :-------: | :----- |
 | $$     |         | $$    |
 ## Description
 
