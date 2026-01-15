@@ -13,7 +13,7 @@ Elastic potential energy $U_{sp}$ is a type of [[Potential Energy]] that stems f
 $$U_{sp}= \frac{1}{2}K\mathbf{x}^2$$
 ## Variables
 | Symbol         | Meaning          | Units             |
-| -------------- | ---------------- | ----------------- |
-| $$K$$          | [[Stiffness]]    | $$(\frac{N}{m})$$ |
-| $$\mathbf{x}$$ | [[Displacement]] | $$(m)$$           |
+| :--------------: | :----------------: | :-----------------: |
+| $K$          | [[Stiffness]]    | $(\frac{N}{m})$ |
+| $\mathbf{x}$ | [[Displacement]] | $(m)$           |
 

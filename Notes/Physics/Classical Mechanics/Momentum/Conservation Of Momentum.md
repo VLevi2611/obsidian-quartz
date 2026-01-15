@@ -14,6 +14,6 @@ $$\sum_{j=1}^{n} m_{intial,j}\mathbf{v}_{initial,j}=\sum_{j=1}^{n}m_{final,j}\ma
 ## Variables
 
 | Symbol         | Meaning      | Units             |
-| -------------- | ------------ | ----------------- |
-| $$m$$          | [[Mass]]     | $$(Kg)$$          |
-| $$\mathbf{v}$$ | [[Velocity]] | $$(\frac{m}{s})$$ |
+| :------------: | :----------: | :---------------: |
+| $m$          | [[Mass]]     | $(Kg)$          |
+| $\mathbf{v}$ | [[Velocity]] | $(\frac{m}{s})$ |

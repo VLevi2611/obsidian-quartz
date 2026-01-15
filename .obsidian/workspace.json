@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
+                "file": "Notes/Physics/Classical Mechanics/Rotation/Newton's Second Law For Rotation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gravitational Potential Energy"
+              "title": "Newton's Second Law For Rotation"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
+                "file": "Notes/Physics/Classical Mechanics/Rotation/Newton's Second Law For Rotation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Gravitational Potential Energy"
+              "title": "Graph of Newton's Second Law For Rotation"
             }
           }
         ]
@@ -372,32 +372,32 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Moment Of Inertia.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Conservation Of Angular Momentum.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Angular Position.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Angular Velocity.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Rigid Body.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Particle.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Angular Acceleration.md",
+    "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
+    "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Elastic Collision.md",
+    "Notes/Physics/Classical Mechanics/Momentum/External Force.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+    "Notes/Physics/Classical Mechanics/Energy/Elastic Potential Energy.md",
     "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
-    "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
-    "Notes/Physics/Classical Mechanics/Energy/Power.md",
-    "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
-    "Notes/Physics/Classical Mechanics/Energy/Work.md",
-    "Notes/Physics/Classical Mechanics/Energy/Work Energy Theorem.md",
-    "Notes/Physics/Classical Mechanics/Energy/Non Conservative Forces.md",
-    "Notes/Physics/Classical Mechanics/Energy/Energy.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity Force Formula.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Force.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
-    "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
-    "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Equilibrium Water Constant.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Henderson-Hasselbalch.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Relation Between Ka and Kb.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/pH Formula.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

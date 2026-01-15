@@ -13,6 +13,6 @@ $$e=\frac{|\mathbf{v}_{f1}-\mathbf{v}_{f2}|}{|\mathbf{v}_{i1}-\mathbf{v}_{i2}|}$
 ## Variables
 
 | Symbol         | Meaning                        | Units             |
-| -------------- | ------------------------------ | ----------------- |
-| $$e$$          | [[Coefficient Of Restitution]] | none              |
-| $$\mathbf{v}$$ | [[Velocity]]                   | $$(\frac{m}{s})$$ |
+| :--------------: | :------------------------------: | :-----------------: |
+| $e$          | [[Coefficient Of Restitution]] | none              |
+| $\mathbf{v}$ | [[Velocity]]                   | $(\frac{m}{s})$ |

@@ -14,12 +14,12 @@ $$\mathbf{J}= \int_{t_i}^{t_f} \mathbf{F}dt = m(\mathbf{v}_f-\mathbf{v}_i)$$
 ## Variables
 
 | Symbol         | Meaning             | Units             |
-| -------------- | ------------------- | ----------------- |
-| $$\mathbf{J}$$ | [[Impulse]]         | $$(N s)$$         |
-| $$\mathbf{p}$$ | [[Linear Momentum]] | $$(Ns)$$          |
-| $$\mathbf{F}$$ | [[Force]]           | $$(N)$$           |
-| $$m$$          | [[Mass]]            | $$(Kg)$$          |
-| $$\mathbf{v}$$ | [[Velocity]]        | $$(\frac{m}{s})$$ |
+| :--------------: | :-------------------: | :-----------------: |
+| $\mathbf{J}$ | [[Impulse]]         | $(N s)$         |
+| $\mathbf{p}$ | [[Linear Momentum]] | $(Ns)$          |
+| $\mathbf{F}$ | [[Force]]           | $(N)$           |
+| $m$          | [[Mass]]            | $(Kg)$          |
+| $\mathbf{v}$ | [[Velocity]]        | $(\frac{m}{s})$ |
 
 
 
