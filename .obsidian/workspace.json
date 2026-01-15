@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Precent Error"
+              "title": "Atom"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
+                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Precent Error"
+              "title": "Graph of Atom"
             }
           }
         ]
@@ -370,12 +370,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "72c265e735656386",
   "lastOpenFiles": [
+    "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications Global Edition - Ralph Petrucci F Herring Jeffry Madura Carey Bissonnette.md",
+    "Resources/Books/General Chemistry Book.pdf",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Percent Error.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
     "Book view.base",
     "Templates/Summary Template.md",
@@ -400,14 +403,11 @@
     "Notes/Medicine/Medical Equipment/Sterilization Equipment/Sterilization Equipment.md",
     "Notes/Medicine/Medical Equipment/Patient Monitors/Patient Monitors.md",
     "Notes/Medicine/Medical Equipment/MRI/MRI.md",
-    "Notes/Medicine/Medical Equipment/Infusion Pumps/Infusion Pumps.md",
-    "Notes/Medicine/Medical Equipment/ECG and EEG/ECG and EEG.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
     "Notes/Chemistry/General Chemistry/Thermochemistry",
     "Notes/Chemistry/General Chemistry/Solutions",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
     "Progress/Day 5.png",
