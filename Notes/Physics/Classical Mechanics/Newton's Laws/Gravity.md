@@ -4,7 +4,7 @@ tags:
   - physics
   - classical-mechanics
   - dynamics
-  - "#force"
+  - force
 ---
 ## Definition
 

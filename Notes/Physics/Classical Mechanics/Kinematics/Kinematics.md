@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#summary"
+  - summary
   - physics
   - classical-mechanics
   - kinematics

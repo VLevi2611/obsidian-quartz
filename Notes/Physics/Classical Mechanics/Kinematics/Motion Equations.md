@@ -21,10 +21,10 @@ $$
 $$
 ## Variables
 | Symbol         | Meaning          | Units               |
-| -------------- | ---------------- | ------------------- |
-| $$\mathbf{x}$$ | [[Displacement]] | $$(m)$$             |
-| $$\mathbf{v}$$ | [[Velocity]]     | $$(\frac{m}{s})$$   |
-| $$\mathbf{a}$$ | [[Acceleration]] | $$(\frac{m}{s^2})$$ |
+| :--------------: | :----------------: | :-------------------: |
+| $\mathbf{x}$ | [[Displacement]] | $(m)$             |
+| $\mathbf{v}$ | [[Velocity]]     | $(\frac{m}{s})$   |
+| $\mathbf{a}$ | [[Acceleration]] | $(\frac{m}{s^2})$ |
 
 ## Example Calculation
 

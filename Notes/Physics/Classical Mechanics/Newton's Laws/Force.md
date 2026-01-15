@@ -1,9 +1,9 @@
 ---
 tags:
   - concept
-  - "#physics"
-  - "#classical-mechanics"
-  - "#dynamics"
+  - physics
+  - classical-mechanics
+  - dynamics
   - vector
 ---
 ## Definition

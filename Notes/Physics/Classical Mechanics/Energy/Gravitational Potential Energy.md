@@ -14,7 +14,7 @@ $$U_g=m\mathbf{g}h$$
 ## ## Variables
 | Symbol         | Meaning                    | Units               |
 | -------------- | -------------------------- | ------------------- |
-| $$m$$          | [[Mass]]                   | $$(Kg)$$            |
-| $$\mathbf{g}$$ | [[Gravitational Constant]] | $$(\frac{m}{s^2})$$ |
-| $$h$$          | Height                     | $$(m)$$             |
+| $m$          | [[Mass]]                   | $$(Kg)$$            |
+| $\mathbf{g}$ | [[Gravitational Constant]] | $$(\frac{m}{s^2})$$ |
+| $h$          | Height                     | $$(m)$$             |
 

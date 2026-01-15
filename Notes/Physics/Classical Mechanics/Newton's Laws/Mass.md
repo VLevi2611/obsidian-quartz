@@ -1,7 +1,7 @@
 ---
 tags:
   - concept
-  - "#physics"
+  - physics
   - classical-mechanics
   - dynamics
 ---

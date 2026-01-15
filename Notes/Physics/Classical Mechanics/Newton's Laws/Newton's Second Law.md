@@ -1,7 +1,7 @@
 ---
 tags:
   - formula
-  - "#physics"
+  - physics
   - classical-mechanics
   - dynamics
 ---
@@ -14,10 +14,10 @@ Newton's second law relates the [[Force]] acting on a body to its [[Mass]] and [
 $$ \mathbf{F} = m \mathbf{a} $$
 ## Variables
 | Symbol         | Meaning          | Units               |
-| -------------- | ---------------- | ------------------- |
-| $$\mathbf{F}$$ | [[Force]]        | $$(N)$$             |
-| $$m$$          | [[Mass]]         | $$(Kg)$$            |
-| $$\mathbf{a}$$ | [[Acceleration]] | $$(\frac{m}{s^2})$$ |
+| :--------------: | :----------------: | :-------------------: |
+| $\mathbf{F}$ | [[Force]]        | $(N)$             |
+| $m$          | [[Mass]]         | $(Kg)$            |
+| $\mathbf{a}$ | [[Acceleration]] | $(\frac{m}{s^2})$ |
 
 ## Example Calculation
 

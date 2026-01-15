@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
+                "file": "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Velocity"
+              "title": "Gravitational Potential Energy"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
+                "file": "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Velocity"
+              "title": "Graph of Gravitational Potential Energy"
             }
           }
         ]
@@ -372,32 +372,32 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+    "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
+    "Notes/Physics/Classical Mechanics/Energy/Power.md",
+    "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
+    "Notes/Physics/Classical Mechanics/Energy/Work.md",
+    "Notes/Physics/Classical Mechanics/Energy/Work Energy Theorem.md",
+    "Notes/Physics/Classical Mechanics/Energy/Non Conservative Forces.md",
+    "Notes/Physics/Classical Mechanics/Energy/Energy.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity Force Formula.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Force.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
+    "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
     "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Equilibrium Water Constant.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Henderson-Hasselbalch.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Relation Between Ka and Kb.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/pH Formula.md",
     "Notes/Chemistry/General Chemistry/Acids and Bases/Base Dissociation Constant.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Acid Dissociation Constant.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Buffers.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/pH Scale.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Conjugate Pairs.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Weak Base.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Strong Base.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Weak Acid.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Strong Acid.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Bronsted-Lowry Definition.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Arrhenius Definition.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Base.md",
-    "Notes/Chemistry/General Chemistry/Acids and Bases/Acid.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Relation Between Pressure and Concentration Constants.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Le Chatelier's Principle.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Concentration Constant.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Equilibrium Pressure Constant.md",
-    "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Dynamic Equilibrium.md",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Arrhenius Equation.md",
-    "Notes/Chemistry/General Chemistry/Chemical Kinetics/Rate Law.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
