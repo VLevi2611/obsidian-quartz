@@ -2,7 +2,7 @@
 tags:
   - subject
   - physics
-  - "#optics-and-waves"
+  - optics-and-waves
 ---
 ## Overview
 

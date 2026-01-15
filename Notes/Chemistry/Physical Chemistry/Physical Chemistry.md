@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - chemistry
-  - "#physical-chemistry"
+  - physical-chemistry
 ---
 ## Overview
 

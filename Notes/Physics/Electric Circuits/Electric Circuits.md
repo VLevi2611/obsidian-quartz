@@ -2,7 +2,7 @@
 tags:
   - subject
   - physics
-  - "#electric-circuit"
+  - electric-circuit
 ---
 ## Overview
 

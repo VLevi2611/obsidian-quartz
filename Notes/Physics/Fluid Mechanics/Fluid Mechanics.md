@@ -2,7 +2,7 @@
 tags:
   - subject
   - physics
-  - "#fluid-mechanics"
+  - fluid-mechanics
 ---
 ## Overview
 

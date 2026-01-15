@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Complex Analysis/CR Equations/CR Equations.md",
+                "file": "Notes/Chemistry/Physical Chemistry/Thermodynamics/Chemical Thermodynamics.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CR Equations"
+              "title": "Chemical Thermodynamics"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Complex Analysis/CR Equations/CR Equations.md",
+                "file": "Notes/Chemistry/Physical Chemistry/Thermodynamics/Chemical Thermodynamics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of CR Equations"
+              "title": "Graph of Chemical Thermodynamics"
             }
           }
         ]
@@ -372,32 +372,32 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
-    "Notes/Math/Complex Analysis/Counter Integrals/Counter Integrals.md",
-    "Notes/Math/Complex Analysis/Complex Numbers/Complex Numbers.md",
-    "Notes/Math/Complex Analysis/Cauchy's Theorem/Cauchy's Theorem.md",
-    "Notes/Math/Complex Analysis/Analytic Functions/Analytic Functions.md",
-    "Notes/Math/Complex Analysis/Complex Analysis.md",
-    "Notes/Math/Probability/Sample Spaces/Sample Spaces.md",
-    "Notes/Math/Probability/Random Variables/Random Variables.md",
-    "Notes/Math/Probability/LLN/LLN.md",
-    "Notes/Math/Probability/Joint Distributions/Joint Distributions.md",
-    "Notes/Math/Probability/Expectation and Variance/Expectation and Variance.md",
-    "Notes/Math/Probability/Discrete Distributions/Discrete Distributions.md",
-    "Notes/Math/Probability/Continuous Distributions/Continuous Distributions.md",
-    "Notes/Math/Probability/Conditional Probability/Conditional Probability.md",
-    "Notes/Math/Probability/CLT/CLT.md",
-    "Notes/Math/Probability/Probability.md",
-    "Notes/Math/Numerical Analysis/Root Finding/Root Finding.md",
-    "Notes/Math/Numerical Analysis/ODE and PDE Methods/ODE and PDE Methods.md",
-    "Notes/Math/Numerical Analysis/Numerical Integration/Numerical Integration.md",
-    "Notes/Math/Numerical Analysis/Linear System Solvers/Linear System Solvers.md",
-    "Notes/Math/Numerical Analysis/Interpolation/Interpolation.md",
-    "Notes/Math/Numerical Analysis/Error Analysis/Error Analysis.md",
-    "Notes/Math/Numerical Analysis/Numerical Analysis.md",
-    "Notes/Math/Differential Equations/Systems of ODEs/Systems of ODEs.md",
-    "Notes/Math/Differential Equations/Series Solutions/Series Solutions.md",
-    "Notes/Math/Differential Equations/Laplace Transforms/Laplace Transforms.md",
-    "Notes/Math/Differential Equations/2nd Order ODEs/2nd Order ODEs.md",
+    "Notes/Chemistry/Physical Chemistry/Statistical Mechanics/Statistical Mechanics.md",
+    "Notes/Chemistry/Physical Chemistry/Spectroscopy/Spectroscopy.md",
+    "Notes/Chemistry/Physical Chemistry/Quantum Basics/Quantum Basics.md",
+    "Notes/Chemistry/Physical Chemistry/Molecular Orbitals/Molecular Orbitals.md",
+    "Notes/Chemistry/Physical Chemistry/Kinetics/Chemical Kinetics.md",
+    "Notes/Chemistry/Physical Chemistry/Electrochemistry/Electrochemistry.md",
+    "Notes/Chemistry/Physical Chemistry/Physical Chemistry.md",
+    "Notes/Chemistry/Organic Chemistry/Stereochemistry/Stereochemistry.md",
+    "Notes/Chemistry/Organic Chemistry/Reaction Mechanisms/Reaction Mechanisms.md",
+    "Notes/Chemistry/Organic Chemistry/Functional Groups/Functional Groups.md",
+    "Notes/Chemistry/Organic Chemistry/Carboxylic Acids/Carboxylic Acids.md",
+    "Notes/Chemistry/Organic Chemistry/Carbonyl Compounds/Carbonyl Compounds.md",
+    "Notes/Chemistry/Organic Chemistry/Biomolecules/Biomolecules.md",
+    "Notes/Chemistry/Organic Chemistry/Aromatics/Aromatics.md",
+    "Notes/Chemistry/Organic Chemistry/Amines/Amines.md",
+    "Notes/Chemistry/Organic Chemistry/Alkanes Alkenes Alkynes/Alkanes Alkenes Alkynes.md",
+    "Notes/Chemistry/Organic Chemistry/Alcohols and Ethers/Alcohols and Ethers.md",
+    "Notes/Chemistry/Organic Chemistry/Organic Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/Chemistry.md",
+    "Notes/Physics/Signal Processing/Digital Signals/Digital Signals.md",
+    "Notes/Physics/Signal Processing/Frequency Response/Frequency Response.md",
+    "Notes/Physics/Signal Processing/Convolution/Convolution.md",
+    "Notes/Physics/Signal Processing/Filters/Filters.md",
+    "Notes/Physics/Signal Processing/Fourier Transform/Fourier Transform.md",
+    "Notes/Physics/Signal Processing/Fourier Series/Fourier Series.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

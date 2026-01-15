@@ -2,7 +2,7 @@
 tags:
   - summary
   - physics
-  - "#thermodynamics"
+  - thermodynamics
 ---
 ## Overview
 

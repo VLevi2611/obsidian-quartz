@@ -1,5 +1,8 @@
 ---
-tags: [subject]
+tags:
+  - subject
+  - physics
+  - thermodynamics
 ---
 ## Overview
 

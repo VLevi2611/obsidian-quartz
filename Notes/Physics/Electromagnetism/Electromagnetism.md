@@ -2,7 +2,7 @@
 tags:
   - subject
   - physics
-  - "#electromagnetism"
+  - electromagnetism
 ---
 ## Overview
 

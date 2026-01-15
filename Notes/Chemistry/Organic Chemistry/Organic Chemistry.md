@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - chemistry
-  - "#organic-chemistry"
+  - organic-chemistry
 ---
 ## Overview
 
