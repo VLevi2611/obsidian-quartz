@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - math
-  - "#linear-algebra"
+  - linear-algebra
 ---
 ## Overview
 

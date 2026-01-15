@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - math
-  - "#differential-equations"
+  - differential-equations
 ---
 ## Overview
 

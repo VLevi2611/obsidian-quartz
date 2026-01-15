@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - math
-  - "#probability"
+  - probability
 ---
 ## Overview
 

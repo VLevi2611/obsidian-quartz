@@ -2,7 +2,7 @@
 tags:
   - subject
   - math
-  - "#calculus"
+  - calculus
 ---
 ## Overview
 

@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - math
-  - "#numerical-analysis"
+  - numerical-analysis
 ---
 ## Overview
 

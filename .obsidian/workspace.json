@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/General Math Terms/Set Symbols/Complex Number.md",
+                "file": "Notes/Math/Complex Analysis/CR Equations/CR Equations.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Complex Number"
+              "title": "CR Equations"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/General Math Terms/Set Symbols/Complex Number.md",
+                "file": "Notes/Math/Complex Analysis/CR Equations/CR Equations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Complex Number"
+              "title": "Graph of CR Equations"
             }
           }
         ]
@@ -370,34 +370,34 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
-    "Notes/Math/General Math Terms/Set Symbols/Real Number.md",
-    "Notes/Math/General Math Terms/Set Symbols/Rational Number.md",
-    "Notes/Math/General Math Terms/Set Symbols/Whole Number.md",
-    "Notes/Math/General Math Terms/Set Symbols/Natural Number.md",
-    "Notes/Math/General Math Terms/Set Symbols/Union.md",
-    "Notes/Math/General Math Terms/Set Symbols/Set Difference.md",
-    "Notes/Math/General Math Terms/Set Symbols/Intersection.md",
-    "Notes/Math/General Math Terms/Set Symbols/Complement.md",
-    "Notes/Math/General Math Terms/Set Symbols/Element Of.md",
-    "Notes/Math/General Math Terms/Set Symbols/Subset.md",
-    "Notes/Math/General Math Terms/Set Symbols/Set.md",
-    "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
-    "Notes/Math/General Math Terms/Intervals/Open Ray.md",
-    "Notes/Math/General Math Terms/Intervals/Closed Ray.md",
-    "Notes/Math/General Math Terms/Intervals/Half Open Interval.md",
-    "Notes/Math/General Math Terms/Intervals/Open Interval.md",
-    "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
-    "Notes/Math/General Math Terms/Intervals/Maximum.md",
-    "Notes/Math/General Math Terms/Intervals/Minimum.md",
-    "Notes/Math/General Math Terms/Intervals/Supremum.md",
-    "Notes/Math/General Math Terms/Intervals/Infimum.md",
-    "Notes/Math/General Math Terms/Intervals/Upper Bound.md",
-    "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
-    "Notes/Math/General Math Terms/Intervals/Interval.md",
-    "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
-    "Notes/Math/General Math Terms/Math Symbols/Scalar.md",
+    "Notes/Math/Complex Analysis/Counter Integrals/Counter Integrals.md",
+    "Notes/Math/Complex Analysis/Complex Numbers/Complex Numbers.md",
+    "Notes/Math/Complex Analysis/Cauchy's Theorem/Cauchy's Theorem.md",
+    "Notes/Math/Complex Analysis/Analytic Functions/Analytic Functions.md",
+    "Notes/Math/Complex Analysis/Complex Analysis.md",
+    "Notes/Math/Probability/Sample Spaces/Sample Spaces.md",
+    "Notes/Math/Probability/Random Variables/Random Variables.md",
+    "Notes/Math/Probability/LLN/LLN.md",
+    "Notes/Math/Probability/Joint Distributions/Joint Distributions.md",
+    "Notes/Math/Probability/Expectation and Variance/Expectation and Variance.md",
+    "Notes/Math/Probability/Discrete Distributions/Discrete Distributions.md",
+    "Notes/Math/Probability/Continuous Distributions/Continuous Distributions.md",
+    "Notes/Math/Probability/Conditional Probability/Conditional Probability.md",
+    "Notes/Math/Probability/CLT/CLT.md",
+    "Notes/Math/Probability/Probability.md",
+    "Notes/Math/Numerical Analysis/Root Finding/Root Finding.md",
+    "Notes/Math/Numerical Analysis/ODE and PDE Methods/ODE and PDE Methods.md",
+    "Notes/Math/Numerical Analysis/Numerical Integration/Numerical Integration.md",
+    "Notes/Math/Numerical Analysis/Linear System Solvers/Linear System Solvers.md",
+    "Notes/Math/Numerical Analysis/Interpolation/Interpolation.md",
+    "Notes/Math/Numerical Analysis/Error Analysis/Error Analysis.md",
+    "Notes/Math/Numerical Analysis/Numerical Analysis.md",
+    "Notes/Math/Differential Equations/Systems of ODEs/Systems of ODEs.md",
+    "Notes/Math/Differential Equations/Series Solutions/Series Solutions.md",
+    "Notes/Math/Differential Equations/Laplace Transforms/Laplace Transforms.md",
+    "Notes/Math/Differential Equations/2nd Order ODEs/2nd Order ODEs.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",

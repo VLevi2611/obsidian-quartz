@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - math
-  - "#complex-analysis"
+  - complex-analysis
 ---
 ## Overview
 
