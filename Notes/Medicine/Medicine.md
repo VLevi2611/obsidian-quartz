@@ -1,7 +1,7 @@
 ---
 tags:
-  - "#world"
-  - "#medicine"
+  - world
+  - medicine
 ---
 ## Overview
 

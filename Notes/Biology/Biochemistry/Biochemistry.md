@@ -1,9 +1,9 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - biology
   - chemistry
-  - "#biochemistry"
+  - biochemistry
 ---
 ## Overview
 

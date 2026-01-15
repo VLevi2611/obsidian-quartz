@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#world"
+  - world
   - biology
 ---
 ## Overview

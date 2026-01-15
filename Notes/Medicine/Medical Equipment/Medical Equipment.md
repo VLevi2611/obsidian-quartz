@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - medicine
-  - "#medical-equipment"
+  - medical-equipment
 ---
 ## Overview
 

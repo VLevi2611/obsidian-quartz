@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - biology
-  - "#cell-biology"
+  - cell-biology
 ---
 ## Overview
 

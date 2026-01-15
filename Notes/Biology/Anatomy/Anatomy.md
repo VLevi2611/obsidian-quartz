@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#subject"
+  - subject
   - biology
-  - "#anatomy"
+  - anatomy
 ---
 ## Overview
 
