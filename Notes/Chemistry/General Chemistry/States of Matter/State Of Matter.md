@@ -6,8 +6,13 @@ tags:
 ---
 ## Overview 
 
+[[Matter]] is generally found in one of three states: [[Solid]], [[Liquid]] or [[Gas]].
+
 ## #concept 
 
+- [[Solid]]
+- [[Liquid]]
+- [[Gas]]
 - [[Kinetic Molecular Theory]]
 - [[Pressure]]
 - [[Temperature]]
