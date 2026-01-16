@@ -9,6 +9,8 @@ tags:
 ## #concept 
 
 - [[Matter]]
+- [[Composition]]
+- [[Substance]]
 - [[Mixture]]
 - [[Element]]
 - [[Compound]]

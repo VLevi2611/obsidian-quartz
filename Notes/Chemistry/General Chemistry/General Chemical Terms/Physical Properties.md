@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-A physical property is one that a sample of [[Matter]] display
+A physical property is one that a sample of [[Matter]] displays without changing its [[]]
 
 
