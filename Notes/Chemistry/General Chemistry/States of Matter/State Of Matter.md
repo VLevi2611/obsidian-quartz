@@ -8,7 +8,7 @@ tags:
 
 [[Matter]] is generally found in one of three states: [[Solid]], [[Liquid]] or [[Gas]].
 Depending on conditions, a [[Substance]] may exist in only one state of matter, or be present in two or three states.
-The **macroscopic level** refers to how we perceive matter with our eyes, while the **microscopic level** describes matter in terms of [[Atom]]s and [[Molecule]]s
+The **macroscopic level** refers to how we perceive matter with our eyes, while the **microscopic level** describes matter in terms of [[Atom]]s and [[Molecule]]s.
 
 ## #concept 
 

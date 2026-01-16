@@ -150,11 +150,14 @@ tags:
 
 #### #concept 
 
+- [[Solid]]
+- [[Liquid]]
+- [[Gas]]
 - [[Kinetic Molecular Theory]]
-- [[Temperature]]
 - [[Pressure]]
+- [[Temperature]]
 - [[Ideal Gas]]
-- [[Real gas]]
+- [[Real Gas]]
 
 #### #formula 
 
