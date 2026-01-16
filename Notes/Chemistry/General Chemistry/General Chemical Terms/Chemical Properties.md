@@ -6,9 +6,6 @@ tags:
 ---
 ## Definition
 
-Each property of [[Matter]] can be either chemical or physical.
+Chemical properties describe the ability of a [[Substance]] to undergo chemical change or reaction to form a new substance, a change in [[Composition]].
 
-**Quantities** such as [[Mass]] and volume, that can be measured without changing the composition are physical properties.
-
-Chemical properties describe the ability of a [[Substance]] to undergo chemical change or reaction to form a new substance.
-
+Burning paper involves a chemical change

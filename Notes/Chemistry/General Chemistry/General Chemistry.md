@@ -13,9 +13,13 @@ tags:
 #### #concept 
 
 - [[Matter]]
+- [[Composition]]
+- [[Substance]]
 - [[Mixture]]
 - [[Element]]
 - [[Compound]]
+- [[Property]]
+- [[Physical Properties]]
 - [[Chemical Properties]]
 - [[Intensive vs Extensive Properties]]
 - [[Accuracy vs Precision]]
