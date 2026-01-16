@@ -19,7 +19,7 @@ tags:
 - [[Mixture]]
 - [[Element]]
 - [[Compound]]
-- [[Chemical vs Physical Properties]]
+- [[Chemical Properties]]
 - [[Intensive vs Extensive Properties]]
 - [[Accuracy vs Precision]]
 - [[Scientific Notation]]
