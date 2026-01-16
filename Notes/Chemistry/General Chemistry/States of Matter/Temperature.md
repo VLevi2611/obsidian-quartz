@@ -10,5 +10,5 @@ To establish a temperature scale, we arbitrarily set certain fixed points. Tempe
 
 On the **Celsius** scale, the melting point of ice is $0 \textcelsius$, the boiling point of water is $100 \textcelsius$, and the [[Interval]] between is divided into 100 equal parts called Celsius degrees.
 
-On the **Fahrenheit** scale, the melting point of ice is $32 \textfahrenheit$ 
-
+On the **Fahrenheit** scale, the melting point of ice is $32 ^\circ\mathrm{F}$, the boiling point of water is $212 ^\circ\mathrm{F}$ 
+and the interval between is divided into 180 equal parts called Fahrenheit degrees.
