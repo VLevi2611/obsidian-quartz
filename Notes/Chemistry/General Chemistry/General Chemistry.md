@@ -43,6 +43,8 @@ tags:
 
 - [[Atom]]
 - [[Molecule]]
+- [[Conservation Of Mass]]
+- [[Constant Composition Law]]
 - [[Dalton's Atomic Model]]
 - [[Thomson's Atomic Model]]
 - [[Rutherford's Atomic Model]]
