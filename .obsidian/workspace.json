@@ -11,13 +11,14 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Book view.base",
-                "viewName": "View"
+                "file": "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book view"
+              "icon": "lucide-file",
+              "title": "General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -260,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Book view.base",
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -345,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Book view"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -369,14 +370,56 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "floating": {
+    "id": "f64f78442a43864d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "95eca4ee153608e3",
+        "type": "window",
+        "children": [
+          {
+            "id": "3668f386b310057c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6884b59c8d60c8d6",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "General Chemistry Principles and Modern Applications"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6884b59c8d60c8d6",
   "lastOpenFiles": [
+    "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
+    "Book view.base",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
+    "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+    "Resources/Images/Periodic Table.png",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Constant Composition Law.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Conservation Of Mass.md",
-    "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
-    "Book view.base",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Percent Error.md",
@@ -384,23 +427,17 @@
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Composition.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Physical Properties.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Property.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
-    "Resources/Images/Periodic Table.png",
     "Notes/Chemistry/General Chemistry/States of Matter/Solid.md",
     "Notes/Chemistry/General Chemistry/States of Matter/Liquid.md",
     "Notes/Chemistry/General Chemistry/States of Matter/Gas.md",
     "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications Global Edition - Ralph Petrucci F Herring Jeffry Madura Carey Bissonnette.md",
     "Resources/Books/General Chemistry Book.pdf",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
     "Templates/Summary Template.md",
     "Templates/World Template.md",
     "Templates/Subject Template.md",
-    "Templates/Problem Template.md",
-    "Templates/Symbol Template.md",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
     "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
