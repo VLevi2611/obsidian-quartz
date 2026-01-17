@@ -467,17 +467,20 @@
       "children": [
         "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Matter.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Composition.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Mixture.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Element.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Compound.md",
-        "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical vs Physical Properties.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Property.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Physical Properties.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical Properties.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Percent Error.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Intensive vs Extensive Properties.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Accuracy vs Precision.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Scientific Notation.md",
-        "Notes/Chemistry/General Chemistry/General Chemical Terms/Dimensional Analysis.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
-        "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
+        "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md"
@@ -518,6 +521,9 @@
     },
     "Notes/Chemistry/General Chemistry/States of Matter": {
       "children": [
+        "Notes/Chemistry/General Chemistry/States of Matter/Solid.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Liquid.md",
+        "Notes/Chemistry/General Chemistry/States of Matter/Gas.md",
         "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
         "Notes/Chemistry/General Chemistry/States of Matter/Kinetic Molecular Theory.md",
         "Notes/Chemistry/General Chemistry/States of Matter/Temperature.md",
@@ -995,7 +1001,6 @@
         "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
         "Notes/Math/Linear Algebra/Linear Transformations/Geometric Properties Of Linear Transformations.md",
         "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Composition.md",
         "Notes/Math/Linear Algebra/Linear Transformations/Non Square Matrices.md",
         "Notes/Math/Linear Algebra/Linear Transformations/Change Of Basis.md"
       ],
@@ -1715,6 +1720,7 @@
     },
     "Resources/Books": {
       "children": [
+        "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
         "Resources/Books/Thumbnails",
         "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
         "Resources/Books/The Runaway Species.pdf",
@@ -1724,6 +1730,7 @@
     },
     "Resources/Books/Thumbnails": {
       "children": [
+        "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
         "Resources/Books/Thumbnails/Applied Minds - Guru Madhavan.md",
         "Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
         "Resources/Books/Thumbnails/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
@@ -1733,6 +1740,7 @@
     },
     "Resources/Images": {
       "children": [
+        "Resources/Images/Periodic Table.png",
         "Resources/Images/ActionPotentialDiagram.png",
         "Resources/Images/Biomedical Engineering Map.png",
         "Resources/Images/Welcome please seat yourself.md"

@@ -11,14 +11,13 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
-                "mode": "source",
-                "source": false
+                "file": "Book view.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "Atom"
+              "icon": "lucide-layout-grid",
+              "title": "Book view"
             }
           }
         ]
@@ -261,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
+                "file": "Book view.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +345,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Atom"
+              "title": "Graph of Book view"
             }
           }
         ]
@@ -370,26 +369,29 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "72c265e735656386",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Percent Error.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical Properties.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Composition.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Physical Properties.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Property.md",
+    "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
+    "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
     "Resources/Images/Periodic Table.png",
     "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/States of Matter/Solid.md",
     "Notes/Chemistry/General Chemistry/States of Matter/Liquid.md",
     "Notes/Chemistry/General Chemistry/States of Matter/Gas.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Property.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Physical Properties.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Composition.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Chemical Properties.md",
     "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications Global Edition - Ralph Petrucci F Herring Jeffry Madura Carey Bissonnette.md",
     "Resources/Books/General Chemistry Book.pdf",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Percent Error.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Precent Error.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
-    "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
     "Book view.base",
     "Templates/Summary Template.md",
@@ -399,11 +401,9 @@
     "Templates/Symbol Template.md",
     "Templates/Constant Template.md",
     "Templates/Formula Template.md",
-    "Templates/Concept Template.md",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
     "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
-    "Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
     "Notes/Chemistry/General Chemistry/Chemical Bonding",
     "Notes/Chemistry/General Chemistry/Stoichiometry",
     "Notes/Chemistry/General Chemistry/States of Matter",
