@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -407,8 +407,9 @@
       }
     ]
   },
-  "active": "6884b59c8d60c8d6",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
     "Book view.base",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
@@ -419,7 +420,6 @@
     "Resources/Images/Periodic Table.png",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Constant Composition Law.md",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Conservation Of Mass.md",
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Substance.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Percent Error.md",
