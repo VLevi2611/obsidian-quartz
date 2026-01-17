@@ -1720,8 +1720,8 @@
     },
     "Resources/Books": {
       "children": [
-        "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
         "Resources/Books/Thumbnails",
+        "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
         "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
         "Resources/Books/The Runaway Species.pdf",
         "Resources/Books/A Short History Of Nearly Everything.pdf"

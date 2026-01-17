@@ -3,7 +3,7 @@ views:
     name: View
     filters:
       and:
-        - file.folder == "toolbox file/Resources/Books/Thumbnails"
+        - file.folder == "Resources/Books/Thumbnails"
     order:
       - title
       - author
