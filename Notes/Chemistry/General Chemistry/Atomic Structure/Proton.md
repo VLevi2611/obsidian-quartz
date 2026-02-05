@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+In the [[Rutherford's Atomic Model]], he suggested the existence of positively charged fun
 
