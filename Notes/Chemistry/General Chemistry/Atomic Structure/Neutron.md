@@ -6,10 +6,11 @@ tags:
 ---
 ## Definition
 
+Neutron is a subatomic particle, that has no electric charge, and a [[Mass]] slightly greater that the [[Proton]]. The Neutrons are found, together with a similar number of protons in the [[Nucleus]] of an [[Atom]].
 
-|    Electric Charge (C)    | Electric Charge (Atomic) |       [[Mass]] (g)       |
-| :-----------------------: | :----------------------: | :----------------------: |
-| $+1.6022 \times 10^{-19}$ |           $+1$           | $1.6726 \times 10^{-24}$ |
+| Electric Charge (C) | Electric Charge (Atomic) |       [[Mass]] (g)       |
+| :-----------------: | :----------------------: | :----------------------: |
+|         $0$         |           $0$            | $1.6749 \times 10^{-24}$ |
 
 
 
