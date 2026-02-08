@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -407,11 +407,11 @@
       }
     ]
   },
-  "active": "6884b59c8d60c8d6",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Nucleus.md",
     "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Book view.base",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
@@ -438,7 +438,6 @@
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
     "Templates/Summary Template.md",
     "Templates/World Template.md",
-    "Templates/Subject Template.md",
     "Resources/Books/A Short History Of Nearly Everything.pdf",
     "Resources/Books/The Runaway Species.pdf",
     "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
