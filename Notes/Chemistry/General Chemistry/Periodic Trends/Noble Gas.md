@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-Noble gas is a group
+Noble gas is a group 
  

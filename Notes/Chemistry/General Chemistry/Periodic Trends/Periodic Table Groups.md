@@ -18,3 +18,6 @@ metals are [[Solid|Solids]] at room temp. They are generally malleable (capable 
 Similarly to [[Periodic Table Groups#Metals|Metals]], non metals is a group of [[Element|Elements]] that share some [[Property|properties]].
 Non metals are poor conductors of heat and electricity, some are [[Gas|Gases]] at room temp, some are brittle [[Solid|Solids]] 
 
+### Noble Gases
+
+The noble gases are the members of group 18 of the [[Periodic Table.png|Periodic Table]]

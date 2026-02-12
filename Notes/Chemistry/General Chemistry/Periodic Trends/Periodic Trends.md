@@ -9,7 +9,8 @@ tags:
 ## #concept 
 
 - [[Periodic Table Structure]]
-- [[Metal]]
+- [[Periodic Table Groups]]
+- [[Periodic Table Groups#Metals|Metal]]
 - [[Non-Metal]]
 - [[Noble Gas]]
 - [[Metalloid]]

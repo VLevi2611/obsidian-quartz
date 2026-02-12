@@ -11,4 +11,4 @@ In the [[Periodic Table.png|Periodic Table]], [[Element|Elements]] are listed ac
 - group 1 elements are called ==Alkali metals==
 ---
 Each element is listed in the atomic table by placing its symbol in the middle of the box. The atomic number above the symbol and the weighted average [[Atomic Mass]] below. Elements with atomic masses in parentheses are produced synthetically.
-The elements are also divided into 2 categories: [[Metal]] elements and [[Non-Metal]] elements.
+The elements are also divided into 2 categories: [[Periodic Table Groups#Metals|Metals]] and [[Periodic Table Groups#Non-Metals|Non-Metals]].
