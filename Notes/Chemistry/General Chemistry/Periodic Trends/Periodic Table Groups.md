@@ -20,4 +20,8 @@ Non metals are poor conductors of heat and electricity, some are [[Gas|Gases]] a
 
 ### Noble Gases
 
-The noble gases are the members of group 18 of the [[Periodic Table.png|Periodic Table]]
+The noble gases are the members of group 18 of the [[Periodic Table.png|Periodic Table]]. They are very stable, have very weak intermolecular bonds and have low melting and boiling points
+
+### Metalloids
+
+Metalloids are [[Element|Elements]] with [[Property|Properties]] intermediate between [[Periodic Table Groups#Metals|Metals]] and [[Periodic Table Groups#Non-Metals|Non-Metals]]. They act as semiconductors. 
