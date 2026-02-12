@@ -385,6 +385,7 @@
     },
     "Notes/Chemistry/General Chemistry/Atomic Structure": {
       "children": [
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Nucleus.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Molecule.md",
@@ -484,7 +485,6 @@
         "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Density.md",
-        "Notes/Chemistry/General Chemistry/General Chemical Terms/SI base Units.md",
         "Notes/Chemistry/General Chemistry/General Chemical Terms/Metric Prefixes.md"
       ],
       "sortOrder": "custom"

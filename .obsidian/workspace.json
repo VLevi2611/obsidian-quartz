@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -399,19 +399,19 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 25,
         "width": 1440,
-        "height": 900,
-        "maximize": false,
+        "height": 797,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "01354666a8200162",
+  "active": "6884b59c8d60c8d6",
   "lastOpenFiles": [
+    "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/Atomic Structure/Nucleus.md",
-    "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
     "Book view.base",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/Time.md",
     "Notes/Chemistry/General Chemistry/General Chemical Terms/SI Units.md",
