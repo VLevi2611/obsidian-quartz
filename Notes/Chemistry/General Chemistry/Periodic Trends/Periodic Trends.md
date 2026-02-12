@@ -11,6 +11,7 @@ tags:
 - [[Periodic Table Structure]]
 - [[Metal]]
 - [[Non-Metal]]
+- [[Noble Gas]]
 - [[Metalloid]]
 - [[Ionic Radius]]
 - [[Ionization Energy]]

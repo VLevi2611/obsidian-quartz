@@ -6,4 +6,5 @@ tags:
 ---
 ## Definition
 
-Similarly to [[Metal]], non metal is a group of [[Element]] that share some [[Property|properties]]
+Similarly to [[Metal|Metals]], non metals is a group of [[Element|Elements]] that share some [[Property|properties]].
+Non metals are poor conductors of heat and electricity, some are [[Gas|Gases]] at room temp, some are brittle [[Solid|Solids]] 
