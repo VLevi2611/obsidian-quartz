@@ -9,7 +9,6 @@ tags:
 ## #concept 
 
 - [[Periodic Table Structure]]
-- [[Groups vs Periods]]
 - [[Metal]]
 - [[Non-Metal]]
 - [[Metalloid]]

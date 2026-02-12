@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-In the [[Periodic Table.png]], [[Element]]s are listed according to increasing [[Atomic Number]] starting at the upper left and arranged in a series of horizontal rows. Similar elements are placed in vertical **groups**, some are given names:
+In the [[Periodic Table.png|Periodic Table]], [[Element|Elements]] are listed according to increasing [[Atomic Number]] starting at the upper left and arranged in a series of horizontal rows. Similar elements are placed in vertical **groups**, some are given names:
 - group 17 elements are called ==Halogens==
 - group 1 elements are called ==Alkali metals==
 ---
