@@ -6,9 +6,4 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
-
+Similart
