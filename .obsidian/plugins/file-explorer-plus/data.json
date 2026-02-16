@@ -617,20 +617,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/General Chemical Terms/General Chemistry Terms.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
         "patternType": "STRICT"
       },
@@ -638,63 +624,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Chemical Bonding/Chemical Bonding.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/General Chemistry.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Stoichiometry/Stoichiometry.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/States of Matter/State Of Matter.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Thermochemistry/Thermochemistry.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Solutions/Solutions.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Chemical Kinetics/Chemical Kinetics Intro.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Chemical Equilibrium/Chemical Equilibrium.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/Acids and Bases/Acids and Bases.md",
         "patternType": "STRICT"
       },
       {
