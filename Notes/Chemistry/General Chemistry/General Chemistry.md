@@ -59,10 +59,6 @@ tags:
 - [[Mass Number]]
 - [[Isotope]]
 
-#### #formula 
-
-- [[Atomic Mass Formula]]
-
 ### [[01.3 Chemical Compounds]]
 
 #### #concept 
