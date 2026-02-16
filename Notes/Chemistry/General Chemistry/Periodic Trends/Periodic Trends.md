@@ -9,10 +9,11 @@ tags:
 ## #concept 
 
 - [[Periodic Table Structure]]
-- [[Groups vs Periods]]
-- [[Metal]]
-- [[Non-Metal]]
-- [[Metalloid]]
+- [[Periodic Table Groups]]
+- [[Periodic Table Groups#Metals|Metal]]
+- [[Periodic Table Groups#Non-Metals|Non-Metals]]
+- [[Periodic Table Groups#Noble Gases|Noble Gases]]
+- [[Periodic Table Groups#Metalloids|Metalloids]]
 - [[Ionic Radius]]
 - [[Ionization Energy]]
 - [[Electron Affinity]]
