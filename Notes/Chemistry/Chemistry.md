@@ -91,61 +91,78 @@ tags:
 
 ###### #concept 
 
-##### [[Chemical Kinetics]]
+##### [[02 Periodic Trends]]
 
 ###### #concept 
 
-- [[Reaction Rate]]
-- [[Reaction Order]]
-- [[Activation Energy]]
-- [[Catalysts]]
-- [[Collision Theory]]
-
-###### #formula 
-
-- [[Rate Law]]
-- [[Arrhenius Equation]]
-
-##### [[Chemical Equilibrium]]
+##### [[03 Bonding I]]
 
 ###### #concept 
 
-- [[Dynamic Equilibrium]]
-- [[Equilibrium Pressure Constant]]
-- [[Equilibrium Concentration Constant]]
-- [[Le Chatelier's Principle]]
-
-###### #formula 
-
-- [[Relation Between Pressure and Concentration Constants]]
-
-##### [[Acids and Bases]]
+##### [[04 Bonding II]]
 
 ###### #concept 
 
-- [[Acid]]
-- [[Base]]
-- [[Arrhenius Definition]]
-- [[Bronsted-Lowry Definition]]
-- [[Strong Acid]]
-- [[Weak Acid]]
-- [[Strong Base]]
-- [[Weak Base]]
-- [[Conjugate Pairs]]
-- [[pH Scale]]
-- [[Buffers]]
-- [[Acid Dissociation Constant]]
-- [[Base Dissociation Constant]]
+#### [[04 Phases and Forces]]
 
-###### #formula 
+##### [[01 Intermolecular Forces]]
 
-- [[pH Formula]]
-- [[Relation Between Ka and Kb]]
-- [[Henderson-Hasselbalch]]
+###### #concept 
 
-###### #constant 
+##### [[02 Entropy and Gibbs Energy]]
 
-- [[Equilibrium Water Constant]]
+###### #concept 
+
+##### [[03 Solutions]]
+
+###### #concept 
+
+#### [[05 Equilibrium]]
+
+##### [[01 Chemical Equilibrium]]
+
+###### #concept 
+
+##### [[02 Acids and Bases]]
+
+###### #concept 
+
+##### [[03 Acid-Base Equilibria]]
+
+###### #concept 
+
+##### [[04 Solubility Equilibria]]
+
+###### #concept 
+
+##### [[05 Electrochemistry]]
+
+###### #concept 
+
+##### [[06 Kinetics]]
+
+###### #concept 
+
+#### [[06 Descriptive Chemistry]]
+
+##### [[01 Main Group I]]
+
+###### #concept 
+
+##### [[02 Main Group II]]
+
+###### #concept 
+
+##### [[03 Transition Metals]]
+
+###### #concept 
+
+##### [[04 Coordination Chemistry]]
+
+###### #concept 
+
+##### [[05 Nuclear Chemistry]]
+
 #### #problem 
 
 
