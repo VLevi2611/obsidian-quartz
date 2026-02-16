@@ -37,7 +37,7 @@ tags:
 
 #### #problem 
 
-### [[Atomic Structure]]
+### [[02 Atomic Theory]]
 
 #### #constant 
 

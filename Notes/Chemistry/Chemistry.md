@@ -37,7 +37,7 @@ tags:
 
 - [[Metric Prefixes]]
 
-##### [[Atomic Structure]]
+##### [[02 Atomic Theory]]
 
 ###### #concept 
 
