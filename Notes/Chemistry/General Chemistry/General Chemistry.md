@@ -65,6 +65,7 @@ tags:
 
 #### #constant 
 
+- [[Avogadro's Number]]
 
 ### [[01.3 Chemical Compounds]]
 
@@ -183,4 +184,4 @@ tags:
 
 ### [[06.4 Coordination Chemistry]]
 
-### [[06.5 Nuclear C
+### [[06.5 Nuclear Chemistry]]
