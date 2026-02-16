@@ -109,59 +109,59 @@ tags:
 
 ###### #concept 
 
-##### [[02 Entropy and Gibbs Energy]]
+##### [[04.2 Entropy and Gibbs Energy]]
 
 ###### #concept 
 
-##### [[03 Solutions]]
+##### [[04.3 Solutions]]
 
 ###### #concept 
 
 #### [[05 Equilibrium]]
 
-##### [[01 Chemical Equilibrium]]
+##### [[05.1 Chemical Equilibrium]]
 
 ###### #concept 
 
-##### [[02 Acids and Bases]]
+##### [[05.2 Acids and Bases]]
 
 ###### #concept 
 
-##### [[03 Acid-Base Equilibria]]
+##### [[05.3 Acid-Base Equilibria]]
 
 ###### #concept 
 
-##### [[04 Solubility Equilibria]]
+##### [[05.4 Solubility Equilibria]]
 
 ###### #concept 
 
-##### [[05 Electrochemistry]]
+##### [[05.5 Electrochemistry]]
 
 ###### #concept 
 
-##### [[06 Kinetics]]
+##### [[05.6 Kinetics]]
 
 ###### #concept 
 
 #### [[06 Descriptive Chemistry]]
 
-##### [[01 Main Group I]]
+##### [[06.1 Main Group I]]
 
 ###### #concept 
 
-##### [[02 Main Group II]]
+##### [[06.2 Main Group II]]
 
 ###### #concept 
 
-##### [[03 Transition Metals]]
+##### [[06.3 Transition Metals]]
 
 ###### #concept 
 
-##### [[04 Coordination Chemistry]]
+##### [[06.4 Coordination Chemistry]]
 
 ###### #concept 
 
-##### [[05 Nuclear Chemistry]]
+##### [[06.5 Nuclear Chemistry]]
 
 ###### #concept 
 #### #problem 

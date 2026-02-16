@@ -16,7 +16,7 @@ tags:
 
 ### #problem 
 
-## [[02 Entropy and Gibbs Energy]]
+## [[04.2 Entropy and Gibbs Energy]]
 
 ### #concept 
 
@@ -26,7 +26,7 @@ tags:
 
 ### #problem 
 
-## [[03 Solutions]]
+## [[04.3 Solutions]]
 
 ### #concept 
 

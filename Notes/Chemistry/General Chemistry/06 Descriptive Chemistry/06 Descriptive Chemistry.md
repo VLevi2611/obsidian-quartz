@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-## [[01 Main Group I]]
+## [[06.1 Main Group I]]
 
 ### #concept 
 
@@ -16,7 +16,7 @@ tags:
 
 ### #problem 
 
-## [[02 Main Group II]]
+## [[06.2 Main Group II]]
 
 ### #concept 
 
@@ -26,7 +26,7 @@ tags:
 
 ### #problem 
 
-## [[03 Transition Metals]]
+## [[06.3 Transition Metals]]
 
 ### #concept 
 
@@ -36,7 +36,7 @@ tags:
 
 ### #problem 
 
-## [[04 Coordination Chemistry]]
+## [[06.4 Coordination Chemistry]]
 
 ### #concept 
 
@@ -46,4 +46,4 @@ tags:
 
 ### #problem 
 
-## [[05 Nuclear Chemistry]]
+## [[06.5 Nuclear Chemistry]]

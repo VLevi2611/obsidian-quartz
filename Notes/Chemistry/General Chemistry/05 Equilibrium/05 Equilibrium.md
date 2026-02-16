@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-## [[01 Chemical Equilibrium]]
+## [[05.1 Chemical Equilibrium]]
 
 ### #concept 
 
@@ -16,7 +16,7 @@ tags:
 
 ### #problem 
 
-## [[02 Acids and Bases]]
+## [[05.2 Acids and Bases]]
 
 ### #concept 
 
@@ -26,7 +26,7 @@ tags:
 
 ### #problem 
 
-## [[03 Acid-Base Equilibria]]
+## [[05.3 Acid-Base Equilibria]]
 
 ### #concept 
 
@@ -36,7 +36,7 @@ tags:
 
 ### #problem 
 
-## [[04 Solubility Equilibria]]
+## [[05.4 Solubility Equilibria]]
 
 ### #concept 
 
@@ -46,7 +46,7 @@ tags:
 
 ### #problem 
 
-## [[05 Electrochemistry]]
+## [[05.5 Electrochemistry]]
 
 ### #concept 
 
@@ -56,7 +56,7 @@ tags:
 
 ### #problem 
 
-## [[06 Kinetics]]
+## [[05.6 Kinetics]]
 
 ### #concept 
 

@@ -152,32 +152,32 @@ tags:
 
 #### #constant 
 
-### [[02 Entropy and Gibbs Energy]]
+### [[04.2 Entropy and Gibbs Energy]]
 
-### [[03 Solutions]]
+### [[04.3 Solutions]]
 
 ## [[05 Equilibrium]]
 
-### [[01 Chemical Equilibrium]]
+### [[05.1 Chemical Equilibrium]]
 
-### [[02 Acids and Bases]]
+### [[05.2 Acids and Bases]]
 
-### [[03 Acid-Base Equilibria]]
+### [[05.3 Acid-Base Equilibria]]
 
-### [[04 Solubility Equilibria]]
+### [[05.4 Solubility Equilibria]]
 
-### [[05 Electrochemistry]]
+### [[05.5 Electrochemistry]]
 
-### [[06 Kinetics]]
+### [[05.6 Kinetics]]
 
 ## [[06 Descriptive Chemistry]]
 
-### [[01 Main Group I]]
+### [[06.1 Main Group I]]
 
-### [[02 Main Group II]]
+### [[06.2 Main Group II]]
 
-### [[03 Transition Metals]]
+### [[06.3 Transition Metals]]
 
-### [[04 Coordination Chemistry]]
+### [[06.4 Coordination Chemistry]]
 
-### [[05 Nuclear Chemistry]]
+### [[06.5 Nuclear Chemistry]]
