@@ -86,123 +86,98 @@ tags:
 #### #constant 
 
 ## [[02 Gases and Energy]]
-### [[State Of Matter]]
+### [[01 Gases]]
 
 #### #concept 
 
-- [[Solid]]
-- [[Liquid]]
-- [[Gas]]
-- [[Kinetic Molecular Theory]]
-- [[Pressure]]
-- [[Temperature]]
-- [[Ideal Gas]]
-- [[Real Gas]]
-
 #### #formula 
-
-- [[Ideal Gas Law]]
-- [[Boyle's Law]]
-- [[Charles' Law]]
-- [[Gay-Lussac's Law]]
-- [[Dalton's Law]]
 
 #### #constant 
 
-- [[Gas Constant]]
-- [[STP]]
 
-### [[Thermochemistry]]
+### [[02 Thermochemistry]]
 
 #### #concept 
 
-- [[System vs Surroundings]]
-- [[Endothermic Reaction]]
-- [[Exothermic Reaction]]
-- [[Enthalpy]]
-- [[Heat Capacity]]
-- [[Calorimetry]]
-- [[Bond Enthalpy]]
+
 
 #### #formula 
 
-- [[Heat Formula]]
-- [[Enthalpy Formula]]
-- [[Hess's Law]]
 
 #### #constant 
 
-- [[Specific Heat Capacities Table]]
-
-### [[Solutions]]
+## [[03 Atomic Structure and Bonding]]
+### [[01 Electrons in Atoms]]
 
 #### #concept 
 
-- [[Solution]]
-- [[Solvent]]
-- [[Solute]]
-- [[Electrolytes]]
-- [[Solubility]]
-- [[Saturation]]
-- [[Molarity]]
-- [[Dilution]]
 
 #### #constant 
 
-- [[Solubility Rules Table]]
 
-### [[Chemical Kinetics Intro]]
-
-#### #concept 
-
-- [[Reaction Rate]]
-- [[Reaction Order]]
-- [[Activation Energy]]
-- [[Catalysts]]
-- [[Collision Theory]]
-
-#### #formula 
-
-- [[Rate Law]]
-- [[Arrhenius Equation]]
-
-### [[Chemical Equilibrium]]
+### [[02 Periodic Trends]]
 
 #### #concept 
 
-- [[Dynamic Equilibrium]]
-- [[Equilibrium Pressure Constant]]
-- [[Equilibrium Concentration Constant]]
-- [[Le Chatelier's Principle]]
 
 #### #formula 
 
-- [[Relation Between Pressure and Concentration Constants]]
 
-### [[Acids and Bases]]
+### [[03 Bonding I]]
 
 #### #concept 
 
-- [[Acid]]
-- [[Base]]
-- [[Arrhenius Definition]]
-- [[Bronsted-Lowry Definition]]
-- [[Strong Acid]]
-- [[Weak Acid]]
-- [[Strong Base]]
-- [[Weak Base]]
-- [[Conjugate Pairs]]
-- [[pH Scale]]
-- [[Buffers]]
-- [[Acid Dissociation Constant]]
-- [[Base Dissociation Constant]]
 
 #### #formula 
 
-- [[pH Formula]]
-- [[Relation Between Ka and Kb]]
-- [[Henderson-Hasselbalch]]
+
+
+### [[04 Bonding II]]
+
+#### #concept 
+
+
+#### #formula 
+
 
 #### #constant 
 
-- [[Equilibrium Water Constant]]
+## [[04 Phases and Forces]]
+
+### [[01 Intermolecular Forces]]
+
+#### #concept 
+
+#### #formula 
+
+#### #constant 
+
+### [[02 Entropy and Gibbs Energy]]
+
+### [[03 Solutions]]
+
+## [[05 Equilibrium]]
+
+### [[01 Chemical Equilibrium]]
+
+### [[02 Acids and Bases]]
+
+### [[03 Acid-Base Equilibria]]
+
+### [[04 Solubility Equilibria]]
+
+### [[05 Electrochemistry]]
+
+### [[06 Kinetics]]
+
+## [[06 Descriptive Chemistry]]
+
+### [[01 Main Group I]]
+
+### [[02 Main Group II]]
+
+### [[03 Transition Metals]]
+
+### [[04 Coordination Chemistry]]
+
+### [[05 Nuclear Chemistry]]
