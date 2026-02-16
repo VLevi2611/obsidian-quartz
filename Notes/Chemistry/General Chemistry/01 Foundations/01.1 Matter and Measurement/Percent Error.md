@@ -11,4 +11,4 @@ A lower percent error indicates higher accuracy.
 
 ## #formula 
 
-$$\frac{|Experimental \,  \, Value - \, \, Actual \, \, Value|}{|Actual \, \, Value|} \times {100 \%}$$
+$$\frac{|\text{Experimental Value} -  \text{Actual Value}|}{|\text{Actual Value}|} \times {100 \%}$$

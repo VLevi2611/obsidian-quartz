@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-Intensive and extensive properties are types of physical properties.
+Intensive and extensive [[Property|Properties]] are types of [[Physical Properties]].
 
 An **Intensive** property does not depend on the amount of [[Matter]] present in a [[Substance]]. Melting point is an example of an intensive property.
 
