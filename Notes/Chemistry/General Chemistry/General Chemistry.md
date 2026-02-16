@@ -59,6 +59,12 @@ tags:
 - [[Atomic Number]]
 - [[Mass Number]]
 - [[Isotope]]
+- [[Atomic Mass]]
+- [[Mole]]
+- [[Molar Mass]]
+
+#### #constant 
+
 
 ### [[01.3 Chemical Compounds]]
 
@@ -177,4 +183,4 @@ tags:
 
 ### [[06.4 Coordination Chemistry]]
 
-### [[06.5 Nuclear Chemistry]]
+### [[06.5 Nuclear C

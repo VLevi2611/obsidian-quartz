@@ -6,9 +6,5 @@ tags:
 ---
 ## Definition
 
-## #formula 
-
-## Units
-
-## Notes
+The [[Mass]] of one [[Mole]] of [[Atom|Atoms]] is called the molar mass M.
 
