@@ -385,7 +385,6 @@
     },
     "Notes/Chemistry/General Chemistry/Atomic Structure": {
       "children": [
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Nucleus.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Structure.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Atom.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Molecule.md",
@@ -399,7 +398,9 @@
         "Notes/Chemistry/General Chemistry/Atomic Structure/Proton.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Neutron.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Electron.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Nucleus.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Number.md",
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Atomic Mass.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Mass Number.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Isotope.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Shells.md",
@@ -414,9 +415,7 @@
         "Notes/Chemistry/General Chemistry/Atomic Structure/Energy Of Photon.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Wavelength Frequency Formula.md",
         "Notes/Chemistry/General Chemistry/Atomic Structure/Planck Constant.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Charge.md",
-        "Notes/Chemistry/General Chemistry/Atomic Structure/Electron Mass.md"
+        "Notes/Chemistry/General Chemistry/Atomic Structure/Speed Of Light.md"
       ],
       "sortOrder": "custom"
     },
@@ -493,10 +492,7 @@
       "children": [
         "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Trends.md",
         "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Table Structure.md",
-        "Notes/Chemistry/General Chemistry/Periodic Trends/Groups vs Periods.md",
-        "Notes/Chemistry/General Chemistry/Periodic Trends/Metal.md",
-        "Notes/Chemistry/General Chemistry/Periodic Trends/Non-Metal.md",
-        "Notes/Chemistry/General Chemistry/Periodic Trends/Metalloid.md",
+        "Notes/Chemistry/General Chemistry/Periodic Trends/Periodic Table Groups.md",
         "Notes/Chemistry/General Chemistry/Periodic Trends/Ionic Radius.md",
         "Notes/Chemistry/General Chemistry/Periodic Trends/Ionization Energy.md",
         "Notes/Chemistry/General Chemistry/Periodic Trends/Electron Affinity.md",
