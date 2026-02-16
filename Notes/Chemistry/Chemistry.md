@@ -9,9 +9,11 @@ tags:
 
 ### [[General Chemistry]]
 
-#### #summary 
+### #summary 
 
-##### [[01 Matter and Measurement]]
+#### [[01 Foundations]]
+
+##### [[01.1 Matter and Measurement]]
 
 ###### #concept 
 
@@ -28,6 +30,7 @@ tags:
 - [[Accuracy vs Precision]]
 - [[Scientific Notation]]
 - [[SI Units]]
+- [[Time]]
 ###### #formula 
 
 - [[Percent Error]]
@@ -37,7 +40,7 @@ tags:
 
 - [[Metric Prefixes]]
 
-##### [[Atomic Structure]]
+##### [[01.2 Atomic Theory]]
 
 ###### #concept 
 
@@ -48,8 +51,6 @@ tags:
 - [[Dalton's Atomic Model]]
 - [[Thomson's Atomic Model]]
 - [[Rutherford's Atomic Model]]
-- [[Bohr's Atomic Model]]
-- [[Quantum Atomic Model]]
 - [[Proton]]
 - [[Neutron]]
 - [[Electron]]
@@ -57,215 +58,112 @@ tags:
 - [[Atomic Number]]
 - [[Mass Number]]
 - [[Isotope]]
-- [[Electron Shells]]
-- [[Subshells]]
-- [[Orbitals]]
-- [[Quantum Numbers]]
-- [[Electron Configuration]]
-- [[Aufbau Principle]]
-- [[Pauli Exclusion Principle]]
-- [[Hund's Rule]]
 
 ###### #formula 
 
 - [[Atomic Mass Formula]]
-- [[Energy Of Photon]]
-- [[Wavelength Frequency Formula]]
 
-###### #constant 
-
-- [[Planck Constant]]
-- [[Speed Of Light]]
-- [[Electron Charge]]
-- [[Electron Mass]]
-
-##### [[Periodic Trends]]
+##### [[01.3 Chemical Compounds]]
 
 ###### #concept 
 
-- [[Periodic Table Structure]]
-- [[Groups vs Periods]]
-- [[Metal]]
-- [[Non-Metal]]
-- [[Metalloid]]
-- [[Ionic Radius]]
-- [[Ionization Energy]]
-- [[Electron Affinity]]
-- [[Electronegativity]]
-- [[Shielding Effect]]
-
-###### #constant 
-
-- [[Pauling Electronegativity Scale]]
-
-##### [[Chemical Bonding]]
+##### [[01.4 Chemical Reactions]]
 
 ###### #concept 
 
-- [[Ionic Bond]]
-- [[Covalent Bond]]
-- [[Non-Polar Bond]]
-- [[Polar Bond]]
-- [[Lewis Structure]]
-- [[Chemical Resonance]]
-- [[VSEPR Theory]]
-- [[Molecular Geometry]]
-- [[Bond Order]]
-- [[Intermolecular Forces]]
-- [[Hydrogen Bond]]
-- [[Dipole-Dipole]]
-- [[London Dispersion]]
-
-###### #formula 
-
-- [[Formal Charge]]
-- [[Dipole Moment]]
-
-###### #constant 
-
-- [[Typical Bond Energy Table]]
-
-##### [[Stoichiometry]]
+##### [[01.5 Aqueous Reactions]]
 
 ###### #concept 
 
-- [[Mole]]
-- [[Molar Mass]]
-- [[Chemical Equations]]
-- [[Balancing Chemical Equations]]
-- [[Limiting Reagent]]
-- [[Theoretical Yield]]
-- [[Actual Yield]]
-- [[Empirical Formula]]
-- [[Molecular Formula]]
-
-###### #formula 
-
-- [[Mass Mole conversion]]
-- [[Precent Yield]]
-- [[Mole Ratios]]
-
-###### #constant 
-
-- [[Avogadro's Number]]
-
-##### [[State Of Matter]]
+#### [[02 Gases and Energy]]
+##### [[02.1 Gases]]
 
 ###### #concept 
 
-- [[Solid]]
-- [[Liquid]]
-- [[Gas]]
-- [[Kinetic Molecular Theory]]
-- [[Pressure]]
-- [[Temperature]]
-- [[Ideal Gas]]
-- [[Real Gas]]
-
-###### #formula 
-
-- [[Ideal Gas Law]]
-- [[Boyle's Law]]
-- [[Charles' Law]]
-- [[Gay-Lussac's Law]]
-- [[Dalton's Law]]
-
-###### #constant 
-
-- [[Gas Constant]]
-
-##### [[Thermochemistry]]
+##### [[02.2 Thermochemistry]]
 
 ###### #concept 
 
-- [[System vs Surroundings]]
-- [[Endothermic Reaction]]
-- [[Exothermic Reaction]]
-- [[Enthalpy]]
-- [[Heat Capacity]]
-- [[Calorimetry]]
-- [[Bond Enthalpy]]
-###### #formula 
 
-- [[Heat Formula]]
-- [[Enthalpy Formula]]
-- [[Hess's Law]]
+#### [[03 Atomic Structure and Bonding]]
 
-###### #constant 
-
-- [[Specific Heat Capacities Table]]
-
-##### [[Solutions]]
+##### [[03.1 Electrons in Atoms]]
 
 ###### #concept 
 
-- [[Solution]]
-- [[Solvent]]
-- [[Solute]]
-- [[Electrolytes]]
-- [[Solubility]][[Saturation]]
-- [[Molarity]]
-- [[Dilution]]
-
-###### #constant 
-
-- [[Solubility Rules Table]]
-
-##### [[Chemical Kinetics]]
+##### [[03.2 Periodic Trends]]
 
 ###### #concept 
 
-- [[Reaction Rate]]
-- [[Reaction Order]]
-- [[Activation Energy]]
-- [[Catalysts]]
-- [[Collision Theory]]
-
-###### #formula 
-
-- [[Rate Law]]
-- [[Arrhenius Equation]]
-
-##### [[Chemical Equilibrium]]
+##### [[03.3 Bonding I]]
 
 ###### #concept 
 
-- [[Dynamic Equilibrium]]
-- [[Equilibrium Pressure Constant]]
-- [[Equilibrium Concentration Constant]]
-- [[Le Chatelier's Principle]]
-
-###### #formula 
-
-- [[Relation Between Pressure and Concentration Constants]]
-
-##### [[Acids and Bases]]
+##### [[03.4 Bonding II]]
 
 ###### #concept 
 
-- [[Acid]]
-- [[Base]]
-- [[Arrhenius Definition]]
-- [[Bronsted-Lowry Definition]]
-- [[Strong Acid]]
-- [[Weak Acid]]
-- [[Strong Base]]
-- [[Weak Base]]
-- [[Conjugate Pairs]]
-- [[pH Scale]]
-- [[Buffers]]
-- [[Acid Dissociation Constant]]
-- [[Base Dissociation Constant]]
+#### [[04 Phases and Forces]]
 
-###### #formula 
+##### [[04.1 Intermolecular Forces]]
 
-- [[pH Formula]]
-- [[Relation Between Ka and Kb]]
-- [[Henderson-Hasselbalch]]
+###### #concept 
 
-###### #constant 
+##### [[04.2 Entropy and Gibbs Energy]]
 
-- [[Equilibrium Water Constant]]
+###### #concept 
+
+##### [[04.3 Solutions]]
+
+###### #concept 
+
+#### [[05 Equilibrium]]
+
+##### [[05.1 Chemical Equilibrium]]
+
+###### #concept 
+
+##### [[05.2 Acids and Bases]]
+
+###### #concept 
+
+##### [[05.3 Acid-Base Equilibria]]
+
+###### #concept 
+
+##### [[05.4 Solubility Equilibria]]
+
+###### #concept 
+
+##### [[05.5 Electrochemistry]]
+
+###### #concept 
+
+##### [[05.6 Kinetics]]
+
+###### #concept 
+
+#### [[06 Descriptive Chemistry]]
+
+##### [[06.1 Main Group I]]
+
+###### #concept 
+
+##### [[06.2 Main Group II]]
+
+###### #concept 
+
+##### [[06.3 Transition Metals]]
+
+###### #concept 
+
+##### [[06.4 Coordination Chemistry]]
+
+###### #concept 
+
+##### [[06.5 Nuclear Chemistry]]
+
+###### #concept 
 #### #problem 
 
 
