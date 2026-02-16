@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-## [[01 Matter and Measurement]]
+## [[01.1 Matter and Measurement]]
 
 ### #concept 
 
@@ -36,7 +36,7 @@ tags:
 
 ### #problem 
 
-## [[02 Atomic Theory]]
+## [[01.2 Atomic Theory]]
 
 ### #concept 
 
@@ -61,7 +61,7 @@ tags:
 
 ### #problem 
 
-## [[03 Chemical Compounds]]
+## [[01.3 Chemical Compounds]]
 
 ### #concept 
 
@@ -71,7 +71,7 @@ tags:
 
 ### #problem 
 
-## [[04 Chemical Reactions]]
+## [[01.4 Chemical Reactions]]
 
 ### #concept 
 
@@ -81,7 +81,7 @@ tags:
 
 ### #problem 
 
-## [[05 Aqueous Reactions]]
+## [[01.5 Aqueous Reactions]]
 
 ### #concept 
 

@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-## [[01 Gases]]
+## [[02.1 Gases]]
 
 ### #concept 
 
@@ -16,7 +16,7 @@ tags:
 
 ### #problem 
 
-## [[02 Thermochemistry]]
+## [[02.2 Thermochemistry]]
 
 ### #concept 
 

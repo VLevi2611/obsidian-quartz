@@ -10,7 +10,7 @@ tags:
 
 ## [[01 Foundations]]
 
-### [[01 Matter and Measurement]]
+### [[01.1 Matter and Measurement]]
 
 #### #concept 
 
@@ -40,7 +40,7 @@ tags:
 
 #### #problem 
 
-### [[02 Atomic Theory]]
+### [[01.2 Atomic Theory]]
 
 #### #constant 
 
@@ -63,13 +63,13 @@ tags:
 
 - [[Atomic Mass Formula]]
 
-### [[03 Chemical Compounds]]
+### [[01.3 Chemical Compounds]]
 
 #### #concept 
 
 #### #constant 
 
-### [[04 Chemical Reactions]]
+### [[01.4 Chemical Reactions]]
 
 #### #concept 
 
@@ -77,7 +77,7 @@ tags:
 
 #### #constant 
 
-### [[05 Aqueous Reactions]]
+### [[01.5 Aqueous Reactions]]
 
 #### #concept 
 
@@ -86,7 +86,7 @@ tags:
 #### #constant 
 
 ## [[02 Gases and Energy]]
-### [[01 Gases]]
+### [[02.1 Gases]]
 
 #### #concept 
 
@@ -95,7 +95,7 @@ tags:
 #### #constant 
 
 
-### [[02 Thermochemistry]]
+### [[02.2 Thermochemistry]]
 
 #### #concept 
 
@@ -107,7 +107,7 @@ tags:
 #### #constant 
 
 ## [[03 Atomic Structure and Bonding]]
-### [[01 Electrons in Atoms]]
+### [[03.1 Electrons in Atoms]]
 
 #### #concept 
 
@@ -115,7 +115,7 @@ tags:
 #### #constant 
 
 
-### [[02 Periodic Trends]]
+### [[03.2 Periodic Trends]]
 
 #### #concept 
 
@@ -123,7 +123,7 @@ tags:
 #### #formula 
 
 
-### [[03 Bonding I]]
+### [[03.3 Bonding I]]
 
 #### #concept 
 
@@ -132,7 +132,7 @@ tags:
 
 
 
-### [[04 Bonding II]]
+### [[03.4 Bonding II]]
 
 #### #concept 
 
@@ -144,7 +144,7 @@ tags:
 
 ## [[04 Phases and Forces]]
 
-### [[01 Intermolecular Forces]]
+### [[04.1 Intermolecular Forces]]
 
 #### #concept 
 

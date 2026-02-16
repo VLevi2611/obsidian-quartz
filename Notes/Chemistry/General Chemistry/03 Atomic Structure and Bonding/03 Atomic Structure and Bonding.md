@@ -3,7 +3,7 @@ tags: [summary]
 ---
 ## Overview 
 
-## [[01 Electrons in Atoms]]
+## [[03.1 Electrons in Atoms]]
 
 ### #concept 
 
@@ -13,7 +13,7 @@ tags: [summary]
 
 ### #problem 
 
-## [[02 Periodic Trends]]
+## [[03.2 Periodic Trends]]
 
 ### #concept 
 
@@ -23,7 +23,7 @@ tags: [summary]
 
 ### #problem 
 
-## [[03 Bonding I]]
+## [[03.3 Bonding I]]
 
 ### #concept 
 
@@ -33,7 +33,7 @@ tags: [summary]
 
 ### #problem 
 
-## [[04 Bonding II]]
+## [[03.4 Bonding II]]
 
 ### #concept 
 

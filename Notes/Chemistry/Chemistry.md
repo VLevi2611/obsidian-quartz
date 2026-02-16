@@ -13,7 +13,7 @@ tags:
 
 #### [[01 Foundations]]
 
-##### [[01 Matter and Measurement]]
+##### [[01.1 Matter and Measurement]]
 
 ###### #concept 
 
@@ -40,7 +40,7 @@ tags:
 
 - [[Metric Prefixes]]
 
-##### [[02 Atomic Theory]]
+##### [[01.2 Atomic Theory]]
 
 ###### #concept 
 
@@ -63,49 +63,49 @@ tags:
 
 - [[Atomic Mass Formula]]
 
-##### [[03 Chemical Compounds]]
+##### [[01.3 Chemical Compounds]]
 
 ###### #concept 
 
-##### [[04 Chemical Reactions]]
+##### [[01.4 Chemical Reactions]]
 
 ###### #concept 
 
-##### [[05 Aqueous Reactions]]
+##### [[01.5 Aqueous Reactions]]
 
 ###### #concept 
 
 #### [[02 Gases and Energy]]
-##### [[01 Gases]]
+##### [[02.1 Gases]]
 
 ###### #concept 
 
-##### [[02 Thermochemistry]]
+##### [[02.2 Thermochemistry]]
 
 ###### #concept 
 
 
 #### [[03 Atomic Structure and Bonding]]
 
-##### [[01 Electrons in Atoms]]
+##### [[03.1 Electrons in Atoms]]
 
 ###### #concept 
 
-##### [[02 Periodic Trends]]
+##### [[03.2 Periodic Trends]]
 
 ###### #concept 
 
-##### [[03 Bonding I]]
+##### [[03.3 Bonding I]]
 
 ###### #concept 
 
-##### [[04 Bonding II]]
+##### [[03.4 Bonding II]]
 
 ###### #concept 
 
 #### [[04 Phases and Forces]]
 
-##### [[01 Intermolecular Forces]]
+##### [[04.1 Intermolecular Forces]]
 
 ###### #concept 
 
@@ -163,6 +163,7 @@ tags:
 
 ##### [[05 Nuclear Chemistry]]
 
+###### #concept 
 #### #problem 
 
 
