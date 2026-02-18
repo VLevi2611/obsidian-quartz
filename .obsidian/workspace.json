@@ -257,6 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +342,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -397,13 +398,19 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "01354666a8200162",
+  "active": "6884b59c8d60c8d6",
   "lastOpenFiles": [
+    "Resources/Images/Chemical Formula of Water.png",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Formula.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Compound.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Empirical Formula.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Chemical Formula.md",
     "Notes/Chemistry/General Chemistry/Periodic Trends/Ionic Radius.md",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry/06.5 Nuclear Chemistry.md",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md",
@@ -434,12 +441,6 @@
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04 Phases and Forces.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/03.4 Bonding II.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/03.1 Electrons in Atoms.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/02.1 Gases.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02 Gases and Energy.md",
     "Resources/Images/Periodic Table.png",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
