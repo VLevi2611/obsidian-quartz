@@ -440,8 +440,8 @@
     "Notes/Chemistry/General Chemistry/02 Gases and Energy": {
       "children": [
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02 Gases and Energy.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases"
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry"
       ],
       "sortOrder": "custom"
     },
@@ -459,11 +459,11 @@
     },
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding": {
       "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md"
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II"
       ],
       "sortOrder": "custom"
     },
@@ -493,10 +493,10 @@
     },
     "Notes/Chemistry/General Chemistry/04 Phases and Forces": {
       "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04 Phases and Forces.md",
         "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces",
         "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04 Phases and Forces.md"
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions"
       ],
       "sortOrder": "custom"
     },
@@ -520,13 +520,13 @@
     },
     "Notes/Chemistry/General Chemistry/05 Equilibrium": {
       "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.5 Electrochemistry",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05 Equilibrium.md",
         "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium",
         "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05 Equilibrium.md"
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.5 Electrochemistry",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics"
       ],
       "sortOrder": "custom"
     },
@@ -568,12 +568,12 @@
     },
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II",
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md",
         "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md"
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II",
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals",
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry",
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry"
       ],
       "sortOrder": "custom"
     },
@@ -592,12 +592,6 @@
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals": {
       "children": [
         "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals/06.3 Transition Metals.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md"
       ],
       "sortOrder": "custom"
     },
@@ -1790,6 +1784,12 @@
         "Templates/Subject Template.md",
         "Templates/World Template.md",
         "Templates/Summary Template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md"
       ],
       "sortOrder": "custom"
     }
