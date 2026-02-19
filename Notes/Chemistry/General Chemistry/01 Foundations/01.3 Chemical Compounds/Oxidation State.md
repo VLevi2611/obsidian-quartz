@@ -6,7 +6,11 @@ tags:
 ---
 ## Definition
 
-**Oxidation state** is the state of charge, which is related to the number of [[Electron|Electrons]] that an [[Atom]] loses/gains when joining with other atoms in [[Compound|Compounds]]. If we take the total of the oxidation states of all the [[Ion|Ions]] in a [[Molecular Formula]] is equal to zero. 
-In $\ce{MgCl_2}$ for example, an $\ce{Mg}$ atom loses 2 electrons to become $\ce{Mg^2+}$ , and each $\ce{Cl}$ atom gains one electron to become $\ce{Cl-}$. The total oxidation state is $+2 \,,$ 
+**Oxidation state** is the state of charge, which is related to the number of [[Electron|Electrons]] that an [[Atom]] loses/gains when joining with other atoms in [[Compound|Compounds]]. Some rules for assigning oxidation states:
 
+1. The oxidation state of an individual atom in a free [[Element]] is 0.
+2. The sum of the oxidation state of all atoms in a [[Molecule]] is 0.
+3. The sum of the oxidation state of all atoms in an [[Ion]] is equal to the charge on the ion.
+4. In their compounds, the group 1 metals have an oxidation state of $+ 1$ and the group 2 metals have $+ 2$. 
+5. In its compounds, The oxidation stat
 
