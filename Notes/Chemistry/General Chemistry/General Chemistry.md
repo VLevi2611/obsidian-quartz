@@ -60,6 +60,7 @@ tags:
 - [[Mass Number]]
 - [[Isotope]]
 - [[Atomic Mass]]
+- [[Molecular Mass]]
 - [[Mole]]
 - [[Molar Mass]]
 
@@ -71,7 +72,14 @@ tags:
 
 #### #concept 
 
-#### #constant 
+- [[Molecular Compound]]
+- [[Chemical Formula]]
+- [[Empirical Formula]]
+- [[Molecular Formula]]
+- [[Structural Formula]]
+- [[Ionic Compound]]
+- [[Cation]]
+- [[Anion]]
 
 ### [[01.4 Chemical Reactions]]
 

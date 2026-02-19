@@ -56,6 +56,7 @@ tags:
 - [[Mass Number]]
 - [[Isotope]]
 - [[Atomic Mass]]
+- [[Molecular Mass]]
 - [[Mole]]
 - [[Molar Mass]]
 
@@ -72,10 +73,11 @@ tags:
 - [[Molecular Compound]]
 - [[Chemical Formula]]
 - [[Empirical Formula]]
-
-### #formula 
-
-### #constant 
+- [[Molecular Formula]]
+- [[Structural Formula]]
+- [[Ionic Compound]]
+- [[Cation]]
+- [[Anion]]
 
 ### #problem 
 
