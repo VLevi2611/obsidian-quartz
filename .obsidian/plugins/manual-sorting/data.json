@@ -360,68 +360,68 @@
         "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Time.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/01.1 Matter and Measurement.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Matter.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Composition.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Substance.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Scientific Notation.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/SI Units.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Mixture.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Element.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Compound.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Property.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Physical Properties.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Percent Error.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Mixture.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Metric Prefixes.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Matter.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Intensive vs Extensive Properties.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Element.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Density.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Chemical Properties.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Compound.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Composition.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Intensive vs Extensive Properties.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Accuracy vs Precision.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/01.1 Matter and Measurement.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Scientific Notation.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/SI Units.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Time.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Percent Error.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Density.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Metric Prefixes.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory": {
       "children": [
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/01.2 Atomic Theory.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Atom.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molecule.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Conservation Of Mass.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Constant Composition Law.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Dalton's Atomic Model.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Thomson's Atomic Model.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Rutherford's Atomic Model.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Proton.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Nucleus.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Neutron.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molecule.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Mole.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molar Mass.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Electron.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Nucleus.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Ion.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Atomic Number.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Mass Number.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Isotope.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Ion.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Electron.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Dalton's Atomic Model.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Constant Composition Law.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Conservation Of Mass.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Atomic Number.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Avogadro's Number.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Atomic Mass.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Atom.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/01.2 Atomic Theory.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Mole.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molar Mass.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Avogadro's Number.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds": {
       "children": [
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/01.3 Chemical Compounds.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Formula.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Compound.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Empirical Formula.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Chemical Formula.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/01.3 Chemical Compounds.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Chemical Formula.md"
       ],
       "sortOrder": "custom"
     },
@@ -1794,7 +1794,7 @@
       "sortOrder": "custom"
     }
   },
-  "sortOrder": "byCreatedTimeReverse",
+  "sortOrder": "custom",
   "debugMode": false,
   "newItemPlacement": "top"
 }

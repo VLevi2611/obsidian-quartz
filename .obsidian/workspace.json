@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01 Foundations"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -402,13 +402,15 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "01354666a8200162",
+  "active": "6884b59c8d60c8d6",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Chemical Properties.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md",
@@ -438,14 +440,12 @@
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.5 Electrochemistry",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05 Equilibrium.md",
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/04.3 Solutions.md",
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/04.1 Intermolecular Forces.md",
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04 Phases and Forces.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
     "Resources/Images/Periodic Table.png",
     "Resources/Images/ActionPotentialDiagram.png",
     "Resources/Images/Biomedical Engineering Map.png",
