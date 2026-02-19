@@ -345,13 +345,13 @@
     },
     "Notes/Chemistry/General Chemistry": {
       "children": [
+        "Notes/Chemistry/General Chemistry/General Chemistry.md",
         "Notes/Chemistry/General Chemistry/01 Foundations",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding",
         "Notes/Chemistry/General Chemistry/04 Phases and Forces",
         "Notes/Chemistry/General Chemistry/05 Equilibrium",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry",
-        "Notes/Chemistry/General Chemistry/General Chemistry.md"
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry"
       ],
       "sortOrder": "custom"
     },
@@ -592,6 +592,12 @@
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals": {
       "children": [
         "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals/06.3 Transition Metals.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md"
       ],
       "sortOrder": "custom"
     },
@@ -1784,12 +1790,6 @@
         "Templates/Subject Template.md",
         "Templates/World Template.md",
         "Templates/Summary Template.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md"
       ],
       "sortOrder": "custom"
     }

@@ -794,6 +794,48 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/05 Equilibrium/05 Equilibrium.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry/06.5 Nuclear Chemistry.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals/06.3 Transition Metals.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II/06.2 Main Group II.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I/06.1 Main Group I.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
