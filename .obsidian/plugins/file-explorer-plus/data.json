@@ -626,6 +626,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/Chemistry.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
