@@ -417,11 +417,11 @@
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds": {
       "children": [
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/01.3 Chemical Compounds.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Formula.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Compound.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Chemical Formula.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Empirical Formula.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Chemical Formula.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Formula.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md"
       ],
       "sortOrder": "custom"
     },

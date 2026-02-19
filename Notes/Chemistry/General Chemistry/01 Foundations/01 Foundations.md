@@ -69,6 +69,10 @@ tags:
 
 ### #concept 
 
+- [[Molecular Compound]]
+- [[Chemical Formula]]
+- [[Empirical Formula]]
+
 ### #formula 
 
 ### #constant 
