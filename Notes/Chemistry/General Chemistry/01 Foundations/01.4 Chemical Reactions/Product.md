@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-In 
+In chemistry, a **product** is the specie formed from a [[Chemical Reaction]].
 
