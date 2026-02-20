@@ -55,13 +55,18 @@ tags:
 - [[Neutron]]
 - [[Electron]]
 - [[Nucleus]]
+- [[Ion]]
 - [[Atomic Number]]
 - [[Mass Number]]
 - [[Isotope]]
+- [[Atomic Mass]]
+- [[Molecular Mass]]
+- [[Mole]]
+- [[Molar Mass]]
 
-###### #formula 
+###### #constant 
 
-- [[Atomic Mass Formula]]
+- [[Avogadro's Number]]
 
 ##### [[01.3 Chemical Compounds]]
 
