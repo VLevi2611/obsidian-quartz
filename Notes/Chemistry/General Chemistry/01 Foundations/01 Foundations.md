@@ -87,9 +87,12 @@ tags:
 
 ### #concept 
 
-### #formula 
-
-### #constant 
+- [[Chemical Reaction]]
+- [[Reagent]]
+- [[Product]]
+- [[Chemical Equation]]
+- [[Stoichiometry]]
+- [[Stoichiometric Coefficients]]
 
 ### #problem 
 
