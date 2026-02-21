@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **by product** is the unintended [[Product]] of side [[Chemical Reaction|Reactions]]
+A **by product** is the unintended [[Product]] of side [[Chemical Reaction|Reactions]].
 
