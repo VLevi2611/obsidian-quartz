@@ -836,6 +836,13 @@
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/01.2 Atomic Theory.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

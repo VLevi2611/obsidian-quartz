@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of 01 Foundations"
             }
           }
         ]
@@ -402,13 +402,14 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6884b59c8d60c8d6",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Stoichiometry.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Stoichiometric Coefficients.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Reagent.md",
@@ -422,7 +423,6 @@
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Anion.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molecular Mass.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Chemical Properties.md",
     "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md",
@@ -441,7 +441,6 @@
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I",
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria",

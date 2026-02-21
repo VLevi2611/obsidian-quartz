@@ -408,6 +408,7 @@
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Mass Number.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Isotope.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Atomic Mass.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molecular Mass.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Mole.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molar Mass.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Avogadro's Number.md"
@@ -421,12 +422,23 @@
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Chemical Formula.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Empirical Formula.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Molecular Formula.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Structural Formula.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Ionic Compound.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Cation.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Oxidation State.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Combustion.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Anion.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions": {
       "children": [
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Stoichiometry.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Stoichiometric Coefficients.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Reagent.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Product.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Chemical Reaction.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Chemical Equation.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/01.4 Chemical Reactions.md"
       ],
       "sortOrder": "custom"
