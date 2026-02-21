@@ -15,5 +15,5 @@ $$c = \frac{n}{V}$$
 | :----: | ---------------- | ------------------------ |
 |  $c$   | [[Molarity]]     | $(\frac{\text{mol}}{L})$ |
 |  $n$   | amount of solute | $(\text{mol})$           |
-|  $V$   | [[Volume]]       |                          |
+|  $V$   | [[Volume]]       | $(L)$                    |
 
