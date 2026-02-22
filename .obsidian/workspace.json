@@ -11,14 +11,10 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 Foundations"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -261,7 +257,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +341,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01 Foundations"
+              "title": "Graph view"
             }
           }
         ]
@@ -402,15 +397,18 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Theoretical Yield.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Solvent.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Solution.md",
@@ -433,8 +431,6 @@
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Ionic Compound.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Combustion.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Cation.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Anion.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molecular Mass.md",
     "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry",
