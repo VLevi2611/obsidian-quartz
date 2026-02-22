@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Aqueous Solution.md",
+                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Electrolytes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aqueous Solution"
+              "title": "Electrolytes"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Electrolytes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,12 +341,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6203638438348564,
+                  "scale": 0.903485961302095,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of Electrolytes"
             }
           }
         ]
@@ -402,15 +402,18 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6884b59c8d60c8d6",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Nonelectrolytes.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Aqueous Solution.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Electrolytes.md",
     "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
@@ -433,8 +436,6 @@
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Product.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Chemical Reaction.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Chemical Equation.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Oxidation State.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Ionic Compound.md",
     "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry",

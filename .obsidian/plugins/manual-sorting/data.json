@@ -457,7 +457,8 @@
     },
     "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Aqueous Solution.md"
       ],
       "sortOrder": "custom"
     },
