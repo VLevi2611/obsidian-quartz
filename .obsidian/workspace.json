@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 01 Foundations"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -402,13 +402,14 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "ba613edb91774786",
+  "active": "6884b59c8d60c8d6",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Theoretical Yield.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Solvent.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Solution.md",
@@ -434,7 +435,6 @@
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Cation.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Anion.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Molecular Mass.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Chemical Properties.md",
     "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry",

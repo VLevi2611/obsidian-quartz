@@ -435,11 +435,23 @@
       "children": [
         "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Chemical Reaction.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Chemical Equation.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Reagent.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Product.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Chemical Equation.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Stoichiometry.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Stoichiometric Coefficients.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Stoichiometric Coefficients.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Solution.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Solvent.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Solute.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Molarity.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Limiting Reagent.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Theoretical Yield.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Actual Yield.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Percent Yield.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/By Product.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Consecutive Reactions.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Simultaneous Reactions.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/Overall Reaction.md"
       ],
       "sortOrder": "custom"
     },
