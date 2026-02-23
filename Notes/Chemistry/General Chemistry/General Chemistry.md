@@ -112,7 +112,17 @@ tags:
 
 #### #concept 
 
-#### #formula 
+- [[Aqueous Solution]]
+- [[Electrolytes]]
+- [[Nonelectrolytes]]
+- [[Strong Electrolyte]]
+- [[Weak Electrolyte]]
+- [[Dissociation]]
+- [[Ionization]]
+- [[Precipitate]]
+- [[Acid]]
+- [[Strong Acid]]
+- [[Weak Acid]]
 
 #### #constant 
 
