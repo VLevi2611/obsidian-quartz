@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-**Oxidation** is a process in which the [[Oxidation State]] of some [[Element]] increases.
+**Oxidation** is a process in which the [[Oxidation State]] of some [[Element]] increases by a loss of [[Electron|Electrons]].
 
