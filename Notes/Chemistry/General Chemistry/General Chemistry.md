@@ -51,7 +51,7 @@ tags:
 - [[Dalton's Atomic Model]]
 - [[Thomson's Atomic Model]]
 - [[Rutherford's Atomic Model]]
-- [[Proton]]
+- [[toolbox file/Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Proton]]
 - [[Neutron]]
 - [[Electron]]
 - [[Nucleus]]
