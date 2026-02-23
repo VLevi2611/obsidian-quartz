@@ -16,4 +16,7 @@ $$P(Pa) = \frac{F(N)}{A(m^2)}$$
 |  $F$   | [[Force]]    | $(N)$   |
 |   A    | Area         | $(m^2)$ |
 
-Because it is difficult to measure the total force of a gas, it is measured indirectly, by comparing it with a [[Liquid]] pressure. Consider a 
+Because it is difficult to measure the total force of a gas, it is measured indirectly, by comparing it with a [[Liquid]] pressure. Consider a liquid with [[Density]] $d$, contained in a cylinder with cross sectional area $A$ filled to a height $h$.
+
+$$P = \frac{F}{A} = \frac{W}{A} = \frac{gm}{A}$$
+The [[Mass]] of a liquid is the product of its [[Volume]] 
