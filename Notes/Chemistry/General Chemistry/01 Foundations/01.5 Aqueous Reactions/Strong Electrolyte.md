@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **strong electrolyte** is a [[Substance]] that is completely ionized in [[Aqueous Solution]]. All of the dissolved [[Solute]] exists as [[Ion|Ions]].
+A **strong electrolyte** is a [[Substance]] that is completely [[Ionization|Ionized]] in [[Aqueous Solution]]. All of the dissolved [[Solute]] exists as [[Ion|Ions]].
 
