@@ -13,4 +13,7 @@ Here is a list of Strong bases:
 - $\ce{KOH}$
 - $\ce{RbOH}$
 - $\ce{CsOH}$
-- $\ce{Mg(OH)2$
+- $\ce{Mg(OH)2}$
+- $\ce{Ca(OH)2}$
+- $\ce{Sr(OH)2}$
+- $\ce{Ba(OH)2}$ 
