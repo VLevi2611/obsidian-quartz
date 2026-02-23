@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-Some metal salts, are quite soluble in water. Precipitation reactions occur when [[]]
+Some metal salts, are quite soluble in water. Precipitation reactions occur when [[Cation|Cations]] and [[Anion|Anions]] combine to [[Product|Produce]] an insoluble Ionic solid called a **precipitate**.
 
