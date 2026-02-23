@@ -20,9 +20,12 @@ $$P = \frac{gm}{A} = \frac{gVd}{A} = \frac{ghAd}{A} = ghd$$
 
 ## Variables
 
-| Symbol | Meaning      | Units   |
-| :----: | ------------ | ------- |
-|  $P$   | [[Pressure]] | $(Pa)$  |
-|  $F$   | [[Force]]    | $(N)$   |
-|   A    | Area         | $(m^2)$ |
-|   $$   |              |         |
+| Symbol | Meaning                    | Units              |
+| :----: | -------------------------- | ------------------ |
+|  $P$   | [[Pressure]]               | $(Pa)$             |
+|  $F$   | [[Force]]                  | $(N)$              |
+|   A    | Area                       | $(m^2)$            |
+|  $h$   | Height                     | $(m)$              |
+|  $d$   | [[Density]]                | $(\frac{kg}{m^3})$ |
+|  $g$   | [[Gravitational Constant]] | $(\frac{m}{s^2})$  |
+![[Pressure Units.png]]
