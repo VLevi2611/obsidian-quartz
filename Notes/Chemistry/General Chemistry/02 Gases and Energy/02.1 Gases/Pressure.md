@@ -3,6 +3,7 @@ tags:
   - concept
   - chemistry
   - general-chemistry
+  - physics
 ---
 ## Definition
 
