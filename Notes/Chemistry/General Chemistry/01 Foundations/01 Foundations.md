@@ -47,7 +47,7 @@ tags:
 - [[Dalton's Atomic Model]]
 - [[Thomson's Atomic Model]]
 - [[Rutherford's Atomic Model]]
-- [[toolbox file/Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Proton]]
+- [[Proton]]
 - [[Neutron]]
 - [[Electron]]
 - [[Nucleus]]
@@ -123,5 +123,12 @@ tags:
 - [[Acid]]
 - [[Strong Acid]]
 - [[Weak Acid]]
+- [[Proton Donor]]
+- [[Proton Acceptor]]
+- [[Base]]
+- [[Strong Base]]
+- [[Weak Base]]
+- [[Neutralization Reaction]]
+- [[Salt]]
 
 ### #problem 
