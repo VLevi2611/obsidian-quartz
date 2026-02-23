@@ -7,4 +7,5 @@ tags:
 ## Definition
 
 A **solute** is a component of a [[Solution]], that dissolved in the [[Solvent]].
+![[Solute types.png]]
 

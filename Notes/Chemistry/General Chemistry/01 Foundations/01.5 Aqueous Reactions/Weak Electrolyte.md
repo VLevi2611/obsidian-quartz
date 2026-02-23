@@ -6,5 +6,4 @@ tags:
 ---
 ## Definition
 
-A **weak electrolyte** is only partially ionized in [[Aqueous Solution]]. Only some of the dissolved [[Solute]]
-
+A **weak electrolyte** is only partially ionized in [[Aqueous Solution]]. Only some of the dissolved [[Solute]] is converted into [[Ion|Ions]].
