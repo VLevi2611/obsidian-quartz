@@ -148,7 +148,7 @@ tags:
 - [[Non Square Matrices]]
 - [[Change Of Basis]]
 
-##### [[Eigenvalues and Eigenvectors]]
+##### [[07 Eigenvalues and Eigenvectors]]
 
 ###### #concept 
 
@@ -159,7 +159,7 @@ tags:
 - [[Trace]]
 - [[Determinant And Eigenvalues]]
 
-##### [[Diagonalization]]
+##### [[08 Diagonalization]]
 
 ###### #concept 
 

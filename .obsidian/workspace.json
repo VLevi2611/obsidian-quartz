@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Math/Linear Algebra/05 Vector Spaces/Vector Space.md",
+                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vector Space"
+              "title": "Linear Algebra"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Math/Linear Algebra/05 Vector Spaces/Vector Space.md",
+                "file": "Notes/Math/Linear Algebra/Linear Algebra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Vector Space"
+              "title": "Graph of Linear Algebra"
             }
           }
         ]
@@ -408,10 +408,14 @@
       }
     ]
   },
-  "active": "ba613edb91774786",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Math/Linear Algebra/05 Vector Spaces/05 Vector Spaces.md",
+    "Notes/Math/Linear Algebra/08 Diagonalization/08 Diagonalization.md",
+    "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/07 Eigenvalues and Eigenvectors.md",
+    "Notes/Math/Linear Algebra/06 Linear Transformations/06 Linear Transformations.md",
+    "Notes/Math/Linear Algebra/06 Linear Transformations/Linear Transformation.md",
     "Notes/Math/Linear Algebra/05 Vector Spaces/Vector Space.md",
+    "Notes/Math/Linear Algebra/05 Vector Spaces/05 Vector Spaces.md",
     "Notes/Math/Linear Algebra/04 Basis and Dimension/04 Basis and Dimension.md",
     "Notes/Math/Linear Algebra/02 Vectors/02 Vectors.md",
     "Notes/Math/Linear Algebra/01 Linear Systems/01 Linear systems.md",
@@ -433,11 +437,7 @@
     "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/01.3 Chemical Compounds.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Combustion.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Oxidation State.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
     "Resources/Images/Pressure Units.png",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/STP.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Pressure.md",
     "Resources/Images/Solute types.png",
     "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry",

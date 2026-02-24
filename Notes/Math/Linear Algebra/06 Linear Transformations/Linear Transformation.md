@@ -1,6 +1,6 @@
 ---
 tags:
-  - summary
+  - concept
   - math
   - linear-algebra
 ---
@@ -13,11 +13,3 @@ Let $V,W$ be [[Vector Space]]s over the same [[Field]] $K$. A function $f: V \ri
 2. [[Scalar Multiplication]] $$f(c\mathbf{u})=cf(\mathbf{u})$$
 Applying 2 consecutive [[Linear Transformation]] is represented by [[Matrix Multiplication]] ($\mathbf{AB})$, where the transformation represented by $\mathbf{B}$ first, then $\mathbf{A}$.
 
-## #concept 
-
-- [[Geometric Properties Of Linear Transformations]]
-- [[Matrix Representation]]
-- [[Non Square Matrices]]
-- [[Change Of Basis]]
-
-## #problem 

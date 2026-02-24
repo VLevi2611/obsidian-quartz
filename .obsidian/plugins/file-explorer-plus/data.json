@@ -260,21 +260,14 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
+        "pattern": "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/07 Eigenvalues and Eigenvectors.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
+        "pattern": "Notes/Math/Linear Algebra/08 Diagonalization/08 Diagonalization.md",
         "patternType": "STRICT"
       },
       {
@@ -835,6 +828,13 @@
         "active": true,
         "type": "FILES",
         "pattern": "Notes/Math/Linear Algebra/05 Vector Spaces/05 Vector Spaces.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/06 Linear Transformations/06 Linear Transformations.md",
         "patternType": "STRICT"
       }
     ],
