@@ -135,7 +135,7 @@ tags:
 - [[Reduction]]
 - [[Oxidant]]
 - [[Reductant]]
-- [[Indicator]]]]
+- [[Indicator]]
 
 #### #constant 
 

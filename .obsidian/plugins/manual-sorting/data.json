@@ -495,18 +495,18 @@
     },
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases": {
       "children": [
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/STP.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Pressure.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Kinetic Molecular Theory of Gases.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas Equation.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/General Gas Equation.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/02.1 Gases.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas Constant.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Charles's Law.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Pressure.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Boyle's Law.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Charles's Law.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/STP.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Avogadro's Law.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/02.1 Gases.md"
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas Equation.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas Constant.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/General Gas Equation.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Kinetic Molecular Theory of Gases.md"
       ],
       "sortOrder": "custom"
     },

@@ -127,7 +127,7 @@ tags:
 - [[Weak Base]]
 - [[Neutralization Reaction]]
 - [[Salt]]
-- [[Oxidation State]]
+- [[Oxidation Reduction]]
 - [[Oxidation]]
 - [[Reduction]]
 - [[Oxidant]]
