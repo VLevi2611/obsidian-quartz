@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.5 Aqueous Reactions"
+              "title": "General Chemistry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of General Chemistry"
             }
           }
         ]
@@ -402,14 +402,19 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "6884b59c8d60c8d6",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/01.3 Chemical Compounds.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Combustion.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/Oxidation State.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Resources/Images/Pressure Units.png",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/STP.md",
@@ -433,11 +438,6 @@
     "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Weak Electrolyte.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Weak Base.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Weak Acid.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Strong Electrolyte.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Strong Base.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Strong Acid.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Salt.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Proton Donor.md",
     "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry",

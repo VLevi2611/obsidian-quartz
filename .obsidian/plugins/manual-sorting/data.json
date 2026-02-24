@@ -460,7 +460,28 @@
         "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Aqueous Solution.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Electrolytes.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Nonelectrolytes.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Nonelectrolytes.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Strong Electrolyte.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Weak Electrolyte.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Dissociation.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Ionization.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Precipitate.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Acid.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Strong Acid.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Weak Acid.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Proton Donor.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Proton Acceptor.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Base.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Strong Base.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Weak Base.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Neutralization Reaction.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Salt.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Oxidation Reduction.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Oxidation.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Reduction.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Oxidant.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Reductant.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/Indicator.md"
       ],
       "sortOrder": "custom"
     },
@@ -474,6 +495,17 @@
     },
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases": {
       "children": [
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/STP.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Pressure.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Kinetic Molecular Theory of Gases.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas Equation.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/General Gas Equation.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas Constant.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Charles's Law.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Boyle's Law.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Avogadro's Law.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/02.1 Gases.md"
       ],
       "sortOrder": "custom"
@@ -1565,7 +1597,6 @@
       "children": [
         "Notes/Physics/Fluid Mechanics/Fluid Mechanics.md",
         "Notes/Physics/Fluid Mechanics/Fluid Properties",
-        "Notes/Physics/Fluid Mechanics/Pressure",
         "Notes/Physics/Fluid Mechanics/Hydrostatics",
         "Notes/Physics/Fluid Mechanics/Bernoulli",
         "Notes/Physics/Fluid Mechanics/Continuity",
@@ -1601,12 +1632,6 @@
     "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows": {
       "children": [
         "Notes/Physics/Fluid Mechanics/Laminar and Turbulent Flows/Laminar and Turbulent Flows.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Physics/Fluid Mechanics/Pressure": {
-      "children": [
-        "Notes/Physics/Fluid Mechanics/Pressure/Pressure.md"
       ],
       "sortOrder": "custom"
     },
@@ -1799,11 +1824,12 @@
     },
     "Resources/Images": {
       "children": [
+        "Resources/Images/Pressure Units.png",
+        "Resources/Images/Solute types.png",
         "Resources/Images/Chemical Formula of Water.png",
         "Resources/Images/Periodic Table.png",
         "Resources/Images/ActionPotentialDiagram.png",
-        "Resources/Images/Biomedical Engineering Map.png",
-        "Resources/Images/Welcome please seat yourself.md"
+        "Resources/Images/Biomedical Engineering Map.png"
       ],
       "sortOrder": "custom"
     },
