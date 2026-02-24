@@ -239,28 +239,21 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
+        "pattern": "Notes/Math/General Math Terms/03 Set Symbols/03 Set Symbols.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/General Math Terms/Intervals/Interval.md",
+        "pattern": "Notes/Math/General Math Terms/02 Intervals/02 Intervals.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Vectors/Vector.md",
+        "pattern": "Notes/Math/General Math Terms/01 Math Symbols/01 Math Symbols.md",
         "patternType": "STRICT"
       },
       {
@@ -288,7 +281,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
+        "pattern": "Notes/Math/Linear Algebra/Linear Systems/01 Linear Systems.md",
         "patternType": "STRICT"
       },
       {

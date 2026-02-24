@@ -11,7 +11,7 @@ tags:
 
 #### #summary 
 
-##### [[Math Symbols]] 
+##### [[01 Math Symbols]] 
 
 ###### #concept 
 
@@ -41,7 +41,7 @@ tags:
 - [[If and Only If]]
 - [[Implication]]
 
-##### [[Interval]]
+##### [[02 Intervals]]
 
 ###### #concept 
 
@@ -57,7 +57,7 @@ tags:
 - [[Closed Ray]]
 - [[Open Ray]]
 
-##### [[Set Symbols]]
+##### [[03 Set Symbols]]
 
 ###### #concept 
 
@@ -80,7 +80,7 @@ tags:
 
 #### #summary 
 
-##### [[Linear Systems]]
+##### [[01 Linear Systems]]
 
 ###### #concept 
 

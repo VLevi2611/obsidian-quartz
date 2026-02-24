@@ -1,6 +1,6 @@
 ---
 tags:
-  - summary
+  - concept
   - math
   - linear-algebra
 ---
