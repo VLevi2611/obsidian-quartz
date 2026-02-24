@@ -8,7 +8,7 @@ tags:
 
 ## #summary 
 
-### [[01 Linear Systems]]
+### [[Linear System]]
 
 #### #concept 
 

@@ -957,72 +957,72 @@
     "Notes/Math/General Math Terms": {
       "children": [
         "Notes/Math/General Math Terms/General Math Terms.md",
-        "Notes/Math/General Math Terms/Math Symbols",
-        "Notes/Math/General Math Terms/Intervals",
-        "Notes/Math/General Math Terms/Set Symbols"
+        "Notes/Math/General Math Terms/01 Math Symbols",
+        "Notes/Math/General Math Terms/02 Intervals",
+        "Notes/Math/General Math Terms/03 Set Symbols"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/General Math Terms/Intervals": {
+    "Notes/Math/General Math Terms/01 Math Symbols": {
       "children": [
-        "Notes/Math/General Math Terms/Intervals/Interval.md",
-        "Notes/Math/General Math Terms/Intervals/Lower Bound.md",
-        "Notes/Math/General Math Terms/Intervals/Upper Bound.md",
-        "Notes/Math/General Math Terms/Intervals/Infimum.md",
-        "Notes/Math/General Math Terms/Intervals/Supremum.md",
-        "Notes/Math/General Math Terms/Intervals/Minimum.md",
-        "Notes/Math/General Math Terms/Intervals/Maximum.md",
-        "Notes/Math/General Math Terms/Intervals/Closed Interval.md",
-        "Notes/Math/General Math Terms/Intervals/Open Interval.md",
-        "Notes/Math/General Math Terms/Intervals/Half Open Interval.md",
-        "Notes/Math/General Math Terms/Intervals/Closed Ray.md",
-        "Notes/Math/General Math Terms/Intervals/Open Ray.md"
+        "Notes/Math/General Math Terms/01 Math Symbols/01 Math Symbols.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Scalar.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Addition.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Subtraction.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Multiplication.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Division.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Absolute Value.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Field.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Closure Of Addition.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Associativity Of Addition.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Commutativity Of Addition.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Additive Identity.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Additive Inverse.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Closure Of Multiplication.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Associativity Of Multiplication.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Commutativity Of Multiplication.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Multiplicative Identity.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Multiplicative Inverse.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Distributivity.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Exists.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/For All.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/If and Only If.md",
+        "Notes/Math/General Math Terms/01 Math Symbols/Implication.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/General Math Terms/Math Symbols": {
+    "Notes/Math/General Math Terms/02 Intervals": {
       "children": [
-        "Notes/Math/General Math Terms/Math Symbols/Math Symbols.md",
-        "Notes/Math/General Math Terms/Math Symbols/Scalar.md",
-        "Notes/Math/General Math Terms/Math Symbols/Addition.md",
-        "Notes/Math/General Math Terms/Math Symbols/Subtraction.md",
-        "Notes/Math/General Math Terms/Math Symbols/Multiplication.md",
-        "Notes/Math/General Math Terms/Math Symbols/Division.md",
-        "Notes/Math/General Math Terms/Math Symbols/Absolute Value.md",
-        "Notes/Math/General Math Terms/Math Symbols/Field.md",
-        "Notes/Math/General Math Terms/Math Symbols/Closure Of Addition.md",
-        "Notes/Math/General Math Terms/Math Symbols/Associativity Of Addition.md",
-        "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Addition.md",
-        "Notes/Math/General Math Terms/Math Symbols/Additive Identity.md",
-        "Notes/Math/General Math Terms/Math Symbols/Additive Inverse.md",
-        "Notes/Math/General Math Terms/Math Symbols/Closure Of Multiplication.md",
-        "Notes/Math/General Math Terms/Math Symbols/Associativity Of Multiplication.md",
-        "Notes/Math/General Math Terms/Math Symbols/Commutativity Of Multiplication.md",
-        "Notes/Math/General Math Terms/Math Symbols/Multiplicative Identity.md",
-        "Notes/Math/General Math Terms/Math Symbols/Multiplicative Inverse.md",
-        "Notes/Math/General Math Terms/Math Symbols/Distributivity.md",
-        "Notes/Math/General Math Terms/Math Symbols/Exists.md",
-        "Notes/Math/General Math Terms/Math Symbols/For All.md",
-        "Notes/Math/General Math Terms/Math Symbols/If and Only If.md",
-        "Notes/Math/General Math Terms/Math Symbols/Implication.md"
+        "Notes/Math/General Math Terms/02 Intervals/02 Intervals.md",
+        "Notes/Math/General Math Terms/02 Intervals/Lower Bound.md",
+        "Notes/Math/General Math Terms/02 Intervals/Upper Bound.md",
+        "Notes/Math/General Math Terms/02 Intervals/Infimum.md",
+        "Notes/Math/General Math Terms/02 Intervals/Supremum.md",
+        "Notes/Math/General Math Terms/02 Intervals/Minimum.md",
+        "Notes/Math/General Math Terms/02 Intervals/Maximum.md",
+        "Notes/Math/General Math Terms/02 Intervals/Closed Interval.md",
+        "Notes/Math/General Math Terms/02 Intervals/Open Interval.md",
+        "Notes/Math/General Math Terms/02 Intervals/Half Open Interval.md",
+        "Notes/Math/General Math Terms/02 Intervals/Closed Ray.md",
+        "Notes/Math/General Math Terms/02 Intervals/Open Ray.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/General Math Terms/Set Symbols": {
+    "Notes/Math/General Math Terms/03 Set Symbols": {
       "children": [
-        "Notes/Math/General Math Terms/Set Symbols/Set Symbols.md",
-        "Notes/Math/General Math Terms/Set Symbols/Set.md",
-        "Notes/Math/General Math Terms/Set Symbols/Subset.md",
-        "Notes/Math/General Math Terms/Set Symbols/Element Of.md",
-        "Notes/Math/General Math Terms/Set Symbols/Complement.md",
-        "Notes/Math/General Math Terms/Set Symbols/Intersection.md",
-        "Notes/Math/General Math Terms/Set Symbols/Set Difference.md",
-        "Notes/Math/General Math Terms/Set Symbols/Union.md",
-        "Notes/Math/General Math Terms/Set Symbols/Natural Number.md",
-        "Notes/Math/General Math Terms/Set Symbols/Whole Number.md",
-        "Notes/Math/General Math Terms/Set Symbols/Rational Number.md",
-        "Notes/Math/General Math Terms/Set Symbols/Real Number.md",
-        "Notes/Math/General Math Terms/Set Symbols/Complex Number.md"
+        "Notes/Math/General Math Terms/03 Set Symbols/03 Set Symbols.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Set.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Subset.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Element Of.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Complement.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Intersection.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Set Difference.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Union.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Natural Number.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Whole Number.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Rational Number.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Real Number.md",
+        "Notes/Math/General Math Terms/03 Set Symbols/Complex Number.md"
       ],
       "sortOrder": "custom"
     },
@@ -1079,7 +1079,7 @@
     },
     "Notes/Math/Linear Algebra/Linear Systems": {
       "children": [
-        "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
+        "Notes/Math/Linear Algebra/Linear Systems/01 Linear Systems.md",
         "Notes/Math/Linear Algebra/Linear Systems/Linear System Of Equations.md",
         "Notes/Math/Linear Algebra/Linear Systems/Geometric Interpretation.md",
         "Notes/Math/Linear Algebra/Linear Systems/Solvability.md",
@@ -1126,8 +1126,9 @@
     },
     "Notes/Math/Linear Algebra/Vectors": {
       "children": [
-        "Notes/Math/Linear Algebra/Vectors/Vector.md",
+        "Notes/Math/Linear Algebra/Vectors/02 Vectors.md",
         "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
+        "Notes/Math/Linear Algebra/Vectors/Vector.md",
         "Notes/Math/Linear Algebra/Vectors/Coordinates.md",
         "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
         "Notes/Math/Linear Algebra/Vectors/Scalar Multiplication.md",

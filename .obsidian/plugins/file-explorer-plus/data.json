@@ -281,13 +281,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Linear Systems/01 Linear Systems.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
         "patternType": "STRICT"
       },
@@ -582,7 +575,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
+        "pattern": "Notes/Math/Linear Algebra/02 Vectors/Vector Problems.md",
         "patternType": "STRICT"
       },
       {
@@ -828,6 +821,20 @@
         "active": true,
         "type": "FILES",
         "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/01.2 Atomic Theory.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/02 Vectors/02 Vectors.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/01 Linear Systems/01 Linear systems.md",
         "patternType": "STRICT"
       }
     ],

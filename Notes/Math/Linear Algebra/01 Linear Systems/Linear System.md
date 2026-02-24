@@ -1,6 +1,6 @@
 ---
 tags:
-  - summary
+  - concept
   - math
   - linear-algebra
 ---
@@ -28,11 +28,4 @@ $$
 2. in a [[Matrix Representation]]:
 $$Ax=b$$
 Where $A$ is the coefficients [[Matrix]], $x$ is the variable [[Vector]] and $b$ is the results vector.
-## #concept 
 
-- [[Linear System Of Equations]]
-- [[Geometric Interpretation]]
-- [[Solvability]]
-- [[Unique Solution]]
-
-## #problem 
