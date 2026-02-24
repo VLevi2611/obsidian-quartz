@@ -1029,14 +1029,42 @@
     "Notes/Math/Linear Algebra": {
       "children": [
         "Notes/Math/Linear Algebra/Linear Algebra.md",
-        "Notes/Math/Linear Algebra/Linear Systems",
-        "Notes/Math/Linear Algebra/Vectors",
+        "Notes/Math/Linear Algebra/01 Linear Systems",
+        "Notes/Math/Linear Algebra/02 Vectors",
         "Notes/Math/Linear Algebra/Matrices",
         "Notes/Math/Linear Algebra/Basis and Dimension",
         "Notes/Math/Linear Algebra/Vector Spaces",
         "Notes/Math/Linear Algebra/Linear Transformations",
         "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors",
         "Notes/Math/Linear Algebra/Diagonalization"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/01 Linear Systems": {
+      "children": [
+        "Notes/Math/Linear Algebra/01 Linear Systems/01 Linear systems.md",
+        "Notes/Math/Linear Algebra/01 Linear Systems/Linear System.md",
+        "Notes/Math/Linear Algebra/01 Linear Systems/Linear System Of Equations.md",
+        "Notes/Math/Linear Algebra/01 Linear Systems/Geometric Interpretation.md",
+        "Notes/Math/Linear Algebra/01 Linear Systems/Solvability.md",
+        "Notes/Math/Linear Algebra/01 Linear Systems/Unique Solution.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Math/Linear Algebra/02 Vectors": {
+      "children": [
+        "Notes/Math/Linear Algebra/02 Vectors/02 Vectors.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Vector Problems.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Vector.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Coordinates.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Vector Addition.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Scalar Multiplication.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Dot Product.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Orthogonal Vectors.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Length (Norm).md",
+        "Notes/Math/Linear Algebra/02 Vectors/Zero Vector.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Column Vector.md",
+        "Notes/Math/Linear Algebra/02 Vectors/Row Vector.md"
       ],
       "sortOrder": "custom"
     },
@@ -1077,16 +1105,6 @@
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/Linear Algebra/Linear Systems": {
-      "children": [
-        "Notes/Math/Linear Algebra/Linear Systems/01 Linear Systems.md",
-        "Notes/Math/Linear Algebra/Linear Systems/Linear System Of Equations.md",
-        "Notes/Math/Linear Algebra/Linear Systems/Geometric Interpretation.md",
-        "Notes/Math/Linear Algebra/Linear Systems/Solvability.md",
-        "Notes/Math/Linear Algebra/Linear Systems/Unique Solution.md"
-      ],
-      "sortOrder": "custom"
-    },
     "Notes/Math/Linear Algebra/Linear Transformations": {
       "children": [
         "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
@@ -1099,8 +1117,9 @@
     },
     "Notes/Math/Linear Algebra/Matrices": {
       "children": [
-        "Notes/Math/Linear Algebra/Matrices/Matrix.md",
+        "Notes/Math/Linear Algebra/Matrices/03 Matrices.md",
         "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
+        "Notes/Math/Linear Algebra/Matrices/Matrix.md",
         "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
         "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
         "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
@@ -1121,23 +1140,6 @@
         "Notes/Math/Linear Algebra/Vector Spaces/Row Space.md",
         "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
         "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Math/Linear Algebra/Vectors": {
-      "children": [
-        "Notes/Math/Linear Algebra/Vectors/02 Vectors.md",
-        "Notes/Math/Linear Algebra/Vectors/Vector Problems.md",
-        "Notes/Math/Linear Algebra/Vectors/Vector.md",
-        "Notes/Math/Linear Algebra/Vectors/Coordinates.md",
-        "Notes/Math/Linear Algebra/Vectors/Vector Addition.md",
-        "Notes/Math/Linear Algebra/Vectors/Scalar Multiplication.md",
-        "Notes/Math/Linear Algebra/Vectors/Dot Product.md",
-        "Notes/Math/Linear Algebra/Vectors/Orthogonal Vectors.md",
-        "Notes/Math/Linear Algebra/Vectors/Length (Norm).md",
-        "Notes/Math/Linear Algebra/Vectors/Zero Vector.md",
-        "Notes/Math/Linear Algebra/Vectors/Column Vector.md",
-        "Notes/Math/Linear Algebra/Vectors/Row Vector.md"
       ],
       "sortOrder": "custom"
     },

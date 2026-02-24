@@ -1,6 +1,6 @@
 ---
 tags:
-  - summary
+  - concept
   - math
   - linear-algebra
 ---
@@ -13,17 +13,3 @@ a_{11} & a_{12} & a_{13} \\
 a_{21} & a_{22} & a_{23} \\
 a_{31} & a_{32} & a_{33}
 \end{pmatrix}$$
-## #concept 
-
-- [[Identity Matrix]]
-- [[Matrix Vector Multiplication]]
-- [[Matrix Columns]]
-- [[Matrix Multiplication]]
-- [[Determinant]]
-- [[Inverse Matrix]]
-- [[Transpose]]
-- [[Cramer's Rule]]
-
-## #problem 
-
-- [[Matrix Problems]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - summary
+  - concept
   - math
   - linear-algebra
 ---
@@ -15,14 +15,3 @@ A vector space is a [[Set]] of [[Vector]]s or [[Matrix]] where the operation of 
 6. [[Multiplicative Identity]] for vectors: $$1\mathbf{v=v}$$
 7. [[Distributivity]] of scalar multiplication with respect to vector addition: $$a\mathbf{(v+u)}=a\mathbf{v}+a\mathbf{u}$$
 8. Distributivity of scalar multiplication with respect to [[Field]] addition: $$(a+b)\mathbf{v}=a\mathbf{v}+b\mathbf{v}$$
-
-## #concept 
-
-- [[Subspace]]
-- [[Column Space]]
-- [[Null Space]]
-- [[Row Space]]
-- [[Fundamental Subspaces]]
-- [[Orthogonality]]
-
-## #problem 

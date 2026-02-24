@@ -260,20 +260,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Matrices/Matrix.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
         "patternType": "STRICT"
       },
@@ -295,7 +281,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
+        "pattern": "Notes/Math/Linear Algebra/04 Basis and Dimension/04 Basis and Dimension.md",
         "patternType": "STRICT"
       },
       {
@@ -582,14 +568,14 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
+        "pattern": "Notes/Math/Linear Algebra/04 Basis and Dimension/Basis and Dimension Problems.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
+        "pattern": "Notes/Math/Linear Algebra/03 Matrices/Matrix Problems.md",
         "patternType": "STRICT"
       },
       {
@@ -835,6 +821,20 @@
         "active": true,
         "type": "FILES",
         "pattern": "Notes/Math/Linear Algebra/01 Linear Systems/01 Linear systems.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/03 Matrices/03 Matrices.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Notes/Math/Linear Algebra/05 Vector Spaces/05 Vector Spaces.md",
         "patternType": "STRICT"
       }
     ],
