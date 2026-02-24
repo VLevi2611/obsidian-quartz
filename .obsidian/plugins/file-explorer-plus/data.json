@@ -498,13 +498,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Fluid Mechanics/Pressure/Pressure.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Physics/Fluid Mechanics/Fluid Properties/Fluid Properties.md",
         "patternType": "STRICT"
       },
