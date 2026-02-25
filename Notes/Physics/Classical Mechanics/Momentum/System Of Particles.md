@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A system of particles is a collection of particles studied as a single object.
+A [[System]] of particles is a collection of particles studied as a single object.
 

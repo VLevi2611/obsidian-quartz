@@ -519,7 +519,9 @@
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Open System.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Closed System.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Isolated System.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Thermal Energy.md"
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Thermal Energy.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Calorie.md"
       ],
       "sortOrder": "custom"
     },
@@ -1421,20 +1423,19 @@
     "Notes/Physics/Classical Mechanics/Momentum": {
       "children": [
         "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Elastic Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/External Force.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
         "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
+        "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
+        "Notes/Physics/Classical Mechanics/Momentum/External Force.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Elastic Collision.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
         "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md"
+        "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
+        "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md"
       ],
       "sortOrder": "custom"
     },

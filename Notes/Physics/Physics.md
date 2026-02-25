@@ -65,7 +65,6 @@ Physics is the study of [[Matter]].
 - [[External Force]]
 - [[Internal Force]]
 - [[Impulse]]
-- [[Notes/Physics/Classical Mechanics/Momentum/Isolated System]]
 - [[Collision]]
 - [[Elastic Collision]]
 - [[Inelastic Collision]]
