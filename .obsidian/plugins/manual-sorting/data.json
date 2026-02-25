@@ -382,6 +382,7 @@
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Accuracy vs Precision.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Scientific Notation.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/SI Units.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Temperature.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Time.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Percent Error.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Density.md",
@@ -516,7 +517,9 @@
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Surroundings.md",
         "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Open System.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Closed System.md"
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Closed System.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Isolated System.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Thermal Energy.md"
       ],
       "sortOrder": "custom"
     },
