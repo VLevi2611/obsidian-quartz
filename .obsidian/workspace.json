@@ -11,10 +11,14 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.2 Thermochemistry"
             }
           }
         ]
@@ -257,6 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -397,13 +402,15 @@
         "y": 25,
         "width": 1440,
         "height": 797,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "01354666a8200162",
+  "active": "6884b59c8d60c8d6",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Math/Math.md",
     "Notes/Math/Linear Algebra/Linear Algebra.md",
     "Notes/Math/Linear Algebra/08 Diagonalization/08 Diagonalization.md",
@@ -428,9 +435,7 @@
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02 Gases and Energy.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/02.1 Gases.md",
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
     "Resources/Images/Pressure Units.png",
     "Resources/Images/Solute types.png",
     "Resources/Images/Chemical Formula of Water.png",
