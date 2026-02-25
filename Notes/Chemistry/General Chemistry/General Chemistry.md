@@ -180,7 +180,6 @@ tags:
 - [[Exothermic Reaction]]
 - [[Endothermic Reaction]]
 - [[Pressure Volume Work]]
-- [[Specific Heat Capacity]]
 - [[Internal Energy]]
 - [[First Law of Thermodynamics]]
 - [[State Function]]

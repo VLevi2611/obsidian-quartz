@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.2 Thermochemistry"
+              "title": "Chemistry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 02.2 Thermochemistry"
+              "title": "Graph of Chemistry"
             }
           }
         ]
@@ -372,13 +372,16 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02 Gases and Energy.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Nonspontaneous Process.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Specific Heat Capacity.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Pressure Volume Work.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat Capacity.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/State Function.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Spontaneous Process.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Specific Heat Capacity.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Reversible Process.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Pressure Volume Work.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Nonspontaneous Process.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Molar Heat Capacity.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Law of Conservation of Energy.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Irreversible Process.md",
@@ -391,13 +394,10 @@
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Enthalpy of Reaction.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Endothermic Reaction.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Chemical Energy.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
     "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
     "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
     "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Book view.base",
     "Resources/Images/Pressure Units.png",
