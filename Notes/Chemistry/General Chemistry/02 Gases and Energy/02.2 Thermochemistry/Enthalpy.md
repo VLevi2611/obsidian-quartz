@@ -17,4 +17,4 @@ q_P = (U_f + P_fV_f) - (U_i + P_iV_i)
 The right side of the expression is made up with [[State Function]], so it as a whole must be a state function. This state function is called the **enthalpy**, $H$, and is the sum of the [[Internal Energy]] and the pressure-volume product: $H = U + PV$.
 $$\Delta H = H_f - H_i = q_P$$
 Substituting into the [[First Law of Thermodynamics]]:
-$$$$
+$$\Delta U = \Delta H - P \Delta V$$
