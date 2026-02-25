@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
+                    "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat Capacity.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Perfectly Inelastic Collision"
+                  "title": "Heat Capacity"
                 }
               }
             ]
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:chemistry",
+                "query": "isolated",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -286,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
+                "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat Capacity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +371,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Perfectly Inelastic Collision"
+              "title": "Graph of Heat Capacity"
             }
           }
         ]
@@ -398,6 +398,14 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat Capacity.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
+    "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
+    "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
     "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
     "Notes/Physics/Classical Mechanics/Momentum/Elastic Collision.md",
     "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
@@ -408,22 +416,14 @@
     "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
     "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
     "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
-    "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
     "Notes/Physics/Physics.md",
     "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
     "Notes/Physics/Classical Mechanics/Momentum/Isolated System.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Calorie.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat.md",
     "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/01.1 Matter and Measurement.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Temperature.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/SI Units.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Thermal Energy.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Book view.base",
     "Resources/Images/Pressure Units.png",

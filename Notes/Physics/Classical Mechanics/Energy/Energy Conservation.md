@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-Energy conservation means that the total [[Energy]] of an [[Notes/Physics/Classical Mechanics/Momentum/Isolated System]] remains constant. Conserved over time.
+Energy conservation means that the total [[Energy]] of an [[Isolated System]] remains constant. Conserved over time.

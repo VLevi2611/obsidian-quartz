@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-The impulse momentum theorem states that the [[Impulse]] applied to an object is equal to its change of momentum
+The impulse momentum theorem states that the [[Impulse]] applied to an object is equal to its change of momentum.
 
 ## #formula 
 
