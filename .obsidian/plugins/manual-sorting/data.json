@@ -512,7 +512,11 @@
     },
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md"
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Surroundings.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Open System.md",
+        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Closed System.md"
       ],
       "sortOrder": "custom"
     },
@@ -1031,12 +1035,12 @@
         "Notes/Math/Linear Algebra/Linear Algebra.md",
         "Notes/Math/Linear Algebra/01 Linear Systems",
         "Notes/Math/Linear Algebra/02 Vectors",
-        "Notes/Math/Linear Algebra/Matrices",
-        "Notes/Math/Linear Algebra/Basis and Dimension",
-        "Notes/Math/Linear Algebra/Vector Spaces",
-        "Notes/Math/Linear Algebra/Linear Transformations",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors",
-        "Notes/Math/Linear Algebra/Diagonalization"
+        "Notes/Math/Linear Algebra/03 Matrices",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension",
+        "Notes/Math/Linear Algebra/05 Vector Spaces",
+        "Notes/Math/Linear Algebra/06 Linear Transformations",
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors",
+        "Notes/Math/Linear Algebra/08 Diagonalization"
       ],
       "sortOrder": "custom"
     },
@@ -1068,78 +1072,80 @@
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/Linear Algebra/Basis and Dimension": {
+    "Notes/Math/Linear Algebra/03 Matrices": {
       "children": [
-        "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Basis and Dimension Problems.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Combination.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Span.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Dependence.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Linear Independence.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Basis.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Dimension.md",
-        "Notes/Math/Linear Algebra/Basis and Dimension/Rank.md"
+        "Notes/Math/Linear Algebra/03 Matrices/03 Matrices.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Matrix Problems.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Matrix.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Identity Matrix.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Matrix Vector Multiplication.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Matrix Columns.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Matrix Multiplication.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Determinant.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Inverse Matrix.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Transpose.md",
+        "Notes/Math/Linear Algebra/03 Matrices/Cramer's Rule.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/Linear Algebra/Diagonalization": {
+    "Notes/Math/Linear Algebra/04 Basis and Dimension": {
       "children": [
-        "Notes/Math/Linear Algebra/Diagonalization/Diagonalization.md",
-        "Notes/Math/Linear Algebra/Diagonalization/Diagonal Matrix.md",
-        "Notes/Math/Linear Algebra/Diagonalization/Eigenvector Matrix.md",
-        "Notes/Math/Linear Algebra/Diagonalization/Eigenbasis.md",
-        "Notes/Math/Linear Algebra/Diagonalization/Condition For Diagonalization.md",
-        "Notes/Math/Linear Algebra/Diagonalization/Matrix Powers.md"
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/04 Basis and Dimension.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Basis and Dimension Problems.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Linear Combination.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Span.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Linear Dependence.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Linear Independence.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Basis.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Dimension.md",
+        "Notes/Math/Linear Algebra/04 Basis and Dimension/Rank.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors": {
+    "Notes/Math/Linear Algebra/05 Vector Spaces": {
       "children": [
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalues and Eigenvectors.md",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvector.md",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalue.md",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Eigenvalue Equation.md",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Characteristic Polynomial.md",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Trace.md",
-        "Notes/Math/Linear Algebra/Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md"
+        "Notes/Math/Linear Algebra/05 Vector Spaces/05 Vector Spaces.md",
+        "Notes/Math/Linear Algebra/05 Vector Spaces/Vector Space.md",
+        "Notes/Math/Linear Algebra/05 Vector Spaces/Subspace.md",
+        "Notes/Math/Linear Algebra/05 Vector Spaces/Column Space.md",
+        "Notes/Math/Linear Algebra/05 Vector Spaces/Null Space.md",
+        "Notes/Math/Linear Algebra/05 Vector Spaces/Row Space.md",
+        "Notes/Math/Linear Algebra/05 Vector Spaces/Fundamental Subspaces.md",
+        "Notes/Math/Linear Algebra/05 Vector Spaces/Orthogonality.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/Linear Algebra/Linear Transformations": {
+    "Notes/Math/Linear Algebra/06 Linear Transformations": {
       "children": [
-        "Notes/Math/Linear Algebra/Linear Transformations/Linear Transformation.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Geometric Properties Of Linear Transformations.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Matrix Representation.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Non Square Matrices.md",
-        "Notes/Math/Linear Algebra/Linear Transformations/Change Of Basis.md"
+        "Notes/Math/Linear Algebra/06 Linear Transformations/06 Linear Transformations.md",
+        "Notes/Math/Linear Algebra/06 Linear Transformations/Linear Transformation.md",
+        "Notes/Math/Linear Algebra/06 Linear Transformations/Geometric Properties Of Linear Transformations.md",
+        "Notes/Math/Linear Algebra/06 Linear Transformations/Matrix Representation.md",
+        "Notes/Math/Linear Algebra/06 Linear Transformations/Non Square Matrices.md",
+        "Notes/Math/Linear Algebra/06 Linear Transformations/Change Of Basis.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/Linear Algebra/Matrices": {
+    "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors": {
       "children": [
-        "Notes/Math/Linear Algebra/Matrices/03 Matrices.md",
-        "Notes/Math/Linear Algebra/Matrices/Matrix Problems.md",
-        "Notes/Math/Linear Algebra/Matrices/Matrix.md",
-        "Notes/Math/Linear Algebra/Matrices/Identity Matrix.md",
-        "Notes/Math/Linear Algebra/Matrices/Matrix Vector Multiplication.md",
-        "Notes/Math/Linear Algebra/Matrices/Matrix Columns.md",
-        "Notes/Math/Linear Algebra/Matrices/Matrix Multiplication.md",
-        "Notes/Math/Linear Algebra/Matrices/Determinant.md",
-        "Notes/Math/Linear Algebra/Matrices/Inverse Matrix.md",
-        "Notes/Math/Linear Algebra/Matrices/Transpose.md",
-        "Notes/Math/Linear Algebra/Matrices/Cramer's Rule.md"
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/07 Eigenvalues and Eigenvectors.md",
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvector.md",
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvalue.md",
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvalue Equation.md",
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Characteristic Polynomial.md",
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Trace.md",
+        "Notes/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Math/Linear Algebra/Vector Spaces": {
+    "Notes/Math/Linear Algebra/08 Diagonalization": {
       "children": [
-        "Notes/Math/Linear Algebra/Vector Spaces/Vector Space.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Subspace.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Column Space.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Null Space.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Row Space.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Fundamental Subspaces.md",
-        "Notes/Math/Linear Algebra/Vector Spaces/Orthogonality.md"
+        "Notes/Math/Linear Algebra/08 Diagonalization/08 Diagonalization.md",
+        "Notes/Math/Linear Algebra/08 Diagonalization/Diagonal Matrix.md",
+        "Notes/Math/Linear Algebra/08 Diagonalization/Eigenvector Matrix.md",
+        "Notes/Math/Linear Algebra/08 Diagonalization/Eigenbasis.md",
+        "Notes/Math/Linear Algebra/08 Diagonalization/Condition For Diagonalization.md",
+        "Notes/Math/Linear Algebra/08 Diagonalization/Matrix Powers.md"
       ],
       "sortOrder": "custom"
     },
@@ -1852,5 +1858,5 @@
   },
   "sortOrder": "custom",
   "debugMode": false,
-  "newItemPlacement": "top"
+  "newItemPlacement": "bottom"
 }

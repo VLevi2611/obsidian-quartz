@@ -8,5 +8,5 @@ tags:
 ## Definition
 
 Linear momentum $\mathbf{p}$ is a [[Vector]] representing an object's "quantity of motion" in a straight line.
-Linear momentum is conserved in [[Isolated System]]. It relates the body's [[Mass]] and [[Velocity]].
+Linear momentum is conserved in [[Notes/Physics/Classical Mechanics/Momentum/Isolated System]]. It relates the body's [[Mass]] and [[Velocity]].
 $$\mathbf{p}=m\mathbf{v}$$

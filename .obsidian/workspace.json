@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Untitled.md",
+                    "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Untitled"
+                  "title": "System"
                 }
               }
             ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Untitled.md",
+                "file": "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +371,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of System"
             }
           }
         ]
@@ -398,8 +398,10 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Isolated System.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Closed System.md",
+    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Open System.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Surroundings.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Untitled.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
@@ -424,8 +426,6 @@
     "Notes/Math/General Math Terms/02 Intervals/02 Intervals.md",
     "Notes/Math/General Math Terms/01 Math Symbols/Division.md",
     "Notes/Math/General Math Terms/01 Math Symbols/Multiplication.md",
-    "Notes/Chemistry/Chemistry.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Resources/Images/Pressure Units.png",
     "Resources/Images/Solute types.png",
     "Resources/Images/Chemical Formula of Water.png",

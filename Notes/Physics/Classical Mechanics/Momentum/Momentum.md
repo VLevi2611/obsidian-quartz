@@ -14,7 +14,7 @@ tags:
 - [[External Force]]
 - [[Internal Force]]
 - [[Impulse]]
-- [[Isolated System]]
+- [[Notes/Physics/Classical Mechanics/Momentum/Isolated System]]
 - [[Collision]]
 - [[Elastic Collision]]
 - [[Inelastic Collision]]
