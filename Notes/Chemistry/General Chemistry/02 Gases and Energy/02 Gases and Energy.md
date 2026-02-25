@@ -31,8 +31,23 @@ tags:
 
 ### #concept 
 
-### #formula 
-
+- [[System]]
+- [[Surroundings]]
+- [[Open System]]
+- [[Closed System]]
+- [[Isolated System]]
+- [[Thermal Energy]]
+- [[Heat]]
+- [[Heat Capacity]]
+- [[Molar Heat Capacity]]
+- [[Specific Heat Capacity]]
+- [[Law of Conservation of Energy]]
+- [[Chemical Energy]]
+- [[Heat of Reaction]]
+- [[Exothermic Reaction]]
+- [[Endothermic Reaction]]
+- [[Pressure Volume Work]]
 ### #constant 
 
+- [[Calorie]]
 ### #problem 
