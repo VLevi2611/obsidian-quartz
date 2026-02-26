@@ -554,7 +554,26 @@
     },
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms": {
       "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/03.1 Electrons in Atoms.md"
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/03.1 Electrons in Atoms.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electromagnetic Radiation.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Wave.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Amplitude.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Atomic Orbital.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Diffraction.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Configuration.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Spin.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Excited State.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Frequency.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Ground State.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photoelectric Effect.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photon.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Planck's Constant.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Principal Electronic Shell.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Quantum.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Speed of Light.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Subshell.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Valance Electron.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Wavelength.md"
       ],
       "sortOrder": "custom"
     },
@@ -1000,7 +1019,6 @@
         "Notes/Physics/Classical Mechanics/Energy/Non Conservative Forces.md",
         "Notes/Physics/Classical Mechanics/Energy/Work Energy Theorem.md",
         "Notes/Physics/Classical Mechanics/Energy/Work.md",
-        "Notes/Physics/Classical Mechanics/Energy/Energy Conservation.md",
         "Notes/Physics/Classical Mechanics/Energy/Power.md",
         "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
         "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
@@ -1154,7 +1172,9 @@
         "Resources/Images/Chemical Formula of Water.png",
         "Resources/Images/Periodic Table.png",
         "Resources/Images/ActionPotentialDiagram.png",
-        "Resources/Images/Biomedical Engineering Map.png"
+        "Resources/Images/Biomedical Engineering Map.png",
+        "Resources/Images/Filling of Electronic Subshells.png",
+        "Resources/Images/Subshell Orbitals.png"
       ],
       "sortOrder": "custom"
     },
