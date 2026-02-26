@@ -7,9 +7,28 @@ tags: [summary]
 
 ### #concept 
 
-### #formula 
+- [[Electromagnetic Radiation]]
+- [[Wave]]
+- [[Amplitude]]
+- [[Wavelength]]
+- [[Frequency]]
+- [[Diffraction]]
+- [[Quantum]]
+- [[Photoelectric Effect]]
+- [[Photon]]
+- [[Ground State]]
+- [[Excited State]]
+- [[Atomic Orbital]]
+- [[Principal Electronic Shell]]
+- [[Subshell]]
+- [[Electron Spin]]
+- [[Electron Configuration]]
+- [[Valance Electron]]
 
 ### #constant 
+
+- [[Speed of Light]]
+- [[Planck's Constant]]
 
 ### #problem 
 
