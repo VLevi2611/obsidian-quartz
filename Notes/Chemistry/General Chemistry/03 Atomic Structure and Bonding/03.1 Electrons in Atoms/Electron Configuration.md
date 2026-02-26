@@ -24,5 +24,6 @@ To write electron configurations we'll use the **Aufbau process**. Assign electr
 - **Z = 8, O. $1s^2 2s^2 2p^4$
 - **Z = 9, F**. $1s^2 2s^2 2p^5$
 - **Z = 10, Ne**. $1s^2 2s^2 2p^6$
-- **Z = 11, Na. $1s^2 2s^2 2p^3$
+- **Z = 11, Na**. Represent the Ne configuration as the neon core, $[\ce{Ne}]$, and the one electron remains is a [[Valance Electron]]. $[\ce{Ne}] 3s^1$
+- **Z = 12, Mg**. For the other third period 
 ![[Electron Configuration.png]]
