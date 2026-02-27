@@ -257,6 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +342,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -402,8 +403,18 @@
       }
     ]
   },
-  "active": "01354666a8200162",
+  "active": "01c3347205facf32",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Van Der Waals Radius.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Nonmetal.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Noble Gas.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metalloid.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metallic Radius.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metal.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionization Energy.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionic Radius.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Covalent Radius.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Atomic Radius.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/03.1 Electrons in Atoms.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Principal Electronic Shell.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
@@ -423,17 +434,7 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Ground State.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Frequency.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Excited State.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Spin.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Configuration.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electromagnetic Radiation.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Diffraction.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Atomic Orbital.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Amplitude.md",
     "Book view.base",
-    "Notes/Chemistry/Chemistry.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02 Gases and Energy.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Nonspontaneous Process.md",
     "Resources/Images/Pressure Units.png",
     "Resources/Images/Solute types.png",
     "Resources/Images/Chemical Formula of Water.png",
