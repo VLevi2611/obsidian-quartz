@@ -36,11 +36,16 @@ tags: [summary]
 
 ### #concept 
 
-### #formula 
-
-### #constant 
-
-### #problem 
+- [[Metal]]
+- [[Nonmetal]]
+- [[Noble Gas]]
+- [[Metalloid]]
+- [[Atomic Radius]]
+- [[Covalent Radius]]
+- [[Ionic Radius]]
+- [[Metallic Radius]]
+- [[Van Der Waals Radius]]
+- [[Ionization Energy]]
 
 ## [[03.3 Bonding I]]
 
