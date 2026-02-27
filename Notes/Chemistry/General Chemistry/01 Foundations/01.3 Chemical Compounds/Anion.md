@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-An **anion** is a non-metal [[Atom]] in an [[Ionic Compound]] that becomes negative after losing an [[Electron]].
+An **anion** is a [[Nonmetal]] [[Atom]] in an [[Ionic Compound]] that becomes negative after losing an [[Electron]].
