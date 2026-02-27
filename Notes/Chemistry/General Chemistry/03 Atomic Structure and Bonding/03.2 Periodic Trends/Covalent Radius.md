@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **cova**
+The **covalent radius** is one half the distance between the [[Nucleus|Nuclei]] of 2 identical [[Atom|Atoms]] joined by a single [[Covalent Bond]].
 
