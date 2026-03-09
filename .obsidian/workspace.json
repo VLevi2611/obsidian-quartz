@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
+                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.2 Periodic Trends"
+              "title": "03 Atomic Structure and Bonding"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "סייר קבצים"
+              "title": "Files"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "גרף של General Chemistry Principles and Modern Applications"
+              "title": "Graph of 03 Atomic Structure and Bonding"
             }
           }
         ]
@@ -357,13 +357,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:פתח את המחליף המהיר": false,
-      "graph:פתח תצוגת גרף": false,
-      "canvas:צור קנבס חדש": false,
-      "daily-notes:פתח את ההערה של היום": false,
-      "templates:הכנס תבנית": false,
-      "command-palette:פתח את לוח הפקודות": false,
-      "bases:צור בסיס חדש": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -407,10 +407,12 @@
       }
     ]
   },
-  "active": "01c3347205facf32",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionization Energy.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
     "Resources/Electron Configuration.png",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Van Der Waals Radius.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Nonmetal.md",
@@ -418,7 +420,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metalloid.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metallic Radius.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metal.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionization Energy.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionic Radius.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Covalent Radius.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Atomic Radius.md",
@@ -437,7 +438,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Planck's Constant.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photon.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photoelectric Effect.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Ground State.md",
     "Book view.base",
     "Resources/Images/Pressure Units.png",
     "Resources/Images/Solute types.png",
