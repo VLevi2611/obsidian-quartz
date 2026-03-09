@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
+                    "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "03.2 Periodic Trends"
+                  "title": "Paramagnetic"
                 }
               }
             ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
+                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +371,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 03.2 Periodic Trends"
+              "title": "Graph of Paramagnetic"
             }
           }
         ]
@@ -397,8 +397,9 @@
   },
   "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Diamagnetic.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Diamagnetic.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Electron Affinity.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
@@ -427,7 +428,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Speed of Light.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Quantum.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Planck's Constant.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photon.md",
     "Resources/Images/Pressure Units.png",
     "Resources/Images/Solute types.png",
     "Resources/Images/Chemical Formula of Water.png",
