@@ -1151,7 +1151,8 @@
     "Resources": {
       "children": [
         "Resources/Books",
-        "Resources/Images"
+        "Resources/Images",
+        "Resources/Electron Configuration.png"
       ],
       "sortOrder": "custom"
     },
