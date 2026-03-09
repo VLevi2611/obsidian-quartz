@@ -231,6 +231,10 @@ tags:
 - [[Metallic Radius]]
 - [[Van Der Waals Radius]]
 - [[Ionization Energy]]
+- [[Electron Affinity]]
+- [[Diamagnetic]]
+- [[Paramagnetic]]
+- [[Polarizability]]
 
 ##### [[03.3 Bonding I]]
 
