@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
+                    "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Polarizability.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Paramagnetic"
+                  "title": "Polarizability"
                 }
               }
             ]
@@ -286,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
+                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Polarizability.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +371,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Paramagnetic"
+              "title": "Graph of Polarizability"
             }
           }
         ]
@@ -398,6 +398,7 @@
   "active": "01354666a8200162",
   "lastOpenFiles": [
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Polarizability.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Diamagnetic.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Electron Affinity.md",
@@ -427,7 +428,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Subshell.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Speed of Light.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Quantum.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Planck's Constant.md",
     "Resources/Images/Pressure Units.png",
     "Resources/Images/Solute types.png",
     "Resources/Images/Chemical Formula of Water.png",
