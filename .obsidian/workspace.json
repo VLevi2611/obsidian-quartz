@@ -4,24 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "0171f8d386a0b9f5",
-        "type": "tabs",
+        "id": "d852c7ed94df656b",
+        "type": "split",
         "children": [
           {
-            "id": "01354666a8200162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 Atomic Structure and Bonding"
-            }
+            "id": "0171f8d386a0b9f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "01354666a8200162",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Electron Affinity.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Electron Affinity"
+                }
+              }
+            ]
+          },
+          {
+            "id": "95ffda40cec5a5ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "639cc658d511c599",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "General Chemistry Principles and Modern Applications"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -261,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
+                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Electron Affinity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +371,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 03 Atomic Structure and Bonding"
+              "title": "Graph of Electron Affinity"
             }
           }
         ]
@@ -370,49 +395,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "floating": {
-    "id": "f64f78442a43864d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "56e84b7a5eb9a8a5",
-        "type": "window",
-        "children": [
-          {
-            "id": "aa30f9aa50964b30",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "01c3347205facf32",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "General Chemistry Principles and Modern Applications"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1440,
-        "height": 900,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "01354666a8200162",
   "lastOpenFiles": [
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Electron Affinity.md",
+    "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
+    "Book view.base",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionization Energy.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
     "Resources/Electron Configuration.png",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Van Der Waals Radius.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Nonmetal.md",
@@ -426,7 +417,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/03.1 Electrons in Atoms.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Principal Electronic Shell.md",
     "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
-    "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
     "Resources/Images/Subshell Orbitals.png",
     "Resources/Images/Filling of Electronic Subshells.png",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Wavelength.md",
@@ -437,8 +427,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Quantum.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Planck's Constant.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photon.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photoelectric Effect.md",
-    "Book view.base",
     "Resources/Images/Pressure Units.png",
     "Resources/Images/Solute types.png",
     "Resources/Images/Chemical Formula of Water.png",
