@@ -240,6 +240,8 @@ tags:
 
 ###### #concept 
 
+- [[Lewis Theory]]
+
 ##### [[03.4 Bonding II]]
 
 ###### #concept 

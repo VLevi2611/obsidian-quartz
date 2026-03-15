@@ -55,11 +55,7 @@ tags: [summary]
 
 ### #concept 
 
-### #formula 
-
-### #constant 
-
-### #problem 
+- [[Lewis Theory]]
 
 ## [[03.4 Bonding II]]
 

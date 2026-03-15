@@ -245,7 +245,7 @@ tags:
 
 #### #concept 
 
-
+- [[Lewis Theory]]
 #### #formula 
 
 
