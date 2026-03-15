@@ -10,3 +10,4 @@ The **Lewis theory** explains [[Chemical Bonding]] and [[Acid]] [[Base]] behavio
 1. Electrons, especially [[Valance Electron|Valance Electrons]], play a fundamental role in chemical bonding.
 2. In some cases, electrons are transferred from one [[Atom]] to another. Positive and negative [[Ion|Ions]] are formed and attract each other through electrostatic [[Force|Forces]] called [[Ionic Bond|Ionic Bonds]].
 3. In other cases one or more pairs of electrons are shared between atoms, a [[Covalent Bond]].
+4. Electrons are transferred or shared in such a way that each atom acquires an especially stable electron configuration, an [[Octet]]. 
