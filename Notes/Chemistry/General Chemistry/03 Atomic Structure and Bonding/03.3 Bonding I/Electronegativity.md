@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-**Electronegativity** describes an [[Atom|Atoms]]
+**Electronegativity** describes an [[Atom|Atom's]] ability to compete for [[Electron|Electrons]]
 
