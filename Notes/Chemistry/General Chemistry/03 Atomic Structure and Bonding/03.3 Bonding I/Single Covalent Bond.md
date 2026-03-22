@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The sharing of a single pair of [[Electron|Electrons]] between bounded [[Atom|Atoms]] produces a **single covalent bond**
+The sharing of a single [[Bond Pair]] of [[Electron|Electrons]] between bounded [[Atom|Atoms]] produces a **single covalent bond**
 
 
