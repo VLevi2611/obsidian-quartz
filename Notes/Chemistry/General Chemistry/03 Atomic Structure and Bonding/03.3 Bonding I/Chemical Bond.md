@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A molecule is a group of [[Atom]]s held together by [[Chemical Bond]].
+A **che**
 
