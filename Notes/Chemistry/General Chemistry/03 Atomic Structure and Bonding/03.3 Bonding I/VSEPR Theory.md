@@ -17,5 +17,5 @@ We can represent a 3D shape of a [[Molecule]]:
 1. Draw a plausible Lewis structure of the species.
 2. Determine the number of electron groups around the central atom, and identify them as being bond pair electron groups or lone pairs of electrons.
 3. Establish the electron group geometry around the central atom--linear, triagonal planer, tetrahedral, triagonal bipyramidal, or octahedral.
-4. Determine the molecular geometry from the position of the atoms 
+4. Determine the molecular geometry from the position of the atoms bonded directly to the central atom.
 
