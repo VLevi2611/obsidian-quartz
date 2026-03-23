@@ -24,7 +24,7 @@ To write electron configurations we'll use the **Aufbau process**. Assign electr
 - **Z = 8, O. $1s^2 2s^2 2p^4$
 - **Z = 9, F**. $1s^2 2s^2 2p^5$
 - **Z = 10, Ne**. $1s^2 2s^2 2p^6$
-- **Z = 11, Na**. Represent the Ne configuration as the neon core, $[\ce{Ne}]$, and the one electron remains is a [[Valance Electron]]. $[\ce{Ne}] 3s^1$
+- **Z = 11, Na**. Represent the Ne configuration as the neon core, $[\ce{Ne}]$, and the one electron remains is a [[Valence Electron]]. $[\ce{Ne}] 3s^1$
 - **Z = 12, Mg**. For the other third period elements, only the valance shell electron configurations are shown. $3s^2$
 - **Z = 13, Al**. $3s^2 3p^1$
 - **Z = 14, Si**. $3s^2 3p^2$ and so forth.

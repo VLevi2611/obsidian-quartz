@@ -23,7 +23,7 @@ tags: [summary]
 - [[Subshell]]
 - [[Electron Spin]]
 - [[Electron Configuration]]
-- [[Valance Electron]]
+- [[Valence Electron]]
 
 ### #constant 
 
