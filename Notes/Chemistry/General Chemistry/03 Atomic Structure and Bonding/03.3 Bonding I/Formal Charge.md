@@ -14,4 +14,6 @@ The formal charge on an atom in a Lewis structure is the number of [[Valence Ele
 ## General Rules of Lewis Structure Based on Its Formal Charge
 
 - The sum of the formal charges in a Lewis structure must be 0 for a neutral [[Molecule]] and must equal the magnitude of the charge for a polyatomic [[Ion]].
-- Where 
+- Where formal charges are required, they should be as small as possible.
+- Negative formal charges usually appear on the most [[Electronegativity|Electronegative]] atoms, positive charges on the least electronegative atoms.
+- Structure having formal charges of the same sign on adjacent atoms are unlikely.
