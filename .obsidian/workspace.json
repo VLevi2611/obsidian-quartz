@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d852c7ed94df656b",
-        "type": "split",
+        "id": "0171f8d386a0b9f5",
+        "type": "tabs",
         "children": [
           {
-            "id": "0171f8d386a0b9f5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "01354666a8200162",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "03.3 Bonding I"
-                }
-              }
-            ]
-          },
-          {
-            "id": "95ffda40cec5a5ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "639cc658d511c599",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "General Chemistry Principles and Modern Applications"
-                }
-              }
-            ]
+            "id": "01354666a8200162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Chemistry"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
+                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -371,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 03.3 Bonding I"
+              "title": "Graph of General Chemistry"
             }
           }
         ]
@@ -395,8 +370,19 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/VSEPR Theory.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Polar Molecule.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Dipole Moment.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Chemical Resonance.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Order.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Length.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Angle.md",
     "Resources/Images/Electron Configuration.png",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Resonance.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Free Radical.md",
@@ -415,16 +401,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Polar Covalent Bond.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Octet.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lone Pair.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Structure.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Ionic Bond.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Electronegativity.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Double Covalent Bond.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Covalent Bond.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Chemical Bond.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Pair.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Symbol.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Theory.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Book view.base",
     "Resources/Electron Configuration.png",
@@ -441,7 +417,6 @@
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics",
     "Resources/Images/Periodic Table.png",
-    "Resources/Images/ActionPotentialDiagram.png",
-    "Resources/Images/Biomedical Engineering Map.png"
+    "Resources/Images/ActionPotentialDiagram.png"
   ]
 }
