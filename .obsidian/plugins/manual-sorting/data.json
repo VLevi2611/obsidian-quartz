@@ -5,15 +5,8 @@
         "Notes",
         "Progress",
         "Resources",
-        "Excalidraw",
         "Templates",
         "Book view.base"
-      ],
-      "sortOrder": "custom"
-    },
-    "Excalidraw": {
-      "children": [
-        "Excalidraw/Skeletal Structure.excalidraw.md"
       ],
       "sortOrder": "custom"
     },
@@ -1189,6 +1182,7 @@
     },
     "Resources": {
       "children": [
+        "Resources/Excalidraw",
         "Resources/Books",
         "Resources/Images"
       ],
@@ -1239,6 +1233,12 @@
         "Templates/Subject Template.md",
         "Templates/World Template.md",
         "Templates/Summary Template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Resources/Excalidraw": {
+      "children": [
+        "Resources/Excalidraw/Skeletal Structure.excalidraw.md"
       ],
       "sortOrder": "custom"
     }

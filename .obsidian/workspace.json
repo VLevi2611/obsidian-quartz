@@ -11,14 +11,12 @@
             "id": "01354666a8200162",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
-                "mode": "source",
-                "source": false
+                "file": "Resources/Excalidraw/Skeletal Structure.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "General Chemistry"
+              "icon": "excalidraw-icon",
+              "title": "Skeletal Structure.excalidraw"
             }
           }
         ]
@@ -261,7 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Resources/Excalidraw/Skeletal Structure.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +344,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry"
+              "title": "Graph of Skeletal Structure.excalidraw"
             }
           }
         ]
@@ -370,10 +368,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
-    "Notes/Chemistry/Chemistry.md",
+    "Resources/Excalidraw/Skeletal Structure.excalidraw.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/VSEPR Theory.md",
@@ -389,8 +388,7 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Formal Charge.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Expanded Valence Shell.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Valence Electron.md",
-    "Excalidraw/Skeletal Structure.excalidraw.md",
-    "Excalidraw",
+    "Resources/Excalidraw",
     "Resources/Images/Electronegativity.png",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Terminal Atom.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Skeletal Structure.md",
