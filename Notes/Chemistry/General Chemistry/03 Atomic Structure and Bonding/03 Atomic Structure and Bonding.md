@@ -56,6 +56,23 @@ tags: [summary]
 ### #concept 
 
 - [[Lewis Theory]]
+- [[Lewis Symbol]]
+- [[Lewis Structure]]
+- [[Chemical Bond]]
+- [[Covalent Bond]]
+- [[Ionic Bond]]
+- [[Octet]]
+- [[Single Covalent Bond]]
+- [[Double Covalent Bond]]
+- [[Triple Covalent Bond]]
+- [[Bond Pair]]
+- [[Lone Pair]]
+- [[Polar Covalent Bond]]
+- [[Electronegativity]]
+- [[Electronegativity Difference]]
+- [[Skeletal Structure]]
+- [[Central Atom]]
+- [[Terminal Atom]]
 
 ## [[03.4 Bonding II]]
 
