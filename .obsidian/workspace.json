@@ -395,8 +395,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "01354666a8200162",
   "lastOpenFiles": [
+    "Resources/Images/Electron Configuration.png",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Resonance.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Free Radical.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Formal Charge.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Expanded Valence Shell.md",
+    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Valence Electron.md",
+    "Excalidraw/Skeletal Structure.excalidraw.md",
+    "Excalidraw",
     "Resources/Images/Electronegativity.png",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Terminal Atom.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Skeletal Structure.md",
@@ -417,12 +425,6 @@
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Symbol.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Theory.md",
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
-    "Notes/Chemistry/Chemistry.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Polarizability.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Diamagnetic.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Book view.base",
     "Resources/Electron Configuration.png",
@@ -438,10 +440,8 @@
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria",
     "Resources/Images/Periodic Table.png",
     "Resources/Images/ActionPotentialDiagram.png",
-    "Resources/Images/Biomedical Engineering Map.png",
-    "Progress/Day 5.png"
+    "Resources/Images/Biomedical Engineering Map.png"
   ]
 }
