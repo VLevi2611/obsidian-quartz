@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **central atom** is [[Chemical Bond|Bonded]] to 2 or more [[Atom|Atoms]] in the [[Skeletal Structure]]. Central atoms are generally those with the lowest [[Electronegativity]]
+A **central atom** is [[Chemical Bond|Bonded]] to 2 or more [[Atom|Atoms]] in the [[Skeletal Structure]]. Central atoms are generally those with the lowest [[Electronegativity]]. Carbon atoms are always central atoms.
 
