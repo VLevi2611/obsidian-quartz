@@ -276,6 +276,13 @@ tags:
 
 ###### #concept 
 
+- [[Valence Bond Method]]
+- [[Hybridization]]
+- [[Hybrid Orbital]]
+- [[Sigma Bond]]
+- [[Pi Bond]]
+- [[Molecular Orbital Theory]]
+
 #### [[04 Phases and Forces]]
 
 ##### [[04.1 Intermolecular Forces]]
