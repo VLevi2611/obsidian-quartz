@@ -275,6 +275,7 @@ tags:
 - [[Bond Length]]
 - [[Bond Dissociation Energy]]
 - [[Average Bond Energy]]
+- [[Metallic Bond]]
 
 ### [[03.4 Bonding II]]
 
