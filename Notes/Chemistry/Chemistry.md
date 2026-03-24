@@ -268,6 +268,8 @@ tags:
 - [[Dipole Moment]]
 - [[Bond Order]]
 - [[Bond Length]]
+- [[Bond Dissociation Energy]]
+- [[Average Bond Energy]]
 
 ##### [[03.4 Bonding II]]
 
