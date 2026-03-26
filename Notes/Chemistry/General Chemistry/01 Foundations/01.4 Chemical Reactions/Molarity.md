@@ -17,4 +17,4 @@ $$c = \frac{n}{V}$$
 |  $n$   | amount of solute | $(\text{mol})$           |
 |  $V$   | [[Volume]]       | $(L)$                    |
 
-When calculating concentration, we must determine the amount of solute in moles from the other quantities that can be measured, such as the [[Mass]] of the solute or the volume of a liquid solute.
+When calculating concentration, we must determine the amount of solute in moles from the other quantities that can be measured, such as the [[Mass]] of the solute or the volume of a [[Liquid]] solute.

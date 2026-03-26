@@ -20,6 +20,8 @@ tags:
 - [[Mixture]]
 - [[Element]]
 - [[Compound]]
+- [[Solid]]
+- [[Liquid]]
 - [[Property]]
 - [[Physical Properties]]
 - [[Chemical Properties]]
