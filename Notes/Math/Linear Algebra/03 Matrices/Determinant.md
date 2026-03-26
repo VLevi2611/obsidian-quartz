@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-The determinant of a [[Matrix]] $\det \mathbf{A}$ measures the factor by with the area (2D) or volume (3D) is scaled by the [[Linear Transformation]].
+The determinant of a [[Matrix]] $\det \mathbf{A}$ measures the factor by with the area (2D) or [[Volume]] (3D) is scaled by the [[Linear Transformation]].
 If the determinant is 0, the space is compressed into a lower dimension.
 
 --- 
