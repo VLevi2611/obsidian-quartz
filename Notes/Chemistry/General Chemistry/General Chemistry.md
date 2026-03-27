@@ -298,9 +298,13 @@ tags:
 
 #### #concept 
 
-#### #formula 
-
-#### #constant 
+- [[Van Der Waals Radius]]
+- [[Dipole Dipole Interactions]]
+- [[London Forces]]
+- [[Hydrogen Bond]]
+- [[Surface Tension]]
+- [[Cohesive Force]]
+- [[Adhesive Force]]
 
 ### [[04.2 Entropy and Gibbs Energy]]
 
