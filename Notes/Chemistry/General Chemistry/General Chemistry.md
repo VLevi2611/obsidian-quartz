@@ -312,7 +312,9 @@ tags:
 - [[Vapor Pressure]]
 - [[Dynamic Equilibrium]]
 
-#### #for
+#### #formula 
+
+- [[Clausius Clapeyron Equation]]
 
 ### [[04.2 Entropy and Gibbs Energy]]
 

@@ -298,8 +298,18 @@ tags:
 - [[London Forces]]
 - [[Hydrogen Bond]]
 - [[Surface Tension]]
-- [[Cohesive Force]]
 - [[Adhesive Force]]
+- [[Cohesive Force]]
+- [[Viscosity]]
+- [[Condensation]]
+- [[Evaporation]]
+- [[Vapor]]
+- [[Vapor Pressure]]
+- [[Dynamic Equilibrium]]
+
+###### #formula 
+
+- [[Clausius Clapeyron Equation]]
 
 ##### [[04.2 Entropy and Gibbs Energy]]
 
