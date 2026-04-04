@@ -311,6 +311,18 @@ tags:
 - [[Vapor]]
 - [[Vapor Pressure]]
 - [[Dynamic Equilibrium]]
+- [[Boiling]]
+- [[Boiling Point]]
+- [[Critical Point]]
+- [[Melting]]
+- [[Melting Point]]
+- [[Freezing]]
+- [[Freezing Point]]
+- [[Sublimation]]
+- [[Deposition]]
+- [[Phase Diagram]]
+- [[Triple Point]]
+- [[State of Matter]]
 
 #### #formula 
 
