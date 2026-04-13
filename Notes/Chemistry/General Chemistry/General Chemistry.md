@@ -299,7 +299,7 @@ tags:
 
 #### #concept 
 
-- [[Van Der Waals Radius]]
+- [[Van Der Waals Forces]]
 - [[Dipole Dipole Interactions]]
 - [[London Forces]]
 - [[Hydrogen Bond]]

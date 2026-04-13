@@ -384,7 +384,11 @@
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Time.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Percent Error.md",
         "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Density.md",
-        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Metric Prefixes.md"
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Metric Prefixes.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Length.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Liquid.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Solid.md",
+        "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/Volume.md"
       ],
       "sortOrder": "custom"
     },
@@ -573,7 +577,8 @@
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Subshell.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Spin.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Configuration.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Valence Electron.md"
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Valence Electron.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Energy Level.md"
       ],
       "sortOrder": "custom"
     },
@@ -627,13 +632,22 @@
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Polar Molecule.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Dipole Moment.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Order.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Length.md"
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Length.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Average Bond Energy.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Dissociation Energy.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Metallic Bond.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II": {
       "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/03.4 Bonding II.md"
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/03.4 Bonding II.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Valence Bond Method.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Hybridization.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Hybrid Orbital.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Molecular Orbital Theory.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Pi Bond.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Sigma Bond.md"
       ],
       "sortOrder": "custom"
     },
@@ -648,13 +662,42 @@
     },
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces": {
       "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/04.1 Intermolecular Forces.md"
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/04.1 Intermolecular Forces.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Van Der Waals Forces.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Dipole Dipole Interactions.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/London Forces.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Hydrogen Bond.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Surface Tension.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Adhesive Force.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Cohesive Force.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Viscosity.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Condensation.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Evaporation.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Vapor.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Vapor Pressure.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Clausius Clapeyron Equation.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Dynamic Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Boiling.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Boiling Point.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Critical Point.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Melting.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Melting Point.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Freezing.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Freezing Point.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Sublimation.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Deposition.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Phase Diagram.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Triple Point.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/State of Matter.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy": {
       "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md"
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Entropy.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Microstate.md"
       ],
       "sortOrder": "custom"
     },
