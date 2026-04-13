@@ -645,9 +645,9 @@
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Valence Bond Method.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Hybridization.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Hybrid Orbital.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Molecular Orbital Theory.md",
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Sigma Bond.md",
         "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Pi Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Sigma Bond.md"
+        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Molecular Orbital Theory.md"
       ],
       "sortOrder": "custom"
     },
@@ -695,9 +695,9 @@
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy": {
       "children": [
         "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Microstate.md",
         "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Entropy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Microstate.md"
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md"
       ],
       "sortOrder": "custom"
     },
