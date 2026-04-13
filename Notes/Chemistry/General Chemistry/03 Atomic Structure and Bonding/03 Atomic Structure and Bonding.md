@@ -24,6 +24,7 @@ tags: [summary]
 - [[Electron Spin]]
 - [[Electron Configuration]]
 - [[Valence Electron]]
+- [[Energy Level]]
 
 ### #constant 
 

@@ -215,6 +215,7 @@ tags:
 - [[Electron Spin]]
 - [[Electron Configuration]]
 - [[Valence Electron]]
+- [[Energy Level]]
 
 ###### #constant 
 
