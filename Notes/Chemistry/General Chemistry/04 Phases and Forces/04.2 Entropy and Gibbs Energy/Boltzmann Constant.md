@@ -11,7 +11,7 @@ $$k_B = \frac{R}{N_A}$$
 ## Variables
 |    Symbol    |          Meaning           |       Units       |
 | :----------: | :------------------------: | :---------------: |
-|     $m$      |          [[Mass]]          |      $(Kg)$       |
+|    $k_B$     |   [[Boltzmann Constant]]   |      $(Kg)$       |
 | $\mathbf{g}$ | [[Gravitational Constant]] | $(\frac{m}{s^2})$ |
 |     $h$      |           Height           |       $(m)$       |
 
