@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Skeletal Structure.excalidraw"
             }
+          },
+          {
+            "id": "3814a9a217884c4e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,7 +272,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Excalidraw/Skeletal Structure.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -344,7 +356,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Skeletal Structure.excalidraw"
+              "title": "Graph view"
             }
           }
         ]
@@ -368,7 +380,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "01354666a8200162",
+  "active": "5f0e7da8c4bd1488",
   "lastOpenFiles": [
     "Resources/Excalidraw/Skeletal Structure.excalidraw.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",

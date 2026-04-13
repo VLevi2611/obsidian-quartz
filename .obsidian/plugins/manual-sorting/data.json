@@ -1208,6 +1208,12 @@
       ],
       "sortOrder": "custom"
     },
+    "Resources/Excalidraw": {
+      "children": [
+        "Resources/Excalidraw/Skeletal Structure.excalidraw.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Resources/Images": {
       "children": [
         "Resources/Images/Pressure Units.png",
@@ -1233,12 +1239,6 @@
         "Templates/Subject Template.md",
         "Templates/World Template.md",
         "Templates/Summary Template.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Resources/Excalidraw": {
-      "children": [
-        "Resources/Excalidraw/Skeletal Structure.excalidraw.md"
       ],
       "sortOrder": "custom"
     }
