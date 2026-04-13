@@ -11,7 +11,7 @@ Gravitational potential energy $U_g$ is a type of [[Potential Energy]] that stem
 ## #formula 
 
 $$U_g=m\mathbf{g}h$$
-## ## Variables
+## Variables
 | Symbol         | Meaning                    | Units               |
 | :--------------: | :--------------------------: | :-------------------: |
 | $m$          | [[Mass]]                   | $(Kg)$            |
