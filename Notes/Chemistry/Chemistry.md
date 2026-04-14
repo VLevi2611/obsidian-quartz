@@ -328,6 +328,16 @@ tags:
 
 ###### #concept 
 
+- [[Microstate]]
+- [[Entropy]]
+- [[Standard Molar Entropy]]
+- [[Standard Reaction Entropy]]
+- [[Second Law of Thermodynamics]]
+
+###### #constant 
+
+- [[Boltzmann Constant]]
+
 ##### [[04.3 Solutions]]
 
 ###### #concept 

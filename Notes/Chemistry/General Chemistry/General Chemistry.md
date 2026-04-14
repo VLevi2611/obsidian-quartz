@@ -331,6 +331,18 @@ tags:
 
 ### [[04.2 Entropy and Gibbs Energy]]
 
+#### #concept 
+
+- [[Microstate]]
+- [[Entropy]]
+- [[Standard Molar Entropy]]
+- [[Standard Reaction Entropy]]
+- [[Second Law of Thermodynamics]]
+
+#### #constant 
+
+- [[Boltzmann Constant]]
+
 ### [[04.3 Solutions]]
 
 ## [[05 Equilibrium]]
