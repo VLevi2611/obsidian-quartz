@@ -22,3 +22,6 @@ $$S = k_B \, ln(W)$$
 2. [[Gas|Gases]] are formed from either solids or liquids.
 3. The number of [[Molecule|Molecules]] of gas increases as a result of a [[Chemical Reaction]].
 4. The [[Temperature]] of a [[Substance]] increases.
+
+The entropy change for the surroundings in determined by the total amount of [[Heat]] that flows into the surro
+$$\Delta S_{surr} = \frac{-q_{sys}}{T_{surr}}$$ 
