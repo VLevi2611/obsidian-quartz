@@ -15,3 +15,10 @@ $$S = k_B \, ln(W)$$
 |  $S$   |              [[Entropy]]              | $(\frac{J}{K})$ |
 | $k_B$  |        [[Boltzmann Constant]]         | $(\frac{J}{K})$ |
 |  $W$   | number of [[Microstate\|Microstates]] |                 |
+
+## Summary of situations that produce an increase in entropy
+
+1. Pure [[Liquid|Liquids]] or liquid [[Solution|Solutions]] are formed from [[Solid|Solids]].
+2. [[Gas|Gases]] are formed from either solids or liquids.
+3. The number of [[Molecule|Molecules]] of gas increases as a result of a [[Chemical Reaction]].
+4. The [[Temperature]] of a [[Substance]] increases.
