@@ -338,6 +338,9 @@ tags:
 - [[Standard Molar Entropy]]
 - [[Standard Reaction Entropy]]
 - [[Second Law of Thermodynamics]]
+- [[Gibbs Energy]]
+- [[Gibbs Energy Change]]
+- [[Coupled Reactions]]
 
 #### #constant 
 
