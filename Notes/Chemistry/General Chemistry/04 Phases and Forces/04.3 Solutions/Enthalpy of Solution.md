@@ -14,4 +14,4 @@ In the formation of some [[Solution|Solutions]], [[Heat]] is given off to the su
 The **enthalpy of solution** is the sum of all 3 [[Enthalpy]] changes.
 $$\Delta _{soln} H = \Delta H_1 + \Delta H_2 + \Delta H_3$$
 When the solute and solvent are both [[Liquid|Liquids]], $\Delta H_1$ is equal to $\Delta _{vap} H$, the enthalpy of [[Evaporation]] for the solvent and $\Delta H_2$ is equal to $\Delta _{vap} H$ for the solute.
-When the solute and solvent are [[Solid|Solids]]
+When the solute and solvent are [[Solid|Solids]], than $\Delta H_1 = \Delta _{sub} H$, the enthalpy of [[Sublimation]] for the solvent and $\Delta H_2 = \Delta _{sub} H$ for the solute.
