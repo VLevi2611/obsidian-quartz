@@ -23,5 +23,5 @@ $$S = k_B \, ln(W)$$
 3. The number of [[Molecule|Molecules]] of gas increases as a result of a [[Chemical Reaction]].
 4. The [[Temperature]] of a [[Substance]] increases.
 
-The entropy change for the surroundings in determined by the total amount of [[Heat]] that flows into the surro
+The entropy change for the surroundings in determined by the total amount of [[Heat]] that flows into the surroundings and the [[Temperature]] of the surroundings.
 $$\Delta S_{surr} = \frac{-q_{sys}}{T_{surr}}$$ 
