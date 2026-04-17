@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-Substance is a unique form of [[Matter]], with constant chemical composition and properties.
+**Substance** is a unique form of [[Matter]], with constant chemical [[Composition]] and [[Property|Properties]].
 

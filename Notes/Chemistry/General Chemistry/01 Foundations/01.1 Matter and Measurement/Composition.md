@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-Composition refers to the parts or components of a sample of [[Matter]], each component is a [[Substance]].
+**Composition** refers to the parts or components of a sample of [[Matter]], each component is a [[Substance]].

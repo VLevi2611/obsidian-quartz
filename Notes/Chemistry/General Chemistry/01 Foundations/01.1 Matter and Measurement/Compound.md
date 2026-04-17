@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-A chemical compound is a chemical [[Substance]] composed by many identical [[Molecule]]s, containing [[Atom]]s from more than one [[Element]], held together by [[Chemical Bond]].
+A chemical **compound** is a chemical [[Substance]] [[Composition|Composed]] by many identical [[Molecule|Molecules]], containing [[Atom|Atoms]] from more than one [[Element]], held together by [[Chemical Bond|Chemical Bonds]].
