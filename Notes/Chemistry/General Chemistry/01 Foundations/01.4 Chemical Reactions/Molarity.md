@@ -11,10 +11,10 @@ $$\text{molarity} = \frac{\text{amount of solute(in moles)}}{\text{amount of sol
 This can be written as:
 $$c = \frac{n}{V}$$
 
-| Symbol | Meaning          | Units                    |
-| :----: | ---------------- | ------------------------ |
-|  $c$   | [[Molarity]]     | $(\frac{\text{mol}}{L})$ |
-|  $n$   | amount of solute | $(\text{mol})$           |
-|  $V$   | [[Volume]]       | $(L)$                    |
+| Symbol | Meaning              | Units                    |
+| :----: | -------------------- | ------------------------ |
+|  $c$   | [[Molarity]]         | $(\frac{\text{mol}}{L})$ |
+|  $n$   | amount of [[Solute]] | $(\text{mol})$           |
+|  $V$   | [[Volume]]           | $(L)$                    |
 
-When calculating concentration, we must determine the amount of solute in moles from the other quantities that can be measured, such as the [[Mass]] of the solute or the volume of a [[Liquid]] solute.
+When calculating [[concentrat]], we must determine the amount of solute in moles from the other quantities that can be measured, such as the [[Mass]] of the solute or the volume of a [[Liquid]] solute.
