@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The total [[Mass]] of [[Substance]]s present after a chemical reaction is the same as the total mass of substances before the reaction.
+The total [[Mass]] of [[Substance|Substances]] present after a [[Chemical Reaction]] is the same as the total mass of substances before the reaction.
 

@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-In the [[Rutherford's Atomic Model]], he suggested the existence of positively charged fundamental particles of [[Matter]] in the [[Nucleus]] of an [[Atom]], called Protons.
+In the [[Rutherford's Atomic Model]], he suggested the existence of positively charged fundamental particles of [[Matter]] in the [[Nucleus]] of an [[Atom]], called **Protons**.
 
 |    Electric Charge (C)    | Electric Charge (Atomic) |       [[Mass]] (g)       |
 | :-----------------------: | :----------------------: | :----------------------: |

@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-Density $d$ is the ratio of [[Mass]] to [[Volume]].
+**Density, $d$,** is the ratio of [[Mass]] to [[Volume]].
 
 ## #formula 
 
