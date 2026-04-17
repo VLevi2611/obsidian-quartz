@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The total number of [[Proton]]s and [[Neutron]]s in an [[Atom]] is called the **mass number, A**. 
+The total number of [[Proton|Protons]] and [[Neutron|Neutrons]] in an [[Atom]] is called the **mass number, A**. 
 
