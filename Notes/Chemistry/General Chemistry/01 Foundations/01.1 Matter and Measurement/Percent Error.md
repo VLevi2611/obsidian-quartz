@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-Percent error measures the difference between an estimated value and a true value, expressed as a percentage of the actual value.
+**Percent error** measures the difference between an estimated value and a true value, expressed as a percentage of the actual value.
 A lower percent error indicates higher accuracy. 
 
 ## #formula 

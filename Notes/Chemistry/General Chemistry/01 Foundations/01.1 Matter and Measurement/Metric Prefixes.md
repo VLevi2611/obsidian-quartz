@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-Since [[SI Units]] are a decimal system, prefixes are used to denote quantities that differ from the base unit by powers of 10.
+Since [[SI Units]] are a decimal system, **prefixes** are used to denote quantities that differ from the base unit by powers of 10.
 
 | Prefix Name | Prefix Symbol |  Base 10  |   Decimal   |
 | :---------: | :-----------: | :-------: | :---------: |
