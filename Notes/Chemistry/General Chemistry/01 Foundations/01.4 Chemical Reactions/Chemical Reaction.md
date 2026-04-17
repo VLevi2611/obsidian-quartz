@@ -10,6 +10,6 @@ A **chemical reaction** is a process in which one set of [[Substance|Substances]
 - a color change
 - formation of a [[Solid]] within a clear solution
 - evolution of a [[Gas]]
-- evolution or absorption of heat
+- evolution or absorption of [[Heat]]
 
 
