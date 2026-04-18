@@ -10,3 +10,4 @@ The **equilibrium constant, $K$,** is a numerical value defining the ratio of [[
 For the general [[Chemical Equation]] $aA + bB \ce{\leftrightharpoons} cC + dD$, the equilibrium constant is expresses as
 $$K = \frac{[C]^c [D]^d}{[A]^a [B]^b}$$
 
+When individual equations are combined, their equilibrium constants are [[Multiplication|Multiplied]] to obtain the equilibrium constant for the [[Overall Reaction]].
