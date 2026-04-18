@@ -11,3 +11,5 @@ For the general [[Chemical Equation]] $aA + bB \ce{\leftrightharpoons} cC + dD$,
 $$K = \frac{[C]^c [D]^d}{[A]^a [B]^b}$$
 
 When individual equations are combined, their equilibrium constants are [[Multiplication|Multiplied]] to obtain the equilibrium constant for the [[Overall Reaction]].
+
+A reaction goes essentially to completion if $K > 10^{10}$ and not at all if $K < 10^{-10}$. 
