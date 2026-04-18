@@ -368,6 +368,13 @@ tags:
 
 ## [[05 Equilibrium]]
 
+#### #concept 
+
+- [[Equilibrium]]
+- [[Equilibrium Constant]]
+- [[Reaction Quotient]]
+- [[Le Chatelier's Principle]]
+
 ### [[05.1 Chemical Equilibrium]]
 
 ### [[05.2 Acids and Bases]]
