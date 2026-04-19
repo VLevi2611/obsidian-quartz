@@ -368,6 +368,8 @@ tags:
 
 ## [[05 Equilibrium]]
 
+### [[05.1 Chemical Equilibrium]]
+
 #### #concept 
 
 - [[Equilibrium]]
@@ -375,9 +377,24 @@ tags:
 - [[Reaction Quotient]]
 - [[Le Chatelier's Principle]]
 
-### [[05.1 Chemical Equilibrium]]
-
 ### [[05.2 Acids and Bases]]
+
+#### #concept 
+
+- [[Bronsted Lowry theory]]
+- [[Conjugate Acid]]
+- [[Conjugate Base]]
+- [[Conjugate Acid Base Pair]]
+- [[Amphiprotic]]
+- [[Self Ionization]]
+- [[Ion Product of Water]]
+- [[pH]]
+- [[pOH]]
+- [[Acid Ionization Constant]]
+- [[pKa]]
+- [[Base Ionization Constant]]
+- [[pKb]]
+- [[Degree of Ionization]]
 
 ### [[05.3 Acid-Base Equilibria]]
 
