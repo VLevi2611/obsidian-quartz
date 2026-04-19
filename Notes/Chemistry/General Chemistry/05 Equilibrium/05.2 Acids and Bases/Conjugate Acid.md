@@ -6,5 +6,6 @@ tags:
 ---
 ## Definition
 
-The **Bronsted Lowry**
+A **conjugate acid** is a chemical species formed when a [[bro]]
+
 
