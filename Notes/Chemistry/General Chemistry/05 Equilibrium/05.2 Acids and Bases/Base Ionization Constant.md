@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **base ionization constant, $K_b$** , is a quantitative measure if a strength in [[Solution]], representing the [[Equilibrium Constant]] for its [[Dissociation]] into [[Ion|Ions]]. A higher $K_a$ indicates greater [[Ionization]] and a [[Strong Acid|Stronger Acid]].
+The **base ionization constant, $K_b$** , is the [[Equilibrium Constant]] for the [[Ionization]] of a [[Weak Base]] in water, measuring the strength by quantifying its [[Dissociation]] into [[Conjugate Acid]] and hydroxide [[Ion|Ions]] $(\ce{OH-})$. A higher $K_b$ value indicates a [[Strong Base|Stronger Base]]
 
