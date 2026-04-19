@@ -6,5 +6,6 @@ tags:
 ---
 ## Definition
 
-**Self ionization** is a [[Chemical Reaction]] where 2 identical [[Molecule|Molecules]], commonly water, [[Collision|Collide]] and transfer a [[Proton]] to form [[Ion|]]
+**Self ionization** is a [[Chemical Reaction]] where 2 identical [[Molecule|Molecules]], commonly water, [[Collision|Collide]] and transfer a [[Proton]] to form [[Ion|Ions]].
 
+![[Self Ionization of water.png]]
