@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-**Polyprotic acids** are [[Acid|Acids]] capable of [[Proton Donor|Donating]] more than one [[Proton]] per [[Molecule]] in a stepwise manner. 
+**Polyprotic acid** is an [[Acid]] capable of [[Proton Donor|Donating]] more than one [[Proton]] per [[Molecule]] in a stepwise manner. 
 They [[Ionization|Ionize]] in stages, with each subsequent step having a smaller [[Acid Ionization Constant]].

@@ -390,6 +390,13 @@ tags:
 - [[Base Ionization Constant]]
 - [[pKb]]
 - [[Degree of Ionization]]
+- [[Polyprotic Acid]]
+- [[Hydrolysis]]
+- [[Acid-Base Reaction]]
+- [[Water]]
+- [[Lewis Acid]]
+- [[Lewis Base]]
+- [[Adduct]]
 
 ##### [[05.3 Acid-Base Equilibria]]
 
