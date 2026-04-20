@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The [[Product]] of an 
+The [[Product]] of an [[Lewis Base|Lewis]] [[Acid-Base Reaction]] is called an **adduct**.
 
 
