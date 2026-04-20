@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-**Nonelectrolytes** are [[Substance|Substances]] that does not provide [[Ion|Ions]] when dissolved in water.
+**Nonelectrolytes** are [[Substance|Substances]] that does not provide [[Ion|Ions]] when dissolved in [[Water]].
