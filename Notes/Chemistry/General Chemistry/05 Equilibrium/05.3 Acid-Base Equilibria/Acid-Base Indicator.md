@@ -13,4 +13,4 @@ When just a small amount of indicator is added to a solution, the indicator does
 ![[Acid-Base Indicator.png]]
 
 From [[Le Chatelier's Principle]], we see that increasing $\ce{[H3O+]}$ in a solution displaces the equilibrium to the left, increasing the proportion of $\ce{HIn}$ and the [[Acid]] color.
-$$$$
+$$pH = pK_{\ce{HIn}} + \log \frac{[\ce{In-}]}{[\ce{HIn}]}$$
