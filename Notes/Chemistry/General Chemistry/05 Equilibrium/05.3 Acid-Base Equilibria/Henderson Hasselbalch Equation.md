@@ -6,6 +6,10 @@ tags:
 ---
 ## Definition
 
-The **Henderson Hasselbalch equation** is used to describe a [[Buffer Solution]], by deriving an [[Acid Ionization Constant]] and a [[Base Ionization Constant]]. Consider a [[Mixture]] of a hypothetical [[Weak Acid]], $\ce{HA}$ and its [[Salt]], $\ce{NaA}$. 
-$$\ce{HA}$$
-
+The **Henderson Hasselbalch equation** is used to describe a [[Buffer Solution]], by deriving an [[Acid Ionization Constant]]. Consider a [[Mixture]] of a hypothetical [[Weak Acid]], $\ce{HA}$ and its [[Salt]], $\ce{NaA}$. 
+$$\ce{HA} + \ce{H2O} \ce{\leftrightharpoons} \ce{H3O+} + \ce{A-}$$
+The acid ionization constant is
+$$K_a = \frac{[\ce{H3O+}] [\ce{A-}]}{[\ce{HA}]}$$
+Next, we take the negative log of each side of this [[Chemical Equation]].
+$$-\log K_a = -\log[\ce{H3O+}] - \log \frac{[\ce{A-}]}{[\ce{HA}]}$$
+Now, recall that [[pH]]
