@@ -14,7 +14,9 @@ Studies on the scattering of $\alpha$ particles by thin metal foils led to the c
 
 All elements from $Z = 1$ to $Z = 116$ except for elements with $Z = 113,115$ have been characterized and all have been given a name and a chemical symbol. Atoms of the same element that differ in mass number are called [[Isotope|Isotopes]]. The percent isotopic abundance of an isotope and the precise mass of its atoms can be established with a mass spectrometer. A special symbolism is used to represent the composition of an atom or an [[Ion]].
 
-The [[Atomic Mass]] 
+The [[Atomic Mass]] of an element is a [[Weighted Average]] based on an assigned value of exactly 12 $u$ for the isotope carbon 12. The weighted average is calculated from the experimentally determined atomic masses and percent abundances of the naturally occurring isotopes of the element.
+
+The [[Periodic Table.png|Periodic Table]] is an arrangement of the elements in horizontal rows called [[Periods]] and vertical columns called [[Groups]]. Each group consists of element with similar [[Physical Properties|Physical]] and [[Chemical Properties]]. The elements can also be subdivided into broad categories. One categorization
 
 ## #concept 
 
