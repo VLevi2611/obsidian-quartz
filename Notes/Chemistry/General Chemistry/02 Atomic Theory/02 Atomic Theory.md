@@ -6,7 +6,9 @@ tags:
 ---
 ## Overview 
 
-Modern chemistry began with 18th century discoveries leading to the formulation of 2 basic laws of chemical combination, the [[Conservation Of Mass]] and the [[Constant Composition Law]]. These discoveries led to [[Dalton's Atomic Model]]- that [[Matter]] is [[Composition|Composed]] of indestructible particles called [[Atom|Atoms]], that the atoms of an [[Element]] are ide
+Modern chemistry began with 18th century discoveries leading to the formulation of 2 basic laws of chemical combination, the [[Conservation Of Mass]] and the [[Constant Composition Law]]. These discoveries led to [[Dalton's Atomic Model]]- that [[Matter]] is [[Composition|Composed]] of indestructible particles called [[Atom|Atoms]], that the atoms of an [[Element]] are identical to one another but different from atoms of all other elements, and that chemical [[Compound|Compounds]] are combinations of atoms of different elements.
+
+The first clues to the structure of atoms came through cathode rays ([[Electron|Electrons]]). Key experiments were those that established the [[Mass]] to [[Charge]] ratio and then the charge on an electron. 2 important accidental discoveries made in the research were of X-rays and [[Radioactivity]]. The principal types of radiation emitted by radioactive 
 
 ## #concept 
 
