@@ -9,11 +9,11 @@ tags:
 
 ### [[General Math Terms]]
 
-#### #summary 
+### #summary 
 
-##### [[01 Math Symbols]] 
+#### [[01 Math Symbols]] 
 
-###### #concept 
+##### #concept 
 
 - [[Scalar]]
 - [[Field]]
@@ -29,7 +29,7 @@ tags:
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
 
-###### #symbol 
+##### #symbol 
 
 - [[Absolute Value]]
 - [[Addition]]
@@ -41,9 +41,9 @@ tags:
 - [[If and Only If]]
 - [[Implication]]
 
-##### [[02 Intervals]]
+#### [[02 Intervals]]
 
-###### #concept 
+##### #concept 
 
 - [[Lower Bound]]
 - [[Upper Bound]]
@@ -57,13 +57,13 @@ tags:
 - [[Closed Ray]]
 - [[Open Ray]]
 
-##### [[03 Set Symbols]]
+#### [[03 Set Symbols]]
 
-###### #concept 
+##### #concept 
 
 - [[Set]]
 
-###### #symbol 
+##### #symbol 
 
 - [[Subset]]
 - [[Element Of]]
@@ -78,11 +78,11 @@ tags:
 - [[Complex Number]]
 ### [[Linear Algebra]]
 
-#### #summary 
+### #summary 
 
-##### [[01 Linear systems]]
+#### [[01 Linear systems]]
 
-###### #concept 
+##### #concept 
 
 - [[Linear System]]
 - [[Linear System Of Equations]]
@@ -90,9 +90,9 @@ tags:
 - [[Solvability]]
 - [[Unique Solution]]
 
-##### [[02 Vectors]]
+#### [[02 Vectors]]
 
-###### #concept 
+##### #concept 
 
 - [[Vector]]
 - [[Coordinates]]
@@ -105,9 +105,9 @@ tags:
 - [[Column Vector]]
 - [[Row Vector]]
 
-##### [[03 Matrices]]
+#### [[03 Matrices]]
 
-###### #concept 
+##### #concept 
 
 - [[Matrix]]
 - [[Identity Matrix]]
@@ -119,9 +119,9 @@ tags:
 - [[Transpose]]
 - [[Cramer's Rule]]
 
-##### [[04 Basis and Dimension]]
+#### [[04 Basis and Dimension]]
 
-###### #concept 
+##### #concept 
 
 - [[Linear Combination]]
 - [[Span]]
@@ -131,9 +131,9 @@ tags:
 - [[Dimension]]
 - [[Rank]]
 
-##### [[05 Vector Spaces]]
+#### [[05 Vector Spaces]]
 
-###### #concept 
+##### #concept 
 
 - [[Vector Space]]
 - [[Subspace]]
@@ -143,9 +143,9 @@ tags:
 - [[Fundamental Subspaces]]
 - [[Orthogonality]]
 
-##### [[06 Linear Transformations]]
+#### [[06 Linear Transformations]]
 
-###### #concept 
+##### #concept 
 
 - [[Linear Transformation]]
 - [[Geometric Properties Of Linear Transformations]]
@@ -153,9 +153,9 @@ tags:
 - [[Non Square Matrices]]
 - [[Change Of Basis]]
 
-##### [[07 Eigenvalues and Eigenvectors]]
+#### [[07 Eigenvalues and Eigenvectors]]
 
-###### #concept 
+##### #concept 
 
 - [[Eigenvector]]
 - [[Eigenvalue]]
@@ -164,9 +164,9 @@ tags:
 - [[Trace]]
 - [[Determinant And Eigenvalues]]
 
-##### [[08 Diagonalization]]
+#### [[08 Diagonalization]]
 
-###### #concept 
+##### #concept 
 
 - [[Diagonal Matrix]]
 - [[Eigenvector Matrix]]
@@ -179,290 +179,3 @@ tags:
 - [[Vector Problems]]
 - [[Matrix Problems]]
 - [[Basis and Dimension Problems]]
-
-### [[Calculus]]
-
-#### #summary 
-
-##### [[Limits]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Derivatives]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol  
-
-##### [[Integrals]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol  
-##### [[Series]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol  
-
-##### [[Multivariable]]
-###### #concept 
-
-###### #formula 
-
-###### #symbol  
-
-##### [[Vector Calculus]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol  
-
-#### #problem 
-### [[Ordinary Differential Equations]]
-
-#### #summary 
-
-##### [[1st Order ODEs]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[2nd Order ODEs]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Systems of ODEs]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Laplace Transforms]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Series Solutions]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-#### #problem 
-### [[Numerical Analysis]]
-
-#### #summary 
-
-##### [[Error Analysis]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Root Finding]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Numerical Integration]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Linear System Solvers]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Interpolation]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[ODE and PDE Methods]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-#### #problem 
-### [[Probability]]
-
-#### #summary 
-
-##### [[Sample Spaces]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Conditional Probability]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Random Variables]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Discrete Distributions]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Continuous Distributions]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Expectation and Variance]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Joint Distributions]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[LLN]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[CLT]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-#### #problem 
-### [[Complex Analysis]]
-
-#### #summary 
-
-##### [[Complex Numbers]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Analytic Functions]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[CR Equations]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Counter Integrals]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Cauchy's Theorem]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Residues]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-
-##### [[Laurent Series]]
-
-###### #concept 
-
-###### #formula 
-
-###### #symbol 
-#### #problem 
