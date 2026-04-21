@@ -10,7 +10,7 @@ tags:
 
 ## [[01 Foundations]]
 
-### [[01.1 Matter and Measurement]]
+### [[01 Matter and Measurement]]
 
 #### #concept 
 

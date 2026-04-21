@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md",
+                "file": "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/01.2 Atomic Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05.2 Acids and Bases"
+              "title": "01.2 Atomic Theory"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md",
+                "file": "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/01.2 Atomic Theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 05.2 Acids and Bases"
+              "title": "Graph of 01.2 Atomic Theory"
             }
           }
         ]
@@ -370,11 +370,18 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ba613edb91774786",
+  "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/01.1 Matter and Measurement.md",
+    "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
+    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/04.1 Intermolecular Forces.md",
+    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
+    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/04.3 Solutions.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Analyte.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Bronsted Lowry theory.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
@@ -394,7 +401,6 @@
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Solution.md",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Range.md",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Capacity.md",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Analyte.md",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Acid-Base Indicator.md",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pOH.md",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pKb.md",
@@ -402,12 +408,6 @@
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pH.md",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Water.md",
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Self Ionization.md",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Polyprotic Acid.md",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Base.md",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Acid.md",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Ion Product of Water.md",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Hydrolysis.md",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Degree of Ionization.md",
     "Book view.base",
     "Resources/Excalidraw",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",

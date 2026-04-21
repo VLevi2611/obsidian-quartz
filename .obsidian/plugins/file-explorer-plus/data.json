@@ -232,35 +232,28 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md",
+        "pattern": "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/01.1 Matter and Measurement.md",
+        "pattern": "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/01.3 Chemical Compounds.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01.3 Chemical Compounds/01.3 Chemical Compounds.md",
+        "pattern": "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
+        "pattern": "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
         "patternType": "STRICT"
       },
       {
@@ -442,7 +435,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/01.2 Atomic Theory.md",
+        "pattern": "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/01.2 Atomic Theory.md",
         "patternType": "STRICT"
       },
       {
