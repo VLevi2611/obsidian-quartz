@@ -12,7 +12,12 @@ In this section , the concept of [[Atomic Mass]] is extended to [[Molecular Mass
 
 The mass percent composition of a compound can be established from its formula. Conversely, a chemical formula can be deduced from the experimentally determined percent [[Composition]] of the compound. For [[Organic Compound|Organic Compounds]], this often involves [[Combustion]] analysis.
 
-The [[oxidation]]
+The [[Oxidation State]] of an atom is roughly related to the number of [[Electron|Electrons]] involved in the formation of a [[Chemical Bond]] between that atom and another one. Oxidation states are expressed as numbers assigned according to a [[Set]] of conversions.
+
+Assigning names to the formulas of chemical compounds, **nomenclature**, is an important activity in chemistry. This topic is introduced in the section and applied to 2 broad categories:
+1. Organic compounds, which are compounds formed by the elements carbon and hydrogen, often together with a few other [[Element|Elements]].
+2. Inorganic compounds, a category that includes the remaining compounds. 
+
 
 ## #concept 
 
