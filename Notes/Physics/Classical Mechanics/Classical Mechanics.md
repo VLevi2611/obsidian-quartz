@@ -30,15 +30,12 @@ Classical mechanics is the study of force, matter and motion in physical objects
 - [[Force]]
 - [[Mass]]
 - [[Gravity]]
+- [[Gravitational Constant]]
 
 #### #formula 
 
 - [[Newton's Second Law]]
 - [[Gravity Force Formula]]
-
-#### #constant 
-
-- [[Gravitational Constant]]
 
 #### #problem 
 

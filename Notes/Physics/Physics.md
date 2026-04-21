@@ -30,15 +30,13 @@ Physics is the study of [[Matter]].
 - [[Force]]
 - [[Mass]]
 - [[Gravity]]
+- [[Gravitational Constant]]
 
 ###### #formula 
 
 - [[Newton's Second Law]]
 - [[Gravity Force Formula]]
 
-###### #constant 
-
-- [[Gravitational Constant]]
 ##### [[Energy]]
 
 ###### #concept 

@@ -1,9 +1,8 @@
 ---
 tags:
-  - constant
+  - "#concept"
   - physics
   - classical-mechanics
-  - dynamics
 ---
 ## Definition
 
