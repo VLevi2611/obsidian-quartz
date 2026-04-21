@@ -364,12 +364,11 @@
         "Notes/Chemistry/General Chemistry/18 Solubility Equilibria",
         "Notes/Chemistry/General Chemistry/19 Electrochemistry",
         "Notes/Chemistry/General Chemistry/20 Kinetics",
-        "Notes/Chemistry/General Chemistry/06.1 Main Group I",
-        "Notes/Chemistry/General Chemistry/06.2 Main Group II",
-        "Notes/Chemistry/General Chemistry/06.3 Transition Metals",
-        "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry",
-        "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry"
+        "Notes/Chemistry/General Chemistry/21 Main Group I",
+        "Notes/Chemistry/General Chemistry/22 Main Group II",
+        "Notes/Chemistry/General Chemistry/23 Transition Metals",
+        "Notes/Chemistry/General Chemistry/24 Coordination Chemistry",
+        "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry"
       ],
       "sortOrder": "custom"
     },
@@ -429,7 +428,7 @@
     },
     "Notes/Chemistry/General Chemistry/03 Chemical Compounds": {
       "children": [
-        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/01.3 Chemical Compounds.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/03 Chemical Compounds.md",
         "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Molecular Compound.md",
         "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Chemical Formula.md",
         "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Empirical Formula.md",
@@ -445,7 +444,7 @@
     },
     "Notes/Chemistry/General Chemistry/04 Chemical Reactions": {
       "children": [
-        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/01.4 Chemical Reactions.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/04 Chemical Reactions.md",
         "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Chemical Reaction.md",
         "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Reagent.md",
         "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Product.md",
@@ -469,7 +468,7 @@
     },
     "Notes/Chemistry/General Chemistry/05 Aqueous Reactions": {
       "children": [
-        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/01.5 Aqueous Reactions.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
         "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Aqueous Solution.md",
         "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Electrolytes.md",
         "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Nonelectrolytes.md",
@@ -497,15 +496,9 @@
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md"
-      ],
-      "sortOrder": "custom"
-    },
     "Notes/Chemistry/General Chemistry/06 Gases": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Gases/02.1 Gases.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
         "Notes/Chemistry/General Chemistry/06 Gases/Gas.md",
         "Notes/Chemistry/General Chemistry/06 Gases/Pressure.md",
         "Notes/Chemistry/General Chemistry/06 Gases/Boyle's Law.md",
@@ -520,33 +513,9 @@
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/06.1 Main Group I": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06.1 Main Group I/06.1 Main Group I.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/06.2 Main Group II": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06.2 Main Group II/06.2 Main Group II.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/06.3 Transition Metals": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06.3 Transition Metals/06.3 Transition Metals.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md"
-      ],
-      "sortOrder": "custom"
-    },
     "Notes/Chemistry/General Chemistry/07 Thermochemistry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/07 Thermochemistry/02.2 Thermochemistry.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
         "Notes/Chemistry/General Chemistry/07 Thermochemistry/System.md",
         "Notes/Chemistry/General Chemistry/07 Thermochemistry/Surroundings.md",
         "Notes/Chemistry/General Chemistry/07 Thermochemistry/Open System.md",
@@ -579,7 +548,7 @@
     },
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms": {
       "children": [
-        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/03.1 Electrons in Atoms.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
         "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Electromagnetic Radiation.md",
         "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave.md",
         "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Amplitude.md",
@@ -605,7 +574,7 @@
     },
     "Notes/Chemistry/General Chemistry/09 Periodic Trends": {
       "children": [
-        "Notes/Chemistry/General Chemistry/09 Periodic Trends/03.2 Periodic Trends.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
         "Notes/Chemistry/General Chemistry/09 Periodic Trends/Metal.md",
         "Notes/Chemistry/General Chemistry/09 Periodic Trends/Nonmetal.md",
         "Notes/Chemistry/General Chemistry/09 Periodic Trends/Noble Gas.md",
@@ -625,7 +594,7 @@
     },
     "Notes/Chemistry/General Chemistry/10 Bonding I": {
       "children": [
-        "Notes/Chemistry/General Chemistry/10 Bonding I/03.3 Bonding I.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
         "Notes/Chemistry/General Chemistry/10 Bonding I/Lewis Theory.md",
         "Notes/Chemistry/General Chemistry/10 Bonding I/Lewis Symbol.md",
         "Notes/Chemistry/General Chemistry/10 Bonding I/Lewis Structure.md",
@@ -662,7 +631,7 @@
     },
     "Notes/Chemistry/General Chemistry/11 Bonding II": {
       "children": [
-        "Notes/Chemistry/General Chemistry/11 Bonding II/03.4 Bonding II.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
         "Notes/Chemistry/General Chemistry/11 Bonding II/Valence Bond Method.md",
         "Notes/Chemistry/General Chemistry/11 Bonding II/Hybridization.md",
         "Notes/Chemistry/General Chemistry/11 Bonding II/Hybrid Orbital.md",
@@ -674,7 +643,7 @@
     },
     "Notes/Chemistry/General Chemistry/12 Intermolecular Forces": {
       "children": [
-        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/04.1 Intermolecular Forces.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/12 Intermolecular Forces.md",
         "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Van Der Waals Forces.md",
         "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Dipole Dipole Interactions.md",
         "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/London Forces.md",
@@ -706,7 +675,7 @@
     },
     "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy": {
       "children": [
-        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
         "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Microstate.md",
         "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Entropy.md",
         "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Molar Entropy.md",
@@ -721,7 +690,7 @@
     },
     "Notes/Chemistry/General Chemistry/14 Solutions": {
       "children": [
-        "Notes/Chemistry/General Chemistry/14 Solutions/04.3 Solutions.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
         "Notes/Chemistry/General Chemistry/14 Solutions/Concentrated Solution.md",
         "Notes/Chemistry/General Chemistry/14 Solutions/Dilute Solution.md",
         "Notes/Chemistry/General Chemistry/14 Solutions/Molality.md",
@@ -742,7 +711,7 @@
     },
     "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium": {
       "children": [
-        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
         "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/Equilibrium.md",
         "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/Equilibrium Constant.md",
         "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/Reaction Quotient.md",
@@ -752,7 +721,7 @@
     },
     "Notes/Chemistry/General Chemistry/16 Acids and Bases": {
       "children": [
-        "Notes/Chemistry/General Chemistry/16 Acids and Bases/05.2 Acids and Bases.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
         "Notes/Chemistry/General Chemistry/16 Acids and Bases/Bronsted Lowry theory.md",
         "Notes/Chemistry/General Chemistry/16 Acids and Bases/Conjugate Acid.md",
         "Notes/Chemistry/General Chemistry/16 Acids and Bases/Conjugate Base.md",
@@ -779,7 +748,7 @@
     },
     "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria": {
       "children": [
-        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/17 Acid-Base Equilibria.md",
         "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Solution.md",
         "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Henderson Hasselbalch Equation.md",
         "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Capacity.md",
@@ -795,19 +764,49 @@
     },
     "Notes/Chemistry/General Chemistry/18 Solubility Equilibria": {
       "children": [
-        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/05.4 Solubility Equilibria.md"
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/19 Electrochemistry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/19 Electrochemistry/05.5 Electrochemistry.md"
+        "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/20 Kinetics": {
       "children": [
-        "Notes/Chemistry/General Chemistry/20 Kinetics/05.6 Kinetics.md"
+        "Notes/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/21 Main Group I": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/21 Main Group I/21 Main Group I.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/22 Main Group II": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/22 Main Group II/22 Main Group II.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/23 Transition Metals": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/24 Coordination Chemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry/25 Nuclear Chemistry.md"
       ],
       "sortOrder": "custom"
     },
@@ -1103,128 +1102,128 @@
     "Notes/Physics/Classical Mechanics": {
       "children": [
         "Notes/Physics/Classical Mechanics/Classical Mechanics.md",
-        "Notes/Physics/Classical Mechanics/Kinematics",
-        "Notes/Physics/Classical Mechanics/Newton's Laws",
-        "Notes/Physics/Classical Mechanics/Energy",
-        "Notes/Physics/Classical Mechanics/Momentum",
-        "Notes/Physics/Classical Mechanics/Rotation",
-        "Notes/Physics/Classical Mechanics/Oscillations",
-        "Notes/Physics/Classical Mechanics/Gravitation"
+        "Notes/Physics/Classical Mechanics/01 Kinematics",
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws",
+        "Notes/Physics/Classical Mechanics/03 Energy",
+        "Notes/Physics/Classical Mechanics/04 Momentum",
+        "Notes/Physics/Classical Mechanics/05 Rotation",
+        "Notes/Physics/Classical Mechanics/06 Oscillations",
+        "Notes/Physics/Classical Mechanics/07 Gravitation"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Physics/Classical Mechanics/Energy": {
+    "Notes/Physics/Classical Mechanics/01 Kinematics": {
       "children": [
-        "Notes/Physics/Classical Mechanics/Energy/Energy.md",
-        "Notes/Physics/Classical Mechanics/Energy/Non Conservative Forces.md",
-        "Notes/Physics/Classical Mechanics/Energy/Work Energy Theorem.md",
-        "Notes/Physics/Classical Mechanics/Energy/Work.md",
-        "Notes/Physics/Classical Mechanics/Energy/Power.md",
-        "Notes/Physics/Classical Mechanics/Energy/Kinetic Energy.md",
-        "Notes/Physics/Classical Mechanics/Energy/Potential Energy.md",
-        "Notes/Physics/Classical Mechanics/Energy/Gravitational Potential Energy.md",
-        "Notes/Physics/Classical Mechanics/Energy/Elastic Potential Energy.md"
+        "Notes/Physics/Classical Mechanics/01 Kinematics/01 Kinematics.md",
+        "Notes/Physics/Classical Mechanics/01 Kinematics/Displacement.md",
+        "Notes/Physics/Classical Mechanics/01 Kinematics/Velocity.md",
+        "Notes/Physics/Classical Mechanics/01 Kinematics/Acceleration.md",
+        "Notes/Physics/Classical Mechanics/01 Kinematics/Motion Equations.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Physics/Classical Mechanics/Gravitation": {
+    "Notes/Physics/Classical Mechanics/02 Newton's Laws": {
       "children": [
-        "Notes/Physics/Classical Mechanics/Gravitation/Gravitation.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Bound vs Unbound Orbits.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Central Force Motion.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Circular Orbits.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Energy Of An Orbiting Body.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Escape Velocity.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Gravitational Field.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Kepler's Laws.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Newton's Gravitation Law.md",
-        "Notes/Physics/Classical Mechanics/Gravitation/Orbital Speed.md"
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws/02 Newton's Laws.md",
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws/Gravitational Constant.md",
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws/Force.md",
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws/Gravity.md",
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws/Gravity Force Formula.md",
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws/Mass.md",
+        "Notes/Physics/Classical Mechanics/02 Newton's Laws/Newton's Second Law.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Physics/Classical Mechanics/Kinematics": {
+    "Notes/Physics/Classical Mechanics/03 Energy": {
       "children": [
-        "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
-        "Notes/Physics/Classical Mechanics/Kinematics/Displacement.md",
-        "Notes/Physics/Classical Mechanics/Kinematics/Velocity.md",
-        "Notes/Physics/Classical Mechanics/Kinematics/Acceleration.md",
-        "Notes/Physics/Classical Mechanics/Kinematics/Motion Equations.md"
+        "Notes/Physics/Classical Mechanics/03 Energy/Energy.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Non Conservative Forces.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Work Energy Theorem.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Work.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Power.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Kinetic Energy.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Potential Energy.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Gravitational Potential Energy.md",
+        "Notes/Physics/Classical Mechanics/03 Energy/Elastic Potential Energy.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Physics/Classical Mechanics/Momentum": {
+    "Notes/Physics/Classical Mechanics/04 Momentum": {
       "children": [
-        "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Linear Momentum.md",
-        "Notes/Physics/Classical Mechanics/Momentum/System Of Particles.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Center Of Mass.md",
-        "Notes/Physics/Classical Mechanics/Momentum/External Force.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Internal Force.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Impulse.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Elastic Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Inelastic Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Perfectly Inelastic Collision.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Coefficient Of Restitution.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Conservation Of Momentum.md",
-        "Notes/Physics/Classical Mechanics/Momentum/Impulse Momentum Theorem.md"
+        "Notes/Physics/Classical Mechanics/04 Momentum/04 Momentum.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Linear Momentum.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/System Of Particles.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Center Of Mass.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/External Force.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Internal Force.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Impulse.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Collision.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Elastic Collision.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Inelastic Collision.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Perfectly Inelastic Collision.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Coefficient Of Restitution.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Conservation Of Momentum.md",
+        "Notes/Physics/Classical Mechanics/04 Momentum/Impulse Momentum Theorem.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Physics/Classical Mechanics/Newton's Laws": {
+    "Notes/Physics/Classical Mechanics/05 Rotation": {
       "children": [
-        "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
-        "Notes/Physics/Classical Mechanics/Newton's Laws/Gravitational Constant.md",
-        "Notes/Physics/Classical Mechanics/Newton's Laws/Force.md",
-        "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity.md",
-        "Notes/Physics/Classical Mechanics/Newton's Laws/Gravity Force Formula.md",
-        "Notes/Physics/Classical Mechanics/Newton's Laws/Mass.md",
-        "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Second Law.md"
+        "Notes/Physics/Classical Mechanics/05 Rotation/05 Rotation.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Angular Acceleration.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Angular Momentum Of A Particle.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Angular Momentum Of A Rigid Body.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Angular Momentum.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Angular Velocity.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Angular Position.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Conservation Of Angular Momentum.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Moment Of Inertia.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Newton's Second Law For Rotation.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Parallel Axis Theorem.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Perpendicular Axis Theorem.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Rotational Kinematic Equations.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Rotational Kinetic Energy.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Torque.md",
+        "Notes/Physics/Classical Mechanics/05 Rotation/Torque Angular Momentum Relation.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Physics/Classical Mechanics/Oscillations": {
+    "Notes/Physics/Classical Mechanics/06 Oscillations": {
       "children": [
-        "Notes/Physics/Classical Mechanics/Oscillations/Oscillations.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Amplitude Dependence.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Angular Frequency.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Damped Oscillations.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Damping.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Driven Oscillations.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Energy In Oscillatory Motion.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Mass Spring System.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Oscillatory Motion.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Period And Frequency.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Phase.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Physical Pendulum.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Quality Factor.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Resonance.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Restoring Force.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/SHM Equations Of Motion.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Simple Harmonic Motion.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Simple Pendulum.md",
-        "Notes/Physics/Classical Mechanics/Oscillations/Small Angle Approximation.md"
+        "Notes/Physics/Classical Mechanics/06 Oscillations/05 Oscillations.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Amplitude Dependence.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Angular Frequency.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Damped Oscillations.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Damping.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Driven Oscillations.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Energy In Oscillatory Motion.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Mass Spring System.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Oscillatory Motion.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Period And Frequency.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Phase.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Physical Pendulum.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Quality Factor.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Resonance.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Restoring Force.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/SHM Equations Of Motion.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Simple Harmonic Motion.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Simple Pendulum.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Small Angle Approximation.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Physics/Classical Mechanics/Rotation": {
+    "Notes/Physics/Classical Mechanics/07 Gravitation": {
       "children": [
-        "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Angular Acceleration.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Particle.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum Of A Rigid Body.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Angular Momentum.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Angular Velocity.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Angular Position.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Conservation Of Angular Momentum.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Moment Of Inertia.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Newton's Second Law For Rotation.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Parallel Axis Theorem.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Perpendicular Axis Theorem.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Rotational Kinematic Equations.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Rotational Kinetic Energy.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Torque.md",
-        "Notes/Physics/Classical Mechanics/Rotation/Torque Angular Momentum Relation.md"
+        "Notes/Physics/Classical Mechanics/07 Gravitation/07 Gravitation.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Bound vs Unbound Orbits.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Central Force Motion.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Circular Orbits.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Energy Of An Orbiting Body.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Escape Velocity.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Gravitational Field.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Kepler's Laws.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Newton's Gravitation Law.md",
+        "Notes/Physics/Classical Mechanics/07 Gravitation/Orbital Speed.md"
       ],
       "sortOrder": "custom"
     },
@@ -1295,20 +1294,13 @@
     },
     "Templates": {
       "children": [
+        "Templates/World Template.md",
+        "Templates/Subject Template.md",
+        "Templates/Summary Template.md",
         "Templates/Concept Template.md",
         "Templates/Formula Template.md",
-        "Templates/Constant Template.md",
         "Templates/Symbol Template.md",
-        "Templates/Problem Template.md",
-        "Templates/Subject Template.md",
-        "Templates/World Template.md",
-        "Templates/Summary Template.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry/06.5 Nuclear Chemistry.md"
+        "Templates/Problem Template.md"
       ],
       "sortOrder": "custom"
     }

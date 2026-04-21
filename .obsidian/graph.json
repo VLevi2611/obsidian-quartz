@@ -43,31 +43,24 @@
       }
     },
     {
-      "query": "tag:#constant  ",
+      "query": "tag:#symbol  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "tag:#symbol  ",
+      "query": "tag:#problem  ",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "tag:#problem  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
       "query": "path:Resources/Excalidraw  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 11621088
       }
     }
   ],
@@ -82,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.33664988059982154,
-  "close": true
+  "close": false
 }
