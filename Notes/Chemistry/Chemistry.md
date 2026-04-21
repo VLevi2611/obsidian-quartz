@@ -447,8 +447,3 @@ tags:
 
 ###### #concept 
 #### #problem 
-
-
-### [[Organic Chemistry]]
-
-### [[Physical Chemistry]]
