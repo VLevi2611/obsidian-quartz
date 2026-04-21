@@ -18,7 +18,7 @@ The [[Atomic Mass]] of an element is a [[Weighted Average]] based on an assigned
 
 The [[Periodic Table.png|Periodic Table]] is an arrangement of the elements in horizontal rows called [[Periods]] and vertical columns called [[Groups]]. Each group consists of element with similar [[Physical Properties|Physical]] and [[Chemical Properties]]. The elements can also be subdivided into broad categories. One categorization is that of [[Metal|Metals]], [[Nonmetal|Nonmetals]], [[Metalloid|Metalloids]] and [[Noble Gas|Noble Gases]]. Another is that of [[21 Main Group I|Main Group]] elements and [[23 Transition Metals|Transition Elements]]. 
 
-The [[Avogadro's Number]] $N_A = 6.02214 \times 10^{23} mol^{-1}$, represents the number of carbon-12 atoms in 12 $g$ of carbon-12. Generally, it is the number of atoms or [[MoleculeM]]
+The [[Avogadro's Number]] $N_A = 6.02214 \times 10^{23} mol^{-1}$, represents the number of carbon-12 atoms in 12 $g$ of carbon-12. Generally, it is the number of atoms or [[Molecule|Molecules]] present in an amount known as one [[Mole]] of [[Substance]]. The mass of one mole of atoms of an element is called its [[Molar Mass]].
 
 ## #concept 
 
