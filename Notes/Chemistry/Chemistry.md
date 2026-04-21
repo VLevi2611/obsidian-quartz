@@ -64,6 +64,7 @@ tags:
 - [[Mole]]
 - [[Molar Mass]]
 - [[Avogadro's Number]]
+- [[Atomic Mass Units]]
 
 ##### [[03 Chemical Compounds]]
 
