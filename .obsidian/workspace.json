@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Math/Math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemistry"
+              "title": "Math"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Math/Math.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry"
+              "title": "Graph of Math"
             }
           }
         ]
@@ -372,7 +372,12 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Notes/Math/Linear Algebra/Linear Algebra.md",
+    "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
+    "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
     "Notes/Chemistry/Chemistry.md",
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/03 Chemical Compounds/03 Chemical Compounds.md",
     "Notes/Chemistry/General Chemistry/04 Chemical Reactions/04 Chemical Reactions.md",
     "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
@@ -393,11 +398,6 @@
     "Notes/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md",
     "Notes/Chemistry/General Chemistry/21 Main Group I/21 Main Group I.md",
     "Notes/Chemistry/General Chemistry/22 Main Group II/22 Main Group II.md",
-    "Notes/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md",
-    "Notes/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
-    "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
-    "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Boltzmann Constant.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
