@@ -96,7 +96,7 @@ Physics is the study of [[Matter]].
 - [[Rotational Kinematic Equations]]
 - [[Newton's Second Law For Rotation]]
 
-##### [[05 Oscillations]]
+##### [[06 Oscillations]]
 
 ###### #concept 
 

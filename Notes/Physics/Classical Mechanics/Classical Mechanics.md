@@ -106,7 +106,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 #### #problem 
 
-### [[05 Oscillations]]
+### [[06 Oscillations]]
 
 #### #concept 
 
