@@ -16,7 +16,9 @@ All elements from $Z = 1$ to $Z = 116$ except for elements with $Z = 113,115$ ha
 
 The [[Atomic Mass]] of an element is a [[Weighted Average]] based on an assigned value of exactly 12 $u$ for the isotope carbon 12. The weighted average is calculated from the experimentally determined atomic masses and percent abundances of the naturally occurring isotopes of the element.
 
-The [[Periodic Table.png|Periodic Table]] is an arrangement of the elements in horizontal rows called [[Periods]] and vertical columns called [[Groups]]. Each group consists of element with similar [[Physical Properties|Physical]] and [[Chemical Properties]]. The elements can also be subdivided into broad categories. One categorization
+The [[Periodic Table.png|Periodic Table]] is an arrangement of the elements in horizontal rows called [[Periods]] and vertical columns called [[Groups]]. Each group consists of element with similar [[Physical Properties|Physical]] and [[Chemical Properties]]. The elements can also be subdivided into broad categories. One categorization is that of [[Metal|Metals]], [[Nonmetal|Nonmetals]], [[Metalloid|Metalloids]] and [[Noble Gas|Noble Gases]]. Another is that of [[21 Main Group I|Main Group]] elements and [[23 Transition Metals|Transition Elements]]. 
+
+The [[Avogadro's Number]] $N_A = 6.02214 \times 10^{23} mol^{-1}$, represents the number of carbon-12 atoms in 12 $g$ of carbon-12. Generally, it is the number of atoms or [[MoleculeM]]
 
 ## #concept 
 
