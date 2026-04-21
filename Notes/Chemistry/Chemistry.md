@@ -412,27 +412,27 @@ tags:
 
 ###### #concept 
 
-#### [[20 Kinetics]]
+##### [[20 Kinetics]]
 
-##### #concept 
+###### #concept 
 
-#### [[21 Main Group I]]
+##### [[21 Main Group I]]
 
-##### #concept 
+###### #concept 
 
-#### [[22 Main Group II]]
+##### [[22 Main Group II]]
 
-##### #concept 
+###### #concept 
 
-#### [[23 Transition Metals]]
+##### [[23 Transition Metals]]
 
-##### #concept 
+###### #concept 
 
-#### [[24 Coordination Chemistry]]
+##### [[24 Coordination Chemistry]]
 
-##### #concept 
+###### #concept 
 
-#### [[25 Nuclear Chemistry]]
+##### [[25 Nuclear Chemistry]]
 
-##### #concept 
-### #problem 
+###### #concept 
+#### #problem 
