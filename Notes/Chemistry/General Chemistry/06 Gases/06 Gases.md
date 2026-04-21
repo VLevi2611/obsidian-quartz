@@ -18,8 +18,5 @@ tags:
 - [[Ideal Gas]]
 - [[General Gas Equation]]
 - [[Kinetic Molecular Theory of Gases]]
-
-## #constant 
-
 - [[Gas Constant]]
 ## #problem 

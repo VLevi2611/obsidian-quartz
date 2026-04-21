@@ -13,14 +13,12 @@ Dynamics is the study of forces on an object.
 - [[Force]]
 - [[Mass]]
 - [[Gravity]]
+- [[Gravitational Constant]]
 
 ## #formula 
 
 - [[Newton's Second Law]]
 - [[Gravity Force Formula]]
 
-## #constant 
-
-- [[Gravitational Constant]]
 
 ## #problem 

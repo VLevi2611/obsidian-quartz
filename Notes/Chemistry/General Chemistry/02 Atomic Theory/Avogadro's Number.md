@@ -1,6 +1,6 @@
 ---
 tags:
-  - constant
+  - concept
   - chemistry
   - general-chemistry
 ---

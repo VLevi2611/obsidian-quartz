@@ -18,6 +18,7 @@ tags:
 - [[Heat Capacity]]
 - [[Molar Heat Capacity]]
 - [[Specific Heat Capacity]]
+- [[Calorie]]
 - [[Law of Conservation of Energy]]
 - [[Chemical Energy]]
 - [[Heat of Reaction]]
@@ -34,9 +35,5 @@ tags:
 - [[Hess's Law]]
 - [[Spontaneous Process]]
 - [[Nonspontaneous Process]]
-
-## #constant 
-
-- [[Calorie]]
 
 ## #problem 
