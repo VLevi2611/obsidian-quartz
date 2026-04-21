@@ -84,7 +84,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 #### #problem 
 
-### [[Rotation]]
+### [[05 Rotation]]
 
 #### #concept 
 
@@ -109,7 +109,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 #### #problem 
 
-### [[Oscillations]]
+### [[05 Oscillations]]
 
 #### #concept 
 
@@ -128,7 +128,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 - [[Damping]]
 - [[Damped Oscillations]]
 - [[Driven Oscillations]]
-- [[Notes/Physics/Classical Mechanics/Oscillations/Resonance]]
+- [[Resonance]]
 - [[Quality Factor]]
 
 #### #formula 
@@ -137,7 +137,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 #### #problem 
 
-### [[Gravitation]]
+### [[07 Gravitation]]
 
 #### #concept 
 

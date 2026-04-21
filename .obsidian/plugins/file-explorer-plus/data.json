@@ -36,7 +36,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Kinematics/Kinematics.md",
+        "pattern": "Notes/Physics/Classical Mechanics/01 Kinematics/Kinematics.md",
         "patternType": "STRICT"
       },
       {
@@ -106,42 +106,42 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Newton's Laws/Newton's Laws.md",
+        "pattern": "Notes/Physics/Classical Mechanics/02 Newton's Laws/Newton's Laws.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Energy/Energy.md",
+        "pattern": "Notes/Physics/Classical Mechanics/03 Energy/Energy.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Rotation/Rotation.md",
+        "pattern": "Notes/Physics/Classical Mechanics/05 Rotation/05 Rotation.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Oscillations/Oscillations.md",
+        "pattern": "Notes/Physics/Classical Mechanics/06 Oscillations/05 Oscillations.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Momentum/Momentum.md",
+        "pattern": "Notes/Physics/Classical Mechanics/04 Momentum/Momentum.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/Gravitation/Gravitation.md",
+        "pattern": "Notes/Physics/Classical Mechanics/07 Gravitation/07 Gravitation.md",
         "patternType": "STRICT"
       },
       {
