@@ -8,8 +8,6 @@ tags:
 
 ## #summary 
 
-## [[01 Foundations]]
-
 ### [[01 Matter and Measurement]]
 
 #### #concept 
@@ -144,7 +142,6 @@ tags:
 
 #### #constant 
 
-## [[02 Gases and Energy]]
 ### [[06 Gases]]
 
 #### #concept 
@@ -199,7 +196,6 @@ tags:
 
 - [[Calorie]]
 
-## [[03 Atomic Structure and Bonding]]
 ### [[08 Electrons in Atoms]]
 
 #### #concept 
@@ -293,8 +289,6 @@ tags:
 - [[Pi Bond]]
 - [[Molecular Orbital Theory]]
 
-## [[04 Phases and Forces]]
-
 ### [[12 Intermolecular Forces]]
 
 #### #concept 
@@ -366,8 +360,6 @@ tags:
 - [[Recrystallization]]
 - [[Henry's Law]]
 
-## [[05 Equilibrium]]
-
 ### [[15 Chemical Equilibrium]]
 
 #### #concept 
@@ -423,8 +415,6 @@ tags:
 ### [[19 Electrochemistry]]
 
 ### [[20 Kinetics]]
-
-## [[06 Descriptive Chemistry]]
 
 ### [[21 Main Group I]]
 
