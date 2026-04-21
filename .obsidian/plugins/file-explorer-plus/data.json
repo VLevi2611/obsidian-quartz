@@ -36,7 +36,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/01 Kinematics/Kinematics.md",
+        "pattern": "Notes/Physics/Classical Mechanics/01 Kinematics/01 Kinematics.md",
         "patternType": "STRICT"
       },
       {
@@ -106,7 +106,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/02 Newton's Laws/Newton's Laws.md",
+        "pattern": "Notes/Physics/Classical Mechanics/02 Newton's Laws/02 Newton's Laws.md",
         "patternType": "STRICT"
       },
       {
@@ -134,7 +134,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/04 Momentum/Momentum.md",
+        "pattern": "Notes/Physics/Classical Mechanics/04 Momentum/04 Momentum.md",
         "patternType": "STRICT"
       },
       {

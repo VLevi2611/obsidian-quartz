@@ -8,7 +8,7 @@ tags:
 Classical mechanics is the study of force, matter and motion in physical objects.
 ## #summary 
 
-### [[Kinematics]]
+### [[01 Kinematics]]
 
 #### #concept 
 
@@ -23,7 +23,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 #### #problem 
 
-### [[Newton's Laws]]
+### [[02 Newton's Laws]]
 
 #### #concept 
 
@@ -60,7 +60,7 @@ Classical mechanics is the study of force, matter and motion in physical objects
 
 #### #problem 
 
-### [[Momentum]]
+### [[04 Momentum]]
 
 #### #concept 
 

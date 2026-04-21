@@ -9,11 +9,11 @@ tags:
 
 ### [[General Math Terms]]
 
-### #summary 
+#### #summary 
 
-#### [[01 Math Symbols]] 
+##### [[01 Math Symbols]] 
 
-##### #concept 
+###### #concept 
 
 - [[Scalar]]
 - [[Field]]
@@ -29,7 +29,7 @@ tags:
 - [[Multiplicative Inverse]]
 - [[Distributivity]]
 
-##### #symbol 
+###### #symbol 
 
 - [[Absolute Value]]
 - [[Addition]]
@@ -41,9 +41,9 @@ tags:
 - [[If and Only If]]
 - [[Implication]]
 
-#### [[02 Intervals]]
+##### [[02 Intervals]]
 
-##### #concept 
+###### #concept 
 
 - [[Lower Bound]]
 - [[Upper Bound]]
@@ -57,13 +57,13 @@ tags:
 - [[Closed Ray]]
 - [[Open Ray]]
 
-#### [[03 Set Symbols]]
+##### [[03 Set Symbols]]
 
-##### #concept 
+###### #concept 
 
 - [[Set]]
 
-##### #symbol 
+###### #symbol 
 
 - [[Subset]]
 - [[Element Of]]
@@ -76,13 +76,14 @@ tags:
 - [[Rational Number]]
 - [[Real Number]]
 - [[Complex Number]]
+
 ### [[Linear Algebra]]
 
-### #summary 
+#### #summary 
 
-#### [[01 Linear systems]]
+##### [[01 Linear systems]]
 
-##### #concept 
+###### #concept 
 
 - [[Linear System]]
 - [[Linear System Of Equations]]
@@ -90,9 +91,9 @@ tags:
 - [[Solvability]]
 - [[Unique Solution]]
 
-#### [[02 Vectors]]
+##### [[02 Vectors]]
 
-##### #concept 
+###### #concept 
 
 - [[Vector]]
 - [[Coordinates]]
@@ -105,9 +106,9 @@ tags:
 - [[Column Vector]]
 - [[Row Vector]]
 
-#### [[03 Matrices]]
+##### [[03 Matrices]]
 
-##### #concept 
+###### #concept 
 
 - [[Matrix]]
 - [[Identity Matrix]]
@@ -119,9 +120,9 @@ tags:
 - [[Transpose]]
 - [[Cramer's Rule]]
 
-#### [[04 Basis and Dimension]]
+##### [[04 Basis and Dimension]]
 
-##### #concept 
+###### #concept 
 
 - [[Linear Combination]]
 - [[Span]]
@@ -131,9 +132,9 @@ tags:
 - [[Dimension]]
 - [[Rank]]
 
-#### [[05 Vector Spaces]]
+##### [[05 Vector Spaces]]
 
-##### #concept 
+###### #concept 
 
 - [[Vector Space]]
 - [[Subspace]]
@@ -143,9 +144,9 @@ tags:
 - [[Fundamental Subspaces]]
 - [[Orthogonality]]
 
-#### [[06 Linear Transformations]]
+##### [[06 Linear Transformations]]
 
-##### #concept 
+###### #concept 
 
 - [[Linear Transformation]]
 - [[Geometric Properties Of Linear Transformations]]
@@ -153,9 +154,9 @@ tags:
 - [[Non Square Matrices]]
 - [[Change Of Basis]]
 
-#### [[07 Eigenvalues and Eigenvectors]]
+##### [[07 Eigenvalues and Eigenvectors]]
 
-##### #concept 
+###### #concept 
 
 - [[Eigenvector]]
 - [[Eigenvalue]]
@@ -164,9 +165,9 @@ tags:
 - [[Trace]]
 - [[Determinant And Eigenvalues]]
 
-#### [[08 Diagonalization]]
+##### [[08 Diagonalization]]
 
-##### #concept 
+###### #concept 
 
 - [[Diagonal Matrix]]
 - [[Eigenvector Matrix]]
