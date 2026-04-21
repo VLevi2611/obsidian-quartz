@@ -147,9 +147,6 @@ tags:
 - [[Ideal Gas]]
 - [[General Gas Equation]]
 - [[Kinetic Molecular Theory of Gases]]
-
-#### #constant 
-
 - [[Gas Constant]]
 
 ### [[07 Thermochemistry]]
@@ -166,6 +163,7 @@ tags:
 - [[Heat Capacity]]
 - [[Molar Heat Capacity]]
 - [[Specific Heat Capacity]]
+- [[Calorie]]
 - [[Law of Conservation of Energy]]
 - [[Chemical Energy]]
 - [[Heat of Reaction]]
@@ -183,10 +181,6 @@ tags:
 - [[Spontaneous Process]]
 - [[Nonspontaneous Process]]
 
-#### #constant 
-
-- [[Calorie]]
-
 ### [[08 Electrons in Atoms]]
 
 #### #concept 
@@ -196,8 +190,10 @@ tags:
 - [[Amplitude]]
 - [[Wavelength]]
 - [[Frequency]]
+- [[Speed of Light]]
 - [[Diffraction]]
 - [[Quantum]]
+- [[Planck's Constant]]
 - [[Photoelectric Effect]]
 - [[Photon]]
 - [[Ground State]]
@@ -209,10 +205,6 @@ tags:
 - [[Electron Configuration]]
 - [[Valence Electron]]
 - [[Energy Level]]
-#### #constant 
-
-- [[Speed of Light]]
-- [[Planck's Constant]]
 ### [[09 Periodic Trends]]
 
 #### #concept 

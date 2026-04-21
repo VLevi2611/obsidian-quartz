@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Chemistry"
+              "title": "Chemistry"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/General Chemistry.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry"
+              "title": "Graph of Chemistry"
             }
           }
         ]
@@ -372,6 +372,8 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/General Chemistry.md",
+    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
     "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry/25 Nuclear Chemistry.md",
     "Notes/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md",
     "Notes/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md",
@@ -396,8 +398,6 @@
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
     "Notes/Chemistry/General Chemistry/07 Thermochemistry/Calorie.md",
     "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
-    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
-    "Notes/Chemistry/General Chemistry/06 Gases/Avogadro's Law.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
