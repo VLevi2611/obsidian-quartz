@@ -9,11 +9,11 @@ tags:
 
 ### [[General Chemistry]]
 
-### #summary 
+#### #summary 
 
-#### [[01 Matter and Measurement]]
+##### [[01 Matter and Measurement]]
 
-##### #concept 
+###### #concept 
 
 - [[Matter]]
 - [[Composition]]
@@ -34,18 +34,18 @@ tags:
 - [[Volume]]
 - [[Temperature]]
 - [[Time]]
-##### #formula 
+###### #formula 
 
 - [[Percent Error]]
 - [[Density]]
 
-##### #constant 
+###### #constant 
 
 - [[Metric Prefixes]]
 
-#### [[02 Atomic Theory]]
+##### [[02 Atomic Theory]]
 
-##### #concept 
+###### #concept 
 
 - [[Atom]]
 - [[Molecule]]
@@ -67,13 +67,13 @@ tags:
 - [[Mole]]
 - [[Molar Mass]]
 
-##### #constant 
+###### #constant 
 
 - [[Avogadro's Number]]
 
-#### [[03 Chemical Compounds]]
+##### [[03 Chemical Compounds]]
 
-##### #concept 
+###### #concept 
 
 - [[Molecular Compound]]
 - [[Chemical Formula]]
@@ -86,9 +86,9 @@ tags:
 - [[Combustion]]
 - [[Oxidation State]]
 
-#### [[04 Chemical Reactions]]
+##### [[04 Chemical Reactions]]
 
-##### #concept 
+###### #concept 
 
 - [[Chemical Reaction]]
 - [[Reagent]]
@@ -108,9 +108,9 @@ tags:
 - [[Consecutive Reactions]]
 - [[Simultaneous Reactions]]
 - [[Overall Reaction]]
-#### [[05 Aqueous Reactions]]
+##### [[05 Aqueous Reactions]]
 
-##### #concept 
+###### #concept 
 
 - [[Aqueous Solution]]
 - [[Electrolytes]]
@@ -136,9 +136,9 @@ tags:
 - [[Oxidant]]
 - [[Reductant]]
 - [[Indicator]]
-#### [[06 Gases]]
+##### [[06 Gases]]
 
-##### #concept 
+###### #concept 
 
 - [[Gas]]
 - [[Pressure]]
@@ -151,12 +151,12 @@ tags:
 - [[General Gas Equation]]
 - [[Kinetic Molecular Theory of Gases]]
 
-##### #constant 
+###### #constant 
 
 - [[Gas Constant]]
-#### [[07 Thermochemistry]]
+##### [[07 Thermochemistry]]
 
-##### #concept 
+###### #concept 
 
 - [[System]]
 - [[Surroundings]]
@@ -185,13 +185,13 @@ tags:
 - [[Spontaneous Process]]
 - [[Nonspontaneous Process]]
 
-##### #constant 
+###### #constant 
 
 - [[Calorie]]
 
-#### [[08 Electrons in Atoms]]
+##### [[08 Electrons in Atoms]]
 
-##### #concept 
+###### #concept 
 
 - [[Electromagnetic Radiation]]
 - [[Wave]]
@@ -212,14 +212,14 @@ tags:
 - [[Valence Electron]]
 - [[Energy Level]]
 
-##### #constant 
+###### #constant 
 
 - [[Speed of Light]]
 - [[Planck's Constant]]
 
-#### [[09 Periodic Trends]]
+##### [[09 Periodic Trends]]
 
-##### #concept 
+###### #concept 
 
 - [[Metal]]
 - [[Nonmetal]]
@@ -236,9 +236,9 @@ tags:
 - [[Paramagnetic]]
 - [[Polarizability]]
 
-#### [[10 Bonding I]]
+##### [[10 Bonding I]]
 
-##### #concept 
+###### #concept 
 
 - [[Lewis Theory]]
 - [[Lewis Symbol]]
@@ -272,9 +272,9 @@ tags:
 - [[Average Bond Energy]]
 - [[Metallic Bond]]
 
-#### [[11 Bonding II]]
+##### [[11 Bonding II]]
 
-##### #concept 
+###### #concept 
 
 - [[Valence Bond Method]]
 - [[Hybridization]]
@@ -283,9 +283,9 @@ tags:
 - [[Pi Bond]]
 - [[Molecular Orbital Theory]]
 
-#### [[12 Intermolecular Forces]]
+##### [[12 Intermolecular Forces]]
 
-##### #concept 
+###### #concept 
 
 - [[Van Der Waals Forces]]
 - [[Dipole Dipole Interactions]]
@@ -313,13 +313,13 @@ tags:
 - [[Triple Point]]
 - [[State of Matter]]
 
-##### #formula 
+###### #formula 
 
 - [[Clausius Clapeyron Equation]]
 
-#### [[13 Entropy and Gibbs Energy]]
+##### [[13 Entropy and Gibbs Energy]]
 
-##### #concept 
+###### #concept 
 
 - [[Microstate]]
 - [[Entropy]]
@@ -330,13 +330,13 @@ tags:
 - [[Gibbs Energy Change]]
 - [[Coupled Reactions]]
 
-##### #constant 
+###### #constant 
 
 - [[Boltzmann Constant]]
 
-#### [[14 Solutions]]
+##### [[14 Solutions]]
 
-##### #concept 
+###### #concept 
 
 - [[Concentrated Solution]]
 - [[Dilute Solution]]
@@ -354,18 +354,18 @@ tags:
 - [[Recrystallization]]
 - [[Henry's Law]]
 
-#### [[15 Chemical Equilibrium]]
+##### [[15 Chemical Equilibrium]]
 
-##### #concept 
+###### #concept 
 
 - [[Equilibrium]]
 - [[Equilibrium Constant]]
 - [[Reaction Quotient]]
 - [[Le Chatelier's Principle]]
 
-#### [[16 Acids and Bases]]
+##### [[16 Acids and Bases]]
 
-##### #concept 
+###### #concept 
 
 - [[Bronsted Lowry theory]]
 - [[Conjugate Acid]]
@@ -389,9 +389,9 @@ tags:
 - [[Lewis Base]]
 - [[Adduct]]
 
-#### [[17 Acid-Base Equilibria]]
+##### [[17 Acid-Base Equilibria]]
 
-##### #concept 
+###### #concept 
 
 - [[Buffer Solution]]
 - [[Henderson Hasselbalch Equation]]
@@ -404,13 +404,13 @@ tags:
 - [[Titrant]]
 - [[End Point]]
 
-#### [[18 Solubility Equilibria]]
+##### [[18 Solubility Equilibria]]
 
-##### #concept 
+###### #concept 
 
-#### [[19 Electrochemistry]]
+##### [[19 Electrochemistry]]
 
-##### #concept 
+###### #concept 
 
 #### [[20 Kinetics]]
 
