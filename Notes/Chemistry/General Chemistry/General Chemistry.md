@@ -31,15 +31,12 @@ tags:
 - [[Volume]]
 - [[Temperature]]
 - [[Time]]
+- [[Metric Prefixes]]
 
 #### #formula 
 
 - [[Percent Error]]
 - [[Density]]
-
-#### #constant 
-
-- [[Metric Prefixes]]
 
 #### #problem 
 
@@ -66,9 +63,6 @@ tags:
 - [[Molecular Mass]]
 - [[Mole]]
 - [[Molar Mass]]
-
-#### #constant 
-
 - [[Avogadro's Number]]
 
 ### [[03 Chemical Compounds]]
@@ -109,8 +103,6 @@ tags:
 - [[Simultaneous Reactions]]
 - [[Overall Reaction]]
 
-#### #constant 
-
 ### [[05 Aqueous Reactions]]
 
 #### #concept 
@@ -140,7 +132,6 @@ tags:
 - [[Reductant]]
 - [[Indicator]]
 
-#### #constant 
 
 ### [[06 Gases]]
 

@@ -12,11 +12,8 @@ tags:
 - [[Entropy]]
 - [[Standard Molar Entropy]]
 - [[Standard Reaction Entropy]]
+- [[Boltzmann Constant]]
 - [[Second Law of Thermodynamics]]
 - [[Gibbs Energy]]
 - [[Gibbs Energy Change]]
 - [[Coupled Reactions]]
-
-## #constant 
-
-- [[Boltzmann Constant]]

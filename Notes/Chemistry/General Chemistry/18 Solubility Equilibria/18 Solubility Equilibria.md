@@ -7,11 +7,3 @@ tags:
 ## Overview 
 
 ## #concept 
-
-## #formula 
-
-## #constant 
-
-## #symbol 
-
-## #problem 

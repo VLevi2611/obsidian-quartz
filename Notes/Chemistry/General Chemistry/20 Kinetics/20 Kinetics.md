@@ -8,10 +8,3 @@ tags:
 
 ## #concept 
 
-## #formula 
-
-## #constant 
-
-## #symbol 
-
-## #problem 

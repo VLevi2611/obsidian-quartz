@@ -13,8 +13,10 @@ tags:
 - [[Amplitude]]
 - [[Wavelength]]
 - [[Frequency]]
+- [[Speed of Light]]
 - [[Diffraction]]
 - [[Quantum]]
+- [[Planck's Constant]]
 - [[Photoelectric Effect]]
 - [[Photon]]
 - [[Ground State]]
@@ -26,10 +28,5 @@ tags:
 - [[Electron Configuration]]
 - [[Valence Electron]]
 - [[Energy Level]]
-
-## #constant 
-
-- [[Speed of Light]]
-- [[Planck's Constant]]
 
 ## #problem 
