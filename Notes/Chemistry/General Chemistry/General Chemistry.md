@@ -45,7 +45,7 @@ tags:
 
 #### #problem 
 
-### [[01.2 Atomic Theory]]
+### [[02 Atomic Theory]]
 
 #### #constant 
 

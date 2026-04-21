@@ -344,481 +344,470 @@
     "Notes/Chemistry/General Chemistry": {
       "children": [
         "Notes/Chemistry/General Chemistry/General Chemistry.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions",
-        "Notes/Chemistry/General Chemistry/01 Foundations",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions",
+        "Notes/Chemistry/General Chemistry/06 Gases",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends",
+        "Notes/Chemistry/General Chemistry/10 Bonding I",
+        "Notes/Chemistry/General Chemistry/11 Bonding II",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy",
+        "Notes/Chemistry/General Chemistry/14 Solutions",
+        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria",
+        "Notes/Chemistry/General Chemistry/19 Electrochemistry",
+        "Notes/Chemistry/General Chemistry/20 Kinetics",
+        "Notes/Chemistry/General Chemistry/06.1 Main Group I",
+        "Notes/Chemistry/General Chemistry/06.2 Main Group II",
+        "Notes/Chemistry/General Chemistry/06.3 Transition Metals",
+        "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry",
+        "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry",
         "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/01 Foundations": {
+    "Notes/Chemistry/General Chemistry/01 Matter and Measurement": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01 Foundations/01 Foundations.md"
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Matter.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Composition.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Substance.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Mixture.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Element.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Compound.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Property.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Physical Properties.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Chemical Properties.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Intensive vs Extensive Properties.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Accuracy vs Precision.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Scientific Notation.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/SI Units.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Temperature.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Time.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Percent Error.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Density.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Metric Prefixes.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Length.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Liquid.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Solid.md",
+        "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Volume.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement": {
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/01.1 Matter and Measurement.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Matter.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Composition.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Substance.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Mixture.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Element.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Compound.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Property.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Physical Properties.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Chemical Properties.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Intensive vs Extensive Properties.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Accuracy vs Precision.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Scientific Notation.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/SI Units.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Temperature.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Time.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Percent Error.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Density.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Metric Prefixes.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Length.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Liquid.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Solid.md",
-        "Notes/Chemistry/General Chemistry/01.1 Matter and Measurement/Volume.md"
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Atom.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Molecule.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Conservation Of Mass.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Constant Composition Law.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Dalton's Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Thomson's Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Rutherford's Atomic Model.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Proton.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Neutron.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Electron.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Nucleus.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Ion.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Atomic Number.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Mass Number.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Isotope.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Atomic Mass.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Molecular Mass.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Mole.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Molar Mass.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Avogadro's Number.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/01.2 Atomic Theory": {
+    "Notes/Chemistry/General Chemistry/03 Chemical Compounds": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/01.2 Atomic Theory.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Atom.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Molecule.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Conservation Of Mass.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Constant Composition Law.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Dalton's Atomic Model.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Thomson's Atomic Model.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Rutherford's Atomic Model.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Proton.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Neutron.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Electron.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Nucleus.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Ion.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Atomic Number.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Mass Number.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Isotope.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Atomic Mass.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Molecular Mass.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Mole.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Molar Mass.md",
-        "Notes/Chemistry/General Chemistry/01.2 Atomic Theory/Avogadro's Number.md"
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/01.3 Chemical Compounds.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Molecular Compound.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Chemical Formula.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Empirical Formula.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Molecular Formula.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Structural Formula.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Ionic Compound.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Cation.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Anion.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Combustion.md",
+        "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Oxidation State.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds": {
+    "Notes/Chemistry/General Chemistry/04 Chemical Reactions": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/01.3 Chemical Compounds.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Molecular Compound.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Chemical Formula.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Empirical Formula.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Molecular Formula.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Structural Formula.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Ionic Compound.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Cation.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Anion.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Combustion.md",
-        "Notes/Chemistry/General Chemistry/01.3 Chemical Compounds/Oxidation State.md"
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/01.4 Chemical Reactions.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Chemical Reaction.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Reagent.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Product.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Chemical Equation.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Stoichiometry.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Stoichiometric Coefficients.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Solvent.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Solute.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Molarity.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Limiting Reagent.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Theoretical Yield.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Actual Yield.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Percent Yield.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/By Product.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Consecutive Reactions.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Simultaneous Reactions.md",
+        "Notes/Chemistry/General Chemistry/04 Chemical Reactions/Overall Reaction.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions": {
+    "Notes/Chemistry/General Chemistry/05 Aqueous Reactions": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/01.4 Chemical Reactions.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Chemical Reaction.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Reagent.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Product.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Chemical Equation.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Stoichiometry.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Stoichiometric Coefficients.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Solution.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Solvent.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Solute.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Molarity.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Limiting Reagent.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Theoretical Yield.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Actual Yield.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Percent Yield.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/By Product.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Consecutive Reactions.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Simultaneous Reactions.md",
-        "Notes/Chemistry/General Chemistry/01.4 Chemical Reactions/Overall Reaction.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02 Gases and Energy.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/02.1 Gases.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Pressure.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Boyle's Law.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Charles's Law.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/STP.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Avogadro's Law.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas Equation.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Ideal Gas.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas Constant.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/General Gas Equation.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Kinetic Molecular Theory of Gases.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/02.2 Thermochemistry.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/System.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Surroundings.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Open System.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Closed System.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Isolated System.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Thermal Energy.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Calorie.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat Capacity.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Molar Heat Capacity.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Specific Heat Capacity.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Law of Conservation of Energy.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Chemical Energy.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Heat of Reaction.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Exothermic Reaction.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Endothermic Reaction.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Pressure Volume Work.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Internal Energy.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/First Law of Thermodynamics.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/State Function.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Reversible Process.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Irreversible Process.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Enthalpy.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Enthalpy of Reaction.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Hess's Law.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Spontaneous Process.md",
-        "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.2 Thermochemistry/Nonspontaneous Process.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03 Atomic Structure and Bonding.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/03.1 Electrons in Atoms.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electromagnetic Radiation.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Wave.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Amplitude.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Wavelength.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Frequency.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Speed of Light.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Diffraction.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Quantum.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Planck's Constant.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photoelectric Effect.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Photon.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Ground State.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Excited State.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Atomic Orbital.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Principal Electronic Shell.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Subshell.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Spin.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Electron Configuration.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Valence Electron.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.1 Electrons in Atoms/Energy Level.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/03.2 Periodic Trends.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metal.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Nonmetal.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Noble Gas.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metalloid.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Atomic Radius.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Covalent Radius.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionic Radius.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Metallic Radius.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Van Der Waals Radius.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Ionization Energy.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Diamagnetic.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Electron Affinity.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Paramagnetic.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.2 Periodic Trends/Polarizability.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Theory.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Symbol.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lewis Structure.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Chemical Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Covalent Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Ionic Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Octet.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Single Covalent Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Double Covalent Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Triple Covalent Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Pair.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Lone Pair.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Polar Covalent Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Electronegativity.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Electronegativity Difference.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Skeletal Structure.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Central Atom.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Terminal Atom.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Expanded Valence Shell.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Formal Charge.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Free Radical.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Chemical Resonance.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Angle.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/VSEPR Theory.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Polar Molecule.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Dipole Moment.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Order.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Length.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Average Bond Energy.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Bond Dissociation Energy.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/Metallic Bond.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/03.4 Bonding II.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Valence Bond Method.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Hybridization.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Hybrid Orbital.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Sigma Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Pi Bond.md",
-        "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Molecular Orbital Theory.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04 Phases and Forces.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/04.1 Intermolecular Forces.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Van Der Waals Forces.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Dipole Dipole Interactions.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/London Forces.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Hydrogen Bond.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Surface Tension.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Adhesive Force.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Cohesive Force.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Viscosity.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Condensation.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Evaporation.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Vapor.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Vapor Pressure.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Clausius Clapeyron Equation.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Dynamic Equilibrium.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Boiling.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Boiling Point.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Critical Point.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Melting.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Melting Point.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Freezing.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Freezing Point.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Sublimation.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Deposition.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Phase Diagram.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Triple Point.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/State of Matter.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Microstate.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Entropy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Standard Molar Entropy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Standard Reaction Entropy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Second Law of Thermodynamics.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Gibbs Energy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Gibbs Energy Change.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Coupled Reactions.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/04.3 Solutions.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Concentrated Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Dilute Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Molality.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Enthalpy of Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Ideal Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Nonideal Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Homogeneous Mixture.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Heterogeneous Mixture.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Saturated Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Concentration.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Solubility.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Unsaturated Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Supersaturated Solution.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Recrystallization.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Henry's Law.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/05 Equilibrium": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05 Equilibrium.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.5 Electrochemistry",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Equilibrium.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Equilibrium Constant.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Reaction Quotient.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Le Chatelier's Principle.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Bronsted Lowry theory.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Conjugate Acid.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Conjugate Base.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Conjugate Acid Base Pair.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Amphiprotic.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Self Ionization.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Ion Product of Water.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pH.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pOH.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Acid Ionization Constant.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pKa.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Base Ionization Constant.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pKb.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Degree of Ionization.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Polyprotic Acid.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Hydrolysis.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Acid-Base Reaction.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Water.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Acid.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Base.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Adduct.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Solution.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Henderson Hasselbalch Equation.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Capacity.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Range.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Acid-Base Indicator.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Equivalence Point.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Titration.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Analyte.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Titrant.md",
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/End Point.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.4 Solubility Equilibria/05.4 Solubility Equilibria.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.5 Electrochemistry": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.5 Electrochemistry/05.5 Electrochemistry.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics": {
-      "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics/05.6 Kinetics.md"
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/01.5 Aqueous Reactions.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Aqueous Solution.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Electrolytes.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Nonelectrolytes.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Strong Electrolyte.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Weak Electrolyte.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Dissociation.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Ionization.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Precipitate.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Acid.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Strong Acid.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Weak Acid.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Proton Donor.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Proton Acceptor.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Base.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Strong Base.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Weak Base.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Neutralization Reaction.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Salt.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Oxidation Reduction.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Oxidation.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Reduction.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Oxidant.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Reductant.md",
+        "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Indicator.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry",
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry"
+        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06 Descriptive Chemistry.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I": {
+    "Notes/Chemistry/General Chemistry/06 Gases": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I/06.1 Main Group I.md"
+        "Notes/Chemistry/General Chemistry/06 Gases/02.1 Gases.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Gas.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Pressure.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Boyle's Law.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Charles's Law.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/STP.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Avogadro's Law.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Ideal Gas Equation.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Ideal Gas.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Gas Constant.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/General Gas Equation.md",
+        "Notes/Chemistry/General Chemistry/06 Gases/Kinetic Molecular Theory of Gases.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II": {
+    "Notes/Chemistry/General Chemistry/06.1 Main Group I": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II/06.2 Main Group II.md"
+        "Notes/Chemistry/General Chemistry/06.1 Main Group I/06.1 Main Group I.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals": {
+    "Notes/Chemistry/General Chemistry/06.2 Main Group II": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals/06.3 Transition Metals.md"
+        "Notes/Chemistry/General Chemistry/06.2 Main Group II/06.2 Main Group II.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry": {
+    "Notes/Chemistry/General Chemistry/06.3 Transition Metals": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md"
+        "Notes/Chemistry/General Chemistry/06.3 Transition Metals/06.3 Transition Metals.md"
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry": {
+    "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry/06.5 Nuclear Chemistry.md"
+        "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/07 Thermochemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/02.2 Thermochemistry.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/System.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Surroundings.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Open System.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Closed System.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Isolated System.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Thermal Energy.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Heat.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Calorie.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Heat Capacity.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Molar Heat Capacity.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Specific Heat Capacity.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Law of Conservation of Energy.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Chemical Energy.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Heat of Reaction.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Exothermic Reaction.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Endothermic Reaction.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Pressure Volume Work.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Internal Energy.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/First Law of Thermodynamics.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/State Function.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Reversible Process.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Irreversible Process.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Enthalpy.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Enthalpy of Reaction.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Hess's Law.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Spontaneous Process.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Nonspontaneous Process.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/03.1 Electrons in Atoms.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Electromagnetic Radiation.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Amplitude.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wavelength.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Frequency.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Speed of Light.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Diffraction.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Quantum.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Planck's Constant.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Photoelectric Effect.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Photon.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Ground State.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Excited State.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Orbital.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Principal Electronic Shell.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Subshell.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Electron Spin.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Electron Configuration.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Valence Electron.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Energy Level.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/09 Periodic Trends": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/03.2 Periodic Trends.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Metal.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Nonmetal.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Noble Gas.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Metalloid.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Atomic Radius.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Covalent Radius.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Ionic Radius.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Metallic Radius.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Van Der Waals Radius.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Ionization Energy.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Diamagnetic.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Electron Affinity.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Paramagnetic.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Polarizability.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/10 Bonding I": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/10 Bonding I/03.3 Bonding I.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Lewis Theory.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Lewis Symbol.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Lewis Structure.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Chemical Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Covalent Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Ionic Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Octet.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Single Covalent Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Double Covalent Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Triple Covalent Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Bond Pair.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Lone Pair.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Polar Covalent Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Electronegativity.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Electronegativity Difference.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Skeletal Structure.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Central Atom.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Terminal Atom.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Expanded Valence Shell.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Formal Charge.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Free Radical.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Chemical Resonance.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Bond Angle.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/VSEPR Theory.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Polar Molecule.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Dipole Moment.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Bond Order.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Bond Length.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Average Bond Energy.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Bond Dissociation Energy.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Metallic Bond.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/11 Bonding II": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/11 Bonding II/03.4 Bonding II.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Valence Bond Method.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Hybridization.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Hybrid Orbital.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Sigma Bond.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Pi Bond.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Molecular Orbital Theory.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/12 Intermolecular Forces": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/04.1 Intermolecular Forces.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Van Der Waals Forces.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Dipole Dipole Interactions.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/London Forces.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Hydrogen Bond.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Surface Tension.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Adhesive Force.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Cohesive Force.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Viscosity.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Condensation.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Evaporation.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Vapor.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Vapor Pressure.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Clausius Clapeyron Equation.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Dynamic Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Boiling.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Boiling Point.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Critical Point.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Melting.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Melting Point.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Freezing.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Freezing Point.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Sublimation.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Deposition.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Phase Diagram.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Triple Point.md",
+        "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/State of Matter.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Microstate.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Entropy.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Molar Entropy.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Reaction Entropy.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Boltzmann Constant.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Second Law of Thermodynamics.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Gibbs Energy.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Gibbs Energy Change.md",
+        "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Coupled Reactions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/14 Solutions": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/14 Solutions/04.3 Solutions.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Concentrated Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Dilute Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Molality.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Enthalpy of Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Ideal Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Nonideal Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Homogeneous Mixture.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Heterogeneous Mixture.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Saturated Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Concentration.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Solubility.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Unsaturated Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Supersaturated Solution.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Recrystallization.md",
+        "Notes/Chemistry/General Chemistry/14 Solutions/Henry's Law.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/Equilibrium Constant.md",
+        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/Reaction Quotient.md",
+        "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/Le Chatelier's Principle.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/16 Acids and Bases": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/05.2 Acids and Bases.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Bronsted Lowry theory.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Conjugate Acid.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Conjugate Base.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Conjugate Acid Base Pair.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Amphiprotic.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Self Ionization.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Ion Product of Water.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/pH.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/pOH.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Acid Ionization Constant.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/pKa.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Base Ionization Constant.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/pKb.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Degree of Ionization.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Polyprotic Acid.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Hydrolysis.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Acid-Base Reaction.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Water.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Lewis Acid.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Lewis Base.md",
+        "Notes/Chemistry/General Chemistry/16 Acids and Bases/Adduct.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Solution.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Henderson Hasselbalch Equation.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Capacity.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Range.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Acid-Base Indicator.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Equivalence Point.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Titration.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Analyte.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Titrant.md",
+        "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/End Point.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/05.4 Solubility Equilibria.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/19 Electrochemistry/05.5 Electrochemistry.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notes/Chemistry/General Chemistry/20 Kinetics": {
+      "children": [
+        "Notes/Chemistry/General Chemistry/20 Kinetics/05.6 Kinetics.md"
       ],
       "sortOrder": "custom"
     },
@@ -1317,33 +1306,9 @@
       ],
       "sortOrder": "custom"
     },
-    "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions": {
+    "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry": {
       "children": [
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/01.5 Aqueous Reactions.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Aqueous Solution.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Electrolytes.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Nonelectrolytes.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Strong Electrolyte.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Weak Electrolyte.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Dissociation.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Ionization.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Precipitate.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Acid.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Strong Acid.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Weak Acid.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Proton Donor.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Proton Acceptor.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Base.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Strong Base.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Weak Base.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Neutralization Reaction.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Salt.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Oxidation Reduction.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Oxidation.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Reduction.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Oxidant.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Reductant.md",
-        "Notes/Chemistry/General Chemistry/01.5 Aqueous Reactions/Indicator.md"
+        "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry/06.5 Nuclear Chemistry.md"
       ],
       "sortOrder": "custom"
     }
