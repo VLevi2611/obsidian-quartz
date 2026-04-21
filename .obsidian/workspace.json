@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
+                "file": "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boltzmann Constant"
+              "title": "05.2 Acids and Bases"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
+                "file": "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Boltzmann Constant"
+              "title": "Graph of 05.2 Acids and Bases"
             }
           }
         ]
@@ -370,52 +370,53 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7aef76f0afaffcd4",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
-    "Book view.base",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
+    "Notes/Chemistry/General Chemistry/01 Foundations/01.1 Matter and Measurement/01.1 Matter and Measurement.md",
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
-    "Notes/Chemistry/General Chemistry/02 Gases and Energy/02.1 Gases/Gas Constant.md",
-    "Notes/Chemistry/General Chemistry/01 Foundations/01.2 Atomic Theory/Avogadro's Number.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Entropy.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Microstate.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.3 Bonding I/03.3 Bonding I.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/03.4 Bonding II.md",
-    "Notes/Chemistry/General Chemistry/03 Atomic Structure and Bonding/03.4 Bonding II/Pi Bond.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/04.1 Intermolecular Forces.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Clausius Clapeyron Equation.md",
-    "Notes/Chemistry/Chemistry.md",
-    "Notes/Chemistry/General Chemistry/General Chemistry.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04 Phases and Forces.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Van Der Waals Forces.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Viscosity.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Vapor.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Vapor Pressure.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Triple Point.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Surface Tension.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Sublimation.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/State of Matter.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Phase Diagram.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Melting.md",
-    "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.1 Intermolecular Forces/Melting Point.md",
-    "Resources/Images/Electron Configuration.png",
+    "Resources/Images/Self Ionization of water.png",
+    "Resources/Images/Enthalpy of Solution.png",
+    "Resources/Images/Acid-Base Indicator.png",
+    "Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md",
+    "Progress/22.12.25.png",
+    "Progress/20.04.26.png",
+    "Progress/17.04.26.png",
+    "Progress/16.11.25.png",
+    "Progress/15.11.25.png",
+    "Progress/14.11.25.png",
+    "Progress/13.11.25.png",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Titration.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Titrant.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Henderson Hasselbalch Equation.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Equivalence Point.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/End Point.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Solution.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Range.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Capacity.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Analyte.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Acid-Base Indicator.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pOH.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pKb.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pKa.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pH.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Water.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Self Ionization.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Polyprotic Acid.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Base.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Acid.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Ion Product of Water.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Hydrolysis.md",
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Degree of Ionization.md",
+    "Book view.base",
     "Resources/Excalidraw",
-    "Resources/Images/Electronegativity.png",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
-    "Resources/Electron Configuration.png",
-    "Resources/Images/Subshell Orbitals.png",
-    "Resources/Images/Filling of Electronic Subshells.png",
-    "Resources/Images/Pressure Units.png",
-    "Resources/Images/Solute types.png",
-    "Resources/Images/Chemical Formula of Water.png",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.5 Nuclear Chemistry",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.4 Coordination Chemistry",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.3 Transition Metals",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.2 Main Group II",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry/06.1 Main Group I",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry",
-    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics",
-    "Resources/Images/Periodic Table.png",
-    "Resources/Images/ActionPotentialDiagram.png"
+    "Notes/Chemistry/General Chemistry/05 Equilibrium/05.6 Kinetics"
   ]
 }

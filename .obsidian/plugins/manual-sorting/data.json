@@ -697,13 +697,34 @@
         "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
         "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Microstate.md",
         "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Entropy.md",
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md"
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Boltzmann Constant.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Coupled Reactions.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Gibbs Energy Change.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Gibbs Energy.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Second Law of Thermodynamics.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Standard Molar Entropy.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.2 Entropy and Gibbs Energy/Standard Reaction Entropy.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions": {
       "children": [
-        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/04.3 Solutions.md"
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/04.3 Solutions.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Concentrated Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Concentration.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Dilute Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Enthalpy of Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Henry's Law.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Heterogeneous Mixture.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Homogeneous Mixture.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Ideal Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Molality.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Nonideal Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Recrystallization.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Saturated Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Solubility.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Supersaturated Solution.md",
+        "Notes/Chemistry/General Chemistry/04 Phases and Forces/04.3 Solutions/Unsaturated Solution.md"
       ],
       "sortOrder": "custom"
     },
@@ -721,19 +742,54 @@
     },
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium": {
       "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/05.1 Chemical Equilibrium.md"
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Equilibrium.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Equilibrium Constant.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Reaction Quotient.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.1 Chemical Equilibrium/Le Chatelier's Principle.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases": {
       "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md"
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/05.2 Acids and Bases.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Bronsted Lowry theory.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Conjugate Acid.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Conjugate Base.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Conjugate Acid Base Pair.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Amphiprotic.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Self Ionization.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Ion Product of Water.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pH.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pOH.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Acid Ionization Constant.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pKa.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Base Ionization Constant.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/pKb.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Degree of Ionization.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Acid-Base Reaction.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Adduct.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Hydrolysis.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Acid.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Lewis Base.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Polyprotic Acid.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.2 Acids and Bases/Water.md"
       ],
       "sortOrder": "custom"
     },
     "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria": {
       "children": [
-        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md"
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Acid-Base Indicator.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Analyte.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Capacity.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Range.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Buffer Solution.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/End Point.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Equivalence Point.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Henderson Hasselbalch Equation.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Titrant.md",
+        "Notes/Chemistry/General Chemistry/05 Equilibrium/05.3 Acid-Base Equilibria/Titration.md"
       ],
       "sortOrder": "custom"
     },
@@ -1215,11 +1271,13 @@
     },
     "Progress": {
       "children": [
-        "Progress/Day 1.png",
-        "Progress/Day 2.png",
-        "Progress/Day 3.png",
-        "Progress/Day 4.png",
-        "Progress/Day 5.png"
+        "Progress/13.11.25.png",
+        "Progress/14.11.25.png",
+        "Progress/15.11.25.png",
+        "Progress/16.11.25.png",
+        "Progress/17.04.26.png",
+        "Progress/20.04.26.png",
+        "Progress/22.12.25.png"
       ],
       "sortOrder": "custom"
     },
@@ -1253,7 +1311,8 @@
     },
     "Resources/Excalidraw": {
       "children": [
-        "Resources/Excalidraw/Skeletal Structure.excalidraw.md"
+        "Resources/Excalidraw/Skeletal Structure.excalidraw.md",
+        "Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md"
       ],
       "sortOrder": "custom"
     },
@@ -1268,7 +1327,10 @@
         "Resources/Images/Filling of Electronic Subshells.png",
         "Resources/Images/Subshell Orbitals.png",
         "Resources/Images/Electron Configuration.png",
-        "Resources/Images/Electronegativity.png"
+        "Resources/Images/Electronegativity.png",
+        "Resources/Images/Acid-Base Indicator.png",
+        "Resources/Images/Enthalpy of Solution.png",
+        "Resources/Images/Self Ionization of water.png"
       ],
       "sortOrder": "custom"
     },
