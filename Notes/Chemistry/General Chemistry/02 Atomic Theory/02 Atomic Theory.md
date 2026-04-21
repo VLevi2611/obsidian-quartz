@@ -12,7 +12,9 @@ The first clues to the structure of atoms came through cathode rays ([[Electron|
 
 Studies on the scattering of $\alpha$ particles by thin metal foils led to the concept of the nuclear atom- a tiny, but massive, positively charged [[Nucleus]] surrounded by lightweight, negatively charged electrons. A more complete description of the nucleus was made possible by the discovery of [[Proton|Protons]] and [[Neutron|Neutrons]]. An individual atom is characterized in terms of its [[Atomic Number]], $Z$ and [[Mass Number]],, $A$. The masses of individual atoms and their component parts are expressed in [[Atomic Mass Units]].
 
-All elements from $Z = 1$ to $Z = 116$ except for elements with $Z = 113,115$ have been characterized and all have been given a name and a chemical symbol. 
+All elements from $Z = 1$ to $Z = 116$ except for elements with $Z = 113,115$ have been characterized and all have been given a name and a chemical symbol. Atoms of the same element that differ in mass number are called [[Isotope|Isotopes]]. The percent isotopic abundance of an isotope and the precise mass of its atoms can be established with a mass spectrometer. A special symbolism is used to represent the composition of an atom or an [[Ion]].
+
+The [[Atomic Mass]] 
 
 ## #concept 
 
