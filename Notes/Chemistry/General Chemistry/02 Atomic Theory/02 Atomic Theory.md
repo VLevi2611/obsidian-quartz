@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-Modern chemistry began with eigh
+Modern chemistry began with 18th century discoveries leading to the formulation of 2 basic laws of chemical combination, the [[Conservation Of Mass]] and the [[Constant Composition Law]]. These discoveries led to [[Dalton's Atomic Model]]- that [[Matter]] is [[Composition|Composed]] of indestructible particles called [[Atom|Atoms]], that the atoms of an [[Element]] are ide
 
 ## #concept 
 
