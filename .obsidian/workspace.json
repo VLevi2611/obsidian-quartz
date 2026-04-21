@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Atomic Theory"
+              "title": "Chemistry"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isolated",
+                "query": "tag:#concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 02 Atomic Theory"
+              "title": "Graph of Chemistry"
             }
           }
         ]
@@ -372,20 +372,35 @@
   },
   "active": "ba613edb91774786",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/03 Chemical Compounds/03 Chemical Compounds.md",
+    "Notes/Chemistry/General Chemistry/04 Chemical Reactions/04 Chemical Reactions.md",
+    "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
+    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
+    "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
+    "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
+    "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
+    "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
+    "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/12 Intermolecular Forces.md",
+    "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
+    "Notes/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
+    "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
+    "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
+    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/17 Acid-Base Equilibria.md",
+    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
+    "Notes/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md",
+    "Notes/Chemistry/General Chemistry/21 Main Group I/21 Main Group I.md",
+    "Notes/Chemistry/General Chemistry/22 Main Group II/22 Main Group II.md",
+    "Notes/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md",
+    "Notes/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
     "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
-    "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/04.1 Intermolecular Forces.md",
-    "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
     "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Boltzmann Constant.md",
-    "Notes/Chemistry/General Chemistry/14 Solutions/04.3 Solutions.md",
     "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Analyte.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/Bronsted Lowry theory.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/05.2 Acids and Bases.md",
-    "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
-    "Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md",
     "Progress/22.12.25.png",
     "Progress/20.04.26.png",
     "Progress/17.04.26.png",
@@ -393,28 +408,13 @@
     "Progress/15.11.25.png",
     "Progress/14.11.25.png",
     "Progress/13.11.25.png",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Titration.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Titrant.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Henderson Hasselbalch Equation.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Equivalence Point.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/End Point.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Solution.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Range.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Buffer Capacity.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/Acid-Base Indicator.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/pOH.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/pKb.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/pKa.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/pH.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/Water.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/Self Ionization.md",
     "Book view.base",
     "Resources/Excalidraw",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
-    "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry",
-    "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry",
-    "Notes/Chemistry/General Chemistry/06.3 Transition Metals",
-    "Notes/Chemistry/General Chemistry/06.2 Main Group II",
+    "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry",
+    "Notes/Chemistry/General Chemistry/24 Coordination Chemistry",
+    "Notes/Chemistry/General Chemistry/23 Transition Metals",
+    "Notes/Chemistry/General Chemistry/22 Main Group II",
     "Notes/Chemistry/General Chemistry/21 Main Group I",
     "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry",
     "Notes/Chemistry/General Chemistry/20 Kinetics"

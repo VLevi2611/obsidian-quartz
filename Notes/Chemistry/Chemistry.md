@@ -11,11 +11,9 @@ tags:
 
 ### #summary 
 
-#### [[01 Foundations]]
+#### [[01 Matter and Measurement]]
 
-##### [[01 Matter and Measurement]]
-
-###### #concept 
+##### #concept 
 
 - [[Matter]]
 - [[Composition]]
@@ -36,18 +34,18 @@ tags:
 - [[Volume]]
 - [[Temperature]]
 - [[Time]]
-###### #formula 
+##### #formula 
 
 - [[Percent Error]]
 - [[Density]]
 
-###### #constant 
+##### #constant 
 
 - [[Metric Prefixes]]
 
-##### [[02 Atomic Theory]]
+#### [[02 Atomic Theory]]
 
-###### #concept 
+##### #concept 
 
 - [[Atom]]
 - [[Molecule]]
@@ -69,11 +67,11 @@ tags:
 - [[Mole]]
 - [[Molar Mass]]
 
-###### #constant 
+##### #constant 
 
 - [[Avogadro's Number]]
 
-##### [[01.3 Chemical Compounds]]
+#### [[03 Chemical Compounds]]
 
 ###### #concept 
 
@@ -88,7 +86,7 @@ tags:
 - [[Combustion]]
 - [[Oxidation State]]
 
-##### [[01.4 Chemical Reactions]]
+##### [[04 Chemical Reactions]]
 
 ###### #concept 
 
@@ -110,7 +108,7 @@ tags:
 - [[Consecutive Reactions]]
 - [[Simultaneous Reactions]]
 - [[Overall Reaction]]
-##### [[01.5 Aqueous Reactions]]
+##### [[05 Aqueous Reactions]]
 
 ###### #concept 
 
@@ -139,7 +137,7 @@ tags:
 - [[Reductant]]
 - [[Indicator]]
 #### [[02 Gases and Energy]]
-##### [[02.1 Gases]]
+##### [[06 Gases]]
 
 ###### #concept 
 
@@ -157,7 +155,7 @@ tags:
 ###### #constant 
 
 - [[Gas Constant]]
-##### [[02.2 Thermochemistry]]
+##### [[07 Thermochemistry]]
 
 ###### #concept 
 
@@ -194,7 +192,7 @@ tags:
 
 #### [[03 Atomic Structure and Bonding]]
 
-##### [[03.1 Electrons in Atoms]]
+##### [[08 Electrons in Atoms]]
 
 ###### #concept 
 
@@ -222,7 +220,7 @@ tags:
 - [[Speed of Light]]
 - [[Planck's Constant]]
 
-##### [[03.2 Periodic Trends]]
+##### [[09 Periodic Trends]]
 
 ###### #concept 
 
@@ -241,7 +239,7 @@ tags:
 - [[Paramagnetic]]
 - [[Polarizability]]
 
-##### [[03.3 Bonding I]]
+##### [[10 Bonding I]]
 
 ###### #concept 
 
@@ -277,7 +275,7 @@ tags:
 - [[Average Bond Energy]]
 - [[Metallic Bond]]
 
-##### [[03.4 Bonding II]]
+##### [[11 Bonding II]]
 
 ###### #concept 
 
@@ -290,7 +288,7 @@ tags:
 
 #### [[04 Phases and Forces]]
 
-##### [[04.1 Intermolecular Forces]]
+##### [[12 Intermolecular Forces]]
 
 ###### #concept 
 
@@ -324,7 +322,7 @@ tags:
 
 - [[Clausius Clapeyron Equation]]
 
-##### [[04.2 Entropy and Gibbs Energy]]
+##### [[13 Entropy and Gibbs Energy]]
 
 ###### #concept 
 
@@ -341,7 +339,7 @@ tags:
 
 - [[Boltzmann Constant]]
 
-##### [[04.3 Solutions]]
+##### [[14 Solutions]]
 
 ###### #concept 
 
@@ -363,7 +361,7 @@ tags:
 
 #### [[05 Equilibrium]]
 
-##### [[05.1 Chemical Equilibrium]]
+##### [[15 Chemical Equilibrium]]
 
 ###### #concept 
 
@@ -372,7 +370,7 @@ tags:
 - [[Reaction Quotient]]
 - [[Le Chatelier's Principle]]
 
-##### [[05.2 Acids and Bases]]
+##### [[16 Acids and Bases]]
 
 ###### #concept 
 
@@ -398,7 +396,7 @@ tags:
 - [[Lewis Base]]
 - [[Adduct]]
 
-##### [[05.3 Acid-Base Equilibria]]
+##### [[17 Acid-Base Equilibria]]
 
 ###### #concept 
 
@@ -413,37 +411,37 @@ tags:
 - [[Titrant]]
 - [[End Point]]
 
-##### [[05.4 Solubility Equilibria]]
+##### [[18 Solubility Equilibria]]
 
 ###### #concept 
 
-##### [[05.5 Electrochemistry]]
+##### [[19 Electrochemistry]]
 
 ###### #concept 
 
-##### [[05.6 Kinetics]]
+##### [[20 Kinetics]]
 
 ###### #concept 
 
 #### [[06 Descriptive Chemistry]]
 
-##### [[06.1 Main Group I]]
+##### [[21 Main Group I]]
 
 ###### #concept 
 
-##### [[06.2 Main Group II]]
+##### [[22 Main Group II]]
 
 ###### #concept 
 
-##### [[06.3 Transition Metals]]
+##### [[23 Transition Metals]]
 
 ###### #concept 
 
-##### [[06.4 Coordination Chemistry]]
+##### [[24 Coordination Chemistry]]
 
 ###### #concept 
 
-##### [[06.5 Nuclear Chemistry]]
+##### [[25 Nuclear Chemistry]]
 
 ###### #concept 
 #### #problem 

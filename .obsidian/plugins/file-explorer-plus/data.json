@@ -239,161 +239,161 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/03 Chemical Compounds/01.3 Chemical Compounds.md",
+        "pattern": "Notes/Chemistry/General Chemistry/03 Chemical Compounds/03 Chemical Compounds.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/04 Chemical Reactions/01.4 Chemical Reactions.md",
+        "pattern": "Notes/Chemistry/General Chemistry/04 Chemical Reactions/04 Chemical Reactions.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/01.5 Aqueous Reactions.md",
+        "pattern": "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/06 Gases/02.1 Gases.md",
+        "pattern": "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/07 Thermochemistry/02.2 Thermochemistry.md",
+        "pattern": "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/11 Bonding II/03.4 Bonding II.md",
+        "pattern": "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/10 Bonding I/03.3 Bonding I.md",
+        "pattern": "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/09 Periodic Trends/03.2 Periodic Trends.md",
+        "pattern": "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/03.1 Electrons in Atoms.md",
+        "pattern": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/04.1 Intermolecular Forces.md",
+        "pattern": "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/12 Intermolecular Forces.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/04.2 Entropy and Gibbs Energy.md",
+        "pattern": "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/14 Solutions/04.3 Solutions.md",
+        "pattern": "Notes/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/20 Kinetics/05.6 Kinetics.md",
+        "pattern": "Notes/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/19 Electrochemistry/05.5 Electrochemistry.md",
+        "pattern": "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/05.4 Solubility Equilibria.md",
+        "pattern": "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/05.3 Acid-Base Equilibria.md",
+        "pattern": "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/17 Acid-Base Equilibria.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/16 Acids and Bases/05.2 Acids and Bases.md",
+        "pattern": "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/05.1 Chemical Equilibrium.md",
+        "pattern": "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/06.5 Nuclear Chemistry/06.5 Nuclear Chemistry.md",
+        "pattern": "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry/25 Nuclear Chemistry.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/06.4 Coordination Chemistry/06.4 Coordination Chemistry.md",
+        "pattern": "Notes/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/06.3 Transition Metals/06.3 Transition Metals.md",
+        "pattern": "Notes/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/22 Main Group II/06.2 Main Group II.md",
+        "pattern": "Notes/Chemistry/General Chemistry/22 Main Group II/22 Main Group II.md",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Chemistry/General Chemistry/21 Main Group I/06.1 Main Group I.md",
+        "pattern": "Notes/Chemistry/General Chemistry/21 Main Group I/21 Main Group I.md",
         "patternType": "STRICT"
       },
       {
