@@ -12,7 +12,12 @@ Some [[Chemical Reaction|Reactions]] in aqueous solution involve the combination
 
 According to the Arrhenius theory, a [[Substance]] that ionizes to produce $\ce{H+}$ ions in aqueous solution is an [[Acid]]. It is a [[Strong Acid]] if the ionization goes essentially to completion and a [[Weak Acid]] if the ionization is limited. Similarly, a [[Base]] produces $\ce{OH-}$ ions in aqueous solution and is either a [[Strong Base]] or a [[Weak Base]], depending on the extent of the ionization. According to the [[Bronsted Lowry theory]], in an [[Acid-Base Reaction]], [[Proton|Protons]] are transferred from the acid ([[Proton Donor]]) to the base ([[Proton Acceptor]]). In an acid-base neutralization reaction, an  acid and a base react to form an ionic compound, a [[Salt]]. [[Water]] might also be a product.
 
-In an [[Oxidation Reduction]] (redox) reaction certain [[Atom|Atoms]] undergo an increase in [[Oxidation State]], a process called [[Oxidation]]. Other atoms undergo a decrease in oxidation state, or [[Reduction]]. An effective way to balance a redox [[Chemical Equation|Equation]] is to break down the reaction into separate **half reactions**, write and balance half equations for these **half reactions**, and recombine th
+In an [[Oxidation Reduction]] (redox) reaction certain [[Atom|Atoms]] undergo an increase in [[Oxidation State]], a process called [[Oxidation]]. Other atoms undergo a decrease in oxidation state, or [[Reduction]]. An effective way to balance a redox [[Chemical Equation|Equation]] is to break down the reaction into separate **half reactions**, write and balance half equations for these **half reactions**, and recombine the balanced half equations into an [[Overall Reaction]].
+
+The [[Oxidant]] (oxidizing agent) is the key [[Reagent]] in an oxidation half reaction and is **reduced** in the redox reaction. The [[Reductant]] (reducing agent) is the key reagent in the reduction half reaction and is **oxidized** in the redox reaction.
+
+
+
 
 ## #concept 
 
