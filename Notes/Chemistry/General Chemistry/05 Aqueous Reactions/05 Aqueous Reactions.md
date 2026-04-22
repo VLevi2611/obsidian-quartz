@@ -10,7 +10,9 @@ tags:
 
 Some [[Chemical Reaction|Reactions]] in aqueous solution involve the combination of ions to yield a water-insoluble [[Solid]], called a [[Precipitate]]. Precipitation reactions are generally represented by **net ionic equations**, a form in which only the reacting ions and solid precipitates are shown, and **spectator ions** are deleted.
 
-According to the Arrhenius theory, a [[Substance]] that ionizes to produce $\ce{H+}$ ions in aqueous solution is an [[Acid]]. It is a [[Strong Acid]] if the ionization goes essentially to completion and a [[Weak Acid]] if the ionization is limited. Similarly, a [[Base]] produces $\ce{OH-}$ ions in aqueous solution and is either a [[Strong Base]] or a [[Weak Base]], depending on the extent of the ionization. According to the [[Bronsted Lowry theory]], in an [[Acid-Base Reaction]], [[Proton|Protons]] are transferred from the acid ([[Proton Donor]]) to the base ([[Proton Acceptor]]).
+According to the Arrhenius theory, a [[Substance]] that ionizes to produce $\ce{H+}$ ions in aqueous solution is an [[Acid]]. It is a [[Strong Acid]] if the ionization goes essentially to completion and a [[Weak Acid]] if the ionization is limited. Similarly, a [[Base]] produces $\ce{OH-}$ ions in aqueous solution and is either a [[Strong Base]] or a [[Weak Base]], depending on the extent of the ionization. According to the [[Bronsted Lowry theory]], in an [[Acid-Base Reaction]], [[Proton|Protons]] are transferred from the acid ([[Proton Donor]]) to the base ([[Proton Acceptor]]). In an acid-base neutralization reaction, an  acid and a base react to form an ionic compound, a [[Salt]]. [[Water]] might also be a product.
+
+In an [[Oxidation Reduction]] (redox) reaction certain [[Atom|Atoms]] undergo an increase in [[Oxidation State]], a process called [[Oxidation]]. Other atoms undergo a decrease in oxidation state, or [[Reduction]]. An effective way to balance a redox [[Chemical Equation|Equation]] is to break down the reaction into separate **half reactions**, write and balance half equations for these **half reactions**, and recombine th
 
 ## #concept 
 
