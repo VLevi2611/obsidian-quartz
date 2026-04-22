@@ -127,13 +127,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Notes/Physics/Classical Mechanics/06 Oscillations/05 Oscillations.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "Notes/Physics/Classical Mechanics/04 Momentum/04 Momentum.md",
         "patternType": "STRICT"
       },

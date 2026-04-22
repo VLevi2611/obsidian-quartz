@@ -11,10 +11,12 @@
             "id": "7aef76f0afaffcd4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -257,6 +259,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -341,7 +344,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -367,9 +370,13 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
+    "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
+    "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
+    "Notes/Physics/Classical Mechanics/06 Oscillations/06 Oscillations.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Atomic Mass Units.md",
     "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
-    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
     "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry/25 Nuclear Chemistry.md",
     "Notes/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md",
     "Notes/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md",
@@ -389,10 +396,6 @@
     "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
     "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
     "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Planck's Constant.md",
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Speed of Light.md",
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
-    "Notes/Chemistry/General Chemistry/07 Thermochemistry/Calorie.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
