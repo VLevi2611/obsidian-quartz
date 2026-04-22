@@ -16,6 +16,8 @@ In an [[Oxidation Reduction]] (redox) reaction certain [[Atom|Atoms]] undergo an
 
 The [[Oxidant]] (oxidizing agent) is the key [[Reagent]] in an oxidation half reaction and is **reduced** in the redox reaction. The [[Reductant]] (reducing agent) is the key reagent in the reduction half reaction and is **oxidized** in the redox reaction.
 
+A common laboratory technique applicable to [[Precipitate|Precipitation]], [[Acid-Base Reaction|Acid-Base]], and redox reactions is [[Titration]]. The key point in a titration is the [[Equivalence Point]], which can be observed with the aid of an [[Indicator]]. Titration data can be used to establish a solution's [[Molarity]], called **standardization of a solution**.
+
 
 
 
