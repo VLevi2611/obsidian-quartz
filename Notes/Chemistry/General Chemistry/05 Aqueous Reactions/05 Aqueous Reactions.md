@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview 
 
+[[Solute|Solutes]] in [[Aqueous Solution]] are characterized as [[Nonelectrolytes]], which do not [[Product|Produce]] [[Ion|Ions]], or [[Electrolytes]], which produce ions. [[Ionic Compound|Ionic Compounds]] produce ions by [[Dissociation]] whereas [[Molecular Compound|Molecular Compounds]] produce ions via [[Ionization]]. [[Weak Electrolyte|Weak Electrolytes]] ionize to a limited extend, and [[Strong Electrolyte|Strong Electrolytes]] dissociate or ionize almost completely into ions. In addition to the [[Molarity]] based on the 
+
 ## #concept 
 
 - [[Aqueous Solution]]
