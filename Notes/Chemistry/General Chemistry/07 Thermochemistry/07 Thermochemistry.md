@@ -6,6 +6,10 @@ tags:
 ---
 ## Overview 
 
+The subject of a thermochemical study is broken into the [[System]] of interest and the portions of the universe with which the system may interact, the [[Surroundings]]. An [[Open System]] can exchange both [[Energy]] and [[Matter]] with its surroundings. A [[Closed System]] can exchange only energy and not matter. An [[Isolated System]] can exchange neither energy nor matter with its surroundings. Energy is the capacity to do [[Work]] and work is performed when a [[Force]] acts through a distance. Energy can be characterized as [[Kinetic Energy]] (energy associated with matter in motion) or [[Potential Energy]] (energy resulting from the position or [[Composition]] of matter). Kinetic energy associated with random molecular motion is called [[Thermal Energy]].
+
+[[Heat]] is energy transferred between system and its surroundings as a result of a [[Temperature]] difference between the 2. In some cases, heat can be transferred at constant temperature, as in a change in [[State of Matter]] in the system. A quantity of heat is the [[]]
+
 ## #concept 
 
 - [[System]]
