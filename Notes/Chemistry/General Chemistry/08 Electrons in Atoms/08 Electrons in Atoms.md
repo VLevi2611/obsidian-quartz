@@ -23,7 +23,9 @@ Stern and Gerlach demonstrated that electrons possess a quality called [[Electro
 
 The wave function of a multielectron atom can be approximated as a superposition of orbitals, each of which is qualitatively similar to a hydrogen-like orbital. In multielectron atoms, orbitals with different values of $\ell$ are not degenerate. The loss of degeneracy within the principal shell is explained in terms of the different [[Effective Nuclear Charge]], $Z_{\text{eff}}$, experienced by electrons in different subshells.
 
-[[Electron Configuration]] describes how the electrons are distributed among the various orbitals in principal shells and subshells of an atom. Electrons fill orbitals in a way that minimizes the total energy of an atom. The [[Pauli Exclusion Principle]] states that a maximum of 2 electrons may occupy an orbital. [[Hund's Rule]] says that when degenerate orbitals are available, electrons initially occupy these orbitals singly with parallel spins. Ele
+[[Electron Configuration]] describes how the electrons are distributed among the various orbitals in principal shells and subshells of an atom. Electrons fill orbitals in a way that minimizes the total energy of an atom. The [[Pauli Exclusion Principle]] states that a maximum of 2 electrons may occupy an orbital. [[Hund's Rule]] says that when degenerate orbitals are available, electrons initially occupy these orbitals singly with parallel spins. Electron configurations are represented by either expanded or condensed [[Orbital Diagram]]. The [[Aufbau Process]] is used to assign electron configurations to the [[Element|Elements]] of the periodic table. Electrons added to the shell of highest quantum number in the Aufbau process are called [[Valence Electron|Valence Electrons]].
+
+Elements in the same [[Groups|Group]] of the periodic table have similar electron configurations. Group 1 and 2 correspond to the **$s$ block** with filled or partially filled valence-shell $s$ orbitals. Groups 13-18 correspond to the **$p$ block** with filled or partially filled valence-shell $p$ orbitals. The **$d$ block** corresponds to groups 3-12 as the $n-1$ 
 
 ## #concept 
 
