@@ -13,7 +13,9 @@ Light emitted from excited [[Atom|Atoms]] and [[Ion|Ions]] consists of a limited
 
 The [[Energy Level]] of the hydrogen atom depend of a quantum number, $n$, which can take on the values $n = 1,2,3,...$ The lowest energy state, with $n = 1$, is called the [[Ground State]]. Levels with $n > 1$ are called [[Excited State|Excited States]]. The state with quantum number $n = \infty$ corresponds to an [[Ionization|Ionized]] hydrogen atom. The allowed energy levels can be represented using an **energy-level diagram**. Transitions between various levels are accompanied by either the absorption or emission of photons, the energies of which match the magnitude of the energy difference, $|\Delta E|$, between the 2 levels. 
 
-Louis de Broglie postulated **wave-particle duality** in which particles of [[Matter]] such as [[Proton|Protons]] and electrons would at time
+Louis de Broglie postulated [[Wave-Particle Duality]] in which particles of [[Matter]] such as [[Proton|Protons]] and electrons would at times display a wave-like properties. Because of an inherent uncertainty of the position and [[04 Momentum|Momentum]] of a wave-like particle, Heisenberg postulated that we cannot simultaneously know a subatomic particle's precise momentum and its position, a proposition referred to as the [[Heisenberg Uncertainty Principle]].
+
+The application of the concept of wave-particle duality requires that we view the electron in a [[System]] in terms of a [[Wave Function]] that corresponds to a [[Standing Wave]] within the boundary of the system. Application of these ideas to a particle in a one-dimensional box shows that at the lowest energy level, the energy of the particle is nonzero that is, the system has a [[Ze]] 
 
 ## #concept 
 
