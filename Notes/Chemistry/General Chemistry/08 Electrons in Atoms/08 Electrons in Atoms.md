@@ -15,7 +15,7 @@ The [[Energy Level]] of the hydrogen atom depend of a quantum number, $n$, which
 
 Louis de Broglie postulated [[Wave-Particle Duality]] in which particles of [[Matter]] such as [[Proton|Protons]] and electrons would at times display a wave-like properties. Because of an inherent uncertainty of the position and [[04 Momentum|Momentum]] of a wave-like particle, Heisenberg postulated that we cannot simultaneously know a subatomic particle's precise momentum and its position, a proposition referred to as the [[Heisenberg Uncertainty Principle]].
 
-The application of the concept of wave-particle duality requires that we view the electron in a [[System]] in terms of a [[Wave Function]] that corresponds to a [[Standing Wave]] within the boundary of the system. Application of these ideas to a particle in a one-dimensional box shows that at the lowest energy level, the energy of the particle is nonzero that is, the system has a [[Ze]] 
+The application of the concept of wave-particle duality requires that we view the electron in a [[System]] in terms of a [[Wave Function]] that corresponds to a [[Standing Wave]] within the boundary of the system. Application of these ideas to a particle in a one-dimensional box shows that at the lowest energy level, the energy of the particle is nonzero that is, the system has a [[Zero Point Energy]]. 
 
 ## #concept 
 
