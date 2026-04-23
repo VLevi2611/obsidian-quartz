@@ -17,6 +17,8 @@ Louis de Broglie postulated [[Wave-Particle Duality]] in which particles of [[Ma
 
 The application of the concept of wave-particle duality requires that we view the electron in a [[System]] in terms of a [[Wave Function]] that corresponds to a [[Standing Wave]] within the boundary of the system. Application of these ideas to a particle in a one-dimensional box shows that at the lowest energy level, the energy of the particle is nonzero that is, the system has a [[Zero Point Energy]]. 
 
+The solution of the [[Schrodinger Equation]] for the hydrogen atom provides wave functions called [[Atomic Orbital|Orbitals]], which are the product of a [[Radial Wave Function]], $R(r)$, and an [[Angular Wave Function]], $Y(\theta,\phi)$. The three quantum numbers arising from the Schrodinger wave equation are the 
+
 ## #concept 
 
 - [[Electromagnetic Radiation]]
