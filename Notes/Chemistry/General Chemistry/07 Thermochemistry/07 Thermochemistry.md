@@ -47,5 +47,6 @@ With work limited to pressure-volume work, the heat transferred in a constant vo
 - [[Hess's Law]]
 - [[Spontaneous Process]]
 - [[Nonspontaneous Process]]
+- [[Standard State]]
 
 ## #problem 

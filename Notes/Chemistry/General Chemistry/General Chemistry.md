@@ -181,6 +181,7 @@ tags:
 - [[Hess's Law]]
 - [[Spontaneous Process]]
 - [[Nonspontaneous Process]]
+- [[Standard State]]
 
 ### [[08 Electrons in Atoms]]
 
