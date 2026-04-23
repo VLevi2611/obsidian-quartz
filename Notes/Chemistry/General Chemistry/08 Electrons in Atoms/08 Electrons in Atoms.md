@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview 
 
+[[Electromagnetic Radiation]] is a type of [[Energy]] transmission in the form of a [[Wave]]. The waves of electromagnetic radiation are characterized by an [[Amplitude]], the maxi
+
 ## #concept 
 
 - [[Electromagnetic Radiation]]
