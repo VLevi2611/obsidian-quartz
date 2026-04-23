@@ -22,6 +22,8 @@ Often an unknown $\Delta _r H$ value can be established indirectly through [[Hes
 
 By arbitrarily assigning an enthalpy of 0 to the reference forms of the [[Element|Elements]] in their standard states, the enthalpy change in the formation of a [[Compound]] from its elements becomes a [[Standard Enthalpy of Formation]] $\Delta _f H^{\circ}$.
 
+A process that proceeds without external intervention is said to be [[Spontaneous Process]]. A [[Nonspontaneous Process]] cannot occur without externa intervention. If a process is spontaneous in one direction, then it is nonspontaneous in the reverse direction.
+
 
 
 ## #concept 
