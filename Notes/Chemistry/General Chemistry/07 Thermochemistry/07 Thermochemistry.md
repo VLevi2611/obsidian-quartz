@@ -22,6 +22,8 @@ Often an unknown $\Delta _r H$ value can be established indirectly through [[Hes
 
 By arbitrarily assigning an enthalpy of 0 to the reference forms of the [[Element|Elements]] in their standard states, the enthalpy change in the formation of a [[Compound]] from its elements becomes a [[Standard Enthalpy of Formation]] $\Delta _f H^{\circ}$.
 
+
+
 ## #concept 
 
 - [[System]]
@@ -53,5 +55,6 @@ By arbitrarily assigning an enthalpy of 0 to the reference forms of the [[Elemen
 - [[Nonspontaneous Process]]
 - [[Standard State]]
 - [[Standard Enthalpy of Reaction]]
+- [[Standard Enthalpy of Formation]]
 
 ## #problem 
