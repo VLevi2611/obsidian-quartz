@@ -11,6 +11,8 @@ tags:
 The study of electromagnetic radiation emitted from hot objects led to Plank's theory, which states that quantities of energy can have only certain values, with the smallest unit of energy being that of a [[Quantum]]. The energy of a quantum is given by the equation: $E = h \nu$, where $h$ is [[Planck's Constant]]. Einstein's interpretation of the [[Photoelectric Effect]], the ability of light to eject [[Electron|Electrons]] when striking certain surfaces, led to a new interpretation of electromagnetic radiation: Light has a particle-like nature in addition to its wave-like [[Property|Properties]]. Light particles are called [[Photon|Photons]]. The energy of a photon is related to the frequency of the radiation by: $E_{\text{photon}} = h \nu$. 
 Light emitted from excited [[Atom|Atoms]] and [[Ion|Ions]] consists of a limited number of wavelength components, which can be dispersed by a prism to produce [[Atomic Spectra]]. 
 
+The [[Energy Level]] of the hydrogen atom depend of a quantum number, $n$, which can take on the values $n = 1,2,3,...$ The lowest energy state, with $n = 1$, is called the [[Ground State]]. Levels with $n > 1$ are called [[Excited State|Excited States]]. The state with quantum number $n = \infty$ corresponds to an [[Ionization|Ionized]] hydrogen atom. 
+
 ## #concept 
 
 - [[Electromagnetic Radiation]]
