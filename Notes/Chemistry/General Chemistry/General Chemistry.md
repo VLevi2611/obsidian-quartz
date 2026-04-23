@@ -182,6 +182,7 @@ tags:
 - [[Spontaneous Process]]
 - [[Nonspontaneous Process]]
 - [[Standard State]]
+- [[Standard Enthalpy of Reaction]]
 
 ### [[08 Electrons in Atoms]]
 
