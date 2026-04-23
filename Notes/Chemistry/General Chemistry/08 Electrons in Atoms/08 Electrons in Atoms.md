@@ -19,7 +19,11 @@ The application of the concept of wave-particle duality requires that we view th
 
 The solution of the [[Schrodinger Equation]] for the hydrogen atom provides wave functions called [[Atomic Orbital|Orbitals]], which are the product of a [[Radial Wave Function]], $R(r)$, and an [[Angular Wave Function]], $Y(\theta,\phi)$. The three quantum numbers arising from the Schrodinger wave equation are the **principal quantum number, $n$** the **orbital angular momentum quantum number, $\ell$,** and the **magnetic quantum number, $m_{\ell}$**. All orbitals with the same value of $n$ are in the same [[Principal Electronic Shell]], and all orbitals with the same value of $n$ and $\ell$ are in the same [[Subshell]]. The orbitals with different values of $\ell$ are designated $s,p,d,f$. Orbitals in the same subshell of a hydrogen-like species have the same energy and said to be degenerate.
 
-Stern and Gerlach demonstrated that electrons possess a quality called [[Electron Spin]]. The electron spin quantum number, $m_s$ 
+Stern and Gerlach demonstrated that electrons possess a quality called [[Electron Spin]]. The electron spin quantum number, $m_s$ , takes the value of $+\frac{1}{2}$ or $-\frac{1}{2}$.
+
+The wave function of a multielectron atom can be approximated as a superposition of orbitals, each of which is qualitatively similar to a hydrogen-like orbital. In multielectron atoms, orbitals with different values of $\ell$ are not degenerate. The loss of degeneracy within the principal shell is explained in terms of the different [[Effective Nuclear Charge]], $Z_{\text{eff}}$, experienced by electrons in different subshells.
+
+[[Electron Configuration]] describes how the electrons are distributed among the various orbitals in principal shells and subshells of an atom. Electrons fill orbitals in a way that minimizes the total energy of an atom. The [[Pauli Exclusion Principle]] states that a maximum of 2 electrons may occupy an orbital. [[Hund's Rule]] says that when degenerate orbitals are available, electrons initially occupy these orbitals singly with parallel spins. Ele
 
 ## #concept 
 
