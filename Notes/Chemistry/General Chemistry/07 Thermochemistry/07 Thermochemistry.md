@@ -14,7 +14,9 @@ In a [[Chemical Reaction]], a change in the [[Chemical Energy]] associated with 
 
 In some reactions an energy transfer between a system and its surroundings occurs as work. This is commonly the work involved in the expansion or compression of [[Gas|Gases]] and is called [[Pressure Volume Work]].
 
-[[Internal Energy]], $U$ is the total energy in a system. The [[First Law of Thermodynamics]] relates changes in the internal energy of a system $\Delta U$ to the quantities of heat $q$ and work $w$ exchanged between the system and its surroundings. The relationship is $\Delta U = q + w$ and requires that a [[Set]] of sign conversions be consistently followed. A [[State Function]] has a value that depends only on the exact condition or state in which a system is fou
+[[Internal Energy]], $U$ is the total energy in a system. The [[First Law of Thermodynamics]] relates changes in the internal energy of a system $\Delta U$ to the quantities of heat $q$ and work $w$ exchanged between the system and its surroundings. The relationship is $\Delta U = q + w$ and requires that a [[Set]] of sign conversions be consistently followed. A [[State Function]] has a value that depends only on the exact condition or state in which a system is found and not on how that state was reached. Internal energy is a state function. A path-dependent function, such as heat or work, depends on how a change in a system is achieved. A change that is accomplished through an infinite number of infinitesimal steps is a [[Reversible Process]], whereas a change accomplished in one step or a finite series of steps is an [[Irreversible Process]].
+
+With work limited to pressure-volume work, the heat transferred in a constant volume process is equal to the internal energy change. For constant pressure processes, a more useful function is [[Enthalpy]] $H$, defined as the internal energy of a system plus the pressure volume product. $PV$. The heat transferred in a constant pressure process is equal to the enthalpy change $\Delta H$ of the system. 
 
 ## #concept 
 
