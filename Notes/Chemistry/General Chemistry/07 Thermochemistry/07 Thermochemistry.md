@@ -10,7 +10,11 @@ The subject of a thermochemical study is broken into the [[System]] of interest 
 
 [[Heat]] is energy transferred between system and its surroundings as a result of a [[Temperature]] difference between the 2. In some cases, heat can be transferred at constant temperature, as in a change in [[State of Matter]] in the system. A quantity of heat is the [[Product]] of the [[Heat Capacity]] of the system and the temperature change. In turn, heat capacity is the product of [[Mass]] and [[Specific Heat Capacity]], the amount of heat required to change the temperature of one gram of [[Substance]] by one degree Celsius. Alternatively, heat capacity is the product of amount (in [[Mole|Moles]]) and [[Molar Heat Capacity]], the quantity of heat required to increase the temperature of one mole of substance by 1 degree. Historically, the unit for measuring heat has been the [[Calorie]], but the [[SI Units]] of heat is the **joule**. Energy transfers between a system and its surroundings must conform to the [[Law of Conservation of Energy]], meaning that all heat lost by a system is gained by its surroundings.
 
-In a [[Chemical Reaction]], a change in the [[Chemical Energy]] associated with the [[Reagent|Reagents]] and produ
+In a [[Chemical Reaction]], a change in the [[Chemical Energy]] associated with the [[Reagent|Reagents]] and products may appear as heat. The [[Heat of Reaction]] is the quantity of heat exchanged between a system and its surroundings when the reaction occurs at a constant temperature. In an [[Exothermic Reaction]], heat is given off by the system. In a [[Endothermic Reaction]], the system absorbed heat.
+
+In some reactions an energy transfer between a system and its surroundings occurs as work. This is commonly the work involved in the expansion or compression of [[Gas|Gases]] and is called [[Pressure Volume Work]].
+
+[[Internal Energy]], $U$ is the total energy in a system. The [[First Law of Thermodynamics]] relates changes in the internal energy of a system $\Delta U$ to the quantities of heat $q$ and work $w$ exchanged between the system and its surroundings. The relationship is $\Delta U = q + w$ and requires that a [[Set]] of sign conversions be consistently followed. A [[State Function]] has a value that depends only on the exact condition or state in which a system is fou
 
 ## #concept 
 
