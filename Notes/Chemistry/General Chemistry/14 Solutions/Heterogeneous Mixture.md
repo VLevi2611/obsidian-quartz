@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-If [[12 Intermolecular Forces|Intermolecular Forces]] of attraction between unlike [[Molecule|Molecules]] are much weaker than those between like molecules, the components remain segregated in a **heterogeneous mixture**.
+If  [[Van Der Waals Forces]] between unlike [[Molecule|Molecules]] are much weaker than those between like molecules, the components remain segregated in a **heterogeneous mixture**.
 
 

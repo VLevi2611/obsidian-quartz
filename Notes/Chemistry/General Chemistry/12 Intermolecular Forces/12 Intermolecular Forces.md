@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-The intermolecular forces that occur between [[Molecule|Molecules]] are collectively known as [[Van Der Waals Forces]]
+The intermolecular forces that occur between [[Molecule|Molecules]] are collectively known as [[Van Der Waals Forces]]. The most common intermolecular [[Force|Forces]] of attraction are those between instantaneous and induced dipoles, the [[London Forces]]. The magnitudes of London forces depend on how easily [[Electron]] [[Displacement|Displacements]] within molecules cause a temporary imbalance of electron [[Charge]] distribution, that is, on the 
 
 ## #concept 
 
