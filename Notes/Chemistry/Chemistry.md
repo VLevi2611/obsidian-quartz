@@ -223,6 +223,10 @@ tags:
 - [[Diamagnetic]]
 - [[Paramagnetic]]
 - [[Polarizability]]
+- [[Periodic Law]]
+- [[Groups]]
+- [[Periodic Table]]
+- [[Periods]]
 
 ##### [[10 Bonding I]]
 
