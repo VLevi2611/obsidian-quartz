@@ -16,6 +16,9 @@ To draw the Lewis structure of a covalent molecule, one needs to know the [[Skel
 
 Often, more than one plausible Lewis structure can be written for a species. This situation is called [[Resonance]]. In these cases the true structure is a resonance hybrid of 2 or more contributing structures.
 
+There are often exceptions to the octet rule.
+1. Odd-electron species, such as $\ce{NO}$, have an unpaired electron and are [[Paramagnetic]]. Many of these species are reactive mo
+
 ## #concept 
 
 - [[Lewis Theory]]
