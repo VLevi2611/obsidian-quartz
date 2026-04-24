@@ -24,7 +24,9 @@ In these, the valence shell of the central atom must be expanded to 10 or 12 ele
 
 A powerful method for predicting the [[Molecular Geometry]], or molecule shape, of a species is the **valence shell electron pair repulsion theory** or the [[VSEPR Theory]]. The shape of a molecule or a polyatomic ion depends on the geometric distribution of valence shell electron [[Groups]]- the [[Electron-Group Geometry]], and whether these groups contain bonding electrons or lone pairs. The angles between the electron groups provide a method for predicting [[Bond Angle|Bond Angles]] in a molecule. An important use of information about the shapes of molecules is in establishing whether bonds in a molecule combine to produce a [[Dipole Moment]]. Molecules with a resultant dipole moment are [[Polar Molecule|Polar Molecules]], those with no resultant dipole moment are nonpolar.
 
-Single, double, and triple covalent bonds are sia
+Single, double, and triple covalent bonds are said to have a [[Bond Order]] of 1, 2, and 3, respectively. [[Bond Length]] is the distance between the centers of 2 atoms joined by a covalent bond. The greater the bond order, the shorter the bond length.
+
+[[Bond Dissociation Energy]], $D$, is the quantity of [[Energy]] required to break one [[Mole]] of [[Covalent Bond|Covalent Bonds]] in a gaseous molecule. [[Average Bond Energy|Average Bond Energies]] can be used to estimate [[Enthalpy]] changes for [[Chemical Reaction|Reactions]] involving [[Gas|Gases]].
 
 ## #concept 
 
