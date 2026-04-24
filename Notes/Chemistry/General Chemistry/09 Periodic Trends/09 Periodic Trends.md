@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview 
 
+The experimental basis of the [[Periodic Table.png|Periodic Table]] of the [[Element|Elements]] is the [[Periodic Law]]
+
 ## #concept 
 
 - [[Metal]]
