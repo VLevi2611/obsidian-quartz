@@ -11,12 +11,14 @@
             "id": "7aef76f0afaffcd4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
+                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "General Chemistry Principles and Modern Applications"
+              "icon": "lucide-file",
+              "title": "08 Electrons in Atoms"
             }
           }
         ]
@@ -259,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -344,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of 08 Electrons in Atoms"
             }
           }
         ]
@@ -370,6 +372,10 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/General Chemistry/07 Thermochemistry/Standard State.md",
+    "Notes/Chemistry/General Chemistry/07 Thermochemistry/Standard Enthalpy of Reaction.md",
+    "Notes/Chemistry/General Chemistry/07 Thermochemistry/Standard Enthalpy of Formation.md",
     "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
     "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
     "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
@@ -392,10 +398,6 @@
     "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Boltzmann Constant.md",
     "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
     "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/12 Intermolecular Forces.md",
-    "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/Clausius Clapeyron Equation.md",
-    "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
-    "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
-    "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
@@ -408,7 +410,6 @@
     "Progress/13.11.25.png",
     "Book view.base",
     "Resources/Excalidraw",
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry",
     "Notes/Chemistry/General Chemistry/24 Coordination Chemistry",
     "Notes/Chemistry/General Chemistry/23 Transition Metals",
