@@ -16,7 +16,9 @@ A study of [[Ionization Energy]], $E_i$ , shows that the periodic relationship o
 
 [[Electron Affinity]], $E_{ea}$ , is the [[Energy]] change when an electron is added to a gaseous atom. Interpreting trends is somewhat more difficult for electron affinity than for ionization energy because of the additional electron repulsions that arise when an electron is added to an atom.
 
-The magnetic properties of an atom or ion stem from the presence or absence of unpaired electrons. [[Paramagnetic]] atoms and ions have one or more 
+The magnetic properties of an atom or ion stem from the presence or absence of unpaired electrons. [[Paramagnetic]] atoms and ions have one or more unpaired electrons. In [[Diamagnetic]] atoms and ions, all electrons are paired.
+
+The [[Polarizability]] of an atom provides a measure of the extent to which its electron cloud can be distorted by an [[Electric Field]] or the approach of another atom, [[Molecule]] or ion. Polarizability increases as the size of the atom increases.
 
 ## #concept 
 
@@ -36,3 +38,4 @@ The magnetic properties of an atom or ion stem from the presence or absence of u
 - [[Polarizability]]
 - [[Periodic Law]]
 - [[Functional Groups]]
+- 
