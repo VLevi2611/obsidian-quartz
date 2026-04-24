@@ -14,8 +14,7 @@ A covalent bond in which the electron pair is not shared equally by the bonded a
 
 To draw the Lewis structure of a covalent molecule, one needs to know the [[Skeletal Structure]], that is, which is the [[Central Atom]] and what atoms are bonded to it. Atoms that are bonded to just one other atoms are called [[Terminal Atom|Terminal Atoms]]. Typically, the atom with the lowest electronegativity is a central atom. At times, the concept of [[Formal Charge]] is useful in selecting a skeletal structure and assessing the plausibility of a Lewis structure.
 
-There are often exceptions to the octet rule.
-1. 
+Often, more than one plausible Lewis structure can be written for a species. This situation is called [[Resonance]]. In these cases the true structure is a resonance hybrid of 2 or more contributing structures.
 
 ## #concept 
 
