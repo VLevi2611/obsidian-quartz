@@ -22,7 +22,9 @@ There are often exceptions to the octet rule.
 3. [[Expanded Valence Shell|Expanded Valence Shells]] occur in some [[Compound|Compounds]] of [[Nonmetal|Nonmetals]] of the 3rd [[Periods|Period]] and beyond.
 In these, the valence shell of the central atom must be expanded to 10 or 12 electrons in order to write a Lewis structure.
 
-A powerful method for predicting the [[]]
+A powerful method for predicting the [[Molecular Geometry]], or molecule shape, of a species is the **valence shell electron pair repulsion theory** or the [[VSEPR Theory]]. The shape of a molecule or a polyatomic ion depends on the geometric distribution of valence shell electron [[Groups]]- the [[Electron-Group Geometry]], and whether these groups contain bonding electrons or lone pairs. The angles between the electron groups provide a method for predicting [[Bond Angle|Bond Angles]] in a molecule. An important use of information about the shapes of molecules is in establishing whether bonds in a molecule combine to produce a [[Dipole Moment]]. Molecules with a resultant dipole moment are [[Polar Molecule|Polar Molecules]], those with no resultant dipole moment are nonpolar.
+
+Single, double, and triple covalent bonds are sia
 
 ## #concept 
 
