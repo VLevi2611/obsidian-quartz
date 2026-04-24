@@ -17,7 +17,12 @@ To draw the Lewis structure of a covalent molecule, one needs to know the [[Skel
 Often, more than one plausible Lewis structure can be written for a species. This situation is called [[Resonance]]. In these cases the true structure is a resonance hybrid of 2 or more contributing structures.
 
 There are often exceptions to the octet rule.
-1. Odd-electron species, such as $\ce{NO}$, have an unpaired electron and are [[Paramagnetic]]. Many of these species are reactive mo
+1. Odd-electron species, such as $\ce{NO}$, have an unpaired electron and are [[Paramagnetic]]. Many of these species are reactive molecular fragments, such as $\ce{OH}$, called [[Free Radical|Free Radicals]].
+2. A few molecules have incomplete octets in their Lewis structures, that is, not enough electrons to provide an octet for every atom.
+3. [[Expanded Valence Shell|Expanded Valence Shells]] occur in some [[Compound|Compounds]] of [[Nonmetal|Nonmetals]] of the 3rd [[Periods|Period]] and beyond.
+In these, the valence shell of the central atom must be expanded to 10 or 12 electrons in order to write a Lewis structure.
+
+A powerful method for predicting the [[]]
 
 ## #concept 
 
