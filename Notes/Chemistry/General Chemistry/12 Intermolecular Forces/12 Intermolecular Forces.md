@@ -12,7 +12,9 @@ The intermolecular forces that occur between [[Molecule|Molecules]] are collecti
 
 When crystalline [[Solid|Solids]] are heated, a temperature is reached where the solid state is converted to a liquid, [[Melting]] occurs. The temperature at which this occurs is the [[Melting Point]]. When liquids are cooled, the crystalline material will form during the process of [[Freezing]], and the temperature at which this occurs is the [[Freezing Point]]. Under certain conditions solids can directly convert into vapor by the process of [[Sublimation]]. The reverse process is called [[Deposition]]. Among the properties of a solid affected by intermolecular forces are its sublimation pressure and its melting point.
 
-A [[Phase Diagram]] is a graphical plot of conditions under which solids, liquids and gases (vapors) exist, as single phases or as 2 or more phases in equilibrium with one another. Significant points on a phase diagram are the [[Triple Point]] (where all 3 coexist), melting and boiling 
+A [[Phase Diagram]] is a graphical plot of conditions under which solids, liquids and gases (vapors) exist, as single phases or as 2 or more phases in equilibrium with one another. Significant points on a phase diagram are the [[Triple Point]] (where all 3 coexist), melting and boiling point and critical point, beyond which a supercritical fluid is possible. Some [[Substance|Substances]] can exist in different forms in the solid state, such behavior is called [[Polymorphism]].
+
+Solids can be classified according to the nature of bonding. In [[Network Covalent Solids]], [[Chemical Bond|Chemical Bonds]] extend throughout a crystalline structure. For these substances the chemical bonds are the forces holding the atoms in place. [[Ionic Solids]] are composed of [[Ion|Ions]] held in place through interionic forces of attractions. Solids that are composed of discrete molecules are known as [[Molecular Solids]]. These molecules are held in place through the different intermolecular forces. [[Metal]] [[Atom|Atoms]] form [[Metallic Solids]]
 
 ## #concept 
 
