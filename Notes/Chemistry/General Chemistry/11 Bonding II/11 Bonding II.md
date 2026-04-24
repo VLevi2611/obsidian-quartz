@@ -10,7 +10,11 @@ A basic requirement of a bonding theory is that it provide a better description 
 
 [[Valence Bond Method]] considers a [[Covalent Bond]] in terms of the overlap of [[Atomic Orbital|Atomic Orbitals]] of the bonded atoms.
 
-Some molecules can be described in terms of the overlap if simple orbitals, but often orbitals that are composite of simple orbitals, [[Hybrid Orbital|Hybrid Orbitals]], are needed. The [[Hybridization]] scheme chosen is the one that produces an orientation of hybrid orbitals to match the [[Electron-Group Geometry]] predicted by the [[VSEPR Theory]]. **$sp$ hybrid orbitals** are associated with linear electron group geometries. **$sp^2$ hybrid orbitals** with trigonal planer geometries, **$sp^3$ hybrid orbitals** with tetrahedral geometries, **$sp^3d$ hybrid orbitals** with trigonal bipyramidal geometr
+Some molecules can be described in terms of the overlap if simple orbitals, but often orbitals that are composite of simple orbitals, [[Hybrid Orbital|Hybrid Orbitals]], are needed. The [[Hybridization]] scheme chosen is the one that produces an orientation of hybrid orbitals to match the [[Electron-Group Geometry]] predicted by the [[VSEPR Theory]]. **$sp$ hybrid orbitals** are associated with linear electron group geometries. **$sp^2$ hybrid orbitals** with trigonal planer geometries, **$sp^3$ hybrid orbitals** with tetrahedral geometries, **$sp^3d$ hybrid orbitals** with trigonal bipyramidal geometries and **$sp^3d^2$ hybrid orbitals** with octahedral geometries.
+
+End to end overlap of orbitals produces [[Sigma Bond|Sigma Bonds]]. Side to side overlap of 2 $p$ orbitals produces a [[Pi Bond]]. [[Single Covalent Bond]] are sigma bonds. A [[Double Covalent Bond]] consists of one sigma bond and one pi bond. A [[Triple Covalent Bond]] consists of one sigma bond and 2 pi bonds. The geometric shape of a species determines the sigma bond framework, and pi bonds are added as required to complete the bonding description.
+
+In [[Molecular Orbital Theory]], electrons are assigned to molecular orbitals. The numbers and kinds of molecular orbitals are related to the atomic orbitals used to generate them. Electron density between [[Atom|Atoms]] is high in [[Bonding Molecular Orbitals]] and very low in [[Antibonding Orbitals]]. [[Bond Order]] is one half the difference between the numbers of electrons in bonding molecular orbitals and in antibonding molecular orbitals. Molecula
 
 ## #concept 
 
