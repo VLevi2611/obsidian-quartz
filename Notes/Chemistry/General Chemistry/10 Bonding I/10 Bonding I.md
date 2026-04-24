@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-
+A [[Lewis Symbol]] represents the [[Valence Electron|Valence Electrons]] of an [[Atom]] by using dots placed around the chemical symbol. A [[Lewis Structure]] is a combination of Lewis symbols used to represent [[Chemical Bond|Chemical Bonds]]. Normally, all the [[Electron|Electrons]] in a Lewis structure are paired, and each atom in the structure acquires an [[Octet]], that is, there are 8 electrons as valence electrons. In [[Lewis Theory]], 
 
 ## #concept 
 
