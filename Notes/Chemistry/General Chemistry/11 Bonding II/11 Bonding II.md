@@ -14,7 +14,9 @@ Some molecules can be described in terms of the overlap if simple orbitals, but 
 
 End to end overlap of orbitals produces [[Sigma Bond|Sigma Bonds]]. Side to side overlap of 2 $p$ orbitals produces a [[Pi Bond]]. [[Single Covalent Bond]] are sigma bonds. A [[Double Covalent Bond]] consists of one sigma bond and one pi bond. A [[Triple Covalent Bond]] consists of one sigma bond and 2 pi bonds. The geometric shape of a species determines the sigma bond framework, and pi bonds are added as required to complete the bonding description.
 
-In [[Molecular Orbital Theory]], electrons are assigned to molecular orbitals. The numbers and kinds of molecular orbitals are related to the atomic orbitals used to generate them. Electron density between [[Atom|Atoms]] is high in [[Bonding Molecular Orbitals]] and very low in [[Antibonding Orbitals]]. [[Bond Order]] is one half the difference between the numbers of electrons in bonding molecular orbitals and in antibonding molecular orbitals. Molecula
+In [[Molecular Orbital Theory]], electrons are assigned to molecular orbitals. The numbers and kinds of molecular orbitals are related to the atomic orbitals used to generate them. Electron density between [[Atom|Atoms]] is high in [[Bonding Molecular Orbitals]] and very low in [[Antibonding Orbitals]]. [[Bond Order]] is one half the difference between the numbers of electrons in bonding molecular orbitals and in antibonding molecular orbitals. Molecular orbital [[Energy Level]] diagrams and an **Aufbau process** can be used to describe the electronic structure of a molecule.
+
+Bonding in the benzene molecule, $\ce{C6H6}$ , is partially based on the concept of [[Delocalized Molecular Orbitals]]. These are regions of high electron density that extend over several atoms in a molecule. Delocalized molecular orbitals also provide an alternative to the concept of [[Resonance]] in other molecules and [[Ion|Ions]].
 
 ## #concept 
 

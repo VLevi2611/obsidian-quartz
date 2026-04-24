@@ -7,7 +7,7 @@ tags:
 ## Definition
 
 In the formation of some [[Solution|Solutions]], [[Heat]] is given off to the surroundings, in other cases heat is absorbed. We can figure out the **enthalpy of solution** in 3 steps.
-1. [[Solvent]] [[Molecule|Molecules]] must be separated from one another to make room for the [[Solute]] molecules. Some [[Energy]] is required to overcome the [[12 Intermolecular Forces|Forces of Attraction]] between solvent molecules. This step is an [[Endothermic Reaction]], $\Delta H > 0$.
+1. [[Solvent]] [[Molecule|Molecules]] must be separated from one another to make room for the [[Solute]] molecules. Some [[Energy]] is required to overcome the [[Van Der Waals Forces]] between solvent molecules. This step is an [[Endothermic Reaction]], $\Delta H > 0$.
 2. The solute molecules must be separated from one another. This step is also endothermic.
 3. At last, we imagine that the solvent and solute molecules are attracted to one another. Therefore, when separated solvent and solute molecules combine to form a solution,, we expect energy to be released. This is an [[Exothermic Reaction]].
 ![[Enthalpy of Solution.png]] 

@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview 
 
+The intermolecular forces that occur between [[Molecule|Molecules]] are collectively known as [[Van Der Waals Forces]]
+
 ## #concept 
 
 - [[Van Der Waals Forces]]
