@@ -12,7 +12,13 @@ In pure water and in [[Aqueous Solution|Aqueous Solutions]], [[Self Ionization]]
 
 The equilibrium constant for the [[Chemical Reaction]] of an acid with water is called the [[Acid Ionization Constant]] $K_a$ , and that for the reaction of a base with water is called the [[Base Ionization Constant]] $K_b$ . [[Strong Acid|Strong Acids]] and [[Strong Base|Strong Bases]] have large ionization constants and are essentially completely [[Ionization|Ionized]] in water. [[Weak Acid|Weak Acids]] and [[Weak Base|Weak Bases]] have small ionization constants and ionized to a limited extent in water. The extent to which acids or bases ionize in water is described in terms of either the [[Degree of Ionization]] $\alpha$, or the [[Percent Ionization]]. For a weak acid or base, the degree of ionization increases with increasing [[Dilute Solution|Dilution]].
 
-In aqueous solutions, strong acids ionize completely to produce $\ce{H3O+}$ and strong bases [[Dissociation|Dissociate]] completely to produce $\ce{OH-}
+In aqueous solutions, strong acids ionize completely to produce $\ce{H3O+}$ and strong bases [[Dissociation|Dissociate]] completely to produce $\ce{OH-}$.
+
+Weak acid or base ionizes to a limited extent in water. The extent of their ionization can be related to the ionization constants $K_a$ and $K_b$ or their logarithmic equivalents [[pKa]] and [[pKb]] by setting up and solving an equilibrium calculation. Calculations involving ionization equilibria are in many ways similar to those in [[15 Chemical Equilibrium]], although some additional considerations are necessary for [[Polyprotic Acid|Polyprotic Acids]].
+
+Polyprotic acids are acids with more than one ionizable $\ce{H}$ [[Atom]] that undergo a stepwise ionization and have a different ionization constant, $K_{a_1}, K_{a_2}, ...$ , for each ionization step.
+
+In certain situations, it may be necessary to consider 2 or more ionizion
 
 ## #concept 
 
