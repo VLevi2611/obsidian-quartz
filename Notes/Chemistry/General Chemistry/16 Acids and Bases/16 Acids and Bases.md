@@ -18,7 +18,11 @@ Weak acid or base ionizes to a limited extent in water. The extent of their ioni
 
 Polyprotic acids are acids with more than one ionizable $\ce{H}$ [[Atom]] that undergo a stepwise ionization and have a different ionization constant, $K_{a_1}, K_{a_2}, ...$ , for each ionization step.
 
-In certain situations, it may be necessary to consider 2 or more ionizion
+In certain situations, it may be necessary to consider 2 or more ionization reactions. A general approach for handling such situations involves writing down all equilibrium constant expressions, 1 or more **material balance equations** and a **charge balance equation**. A material balance equation indicates that the equilibrium concentrations of all forms of a given acid or base must be equal to the initial or stoichiometric concentration of the acid or base. The charge balance equation indicates that the solution carry no net [[Charge]].
+
+In reactions between [[Ion|Ions]] and water- [[Hydrolysis]] reactions, the ions react as weak acid or bases. the pH of [[Salt]] solutions depends on the [[Anion|Anions]] and/or [[Cation|Cations]] present. Anions from weak acids act as bases whereas cations from weak bases act as acids.
+
+For an acid-base reaction, [[Equilibrium]] favors the formation of the weaker acid and the weaker base. If the acid or base in an acid-base reacion is strong,
 
 ## #concept 
 
