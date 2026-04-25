@@ -10,7 +10,9 @@ tags:
 
 Clausius, using macroscopic observations, proposed that the entropy change for a process can be related to the amount of [[Heat]] transferred divided by the [[Temperature]], provided the process is imagined to occur in a [[Reversible Process|Reversible Way]]. Consequently, an entropy change, $\Delta S$, has the unit $\frac{J}{K}$. Clausius's formula can be used to obtain expression for calculating entropy changes for a variety of physical changes, including phase transitions, constant [[Pressure]] [[Heat|Heating]] or cooling, the isothermal expansion or compression of an ideal gas. 
 
-A statement of the [[Third Law of Thermodynamics]] is that entropy of a pure perfect [[Crystal]] at 0 $K$ is zero. Thus, we can assign a specific absolute value to the entropy of a pure [[Substance]]
+A statement of the [[Third Law of Thermodynamics]] is that entropy of a pure perfect [[Crystal]] at 0 $K$ is zero. Thus, we can assign a specific absolute value to the entropy of a pure [[Substance]]. This is marked contrast to the situation for other thermodynamic properties such as [[Internal Energy]] and [[Enthalpy]], for which [[Absolute Value|Absolute Values]] cannot be assigned. The absolute entropy of one [[Mole]] of substance in its [[Standard State]] is called the [[Standard Molar Entropy]], $S^{\circ}$. Standard molar entropies of [[Reagent|Reagents]] and [[Product|Products]] can be used to calculate the [[Standard Reaction Entropy]], $\Delta _r S^{\circ}$.
+
+The basic criterion for [[Spontaneous Process]] is that the entropy change of the universe, which is the sum of entropy change of the system and its [[Surroundings]], must be greater than 0. This statement is known as the [[Second Law of Thermodynamics]]. An equivalent criterion applied to the system alone is based on a thermodynamic function known as the [[Gibbs Energy]], $G$. For an isothermal process, the [[Gibbs Energy Change]], $\Delta _r_
 
 ## #concept 
 
