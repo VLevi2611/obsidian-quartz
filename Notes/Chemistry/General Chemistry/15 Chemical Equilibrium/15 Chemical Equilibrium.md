@@ -13,7 +13,10 @@ This condition of dynamic equilibrium is described through an [[Equilibrium Cons
 
 When the equation for a [[Reversible Process]] is written in the reverse order, the equilibrium constant is inverted from its original form. When 2 or more reaction are [[Coupled Reactions|Coupled]] together, the equilibrium constant for the [[Overall Reaction]] is the product of the $K$ values of the individual reactions. The equilibrium constant of a reaction can have different values depending on the reference state used. For $K_c$ , a [[Concentration]] reference state is used, while for $K_p$ , a [[Pressure]] reference state is used. 
 
+The magnitude of the equilibrium constant can be used to determine the outcome of a reaction. For large $K$ values the reaction goes to completion, with all [[Reagent|Reagents]] converted to [[Product|Products]]. A very small $K$, for example, a large negative power of 10, indicates that practically none of those reagents have been converted to products. Finally, equilibrium constant of an intermediate value between $10^{-10}$ and $10^{10}$, indicate that some of the reagents have been converted to products.
 
+A comparison of the reaction quotient with the equilibrium constant makes it possible to predict the direction of net change leading to equilibrium. 
+- If $Q < K$, the forward reaction is favored, meaning that when equilibrium is established 
 
 ## #concept 
 
