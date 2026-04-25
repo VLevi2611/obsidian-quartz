@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of Atomic Spectra"
             }
           }
         ]
@@ -407,10 +407,10 @@
       }
     ]
   },
-  "active": "e860fa0165a9d812",
+  "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
     "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
     "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
