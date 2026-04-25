@@ -10,7 +10,9 @@ The [[Bronsted Lowry theory]] describes an [[Acid]] as a [[Proton Donor]] and a 
 
 In pure water and in [[Aqueous Solution|Aqueous Solutions]], [[Self Ionization]] of the water occurs to a very slight extent, [[Product|Producing]] $\ce{H3O+}$ and $\ce{OH-}$, as described by the [[Equilibrium Constant]] $K_w$ , known as the [[Ion Product of Water]]. The designations [[pH]] and [[pOH]] are often used to describe the [[Concentration|Concentrations]] of $\ce{H3O+}$ and $\ce{OH-}$ in aqueous solutions.
 
-The equilibrium constant for the [[c]]
+The equilibrium constant for the [[Chemical Reaction]] of an acid with water is called the [[Acid Ionization Constant]] $K_a$ , and that for the reaction of a base with water is called the [[Base Ionization Constant]] $K_b$ . [[Strong Acid|Strong Acids]] and [[Strong Base|Strong Bases]] have large ionization constants and are essentially completely [[Ionization|Ionized]] in water. [[Weak Acid|Weak Acids]] and [[Weak Base|Weak Bases]] have small ionization constants and ionized to a limited extent in water. The extent to which acids or bases ionize in water is described in terms of either the [[Degree of Ionization]] $\alpha$, or the [[Percent Ionization]]. For a weak acid or base, the degree of ionization increases with increasing [[Dilute Solution|Dilution]].
+
+In aqueous solutions, strong acids ionize completely to produce $\ce{H3O+}$ and strong bases [[Dissociation|Dissociate]] completely to produce $\ce{OH-}
 
 ## #concept 
 
