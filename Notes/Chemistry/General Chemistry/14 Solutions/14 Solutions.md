@@ -12,7 +12,11 @@ Any description of the [[Composition]] of a solution must indicate the quantitie
 
 Prediction about whether 2 [[Substance|Substances]] will mix to form a solution involve knowledge of [[Van Der Waals Forces]] between like and unlike [[Molecule|Molecules]]. This approach makes it possible to identify an [[Ideal Solution]], one whose [[Property|Properties]]can be predicted from properties of the individual solution components. Most solutions are nonideal.
 
-Generally, a solvent has limited ability to dissolve a solute. A solution containing the maximum amount of 
+Generally, a solvent has limited ability to dissolve a solute. A solution containing the maximum amount of solute possible is a [[Saturated Solution]]. A solution with less than this maximum amount is an [[Unsaturated Solution]]. Under certain conditions a solution can be prepared that contains more solute than a normal saturated solution, such solutions are called [[Supersaturated Solution|Supersaturated]]. [[Solubility]] refers to the concentration of solute in a saturated solution and depends on temperature. Graphs of solute solubility versus temperature can be used to devise conditions for recovering a pure solute from a solution of several solutes through [[Recrystallization]].
+
+ The solubilities of [[Gas|Gases]] depend on [[Pressure]] as well as temperature, and many familiar phenomena are related to gas solubilities. [[Henry's Law]] relates the concentration of a gas in a solution to its pressure above the solution.
+
+The [[Vapor Pressure]] of a solution depends on the vapor pressure of its pure components. If the solution is ideal, [[Raoult's Law]]
 
 ## #concept 
 
