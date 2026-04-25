@@ -22,7 +22,11 @@ In certain situations, it may be necessary to consider 2 or more ionization reac
 
 In reactions between [[Ion|Ions]] and water- [[Hydrolysis]] reactions, the ions react as weak acid or bases. the pH of [[Salt]] solutions depends on the [[Anion|Anions]] and/or [[Cation|Cations]] present. Anions from weak acids act as bases whereas cations from weak bases act as acids.
 
-For an acid-base reaction, [[Equilibrium]] favors the formation of the weaker acid and the weaker base. If the acid or base in an acid-base reacion is strong,
+For an acid-base reaction, [[Equilibrium]] favors the formation of the weaker acid and the weaker base. If the acid or base in an acid-base reaction is strong, then the reaction goes essentially to completion.
+
+[[Molecule|Molecular]] [[Composition]] and structure are the keys to determining whether a [[Substance]] is acidic, basic or amphiprotic. In addition, molecular structure affects whether an acid or base is strong or weak. In assessing acid strength, factors that affect the strength of the [[Chemical Bond|Bond]] that must be broken to release $\ce{H+}$ must be considered. Alternatively, factors that affect the stability of the anion formed by the acid can be considered. In assessing base strength, factors that affect the ability of [[Lone Pair]] [[Electron|Electrons]] to bind a proton are of primary concern.
+
+The Lewis acid-base theory views an electron-pair acceptor as a [[Lewis Acid]] and an electron-pair donor as a [[Lewis Base]]. The addition [[Compound]] of a Lewis acid
 
 ## #concept 
 
