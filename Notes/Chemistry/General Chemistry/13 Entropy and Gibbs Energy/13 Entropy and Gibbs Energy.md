@@ -16,6 +16,10 @@ The basic criterion for [[Spontaneous Process]] is that the entropy change of th
 
 The [[Standard Gibbs Energy of Reaction]], $\Delta _r G^{\circ}$, is based on the conversion of [[Stoichiometry|Stoichiometric]] amounts of reagents in their standard states to stoichiometric amounts of produces in their standard states. Values of $\Delta _r G^{\circ}$ are often calculated from tabulated values of [[Standard Gibbs Energies of Formation]], $\Delta _f G^{\circ}$ at room temperature. For nonstandard conditions, the [[Gibbs Energy of Reaction]]. $\Delta _r G = \Delta _r G^{\circ} + RT \ln Q$, where $Q$ is the [[Reaction Quotient]], takes account of the initial conditions. The value of $\Delta _r G$ can be used to predict the direction of spontaneous change. The relationship between the standard Gibbs energy change and the [[Equilibrium Constant]] for a [[Chemical Reaction]] is: $\Delta _r G^{\circ} = -RT \ln K$. The constant $K$ is the value of the reaction quotient $Q$ at equilibrium and is called the [[thermodynamic Equilibrium Constant]]. Both $Q$ and $K$ are expressed in terms of the activities of reagents and products. The activities can be related to [[Molarity|Molarities]] and gas partial pressures by means of a few simple conversion. The direction of spontaneous changes can also be predicted by comparing the values of $Q$ and $K$.
 
+[[Nonspontaneous Process|Nonspontaneous Processes]] can be made spontaneous by coupling them with spontaneous reactions and by taking advantage of the [[State Function]] property of $G$. [[Coupled Reactions]] are paired reactions that yield a spontaneous [[Overall Reaction]], occur in metallurgical processes and in biochemical transformations.
+
+G.N, Lewis introduced the concept of chemical potential, represented by $\mu$ and the concept of activity, $a$. The [[Chemical Potential]] of a substance refers to its ability or potential change the Gibbs energy of the system. The activity is defined in a way that ensures that the chemical potential has a specific form. The criterion for predicting the direction of spontaneous change can be obtained by co
+
 ## #concept 
 
 - [[Microstate]]
