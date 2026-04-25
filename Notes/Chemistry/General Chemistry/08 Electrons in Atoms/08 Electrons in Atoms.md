@@ -43,6 +43,7 @@ Elements in the same [[Groups|Group]] of the periodic table have similar electro
 - [[Atomic Spectra]]
 - [[Ground State]]
 - [[Excited State]]
+- [[Wave-Particle Duality]]
 - [[Atomic Orbital]]
 - [[Principal Electronic Shell]]
 - [[Subshell]]

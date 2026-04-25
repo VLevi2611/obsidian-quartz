@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave-Particle Duality.md",
+                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave-Particle Duality"
+              "title": "08 Electrons in Atoms"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave-Particle Duality.md",
+                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Wave-Particle Duality"
+              "title": "Graph of 08 Electrons in Atoms"
             }
           }
         ]
@@ -409,8 +409,8 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave-Particle Duality.md",
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
