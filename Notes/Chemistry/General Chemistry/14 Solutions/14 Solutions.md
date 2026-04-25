@@ -20,7 +20,11 @@ The [[Vapor Pressure]] of a solution depends on the vapor pressure of its pure c
 
 [[Osmosis]] is the [[Spontaneous Process|Spontaneous]] flow of solvent through a semipermeable [[Membrane]] separating 2 solutions of different concentration. The net flow is from the less to the more concentrated solution. Osmotic flow can be stopped by applying a pressure, called the [[Osmotic Pressure]], to the more concentrated solution. In [[Reverse Osmosis]], the direction of flow is reversed by applying a pressure that exceeds the osmotic pressure to the more concentrated solution. Both osmosis and reverse osmosis have important practical applications. Osmotic pressure can be calculated with a simple relationship resembling the [[Ideal Gas Equation]]. [[Colligative Properties]] are certain properties that depend only on the concentration of solute particles in a solution, and not on the identity of the solute. Vapor pressure lowering is one such [[Property]], and osmotic pressure is another.
 
-[[Freezing Point]] depression and boiling point elevation are colligative properties having many familiar practical applications. For reasonably dilute solutions, their values are proportional to the molarity of the solution. The proportionally 
+[[Freezing Point]] depression and boiling point elevation are colligative properties having many familiar practical applications. For reasonably dilute solutions, their values are proportional to the molarity of the solution. The proportionally constants are $K_f$ and $K_b$ respectively. Historically, freezing point depression was a common method for determining [[Molar Mass]].
+
+Calculating colligative properties of [[Electrolytes|Electrolyte Solutions]] is more difficult than for solution of [[Nonelectrolytes]]. The solute particles in electrolyte solution are [[Ion|Ions]] or ions and [[Molecule|Molecules]]. Calculations using equations must be based on the total number of particles present, and the **van't Hoff factor** is introduced into these equations to reflect this number. In all but the most dilute solutions, composition must be in terms of activities, effective concentrations that take into account interionic forces.
+
+[[Colloids]] are an important intermediate state between a true solution and a [[Heterogeneous Mixture]]. Colloidal mixtures are responsible for some unusual phenomena and are 
 
 ## #concept 
 
