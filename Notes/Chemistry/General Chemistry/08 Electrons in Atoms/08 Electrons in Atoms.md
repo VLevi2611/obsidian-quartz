@@ -40,6 +40,7 @@ Elements in the same [[Groups|Group]] of the periodic table have similar electro
 - [[Planck's Constant]]
 - [[Photoelectric Effect]]
 - [[Photon]]
+- [[Atomic Spectra]]
 - [[Ground State]]
 - [[Excited State]]
 - [[Atomic Orbital]]

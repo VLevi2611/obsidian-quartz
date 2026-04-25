@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
+                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave-Particle Duality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic Spectra"
+              "title": "Wave-Particle Duality"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
+                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave-Particle Duality.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Atomic Spectra"
+              "title": "Graph of Wave-Particle Duality"
             }
           }
         ]
@@ -409,9 +409,10 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave-Particle Duality.md",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
     "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
     "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
