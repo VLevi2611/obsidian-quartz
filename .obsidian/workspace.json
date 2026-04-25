@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
+                "file": "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Matter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 Electrons in Atoms"
+              "title": "Matter"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
+                "file": "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Matter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 08 Electrons in Atoms"
+              "title": "Graph of Matter"
             }
           }
         ]
@@ -372,6 +372,8 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
     "Notes/Chemistry/General Chemistry/09 Periodic Trends/Groups.md",
     "Notes/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
     "Notes/Chemistry/General Chemistry/09 Periodic Trends/Periods.md",
@@ -397,8 +399,6 @@
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
     "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
     "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/17 Acid-Base Equilibria.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
-    "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
