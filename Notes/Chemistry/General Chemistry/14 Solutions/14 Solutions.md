@@ -24,7 +24,7 @@ The [[Vapor Pressure]] of a solution depends on the vapor pressure of its pure c
 
 Calculating colligative properties of [[Electrolytes|Electrolyte Solutions]] is more difficult than for solution of [[Nonelectrolytes]]. The solute particles in electrolyte solution are [[Ion|Ions]] or ions and [[Molecule|Molecules]]. Calculations using equations must be based on the total number of particles present, and the **van't Hoff factor** is introduced into these equations to reflect this number. In all but the most dilute solutions, composition must be in terms of activities, effective concentrations that take into account interionic forces.
 
-[[Colloids]] are an important intermediate state between a true solution and a [[Heterogeneous Mixture]]. Colloidal mixtures are responsible for some unusual phenomena and are 
+[[Colloids]] are an important intermediate state between a true solution and a [[Heterogeneous Mixture]]. Colloidal mixtures are responsible for some unusual phenomena and are encountered in a broad range of contexts, from fluids in living organisms to pollutant in large air masses.
 
 ## #concept 
 
