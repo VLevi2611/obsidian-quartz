@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Matter.md",
+                "file": "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matter"
+              "title": "11 Bonding II"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Matter.md",
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Matter"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -370,8 +370,48 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7aef76f0afaffcd4",
+  "floating": {
+    "id": "9f54df00fe34c365",
+    "type": "floating",
+    "children": [
+      {
+        "id": "684602f8c9c0c33d",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ba57376922dd7b6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e860fa0165a9d812",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "General Chemistry Principles and Modern Applications"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e860fa0165a9d812",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
+    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/17 Acid-Base Equilibria.md",
+    "Notes/Chemistry/General Chemistry/01 Matter and Measurement/Matter.md",
     "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
     "Notes/Chemistry/General Chemistry/09 Periodic Trends/Groups.md",
@@ -396,9 +436,6 @@
     "Notes/Chemistry/General Chemistry/22 Main Group II/22 Main Group II.md",
     "Notes/Chemistry/General Chemistry/21 Main Group I/21 Main Group I.md",
     "Notes/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md",
-    "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
-    "Notes/Chemistry/General Chemistry/17 Acid-Base Equilibria/17 Acid-Base Equilibria.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",
