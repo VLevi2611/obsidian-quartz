@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview 
 
+The [[Bronsted Lowry theory]] describes an [[Acid]] as a [[Proton Donor]] and a [[Base]] as a [[Proton Acceptor]]. In an [[Acid-Base Reaction]], the base takes a [[Proton]] $(\ce{H+})$ from an acid. In general, acid-base reactions are [[Reversible Process|Reversible]]. The [[Conjugate Base]] $(\ce{A-})$ is derived from the acid $\ce{HA}$ whereas the [[Conjugate Acid]] $\ce{HB+}$ is derived from the base $\ce{B}$. The combination of $\ce{HA/A-}$ and $\ce{B/HB+}$ are known as the 
+
 ## #concept 
 
 - [[Bronsted Lowry theory]]
