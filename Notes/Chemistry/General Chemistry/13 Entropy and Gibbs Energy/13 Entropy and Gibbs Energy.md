@@ -18,7 +18,7 @@ The [[Standard Gibbs Energy of Reaction]], $\Delta _r G^{\circ}$, is based on th
 
 [[Nonspontaneous Process|Nonspontaneous Processes]] can be made spontaneous by coupling them with spontaneous reactions and by taking advantage of the [[State Function]] property of $G$. [[Coupled Reactions]] are paired reactions that yield a spontaneous [[Overall Reaction]], occur in metallurgical processes and in biochemical transformations.
 
-G.N, Lewis introduced the concept of chemical potential, represented by $\mu$ and the concept of activity, $a$. The [[Chemical Potential]] of a substance refers to its ability or potential change the Gibbs energy of the system. The activity is defined in a way that ensures that the chemical potential has a specific form. The criterion for predicting the direction of spontaneous change can be obtained by co
+G.N, Lewis introduced the concept of chemical potential, represented by $\mu$ and the concept of activity, $a$. The [[Chemical Potential]] of a substance refers to its ability or potential change the Gibbs energy of the system. The activity is defined in a way that ensures that the chemical potential has a specific form. The criterion for predicting the direction of spontaneous change can be obtained by considering the Gibbs energy of a [[Mixture]], which can be expressed in terms of the chemical potentials of the substances involved.
 
 ## #concept 
 
