@@ -59,4 +59,3 @@ Elements in the same [[Groups|Group]] of the periodic table have similar electro
 - [[Valence Electron]]
 - [[Energy Level]]
 
-## #problem 

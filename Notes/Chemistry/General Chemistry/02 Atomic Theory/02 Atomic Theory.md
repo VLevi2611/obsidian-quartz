@@ -35,6 +35,7 @@ The [[Avogadro's Number]] $N_A = 6.02214 \times 10^{23} mol^{-1}$, represents th
 - [[Nucleus]]
 - [[Ion]]
 - [[Atomic Number]]
+- [[Charge]]
 - [[Mass Number]]
 - [[Isotope]]
 - [[Atomic Mass]]
