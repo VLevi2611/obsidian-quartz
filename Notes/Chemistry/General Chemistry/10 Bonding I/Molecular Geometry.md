@@ -13,4 +13,6 @@ Key molecular shapes:
 - **Trigonal Planar**: 3 electron domains, 120 angle.
 - **Tetrahedral**: 4 electron domains, 109.5 angle.
 - **Trigonal Bipyramidal**: 5 electron domains, 90 and 120 angles.
-- **Octahedral**: 6 electron domains, 
+- **Octahedral**: 6 electron domains, 90 angle.
+
+Lone pairs occupy more space than [[Bond Pair|Bond Pairs]], forcing [[Chemical Bond|Bonds]] closer together and reducing bond angles.
