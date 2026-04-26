@@ -230,6 +230,7 @@ tags:
 - [[Atomic Radius]]
 - [[Covalent Radius]]
 - [[Ionic Radius]]
+- [[Isoelectronicity]]
 - [[Metallic Radius]]
 - [[Van Der Waals Radius]]
 - [[Ionization Energy]]
