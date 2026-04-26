@@ -18,7 +18,9 @@ To determine whether a slightly soluble solute will [[Precipitate]] from a solut
 
 A comparison of $K_{sp}$ values is a factor in determining the feasibility of [[Fractional Precipitation]], a process in which one ionic species is removed by precipitation while others remain in solution.
 
-The solubility of a slightly soluble solute is affected by [[pH]] if the [[Anion]] is $\ce{OH-}$ or derived from a [[Weak Acid]]. The solubility increases as the pH lowered or decreases as the pH is raised. This can be illustrated through [[Le Chatelier's Principle]]. Also, an equilibrium constant for the dissolution [[Chemical Reaction|Reaction]] can be obtained by combining the solubility equilibrium equation and the ionization equilibrium equation of the [[Weak Electrolyte]]. Some slightly soluble solutions form [[Suspension|Suspensions]], which are 
+The solubility of a slightly soluble solute is affected by [[pH]] if the [[Anion]] is $\ce{OH-}$ or derived from a [[Weak Acid]]. The solubility increases as the pH lowered or decreases as the pH is raised. This can be illustrated through [[Le Chatelier's Principle]]. Also, an equilibrium constant for the dissolution [[Chemical Reaction|Reaction]] can be obtained by combining the solubility equilibrium equation and the ionization equilibrium equation of the [[Weak Electrolyte]]. Some slightly soluble solutions form [[Suspension|Suspensions]], which are [[Heterogeneous Mixture|Heterogeneous]] fluids containing solid particles that will eventually settle.
+
+A [[Complex Ion]] is a polyatomic ion [[Composition|Composed]] of a [[Central Atom|Central]] [[Metal]] ion bonded to 2 or more [[Molecule|Molecules]] called **ligands**. The formation of complex ion is an equilibrium process with an equilibrium constant called the [[Formation Constant]], $K_f$. In general, if the formation 
 
 ## #concept 
 
