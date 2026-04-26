@@ -287,6 +287,9 @@ tags:
 - [[Sigma Bond]]
 - [[Pi Bond]]
 - [[Molecular Orbital Theory]]
+- [[Bonding Molecular Orbitals]]
+- [[Antibonding Orbitals]]
+- [[Delocalized Molecular Orbitals]]
 
 ##### [[12 Intermolecular Forces]]
 
