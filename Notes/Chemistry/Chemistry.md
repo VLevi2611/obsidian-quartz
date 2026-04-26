@@ -57,6 +57,7 @@ tags:
 - [[Nucleus]]
 - [[Ion]]
 - [[Atomic Number]]
+- [[Charge]]
 - [[Mass Number]]
 - [[Isotope]]
 - [[Atomic Mass]]
