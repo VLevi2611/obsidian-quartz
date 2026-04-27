@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **nucleus** is a small, central, positively charged core inside an [[Atom]], containing [[Proton|Protons]] and [[Neutron|Neutrons]].
+A **nucleus** is a small, central, positively [[Charge|Charged]] core inside an [[Atom]], containing [[Proton|Protons]] and [[Neutron|Neutrons]].
 

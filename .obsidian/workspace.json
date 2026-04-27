@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/10 Bonding I/Formal Charge.md",
+                "file": "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formal Charge"
+              "title": "11 Bonding II"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "charge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/10 Bonding I/Formal Charge.md",
+                "file": "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -347,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Formal Charge"
+              "title": "Graph of 11 Bonding II"
             }
           }
         ]
@@ -410,34 +409,34 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/12 Intermolecular Forces.md",
+    "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
+    "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
+    "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
+    "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
+    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Charge.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Thomson's Atomic Model.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Rutherford's Atomic Model.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Proton.md",
+    "Notes/Chemistry/General Chemistry/10 Bonding I/Polar Molecule.md",
+    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Photon.md",
+    "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Oxidation State.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Nucleus.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Neutron.md",
+    "Notes/Chemistry/General Chemistry/10 Bonding I/Ionic Bond.md",
+    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Ion.md",
+    "Notes/Chemistry/General Chemistry/10 Bonding I/Formal Charge.md",
     "Notes/Chemistry/General Chemistry/02 Atomic Theory/Electron.md",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Effective Nuclear Charge.md",
     "Notes/Chemistry/General Chemistry/10 Bonding I/Dipole Moment.md",
     "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
     "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Electrolytes.md",
-    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
     "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Dissociation.md",
-    "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/05 Aqueous Reactions.md",
-    "Notes/Chemistry/General Chemistry/04 Chemical Reactions/04 Chemical Reactions.md",
-    "Notes/Chemistry/General Chemistry/03 Chemical Compounds/03 Chemical Compounds.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Rutherford's Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
     "Progress/27.04.26.png",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Suspension.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Solubility Product Constant.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Salt Effect.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Qualitative Cation Analysis.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Ion Product.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Ion Pairs.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Fractional Precipitation.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Formation Constant.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Coordination Compound.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Complex Ion.md",
-    "Notes/Chemistry/General Chemistry/11 Bonding II/Delocalized Molecular Orbitals.md",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
     "Resources/Images/Acid-Base Indicator.png",

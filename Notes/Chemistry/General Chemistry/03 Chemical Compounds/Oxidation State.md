@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-**Oxidation state** is the state of charge, which is related to the number of [[Electron|Electrons]] that an [[Atom]] loses/gains when joining with other atoms in [[Compound|Compounds]]. Some rules for assigning oxidation states:
+**Oxidation state** is the state of [[Charge]], which is related to the number of [[Electron|Electrons]] that an [[Atom]] loses/gains when joining with other atoms in [[Compound|Compounds]]. Some rules for assigning oxidation states:
 
 1. The oxidation state of an individual atom in a free [[Element]] is 0.
 2. The sum of the oxidation state of all atoms in a [[Molecule]] is 0.
