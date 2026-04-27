@@ -450,11 +450,16 @@ tags:
 - [[Standard Cell Potential]]
 - [[Faraday Constant]]
 - [[Nernst Equation]]
+- [[Concentration Cell]]
 - [[Battery]]
 - [[Primary Cell]]
 - [[Secondary Cell]]
 - [[Reverse Battery]]
 - [[Fuel Cell]]
+- [[Cathodic Protection]]
+- [[Electrolytic Cell]]
+- [[Electrolysis]]
+- [[Overpotential]]
 
 ### [[20 Kinetics]]
 
