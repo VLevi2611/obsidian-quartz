@@ -1359,7 +1359,7 @@
       "sortOrder": "custom"
     }
   },
-  "sortOrder": "alphabetical",
+  "sortOrder": "byModifiedTime",
   "debugMode": false,
   "newItemPlacement": "bottom"
 }
