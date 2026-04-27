@@ -422,7 +422,9 @@
         "Notes/Chemistry/General Chemistry/02 Atomic Theory/Molecular Mass.md",
         "Notes/Chemistry/General Chemistry/02 Atomic Theory/Mole.md",
         "Notes/Chemistry/General Chemistry/02 Atomic Theory/Molar Mass.md",
-        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Avogadro's Number.md"
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Avogadro's Number.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Atomic Mass Units.md",
+        "Notes/Chemistry/General Chemistry/02 Atomic Theory/Charge.md"
       ],
       "sortOrder": "custom"
     },
@@ -542,7 +544,10 @@
         "Notes/Chemistry/General Chemistry/07 Thermochemistry/Enthalpy of Reaction.md",
         "Notes/Chemistry/General Chemistry/07 Thermochemistry/Hess's Law.md",
         "Notes/Chemistry/General Chemistry/07 Thermochemistry/Spontaneous Process.md",
-        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Nonspontaneous Process.md"
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Nonspontaneous Process.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Standard Enthalpy of Formation.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Standard Enthalpy of Reaction.md",
+        "Notes/Chemistry/General Chemistry/07 Thermochemistry/Standard State.md"
       ],
       "sortOrder": "custom"
     },
@@ -568,7 +573,16 @@
         "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Electron Spin.md",
         "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Electron Configuration.md",
         "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Valence Electron.md",
-        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Energy Level.md"
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Energy Level.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Atomic Spectra.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Effective Nuclear Charge.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Heisenberg Uncertainty Principle.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Orbital Diagram.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Schrodinger Equation.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Standing Wave.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave Function.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Wave-Particle Duality.md",
+        "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Zero Point Energy.md"
       ],
       "sortOrder": "custom"
     },
@@ -588,7 +602,12 @@
         "Notes/Chemistry/General Chemistry/09 Periodic Trends/Diamagnetic.md",
         "Notes/Chemistry/General Chemistry/09 Periodic Trends/Electron Affinity.md",
         "Notes/Chemistry/General Chemistry/09 Periodic Trends/Paramagnetic.md",
-        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Polarizability.md"
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Polarizability.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Groups.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Isoelectronicity.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Periodic Law.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+        "Notes/Chemistry/General Chemistry/09 Periodic Trends/Periods.md"
       ],
       "sortOrder": "custom"
     },
@@ -625,7 +644,9 @@
         "Notes/Chemistry/General Chemistry/10 Bonding I/Bond Length.md",
         "Notes/Chemistry/General Chemistry/10 Bonding I/Average Bond Energy.md",
         "Notes/Chemistry/General Chemistry/10 Bonding I/Bond Dissociation Energy.md",
-        "Notes/Chemistry/General Chemistry/10 Bonding I/Metallic Bond.md"
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Metallic Bond.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Electron-Group Geometry.md",
+        "Notes/Chemistry/General Chemistry/10 Bonding I/Molecular Geometry.md"
       ],
       "sortOrder": "custom"
     },
@@ -637,7 +658,10 @@
         "Notes/Chemistry/General Chemistry/11 Bonding II/Hybrid Orbital.md",
         "Notes/Chemistry/General Chemistry/11 Bonding II/Sigma Bond.md",
         "Notes/Chemistry/General Chemistry/11 Bonding II/Pi Bond.md",
-        "Notes/Chemistry/General Chemistry/11 Bonding II/Molecular Orbital Theory.md"
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Molecular Orbital Theory.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Antibonding Orbitals.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Bonding Molecular Orbitals.md",
+        "Notes/Chemistry/General Chemistry/11 Bonding II/Delocalized Molecular Orbitals.md"
       ],
       "sortOrder": "custom"
     },
@@ -764,7 +788,17 @@
     },
     "Notes/Chemistry/General Chemistry/18 Solubility Equilibria": {
       "children": [
-        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md"
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Complex Ion.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Coordination Compound.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Formation Constant.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Fractional Precipitation.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Ion Pairs.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Ion Product.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Qualitative Cation Analysis.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Salt Effect.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Solubility Product Constant.md",
+        "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Suspension.md"
       ],
       "sortOrder": "custom"
     },
@@ -1190,7 +1224,6 @@
     },
     "Notes/Physics/Classical Mechanics/06 Oscillations": {
       "children": [
-        "Notes/Physics/Classical Mechanics/06 Oscillations/05 Oscillations.md",
         "Notes/Physics/Classical Mechanics/06 Oscillations/Amplitude Dependence.md",
         "Notes/Physics/Classical Mechanics/06 Oscillations/Angular Frequency.md",
         "Notes/Physics/Classical Mechanics/06 Oscillations/Damped Oscillations.md",
@@ -1208,7 +1241,8 @@
         "Notes/Physics/Classical Mechanics/06 Oscillations/SHM Equations Of Motion.md",
         "Notes/Physics/Classical Mechanics/06 Oscillations/Simple Harmonic Motion.md",
         "Notes/Physics/Classical Mechanics/06 Oscillations/Simple Pendulum.md",
-        "Notes/Physics/Classical Mechanics/06 Oscillations/Small Angle Approximation.md"
+        "Notes/Physics/Classical Mechanics/06 Oscillations/Small Angle Approximation.md",
+        "Notes/Physics/Classical Mechanics/06 Oscillations/06 Oscillations.md"
       ],
       "sortOrder": "custom"
     },
@@ -1235,7 +1269,8 @@
         "Progress/16.11.25.png",
         "Progress/17.04.26.png",
         "Progress/20.04.26.png",
-        "Progress/22.12.25.png"
+        "Progress/22.12.25.png",
+        "Progress/27.04.26.png"
       ],
       "sortOrder": "custom"
     },

@@ -402,7 +402,7 @@
         "y": 0,
         "width": 1440,
         "height": 900,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
