@@ -11,7 +11,3 @@ When a [[Chemical Reaction|Reaction]] occurs in a [[Voltaic Cell]], the cell doe
 2. $n$, the number of [[Mole|Moles]] of [[Electron|Electrons]] transferred between the [[Electrode|Electrodes]].
 3. The electric charge per mole of electrons called the **Faraday Constant, $F = 96485 \frac{C}{mol}$**.
 $$W_{elec} = nFE_{cell}$$
-The work that can be derived from a process is equal to the negative [[Gibbs Energy Change]]. For an electrochemical reaction, we have $n = z \xi$ , where $z$ is the electron number, the [[Atomic Number]] + [[Absolute Value]] of negative charge. $\xi$ is the extent of reaction in moles. Substituting, we get:
-$$W_{elec} = - \Delta G = z \xi F E_{cell}$$
-The quantity $\Delta G / \xi$ is the Gibbs energy change per mole of reaction, represented as $\Delta _r G$.
-$$\Delta _r G = -z F E_{cell}$$
