@@ -6,10 +6,15 @@ tags:
 ---
 ## Overview 
 
-In an [[Electrochemical Cell]], [[Electron|Electrons]] in an [[Oxidation Reduction]] [[Chemical Reaction|Reaction]] are transferred at [[Metal]] strips called [[Electrode|Electrodes]] and conducted through an external circuit. The [[Oxidation]] and [[Reduction]] [[Half-Cell]] reactions occur in separated regions called half-cells. In a half-cell, an electrode is immersed in a [[Solution]]. The electrodes of the 2 half-cells are joined by a wire, and an electrical connection between the solutions is also made, as through a [[Salt Bridge]]. The cell reaction involves oxidation at one electrode 
+In an [[Electrochemical Cell]], [[Electron|Electrons]] in an [[Oxidation Reduction]] [[Chemical Reaction|Reaction]] are transferred at [[Metal]] strips called [[Electrode|Electrodes]] and conducted through an external circuit. The [[Oxidation]] and [[Reduction]] [[Half-Cell]] reactions occur in separated regions called half-cells. In a half-cell, an electrode is immersed in a [[Solution]]. The electrodes of the 2 half-cells are joined by a wire, and an electrical connection between the solutions is also made, as through a [[Salt Bridge]]. The cell reaction involves oxidation at one electrode called the [[Anode]] and reduction at the other electrode called the [[Cathode]]. A [[Voltaic Cell]] produces [[Electricity]] from a [[Spontaneous Process|Spontaneous]] redox reaction. A [[Cell Diagram]] displays the components of a cell in a symbolic way.
+
+The reduction occurring at a [[Standard Hydrogen Electrode]], is arbitrarily assigned a [[Potential]] of 0. A half-cell has a [[Standard Electrode Potential]], in which all [[Reagent|Reagents]] and [[Product|Products]] are at unit activity. A half-cell reaction with a positive standard electrode potential $
 
 
-In an electrochemical cell, electrons in an oxidation–reduction reaction are transferred at metal strips called electrodes and conducted through an external circuit. The oxidation and reduction half-cell reactions occur in separate regions called half-cells. In a half-cell, an electrode is immersed in a solution. The electrodes of the two half-cells are joined by a wire, and an electrical con- nection between the solutions is also made, as through a salt bridge (Fig. 19-3). The cell reaction involves oxidation at one electrode called the anode and reduction at the other electrode called the cathode. A voltaic (galvanic) cell pro- duces electricity from a spontaneous oxidation–reduction reaction. The difference in electric potential between the two electrodes is the cell voltage; the unit of cell voltage is the volt (V). The cell voltage is also called the cell potential or electromotive force (emf) and designated as A cell diagram displays the components of a cell in a symbolic way (expression 19-4).
+
+
+The reduc- tion occurring at a standard hydrogen electrode (SHE), is arbitrarily assigned a potential of zero. A half-cell has a standard electrode potential, in which all reactants and prod- ucts are at unit activity. A half-cell reaction with a positive standard electrode potential ( ) occurs more readily than does reduction of ions at the SHE. A negative standard electrode potential signifies a lesser tendency to undergo reduction. The standard cell potential of a voltaic cell is the difference between of the cathode and of the anode; that is
+
 
 ## #concept 
 
