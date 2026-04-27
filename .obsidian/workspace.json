@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/19 Electrochemistry/Concentration Cell.md",
+                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Concentration Cell"
+              "title": "Graph of General Chemistry Principles and Modern Applications"
             }
           }
         ]
@@ -407,10 +407,10 @@
       }
     ]
   },
-  "active": "7aef76f0afaffcd4",
+  "active": "e860fa0165a9d812",
   "lastOpenFiles": [
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Concentration Cell.md",
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Voltaic Cell.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Standard Hydrogen Electrode.md",
