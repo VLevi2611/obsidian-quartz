@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-The **electron** is a subatomic particle with negative electric charge. They are found in an [[Atom]], orbiting the [[Nucleus]].
+The **electron** is a subatomic particle with negative electric [[Charge]]. They are found in an [[Atom]], orbiting the [[Nucleus]].
 
 |    Electric Charge (C)    | Electric Charge (Atomic) |       [[Mass]] (g)       |
 | :-----------------------: | :----------------------: | :----------------------: |
