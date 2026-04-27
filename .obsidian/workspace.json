@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom",
+                "sortOrder": "alphabetical",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of 19 Electrochemistry"
             }
           }
         ]
@@ -407,34 +407,34 @@
       }
     ]
   },
-  "active": "e860fa0165a9d812",
+  "active": "ba613edb91774786",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Voltaic Cell.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Standard Hydrogen Electrode.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Standard Electrode Potential.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Standard Cell Potential.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Secondary Cell.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Salt Bridge.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Reverse Battery.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Primary Cell.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Nernst Equation.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Half-Cell.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Fuel Cell.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Faraday Constant.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Electrode.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Electrochemical Cell.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Cell Voltage.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Cell Diagram.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Cathode.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Battery.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Anode.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
     "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
     "Notes/Chemistry/General Chemistry/16 Acids and Bases/Amphiprotic.md",
     "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
     "Notes/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
     "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
-    "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/12 Intermolecular Forces.md",
-    "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Complex Ion.md",
-    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
-    "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
-    "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
-    "Notes/Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
-    "Notes/Chemistry/General Chemistry/06 Gases/06 Gases.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Charge.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Thomson's Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Rutherford's Atomic Model.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Proton.md",
-    "Notes/Chemistry/General Chemistry/10 Bonding I/Polar Molecule.md",
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Photon.md",
-    "Notes/Chemistry/General Chemistry/03 Chemical Compounds/Oxidation State.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Nucleus.md",
-    "Notes/Chemistry/General Chemistry/02 Atomic Theory/Neutron.md",
     "Progress/27.04.26.png",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
