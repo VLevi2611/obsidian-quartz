@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
+                "file": "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 Bonding II"
+              "title": "16 Acids and Bases"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
+                "file": "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 11 Bonding II"
+              "title": "Graph of 16 Acids and Bases"
             }
           }
         ]
@@ -409,8 +409,13 @@
   },
   "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
+    "Notes/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
+    "Notes/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
     "Notes/Chemistry/General Chemistry/12 Intermolecular Forces/12 Intermolecular Forces.md",
     "Notes/Chemistry/General Chemistry/11 Bonding II/11 Bonding II.md",
+    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/Complex Ion.md",
+    "Notes/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
     "Notes/Chemistry/General Chemistry/10 Bonding I/10 Bonding I.md",
     "Notes/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
     "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/08 Electrons in Atoms.md",
@@ -430,11 +435,6 @@
     "Notes/Chemistry/General Chemistry/02 Atomic Theory/Ion.md",
     "Notes/Chemistry/General Chemistry/10 Bonding I/Formal Charge.md",
     "Notes/Chemistry/General Chemistry/02 Atomic Theory/Electron.md",
-    "Notes/Chemistry/General Chemistry/08 Electrons in Atoms/Effective Nuclear Charge.md",
-    "Notes/Chemistry/General Chemistry/10 Bonding I/Dipole Moment.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
-    "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Electrolytes.md",
-    "Notes/Chemistry/General Chemistry/05 Aqueous Reactions/Dissociation.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Progress/27.04.26.png",
     "Resources/Images/Self Ionization of water.png",
