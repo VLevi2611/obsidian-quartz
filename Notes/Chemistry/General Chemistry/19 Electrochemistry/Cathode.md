@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-If [[Reduction]] takes place, the [[Electrode]] is ca
+If [[Reduction]] takes place, the [[Electrode]] is called the **cathode**. It is a [[Metal]] strip.
 
