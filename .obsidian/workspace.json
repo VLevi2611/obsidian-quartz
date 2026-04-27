@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/General Chemistry/19 Electrochemistry/Concentration Cell.md",
+                "file": "Notes/Chemistry/General Chemistry/19 Electrochemistry/Electrolysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concentration Cell"
+              "title": "Electrolysis"
             }
           }
         ]
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/General Chemistry/19 Electrochemistry/Electrolysis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of Electrolysis"
             }
           }
         ]
@@ -407,10 +407,12 @@
       }
     ]
   },
-  "active": "e860fa0165a9d812",
+  "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Concentration Cell.md",
     "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Electrolysis.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Electrolytic Cell.md",
+    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Concentration Cell.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Voltaic Cell.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Standard Hydrogen Electrode.md",
@@ -433,8 +435,6 @@
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Anode.md",
     "Notes/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
     "Notes/Chemistry/General Chemistry/16 Acids and Bases/Amphiprotic.md",
-    "Notes/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
-    "Notes/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
     "Progress/27.04.26.png",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
