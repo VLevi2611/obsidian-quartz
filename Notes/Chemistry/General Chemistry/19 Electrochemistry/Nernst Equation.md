@@ -16,8 +16,12 @@ $$-z F E_{cell} = -z F E_{cell}^{\circ} + R T \ln Q$$
 Dividing through by $-z F$ gives the **Nernst equation**:
 $$E_{cell} = E_{cell}^{\circ} - \frac{RT}{zF} \ln Q$$
 ## Variables
-|    Symbol    |     Meaning      |       Units       |
-| :----------: | :--------------: | :---------------: |
-|  $E_{cell}$  |     [[cel]]      |       $(V)$       |
-|      $$      |   [[Velocity]]   |  $(\frac{m}{s})$  |
-| $\mathbf{a}$ | [[Acceleration]] | $(\frac{m}{s^2})$ |
+|       Symbol       |           Meaning           |       Units        |
+| :----------------: | :-------------------------: | :----------------: |
+|     $E_{cell}$     |      [[Cell Voltage]]       |       $(V)$        |
+| $E_{cell}^{\circ}$ | [[Standard Cell Potential]] |       $(V)$        |
+|        $R$         |      [[Gas Constant]]       | $(\frac{J}{molK})$ |
+|        $T$         |       [[Temperature]]       |       $(K)$        |
+|        $z$         |       electron number       |         -          |
+|        $F$         |    [[Faraday Constant]]     | $(\frac{C}{mol})$  |
+|        $Q$         |    [[Reaction Quotient]]    |         -          |
