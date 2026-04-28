@@ -463,6 +463,10 @@ tags:
 
 ### [[20 Kinetics]]
 
+#### #concept 
+
+- [[Rate of Reaction]]
+
 ### [[21 Main Group I]]
 
 ### [[22 Main Group II]]

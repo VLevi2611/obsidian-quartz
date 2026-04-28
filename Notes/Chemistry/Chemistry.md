@@ -454,6 +454,8 @@ tags:
 
 ###### #concept 
 
+- [[Rate of Reaction]]
+
 ##### [[21 Main Group I]]
 
 ###### #concept 
