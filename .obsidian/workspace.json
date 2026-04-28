@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+                "file": "Notes/Chemistry/Chemistry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -346,7 +346,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of General Chemistry Principles and Modern Applications"
+              "title": "Graph of Chemistry"
             }
           }
         ]
@@ -407,12 +407,12 @@
       }
     ]
   },
-  "active": "e860fa0165a9d812",
+  "active": "7aef76f0afaffcd4",
   "lastOpenFiles": [
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/Chemistry.md",
     "Notes/Chemistry/General Chemistry/General Chemistry.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Cathodic Protection.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Overpotential.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Electrolysis.md",
@@ -435,7 +435,6 @@
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Cell Voltage.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Cell Diagram.md",
     "Notes/Chemistry/General Chemistry/19 Electrochemistry/Cathode.md",
-    "Notes/Chemistry/General Chemistry/19 Electrochemistry/Battery.md",
     "Progress/27.04.26.png",
     "Resources/Images/Self Ionization of water.png",
     "Resources/Images/Enthalpy of Solution.png",
