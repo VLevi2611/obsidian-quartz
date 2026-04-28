@@ -18,4 +18,7 @@ tags:
 - [[Integrated Rate Law]]
 - [[First-Order Reaction]]
 - [[Half-Life]]
+- [[Second-Order Reaction]]
+- [[Activation Energy]]
+- [[Transition State]]
 
