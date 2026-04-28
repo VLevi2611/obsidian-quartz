@@ -22,7 +22,9 @@ A reaction having $m + n + ... = 2$ is a [[Second-Order Reaction]]. A graph of $
 
 The rate of reaction depends on the number of [[Molecule|Molecular]] [[Collision|Collisions]] per unit [[Volume]] per unit time, the proportion of molecules having [[Energy|Energies]] in excess of the [[Activation Energy]] and proper orientation of molecules for effective collisions. A [[Reaction Profile]] traces the progress of a reaction, highlighting the energy states of the reagents, the products, and the [[Activated Complex]], a hypothetical transitory species that exist in a high-energy [[Transition State]] between reagents and products. For a [[Multistep Reaction]], the reaction proceeds through multiple transitions states and the rate-determining step will be the one that proceeds through the transition state of highest energy.
 
-The principle basis for describing the effect of [[Temperature]] on the rate of a chemical reaction is the Arrhenius equation. A graph of $\ln k$ versus $1/T$ is linear, with a slope 
+The principle basis for describing the effect of [[Temperature]] on the rate of a chemical reaction is the Arrhenius equation. A graph of $\ln k$ versus $1/T$ is linear, with a slope of the line equal to $-E_a / R$ (the activation energy and the [[Gas Constant]]).
+
+A [[Reaction Mechanism]] is a step-by-step description of a chemical reaction consisting of a series of [[Elementary Process|Elementary Processes]]. Rate equations are written for the elementary processes and combined into a rate equation for the [[Overall Reaction]]. To be plausible, the reaction mechanism must be consistent with the [[Stoichiometry]] of the overall reaction and its experimentally determined rate equation. The common elementary processes are [[Unimolecular process]] (one molecule [[Dissociation|Dissociates]]) and [[Bimolecular process]] (2 molecules collide). Some of the species in elementary processes may be 
 ## #concept 
 
 - [[Rate of Reaction]]
