@@ -12,8 +12,11 @@ An [[Initial Rate of Reaction]] is the rate measured over a short time interval 
 
 The relationship between the rate of reaction and the concentrations of the reagents is called the [[Rate Equation]]. It has the form 
 $$\text{rate of reaction} = k [A]^m [B]^n ...$$
-The [[Order of Reaction]] refers to the exponents $m, n, ...$ in the rate equation. If $m = 2$, the reaction is second order in A, if $n = 1$, the reaction is first order in B and so on. The overall order of a reaction is given by 
+The [[Order of Reaction]] refers to the exponents $m, n, ...$ in the rate equation. If $m = 2$, the reaction is second order in A, if $n = 1$, the reaction is first order in B and so on. The overall order of a reaction is given by the sum $m + n + ...$. One method of establishing the rate equation of a reaction is by the method of initial rates. The [[Rate Constant]], $k$ relates the rate of reaction to reagent concentrations.
 
+A reaction having $m + n + ... = 0$ is a [[Zero-Order Reaction]]. A useful equation expressing concentration of a reagent as a function of time is called an [[Integrated Rate Law]]. A plot of concentration as a function of time for the zero-reaction $A \rightarrow \text{products}$ is a straight line with a slope of $-k$.
+
+A reaction having $m + n + ... = 1$ is a [[First-Order Reaction]]. A graph of $\ln [A]_t$ for the first order reaction $A \rightarrow \text{products}$ is a straight line with a slope of $-k$. The [[Half-Life]] of a reaction is the time required for the amount of a reagent to be reduced to 
 ## #concept 
 
 - [[Rate of Reaction]]
