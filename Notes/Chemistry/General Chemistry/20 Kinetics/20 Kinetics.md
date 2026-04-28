@@ -16,7 +16,11 @@ The [[Order of Reaction]] refers to the exponents $m, n, ...$ in the rate equati
 
 A reaction having $m + n + ... = 0$ is a [[Zero-Order Reaction]]. A useful equation expressing concentration of a reagent as a function of time is called an [[Integrated Rate Law]]. A plot of concentration as a function of time for the zero-reaction $A \rightarrow \text{products}$ is a straight line with a slope of $-k$.
 
-A reaction having $m + n + ... = 1$ is a [[First-Order Reaction]]. A graph of $\ln [A]_t$ for the first order reaction $A \rightarrow \text{products}$ is a straight line with a slope of $-k$. The [[Half-Life]] of a reaction is the time required for the amount of a reagent to be reduced to 
+A reaction having $m + n + ... = 1$ is a [[First-Order Reaction]]. A graph of $\ln [A]_t$ for the first-order reaction $A \rightarrow \text{products}$ is a straight line with a slope of $-k$. The [[Half-Life]] of a reaction is the time required for the amount of a reagent to be reduced to one half its initial value. For a first-order reaction, the half-life is a constant. Many important reactions are first-order processes, including the decay of radioactive nuclides. 
+
+A reaction having $m + n + ... = 2$ is a [[Second-Order Reaction]]. A graph of $1/ \ln [A]$ over time for the second-order reaction, $A \rightarrow \text{products}$, is a straight line with a slope of $k$. For a second-order reaction, the half-life is not constant, each successive half-life period is twice as long as the one before it. Some second-order reactions, called pseudo-first-order reactions, can be treated as first-order if one of the reagents is present at such a high concentration that its concentration remains essentially constant during the reaction.
+
+The rate of reaction depends on the number of [[Molecule|Mol]] [[Collision|Collisions]]
 ## #concept 
 
 - [[Rate of Reaction]]
