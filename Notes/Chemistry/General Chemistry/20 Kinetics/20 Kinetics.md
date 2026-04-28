@@ -21,4 +21,5 @@ tags:
 - [[Second-Order Reaction]]
 - [[Activation Energy]]
 - [[Transition State]]
+- [[Activated Complex]]
 
