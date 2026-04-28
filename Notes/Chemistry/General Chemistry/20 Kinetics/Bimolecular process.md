@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **bimolecular process** is a type of [[Elementary Process]] in
+A **bimolecular process** is a type of [[Elementary Process]] involving the [[Collision]] of 2 [[Molecule|Molecules]]
 
