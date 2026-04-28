@@ -20,7 +20,9 @@ A reaction having $m + n + ... = 1$ is a [[First-Order Reaction]]. A graph of $\
 
 A reaction having $m + n + ... = 2$ is a [[Second-Order Reaction]]. A graph of $1/ \ln [A]$ over time for the second-order reaction, $A \rightarrow \text{products}$, is a straight line with a slope of $k$. For a second-order reaction, the half-life is not constant, each successive half-life period is twice as long as the one before it. Some second-order reactions, called pseudo-first-order reactions, can be treated as first-order if one of the reagents is present at such a high concentration that its concentration remains essentially constant during the reaction.
 
-The rate of reaction depends on the number of [[Molecule|Mol]] [[Collision|Collisions]]
+The rate of reaction depends on the number of [[Molecule|Molecular]] [[Collision|Collisions]] per unit [[Volume]] per unit time, the proportion of molecules having [[Energy|Energies]] in excess of the [[Activation Energy]] and proper orientation of molecules for effective collisions. A [[Reaction Profile]] traces the progress of a reaction, highlighting the energy states of the reagents, the products, and the [[Activated Complex]], a hypothetical transitory species that exist in a high-energy [[Transition State]] between reagents and products. For a [[Multistep Reaction]], the reaction proceeds through multiple transitions states and the rate-determining step will be the one that proceeds through the transition state of highest energy.
+
+The principle basis for describing the effect of [[Temperature]] on the rate of a chemical reaction is the Arrhenius equation. A graph of $\ln k$ versus $1/T$ is linear, with a slope 
 ## #concept 
 
 - [[Rate of Reaction]]
