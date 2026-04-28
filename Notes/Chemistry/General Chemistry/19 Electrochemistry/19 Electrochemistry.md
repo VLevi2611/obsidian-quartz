@@ -14,7 +14,11 @@ Cell voltages based on standard electrode potentials are $E_{cell}^{\circ}$ valu
 
 In the [[Nernst Equation]], $E_{cell}$ for nonstandard conditions is related to $E_{cell} ^{\circ}$ and the [[Reaction Quotient]] $Q$. If $E_{cell} > 0$, the cell reaction is [[Spontaneous Process|Spontaneous]] in the forward direction for the stated conditions. If $E_{cell} < 0$, the forward reaction is [[Nonspontaneous Process|Nonspontaneous]] for those conditions. A [[Concentration Cell]] consists of 2 half-cells with identical electrodes but different solution [[Concentration|Concentrations]].
 
-An important application of voltaic cells is found in various battery systems. A [[Battery]] stores [[Chemical Energy]] so that it can be released as [[Energy]]. Batteries consist of one or more voltaic cells and are divided into 4 major classes: [[Primary Cell]], [[Secondary Cell]], [[Reverse Battery]] and [[Fuel Cell]] in which reagents such as 
+An important application of voltaic cells is found in various battery systems. A [[Battery]] stores [[Chemical Energy]] so that it can be released as [[Energy]]. Batteries consist of one or more voltaic cells and are divided into 4 major classes: [[Primary Cell]], [[Secondary Cell]], [[Reverse Battery]] and [[Fuel Cell]] in which reagents such as hydrogen and oxygen, are continuously fed into the battery and chemical energy is converted to [[Electrical Energy]].
+
+Electrochemistry plays a key role in corrosion and its control. Oxidation half-cells reactions product anodic regions and reduction half-cells reactions cathodic regions. [[Cathodic Protection]] is achieved when a more active metal is attached to the metal being protected from corrosion. The more active metal, a "sacrificial" anode, is preferentially oxidized while the protected metal is a cathode at which a harmless reduction half-cell reactions occurs.
+
+In [[Electrolysis]], a nonspontaneous [[Chemical Reaction]] occurs as electrons from an external source are forced to flow in a direction opposite that in which they would flow spontaneously. The electrochemical cell in which electrolysis is conducted is called an [[Electrolytic Cell]]. $E^{\circ}$ values are used to establish the theoretical voltage requirements for an electrolys
 
 ## #concept 
 
