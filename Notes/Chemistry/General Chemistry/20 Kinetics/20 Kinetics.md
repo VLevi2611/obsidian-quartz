@@ -16,4 +16,6 @@ tags:
 - [[Rate Constant]]
 - [[Zero-Order Reaction]]
 - [[Integrated Rate Law]]
+- [[First-Order Reaction]]
+- [[Half-Life]]
 
