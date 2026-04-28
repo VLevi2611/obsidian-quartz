@@ -18,7 +18,7 @@ An important application of voltaic cells is found in various battery systems. A
 
 Electrochemistry plays a key role in corrosion and its control. Oxidation half-cells reactions product anodic regions and reduction half-cells reactions cathodic regions. [[Cathodic Protection]] is achieved when a more active metal is attached to the metal being protected from corrosion. The more active metal, a "sacrificial" anode, is preferentially oxidized while the protected metal is a cathode at which a harmless reduction half-cell reactions occurs.
 
-In [[Electrolysis]], a nonspontaneous [[Chemical Reaction]] occurs as electrons from an external source are forced to flow in a direction opposite that in which they would flow spontaneously. The electrochemical cell in which electrolysis is conducted is called an [[Electrolytic Cell]]. $E^{\circ}$ values are used to establish the theoretical voltage requirements for an electrolys
+In [[Electrolysis]], a nonspontaneous [[Chemical Reaction]] occurs as electrons from an external source are forced to flow in a direction opposite that in which they would flow spontaneously. The electrochemical cell in which electrolysis is conducted is called an [[Electrolytic Cell]]. $E^{\circ}$ values are used to establish the theoretical voltage requirements for an electrolysis. Sometimes, particularly when a [[Gas]] is liberated at an electrode, the voltage requirement for the electrode reaction exceeds the value of $E^{\circ}$. The additional voltage requirement is called the [[Overpotential]]. The amount of reagents and products involved in an electrolysis can be calculated from the amount of electric charge passing through the electrolytic cell. The Faraday constant is featured in these calculations.
 
 ## #concept 
 
