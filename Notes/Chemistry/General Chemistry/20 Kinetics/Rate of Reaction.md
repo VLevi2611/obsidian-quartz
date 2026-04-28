@@ -4,6 +4,7 @@ tags:
   - chemistry
   - general-chemistry
 ---
+ 
  ## Definition
 
 For [[Chemical Reaction|Chemical Reactions]], the **rate of reaction** describes how fast the [[Concentration]] of a [[Reagent]] or [[Product]] changes with [[Time]].
