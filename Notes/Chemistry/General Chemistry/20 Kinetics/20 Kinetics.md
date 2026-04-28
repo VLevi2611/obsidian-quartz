@@ -32,4 +32,7 @@ tags:
 - [[Catalyst]]
 - [[Homogeneous Catalyst]]
 - [[Heterogeneous Catalyst]]
+- [[Active Site]]
+- [[Enzyme]]
+- [[Substrate]]
 
