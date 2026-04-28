@@ -6,6 +6,8 @@ tags:
 ---
 ## Overview 
 
+The [[Rate of Reaction]] reflects the rate of change in the [[Concentration|Concentrations]] of the [[Reagent|Reagents]] and [[Product|Products]] of a [[Chemical Reaction]]. A general rate of reaction is defined so that the same value os 
+
 ## #concept 
 
 - [[Rate of Reaction]]
