@@ -10,7 +10,7 @@ In an [[Electrochemical Cell]], [[Electron|Electrons]] in an [[Oxidation Reducti
 
 The reduction occurring at a [[Standard Hydrogen Electrode]], is arbitrarily assigned a [[Potential]] of 0. A half-cell has a [[Standard Electrode Potential]], $E^{\circ}$, in which all [[Reagent|Reagents]] and [[Product|Products]] are at unit activity. A half-cell reaction with a positive standard electrode potential than does reduction of $\ce{H+}$ [[Ion|Ions]] at the standard hydrogen potential. A negative standard electrode potential signifies a lesser tendency to undergo reduction. The [[Standard Cell Potential]], $E_{cell}^{\circ}$, of a voltaic cell is the difference between $E^{\circ}$ of the cathode from the $E^{\circ}$ of the anode.
 
-Cell voltages based on standard electrode potentials are $E_{cell}^{\circ}$ values. The electrical at
+Cell voltages based on standard electrode potentials are $E_{cell}^{\circ}$ values. The electrical [[Work]] that can be obtained from a cell depends on the number of [[Electron|Electrons]] involved in the cell reaction, the cell potential, and the [[Faraday Constant]] $F$, which is the number of coulombs of [[Charge]] per [[Mole]] of electrons- $96485 \frac{c}{mol}$. An important relationship exists between $E_{cell}^{\circ}$ and $\Delta _r G^{\circ}$, the [[Standard Gibbs Energy of Reaction]], namely, $\Delta _r G^{\circ} = -z F E_{cell} ^{\circ}$. The [[Equilibrium Constant]] of the cell reaction $K$ is related to $E_{cell} ^{\circ}$ through the expression $\Delta _r G^{\circ} = -RT \ln K = -z F E_{cell}$
 
 ## #concept 
 
