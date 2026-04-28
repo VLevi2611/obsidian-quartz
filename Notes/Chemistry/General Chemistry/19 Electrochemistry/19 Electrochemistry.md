@@ -10,7 +10,7 @@ In an [[Electrochemical Cell]], [[Electron|Electrons]] in an [[Oxidation Reducti
 
 The reduction occurring at a [[Standard Hydrogen Electrode]], is arbitrarily assigned a [[Potential]] of 0. A half-cell has a [[Standard Electrode Potential]], $E^{\circ}$, in which all [[Reagent|Reagents]] and [[Product|Products]] are at unit activity. A half-cell reaction with a positive standard electrode potential than does reduction of $\ce{H+}$ [[Ion|Ions]] at the standard hydrogen potential. A negative standard electrode potential signifies a lesser tendency to undergo reduction. The [[Standard Cell Potential]], $E_{cell}^{\circ}$, of a voltaic cell is the difference between $E^{\circ}$ of the cathode from the $E^{\circ}$ of the anode.
 
-TBC
+Cell voltages based on standard electrode potentials are $E_{cell}^{\circ}$ values. The electrical at
 
 ## #concept 
 
