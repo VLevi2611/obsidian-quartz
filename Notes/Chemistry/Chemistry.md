@@ -335,6 +335,9 @@ tags:
 - [[Cubic Closest Packed]]
 - [[Body Centered Cubic]]
 
+###### #formula 
+
+- [[Clausius Clapeyron Equation]]
 ##### [[13 Entropy and Gibbs Energy]]
 
 ###### #concept 
@@ -497,6 +500,7 @@ tags:
 - [[Second-Order Reaction]]
 - [[Activation Energy]]
 - [[Transition State]]
+- [[Multistep Reaction]]
 - [[Activated Complex]]
 - [[Reaction Profile]]
 - [[Reaction Mechanism]]

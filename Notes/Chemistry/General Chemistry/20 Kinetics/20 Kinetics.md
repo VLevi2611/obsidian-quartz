@@ -42,6 +42,7 @@ A [[Catalyst]] provides an alternative reaction mechanism with a lower activatio
 - [[Second-Order Reaction]]
 - [[Activation Energy]]
 - [[Transition State]]
+- [[Multistep Reaction]]
 - [[Activated Complex]]
 - [[Reaction Profile]]
 - [[Reaction Mechanism]]
