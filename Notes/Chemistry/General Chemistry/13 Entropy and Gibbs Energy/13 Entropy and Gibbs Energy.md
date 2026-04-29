@@ -24,6 +24,7 @@ G.N, Lewis introduced the concept of chemical potential, represented by $\mu$ an
 
 - [[Microstate]]
 - [[Entropy]]
+- [[Third Law of Thermodynamics]]
 - [[Standard Molar Entropy]]
 - [[Standard Reaction Entropy]]
 - [[Boltzmann Constant]]
