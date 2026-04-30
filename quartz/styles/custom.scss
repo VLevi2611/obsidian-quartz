@@ -1,3 +1,32 @@
-@use "./base.scss";
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
 
-// put your custom CSS here!
+.card {
+  display: block;
+  padding: 16px;
+  border-radius: 12px;
+  background: #1e1e1e;
+  text-decoration: none;
+  color: inherit;
+  transition: 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  background: #2a2a2a;
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.card p {
+  margin: 8px 0 0;
+  font-size: 14px;
+  opacity: 0.7;
+}
