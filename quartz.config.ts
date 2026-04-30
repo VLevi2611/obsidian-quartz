@@ -16,9 +16,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "vlevi2611.github.io/obsidian-quartz",
-
-ignorePatterns: [
+  baseUrl: "vlevi2611.github.io/obsidian-quartz",
+  ignorePatterns: [
   ".obsidian",
   ".trash",
   "Templates",
