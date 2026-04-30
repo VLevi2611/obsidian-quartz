@@ -26,4 +26,4 @@ This knowledge base may contain mistakes, do not treat it like an academic resou
   <h3>🏥 Medicine</h3>
 </a>
 
-</div>
+</div> 
