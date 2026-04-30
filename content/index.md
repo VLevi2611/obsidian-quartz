@@ -8,27 +8,22 @@ This knowledge base may contain mistakes, do not treat it like an academic resou
 
 <a class="card" href="./Physics/">
   <h3>⚙️ Physics</h3>
-  <p>Mechanics, waves, thermodynamics</p>
 </a>
 
 <a class="card" href="./Math/">
   <h3>📐 Math</h3>
-  <p>Linear algebra, calculus, probability</p>
 </a>
 
 <a class="card" href="./Chemistry/">
   <h3>🧪 Chemistry</h3>
-  <p>General + organic chemistry</p>
 </a>
 
 <a class="card" href="./Biology/">
   <h3>🧬 Biology</h3>
-  <p>Cells, physiology, systems</p>
 </a>
 
 <a class="card" href="./Medicine/">
   <h3>🏥 Medicine</h3>
-  <p>Equipment + biomedical topics</p>
 </a>
 
 </div>
