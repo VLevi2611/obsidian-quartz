@@ -1,0 +1,55 @@
+---
+tags:
+  - summary
+  - chemistry
+  - general-chemistry
+---
+## Overview 
+
+The scientific method is a set of procedures used to develop explanations of phenomena and possibly to predict additional phenomena. The 4 basic stages of the scientific method are:
+1. Gathering date through observations and experiments.
+2. Reducing the data to simple verbal or mathematic expression known as **natural laws**.
+3. Offering a plausible explanation of the data through a **hypothesis**.
+4. Testing the hypothesis through predictions and further experimentation, leading ultimately to conceptual model called a **theory**.
+
+[[Matter]] is defined as anything that occupies space, possesses [[Mass]] and displays inertia. [[Composition]] refers to the component parts of a sample of matter and their relative proportions. [[Property|Properties]] are the qualities that distinguish one sample of matter from another. They can be grouped into 2 broad categories: [[Physical Properties]] and [[Chemical Properties]]. Matter can undergo 2 types of changes:
+1. [[Chemical Reaction|Chemical Reactions]] are changes in composition.
+2. Physical changes are changes in state or physical form and do not affect composition.
+
+The basic building blocks of matter are called [[Atom|Atoms]]. Matter that is composed of a collection of a single type of atom is known as an [[Element]]. A sample of matter composed of 2 or more elements is known as a [[Compound]]. A [[Molecule]] is the smallest entity of a compound having the same proportions of the constituent atoms as does the compound as a whole. Collectively, elements and compounds compose the types of matter called [[Substance|Substances]]. [[Mixture|Mixtures]] of substances can be classified as [[Homogeneous Mixture]] or [[Heterogeneous Mixture]]. The 3 [[State of Matter]] are [[Solid]], [[Liquid]], and [[Gas]].
+
+Chemistry is a quantitative science, meaning the chemical measurements are usually expressed in terms of a number and a unit. The scientific system of measurement, [[SI Units]], involves seven base quantities. [[Mass]] describes a quantity of matter. Weight measures the [[Gravity Force Formula|Gravity Force]] of an object. The [[Temperature]] scales used by chemist are the **Celsius** and **Kelvin** scales.
+
+Mass and [[Volume]] are [[Intensive vs Extensive Properties|Extensive Properties]], they depend on the amount of matter in a sample. [[Density]], the ratio of the mass of a sample to its volume, is an **intensive property**, a [[Property]] independent of the amount of matter sampled.
+
+Measurements are subjects to systematic and random [[Percent Error|Errors]]. In making a series of measurements, the degree to which the measurements agree with one another is known as the [[Accuracy vs Precision|Precision]] of the measurement, while the degree to which the measurements agree with the actual value is referred to as the **accuracy** of the measurement.
+
+
+## #concept 
+
+- [[Matter]]
+- [[Composition]]
+- [[Substance]]
+- [[Mixture]]
+- [[Element]]
+- [[Compound]]
+- [[Solid]]
+- [[Liquid]]
+- [[Property]]
+- [[Physical Properties]]
+- [[Chemical Properties]]
+- [[Intensive vs Extensive Properties]]
+- [[Accuracy vs Precision]]
+- [[Scientific Notation]]
+- [[SI Units]]
+- [[Length]]
+- [[Volume]]
+- [[Temperature]]
+- [[Time]]
+- [[Metric Prefixes]]
+
+## #formula
+
+- [[Percent Error]]
+- [[Density]]
+
