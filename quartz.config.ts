@@ -16,8 +16,12 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://github.com/VLevi2611/obsidian-quartz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "https://github.com/VLevi2611/obsidian-quartz",ignorePatterns: [
+  ".obsidian",
+  ".trash",
+  "Templates",
+  "Resources"
+],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
