@@ -1,6 +1,6 @@
 # Sagiv's Knowledge Base
 
-## Main folders
+## Main Areas
 
 - [[Physics]]
 - [[Math]]
