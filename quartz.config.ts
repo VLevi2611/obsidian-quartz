@@ -20,7 +20,9 @@ const config: QuartzConfig = {
   ".obsidian",
   ".trash",
   "Templates",
-  "Resources"
+  "Templates/**",
+  "Resources",
+  "Resources/**",
 ],
     defaultDateType: "modified",
     theme: {
