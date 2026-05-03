@@ -528,6 +528,13 @@ tags:
 
 ### [[21 Main Group I]]
 
+#### #concept 
+
+- [[Charge Density]]
+- [[Alkali Metals]]
+- [[Detergent]]
+- [[Soap]]
+
 ### [[22 Main Group II]]
 
 ### [[23 Transition Metals]]

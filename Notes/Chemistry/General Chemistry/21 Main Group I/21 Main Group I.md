@@ -8,4 +8,7 @@ tags:
 
 ## #concept 
 
-
+- [[Charge Density]]
+- [[Alkali Metals]]
+- [[Detergent]]
+- [[Soap]]
