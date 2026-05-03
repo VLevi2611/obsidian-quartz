@@ -17,4 +17,6 @@ By any measure, the group 1 elements are the most active [[Metal|Metals]], here 
 ![[Alkali Metals.png]]
 
 Types of group 1 compounds:
-- **hydration of salts**: When [[Salt|S]]
+- **hydration of salts**: When [[Salt|Salts]] are dissolved in water, the [[Cation|Cations]] are hydrated. The [[Anion|Anions]] are similarly hydrated but with the slightly positive hydrogen atoms of the water [[Molecule|Molecules]] directed toward the anion. When a salt crystallizes from an [[Aqueous Solution]], the salt that is obtained may or may not contain water molecules.
+- **Halides**: All alkali metals [[Chemical Reaction|React]] vigorously, sometimes explosively, with halogens to produce ionic halides.
+- **Alkali metal hydrides**: When alkali metal $\ce{M}$ is 
