@@ -23,4 +23,4 @@ Types of group 1 compounds:
 - **Oxides and hydroxides**: The alkali metals react rapidly with oxygen to produce several different ionic oxides: oxides, peroxides and superoxides.
 - **Carbonates and sulfates**
 - **Alkali metal complexes**
-- [[Detergent]] and [[Soap]]
+- **[[Detergent]] and [[Soap]]**
