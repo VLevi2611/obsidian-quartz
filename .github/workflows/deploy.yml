@@ -3,7 +3,7 @@ name: Deploy Quartz site
 on:
   push:
     branches:
-      - v4
+      - main
 
 jobs:
   build-deploy:
