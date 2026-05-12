@@ -520,6 +520,11 @@ tags:
 
 ###### #concept 
 
+- [[Charge Density]]
+- [[Alkali Metals]]
+- [[Detergent]]
+- [[Soap]]
+
 ##### [[22 Main Group II]]
 
 ###### #concept 
