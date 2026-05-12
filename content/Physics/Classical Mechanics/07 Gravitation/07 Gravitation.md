@@ -14,7 +14,7 @@ When objects move under the influence of gravity alone, they undergo [[Central F
 
 More generally, gravitational motion leads to a variety of orbital paths described by [[Kepler's Laws]], which relate orbital shape, period, and distance from the central body.
 
-Energy plays a key role in gravitational systems. The motion of an object in orbit can be understood using [[Energy Of An Orbiting Body]], which includes both kinetic and gravitational potential energy. Depending on the total energy, motion can result in [[Bound vs Unbound Orbits]], where bound systems remain in orbit while unbound systems escape.
+[[Energy]] plays a key role in gravitational systems. The motion of an object in orbit can be understood using [[Energy Of An Orbiting Body]], which includes both kinetic and gravitational potential energy. Depending on the total energy, motion can result in [[Bound vs Unbound Orbits]], where bound systems remain in orbit while unbound systems escape.
 
 The minimum speed required for an object to escape a gravitational field is known as the [[Escape Velocity]], which depends on the mass of the central body and the distance from it.
 
