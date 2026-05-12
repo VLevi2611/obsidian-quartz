@@ -9,7 +9,7 @@ tags:
 
 Kinematics describes the motion of objects without considering the forces that cause the motion. It focuses on how position, velocity, and acceleration change over time.
 
-The fundamental quantity in kinematics is [[Displacement]], which represents the change in position of an object. Unlike distance, displacement is a vector and includes both magnitude and direction.
+The fundamental quantity in kinematics is [[Displacement]], which represents the change in position of an object. Unlike distance, displacement is a [[Vector]] and includes both magnitude and direction.
 
 The rate at which displacement changes is called [[Velocity]]. Velocity describes both how fast and in what direction an object moves. When velocity remains constant, the motion is uniform.
 
