@@ -5,7 +5,8 @@ tags:
   - classical-mechanics
 ---
 ## Overview
-Classical mechanics is the study of force, matter and motion in physical objects.
+
+Classical mechanics is the study of [[Force]], [[Matter]] and motion in physical objects.
 ## #summary 
 
 ### [[01 Kinematics]]
