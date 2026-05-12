@@ -6,19 +6,5 @@ tags:
 ---
 ## Overview
 
-Dynamics is the study of forces on an object.
+Dynamics is the study of [[Force|Force]] on an object.
 
-## #concept 
-
-- [[Force]]
-- [[Mass]]
-- [[Gravity]]
-- [[Gravitational Constant]]
-
-## #formula 
-
-- [[Newton's Second Law]]
-- [[Gravity Force Formula]]
-
-
-## #problem 
