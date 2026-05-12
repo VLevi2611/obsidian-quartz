@@ -5,11 +5,3 @@ tags:
   - physiology
 ---
 ## Overview
-
-## #concept 
-
-## #formula 
-
-## #constant 
-
-## #problem 
