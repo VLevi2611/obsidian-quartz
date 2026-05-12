@@ -5,8 +5,6 @@ tags:
 ---
 ## Overview
 
-## #subject 
-
 ### [[General Math Terms]]
 
 #### #summary 
