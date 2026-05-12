@@ -5,13 +5,3 @@ tags:
   - medical-equipment
 ---
 ## Overview
-
-## #concept 
-
-## #formula 
-
-## #constant 
-
-## #symbol 
-
-## #problem 
