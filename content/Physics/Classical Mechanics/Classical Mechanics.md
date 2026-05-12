@@ -27,7 +27,7 @@ Together, these frameworks form a unified system for understanding motion, force
 
 ### [[02 Newton's Laws]]
 
-### [[Energy]]
+### [[03 Energy]]
 
 ### [[04 Momentum]]
 
