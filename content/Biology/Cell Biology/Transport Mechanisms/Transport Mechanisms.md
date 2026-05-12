@@ -5,11 +5,3 @@ tags:
   - cell-biology
 ---
 ## Overview
-
-## #concept 
-
-## #formula 
-
-## #constant 
-
-## #problem 
