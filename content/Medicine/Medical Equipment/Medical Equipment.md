@@ -6,23 +6,20 @@ tags:
 ---
 ## Overview
 
-## #summary 
-
+### [[Defibrillators]]
 ### [[Diagnostic Equipment]]
 
+### [[ECG and EEG]]
+
+### [[Infusion Pumps]]
 ### [[X-ray and CT]]
 
 ### [[MRI]]
 
 ### [[Ultrasound]]
 
-### [[ECG and EEG]]
-
 ### [[Ventilators]]
 
-### [[Infusion Pumps]]
-
-### [[Defibrillators]]
 
 ### [[Sterilization Equipment]]
 
