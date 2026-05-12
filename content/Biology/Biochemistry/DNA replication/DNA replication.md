@@ -5,11 +5,3 @@ tags:
   - biochemistry
 ---
 ## Overview
-
-## #concept 
-
-## #formula 
-
-## #constant 
-
-## #problem 

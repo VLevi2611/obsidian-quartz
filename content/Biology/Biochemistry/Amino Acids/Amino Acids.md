@@ -6,10 +6,4 @@ tags:
 ---
 ## Overview
 
-## #concept 
 
-## #formula 
-
-## #constant 
-
-## #problem 
