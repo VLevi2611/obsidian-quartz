@@ -18,7 +18,7 @@ Another key concept is [[Angular Momentum]], which is the rotational analog of [
 
 To simplify calculations involving complex objects, tools such as the [[Parallel Axis Theorem]] and [[Perpendicular Axis Theorem]] are used to determine the moment of inertia about different axes.
 
-Finally, motion under constant angular acceleration can be analyzed using the [[Rotational Kinematic Equations]], which are direct analogs of the linear kinematic equations.
+Finally, motion under constant angular acceleration can be analyzed using the [[Rotational Kinematic Equations]], which are direct analogs of the [[Motion Equations|linear kinematic equations]].
 
 Together, these concepts provide a complete framework for analyzing rotational systems and understanding how forces produce rotational motion.
 
