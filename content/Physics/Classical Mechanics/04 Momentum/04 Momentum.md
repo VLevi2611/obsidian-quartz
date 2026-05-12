@@ -8,7 +8,7 @@ tags:
 
 The concept of [[Linear Momentum]] provides another way to analyze motion, especially in systems involving interactions between multiple objects. Momentum is defined as the product of an object’s [[Mass]] and [[Velocity]], making it a [[Vector]] quantity that depends on both magnitude and direction.
 
-When [[Force|Forces]] act over time, they change an object’s momentum. This effect is described by [[Impulse]], which represents the product of force and the time interval over which it acts. The relationship between force, time, and momentum change is formalized in the [[Impulse Momentum Theorem]].
+When forces act over time, they change an object’s momentum. This effect can be described by [[Impulse]], which represents the product of force and the time interval over which it acts. The relationship between [[Force]], [[Time]], and momentum change is formalized in the [[Impulse Momentum Theorem]].
 
 In many physical situations, it is useful to consider a [[System of Particles]] rather than a single object. Within such a system, forces can be divided into [[Internal Force]] and [[External Force]]. Internal forces act between particles inside the system, while external forces come from outside the system.
 
