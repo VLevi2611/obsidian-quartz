@@ -27,29 +27,3 @@ For an acid-base reaction, [[Equilibrium]] favors the formation of the weaker ac
 [[Molecule|Molecular]] [[Composition]] and structure are the keys to determining whether a [[Substance]] is acidic, basic or amphiprotic. In addition, molecular structure affects whether an acid or base is strong or weak. In assessing acid strength, factors that affect the strength of the [[Chemical Bond|Bond]] that must be broken to release $\ce{H+}$ must be considered. Alternatively, factors that affect the stability of the anion formed by the acid can be considered. In assessing base strength, factors that affect the ability of [[Lone Pair]] [[Electron|Electrons]] to bind a proton are of primary concern.
 
 The Lewis acid-base theory views an electron-pair acceptor as a [[Lewis Acid]] and an electron-pair donor as a [[Lewis Base]]. The addition [[Compound]] of a Lewis acid-base reaction is referred to as an [[Adduct]]. The theory is most useful in situations that cannot be described by means of proton transfers, for example, in reaction involving [[Gas|Gases]] and [[Solid|Solids]] and in reaction between organic compounds.
-
-## #concept 
-
-- [[Bronsted Lowry theory]]
-- [[Conjugate Acid]]
-- [[Conjugate Base]]
-- [[Conjugate Acid Base Pair]]
-- [[Hydronium Ion]]
-- [[Amphiprotic]]
-- [[Self Ionization]]
-- [[Ion Product of Water]]
-- [[pH]]
-- [[pOH]]
-- [[Acid Ionization Constant]]
-- [[pKa]]
-- [[Base Ionization Constant]]
-- [[pKb]]
-- [[Degree of Ionization]]
-- [[Percent Ionization]]
-- [[Polyprotic Acid]]
-- [[Hydrolysis]]
-- [[Acid-Base Reaction]]
-- [[Water]]
-- [[Lewis Acid]]
-- [[Lewis Base]]
-- [[Adduct]]

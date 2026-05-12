@@ -23,16 +23,3 @@ The solubility of a slightly soluble solute is affected by [[pH]] if the [[Anion
 A [[Complex Ion]] is a polyatomic ion [[Composition|Composed]] of a [[Central Atom|Central]] [[Metallic Solids]] bonded to 2 or more [[Molecule|Molecules]] called **ligands**. The formation of complex ion is an equilibrium process with an equilibrium constant called the [[Formation Constant]], $K_f$. In general, if the formation constant is large, the concentration of uncomplexed metal ion in equilibrium with the complex ion is very small. Complex ions formation can render certain insoluble materials quite soluble in appropriate aqueous solutions. A complex ion is either a [[Cation]] or an anion depending upon the particular central metal ion and the particular ligands. When a complex ion and an oppositely [[Charge|Charged]] ion combine they form a [[Coordination Compound]].
 
 Precipitation, [[Acid-Base Reaction|Acid-Base]], [[Oxidation Reduction]], and complex ion formation [[Chemical Reaction|Reactions]] are all used extensively in [[Qualitative Cation Analysis]]. Such an analysis can provide a rapid means of determining the presence or absence of certain cations in an unknown material.
-
-## #concept 
-
-- [[Solubility Product Constant]]
-- [[Salt Effect]]
-- [[Ion Pairs]]
-- [[Ion Product]]
-- [[Fractional Precipitation]]
-- [[Suspension]]
-- [[Complex Ion]]
-- [[Coordination Compound]]
-- [[Formation Constant]]
-- [[Qualitative Cation Analysis]]

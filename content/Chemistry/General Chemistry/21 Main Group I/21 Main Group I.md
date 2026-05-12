@@ -5,10 +5,3 @@ tags:
   - general-chemistry
 ---
 ## Overview 
-
-## #concept 
-
-- [[Charge Density]]
-- [[Alkali Metals]]
-- [[Detergent]]
-- [[Soap]]

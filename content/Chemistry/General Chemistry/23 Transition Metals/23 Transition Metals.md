@@ -5,6 +5,3 @@ tags:
   - general-chemistry
 ---
 ## Overview 
-
-## #concept 
-
