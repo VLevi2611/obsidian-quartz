@@ -12,15 +12,20 @@ tags:
 ### [[ECG and EEG]]
 
 ### [[Infusion Pumps]]
-### [[X-ray and CT]]
 
 ### [[MRI]]
+
+### [[Patient Monitors]]
+
+### [[Sterilization Equipment]]
 
 ### [[Ultrasound]]
 
 ### [[Ventilators]]
 
+### [[X-ray and CT]]
 
-### [[Sterilization Equipment]]
 
-### [[Patient Monitors]]
+
+
+
