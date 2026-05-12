@@ -5,11 +5,8 @@ tags:
 ---
 ## Overview
 
-## #subject 
 
 ### [[General Chemistry]]
-
-#### #summary 
 
 ##### [[01 Matter and Measurement]]
 

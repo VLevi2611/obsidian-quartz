@@ -18,18 +18,3 @@ Assigning names to the formulas of chemical compounds, **nomenclature**, is an i
 1. Organic compounds, which are compounds formed by the elements carbon and hydrogen, often together with a few other [[Element|Elements]].
 2. Inorganic compounds, a category that includes the remaining compounds. 
 
-
-## #concept 
-
-- [[Molecular Compound]]
-- [[Chemical Formula]]
-- [[Empirical Formula]]
-- [[Molecular Formula]]
-- [[Structural Formula]]
-- [[Ionic Compound]]
-- [[Cation]]
-- [[Anion]]
-- [[Combustion]]
-- [[Oxidation State]]
-
-## #problem 

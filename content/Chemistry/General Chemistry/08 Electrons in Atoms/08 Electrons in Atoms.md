@@ -27,35 +27,5 @@ The wave function of a multielectron atom can be approximated as a superposition
 
 Elements in the same [[Groups|Group]] of the periodic table have similar electron configurations. Group 1 and 2 correspond to the **$s$ block** with filled or partially filled valence-shell $s$ orbitals. Groups 13-18 correspond to the **$p$ block** with filled or partially filled valence-shell $p$ orbitals. The **$d$ block** corresponds to groups 3-12 as the $n-1$ energy level is being filled- that is, having filled or partially filled $d$ orbitals. In the **$f$ block** elements, are also called the lanthanides and actinides, the $n-2$ shell fills with electrons, that is, they have filled or partially filled $f$ orbitals. 
 
-## #concept 
 
-- [[Electromagnetic Radiation]]
-- [[Wave]]
-- [[Amplitude]]
-- [[Wavelength]]
-- [[Frequency]]
-- [[Speed of Light]]
-- [[Diffraction]]
-- [[Quantum]]
-- [[Planck's Constant]]
-- [[Photoelectric Effect]]
-- [[Photon]]
-- [[Atomic Spectra]]
-- [[Ground State]]
-- [[Excited State]]
-- [[Wave-Particle Duality]]
-- [[Heisenberg Uncertainty Principle]]
-- [[Wave Function]]
-- [[Standing Wave]]
-- [[Zero Point Energy]]
-- [[Schrodinger Equation]]
-- [[Atomic Orbital]]
-- [[Principal Electronic Shell]]
-- [[Subshell]]
-- [[Electron Spin]]
-- [[Effective Nuclear Charge]]
-- [[Electron Configuration]]
-- [[Orbital Diagram]]
-- [[Valence Electron]]
-- [[Energy Level]]
 

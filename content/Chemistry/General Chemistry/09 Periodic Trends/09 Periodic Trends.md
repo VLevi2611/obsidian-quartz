@@ -19,25 +19,3 @@ A study of [[Ionization Energy]], $E_i$ , shows that the periodic relationship o
 The magnetic properties of an atom or ion stem from the presence or absence of unpaired electrons. [[Paramagnetic]] atoms and ions have one or more unpaired electrons. In [[Diamagnetic]] atoms and ions, all electrons are paired.
 
 The [[Polarizability]] of an atom provides a measure of the extent to which its electron cloud can be distorted by an [[Electric Field]] or the approach of another atom, [[Molecule]] or ion. Polarizability increases as the size of the atom increases.
-
-## #concept 
-
-- [[Metal]]
-- [[Nonmetal]]
-- [[Noble Gas]]
-- [[Metalloid]]
-- [[Atomic Radius]]
-- [[Covalent Radius]]
-- [[Ionic Radius]]
-- [[Isoelectronicity]]
-- [[Metallic Radius]]
-- [[Van Der Waals Radius]]
-- [[Ionization Energy]]
-- [[Electron Affinity]]
-- [[Diamagnetic]]
-- [[Paramagnetic]]
-- [[Polarizability]]
-- [[Periodic Law]]
-- [[Groups]]
-- [[Periodic Table]]
-- [[Periods]]

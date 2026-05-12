@@ -26,29 +26,3 @@ Calculating colligative properties of [[Electrolytes|Electrolyte Solutions]] is 
 
 [[Colloids]] are an important intermediate state between a true solution and a [[Heterogeneous Mixture]]. Colloidal mixtures are responsible for some unusual phenomena and are encountered in a broad range of contexts, from fluids in living organisms to pollutant in large air masses.
 
-## #concept 
-
-- [[Concentrated Solution]]
-- [[Dilute Solution]]
-- [[Molality]]
-- [[Enthalpy of Solution]]
-- [[Ideal Solution]]
-- [[Nonideal Solution]]
-- [[Homogeneous Mixture]]
-- [[Heterogeneous Mixture]]
-- [[Saturated Solution]]
-- [[Concentration]]
-- [[Solubility]]
-- [[Unsaturated Solution]]
-- [[Supersaturated Solution]]
-- [[Recrystallization]]
-- [[Henry's Law]]
-- [[Raoult's Law]]
-- [[Fractional Distillation]]
-- [[Azeotropes]]
-- [[Osmosis]]
-- [[Membrane]]
-- [[Osmotic Pressure]]
-- [[Reverse Osmosis]]
-- [[Colligative Properties]]
-- [[Colloids]]

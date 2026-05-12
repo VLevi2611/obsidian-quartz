@@ -18,14 +18,3 @@ In [[Molecular Orbital Theory]], electrons are assigned to molecular orbitals. T
 
 Bonding in the benzene molecule, $\ce{C6H6}$ , is partially based on the concept of [[Delocalized Molecular Orbitals]]. These are regions of high electron density that extend over several atoms in a molecule. Delocalized molecular orbitals also provide an alternative to the concept of [[Resonance]] in other molecules and [[Ion|Ions]].
 
-## #concept 
-
-- [[Valence Bond Method]]
-- [[Hybridization]]
-- [[Hybrid Orbital]]
-- [[Sigma Bond]]
-- [[Pi Bond]]
-- [[Molecular Orbital Theory]]
-- [[Bonding Molecular Orbitals]]
-- [[Antibonding Orbitals]]
-- [[Delocalized Molecular Orbitals]]

@@ -20,30 +20,4 @@ Electrochemistry plays a key role in corrosion and its control. Oxidation half-c
 
 In [[Electrolysis]], a nonspontaneous [[Chemical Reaction]] occurs as electrons from an external source are forced to flow in a direction opposite that in which they would flow spontaneously. The electrochemical cell in which electrolysis is conducted is called an [[Electrolytic Cell]]. $E^{\circ}$ values are used to establish the theoretical voltage requirements for an electrolysis. Sometimes, particularly when a [[Gas]] is liberated at an electrode, the voltage requirement for the electrode reaction exceeds the value of $E^{\circ}$. The additional voltage requirement is called the [[Overpotential]]. The amount of reagents and products involved in an electrolysis can be calculated from the amount of electric charge passing through the electrolytic cell. The Faraday constant is featured in these calculations.
 
-## #concept 
-
-- [[Electrode]]
-- [[Half-Cell]]
-- [[Anode]]
-- [[Cathode]]
-- [[Salt Bridge]]
-- [[Electrochemical Cell]]
-- [[Cell Voltage]]
-- [[Cell Diagram]]
-- [[Voltaic Cell]]
-- [[Standard Hydrogen Electrode]]
-- [[Standard Electrode Potential]]
-- [[Standard Cell Potential]]
-- [[Faraday Constant]]
-- [[Nernst Equation]]
-- [[Concentration Cell]]
-- [[Battery]]
-- [[Primary Cell]]
-- [[Secondary Cell]]
-- [[Reverse Battery]]
-- [[Fuel Cell]]
-- [[Cathodic Protection]]
-- [[Electrolytic Cell]]
-- [[Electrolysis]]
-- [[Overpotential]]
 

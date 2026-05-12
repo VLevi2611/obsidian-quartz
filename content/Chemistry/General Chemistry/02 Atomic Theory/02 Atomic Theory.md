@@ -20,30 +20,3 @@ The [[Periodic Table]] is an arrangement of the elements in horizontal rows call
 
 The [[Avogadro's Number]] $N_A = 6.02214 \times 10^{23} mol^{-1}$, represents the number of carbon-12 atoms in 12 $g$ of carbon-12. Generally, it is the number of atoms or [[Molecule|Molecules]] present in an amount known as one [[Mole]] of [[Substance]]. The mass of one mole of atoms of an element is called its [[Molar Mass]].
 
-## #concept 
-
-- [[Atom]]
-- [[Molecule]]
-- [[Conservation Of Mass]]
-- [[Constant Composition Law]]
-- [[Dalton's Atomic Model]]
-- [[Thomson's Atomic Model]]
-- [[Rutherford's Atomic Model]]
-- [[Proton]]
-- [[Neutron]]
-- [[Electron]]
-- [[Nucleus]]
-- [[Ion]]
-- [[Atomic Number]]
-- [[Charge]]
-- [[Mass Number]]
-- [[Isotope]]
-- [[Atomic Mass]]
-- [[Molecular Mass]]
-- [[Mole]]
-- [[Molar Mass]]
-- [[Avogadro's Number]]
-- [[Atomic Mass Units]]
-
-
-## #problem 
