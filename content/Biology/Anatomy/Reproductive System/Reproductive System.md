@@ -5,11 +5,3 @@ tags:
   - anatomy
 ---
 ## Overview
-
-## #concept 
-
-## #formula 
-
-## #constant 
-
-## #problem 
