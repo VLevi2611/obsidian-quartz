@@ -16,25 +16,3 @@ In some reactions, one of the reagents is completely consumed, while the other r
 
 Stoichiometric calculations sometimes involve additional factors, including the reaction's [[Actual Yield]], the presence of [[By Product|By Products]], and how the reaction or reactions proceed. For example, some reaction yield exactly the quantity of product calculated- the [[Theoretical Yield]]. When the actual yield is equal to the theoretical yield, the [[Percent Yield]] is $100 \%$. 
 
-## #concept 
-
-- [[Chemical Reaction]]
-- [[Reagent]]
-- [[Product]]
-- [[Chemical Equation]]
-- [[Stoichiometry]]
-- [[Stoichiometric Coefficients]]
-- [[Solution]]
-- [[Solvent]]
-- [[Solute]]
-- [[Molarity]]
-- [[Limiting Reagent]]
-- [[Theoretical Yield]]
-- [[Actual Yield]]
-- [[Percent Yield]]
-- [[By Product]]
-- [[Consecutive Reactions]]
-- [[Simultaneous Reactions]]
-- [[Overall Reaction]]
-
-## #problem 
