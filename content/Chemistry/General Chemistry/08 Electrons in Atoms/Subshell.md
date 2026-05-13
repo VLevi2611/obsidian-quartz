@@ -12,6 +12,6 @@ All [[Atomic Orbital|Atomic Orbitals]] with the same $n$ and $\ell$ values are i
 3. **d subshell** $\ell = 2$
 4. **f subshell** $\ell = 3$
 The number of orbitals in a subshell is the same number of allowed values of $m_{\ell}$ for the particular value of $\ell$.
-![[Subshell Orbitals.png]]
+![[Subshell-Orbitals.png]]
 
 ![[Filling of Electronic Subshells.png]]
