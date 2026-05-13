@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-A diagonal matrix is a type of [[Matrix]] where the non diagonal components are 0 and the diagonal component are the [[Eigenvalue|Eigenvalues]].
+A **diagonal matrix** is a type of [[Matrix]] where the non diagonal components are 0 and the diagonal component are the [[Eigenvalue|Eigenvalues]].
 
 ## Example
 
