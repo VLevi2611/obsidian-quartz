@@ -9,7 +9,7 @@ tags:
 
 ### Question 1
 
-What's the sum of $\vec{a,b}$ 
+What's the sum of $\vec a+ \vec b+ \vec c=$ 
 
 #### Given
 
@@ -35,7 +35,7 @@ $$
 
 ### Question 1
 
-What's the product $a\mathbf{x}$ 
+What's the product $a \vec x$ 
 #### Given
 
 $$
