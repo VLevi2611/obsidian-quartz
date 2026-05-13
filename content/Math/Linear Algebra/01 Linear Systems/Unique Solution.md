@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-A [[Linear System Of Equations]] has a *unique solution* if there [[Exists]] exactly one [[Vector]] that satisfies all equations simultaneously. The [[Geometric Interpretation]] of this means that all geometric objects intersect in one single point.
+A [[Linear System Of Equations]] has a **unique solution** if there [[Exists]] exactly one [[Vector]] that satisfies all equations simultaneously. The [[Geometric Interpretation]] of this means that all geometric objects intersect in one single point.
 
 ___
 ### In $\mathbb{R}^2$

@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-A linear system of equations is a list of equations where each variable is multiplied by a [[Scalar]], and the scaled variables are summed.
+A **linear system of equations** is a list of equations where each variable is [[Multiplication|Multiplied]] by a [[Scalar]], and the scaled variables are summed.
 for example:
 $$
 \begin{cases}
