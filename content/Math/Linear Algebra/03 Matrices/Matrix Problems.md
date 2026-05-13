@@ -93,13 +93,14 @@ $$
 To calculate the determinant of a $2 \times 2$ matrix
 $$
 \begin{aligned}
-|\mathbf{A}| = a_{11} a_{22} - a_{21} a_{12} \\
+|\mathbf{A}| &= a_{11} a_{22} - a_{21} a_{12} \\
 \begin{vmatrix}
 1 & 2 \\
 4 & 4
-\end{vmatrix} = 
+\end{vmatrix} &= 
 4 - 8 = -4
-\end{aligned}$$
+\end{aligned}
+$$
 
 ### Question 2
 
@@ -107,23 +108,26 @@ What is the determinant of $\mathbf{A}$
 
 #### Given
 
-$$\mathbf{A} = \begin{pmatrix}
+$$
+\mathbf{A} = \begin{pmatrix}
 1 & 2 & 3 \\
 4 & 4 & 2 \\
 2 & 1 & 2
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 #### Solution
 
 To calculate the determinant of a $3 \times 3$ matrix
 1. calculate the determinant of its minors
 2. multiply each determinant with the component of that minor
 3. sum all of them
-$$\begin{array}{l}
+$$
+\begin{aligned}
 \begin{vmatrix}
 1 & 2 & 3 \\
 4 & 4 & 2 \\
 2 & 1 & 2 
-\end{vmatrix} = 
+\end{vmatrix} &= 
 1 \times \begin{vmatrix}
 4 & 2 \\
 1 & 2
@@ -140,8 +144,9 @@ $$\begin{array}{l}
 1 & 2 & 3 \\
 4 & 4 & 2 \\
 2 & 1 & 2 
-\end{vmatrix} = 6 + 8 - 12 = 2
-\end{array}$$
+\end{vmatrix} &= 6 + 8 - 12 = 2
+\end{aligned}
+$$
 
 ## [[Inverse Matrix]]
 
@@ -151,10 +156,12 @@ Whats the inverse of the matrix $\mathbf{A}$
 
 #### Given
 
-$$\mathbf{A} = \begin{pmatrix}
+$$
+\mathbf{A} = \begin{pmatrix}
 1 & 3 \\
 3 & 2
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 #### Solution
 
 To solve for the inverse
@@ -162,7 +169,8 @@ To solve for the inverse
 2. create an augmented matrix (the matrix on the left and the [[Identity Matrix]] on the right)
 3. manipulate the matrix to create the identity matrix on the left
 4. the inverse is the matrix on the right
-$$\begin{array}{l}
+$$
+\begin{array}{l}
 \begin{vmatrix}
 1 & 3 \\
 3 & 2
@@ -195,25 +203,27 @@ $$\begin{array}{l}
 -2 & -3 \\
 3 & 1
 \end{pmatrix}
-\end{array}$$
+\end{array}
+$$
 
 ## [[Cramer's Rule]]
 
 ### Question 1
 
-Find $\mathbf{x}$ in $\mathbf{Ax=b}$
+Find $\vec x$ in $\mathbf{A} \vec x = \mathbf{b}$
 #### Given
 
-$$\begin{array}{l}
-\mathbf{A} = \begin{pmatrix}
+$$
+\begin{aligned}
+\mathbf{A} &= \begin{pmatrix}
 1 & 3 \\
 1 & 2
 \end{pmatrix} \\
-\mathbf{b} = \begin{pmatrix}
+\mathbf{b} &= \begin{pmatrix}
 2 \\
 1
 \end{pmatrix}
-\end{array}$$
+\end{aligned}$$
 #### Solution
 
 Using Cramer's rule $$\begin{array}{l}
