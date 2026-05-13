@@ -13,30 +13,34 @@ What's the sum of $\mathbf{a+b+c}$
 
 #### Given
 
-$$\begin{array}{l}
-\mathbf{a} = (1,2,5) \\
-\mathbf{b} = (-2,3,3) \\
-\mathbf{c} = (0,1,2)
-\end{array}$$
+$$
+\begin{aligned}
+\vec a &= (1,2,5) \\
+\vec b &= (-2,3,3) \\
+\vec c &= (0,1,2)
+\end{aligned}
+$$
 #### Solution
 
 To sum vectors, sum their corresponding components
-$$\begin{array}{l}
-\mathbf{x} = \sum_{i = 1}^{n} \sum_{j = 1}^{m} \mathbf{v}_{j,i} \\
-\mathbf{a + b + c} = (1 - 2 + 0, 2 + 3 + 1, 5 + 3 + 2) = (-1, 6, 10)
-\end{array}$$
+$$
+\vec a+\vec b+\vec c
+=
+(1-2+0,\;2+3+1,\;5+3+2)
+=
+(-1,6,10)
+$$
 
 ## [[Scalar Multiplication]]
 
 ### Question 1
 
-Whats the product $a\mathbf{x}$ 
+What's the product $a\mathbf{x}$ 
 #### Given
 
-$$\begin{array}{l}
-a = 5 \\
-\mathbf{x} = (2,3,3)
-\end{array}$$
+$$
+5\vec x = 5(2,3,3) = (10,15,15)
+$$
 #### Solution
 
 To multiply a vector by a scalar, multiply each component by that scalar
