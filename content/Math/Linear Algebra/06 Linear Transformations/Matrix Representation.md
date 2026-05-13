@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A [[Linear Transformation]] is fully determined by where it maps the [[Basis]] [[Vector]]s, and the [[Coordinates]] of these vector outputs form the columns of the [[Matrix]]
+A [[Linear Transformation]] is fully determined by where it maps the [[Basis]] [[Vector|Vectors]], and the [[Coordinates]] of these vector outputs form the columns of the [[Matrix]]
 

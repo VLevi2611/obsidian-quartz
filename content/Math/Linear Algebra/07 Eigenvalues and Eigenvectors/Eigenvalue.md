@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-Eigenvalue is the [[Scalar]] $\lambda$ that scales the [[Eigenvector]].
+**Eigenvalue** is the [[Scalar]] $\lambda$ that scales the [[Eigenvector]].
 

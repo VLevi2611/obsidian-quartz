@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A [[Matrix]] $\mathbf{A}$ can be diagonalized [[If and Only If]] it possesses $n$ [[Eigenvector]]s that have [[Linear Independence]].
+A [[Matrix]] $\mathbf{A}$ can be diagonalized [[If and Only If]] it possesses $n$ [[Eigenvector|Eigenvectors]] that have [[Linear Independence]].
 

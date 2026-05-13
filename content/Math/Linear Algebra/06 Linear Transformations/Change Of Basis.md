@@ -34,13 +34,11 @@ $$
 \begin{aligned}
 \begin{bmatrix}
 \mathbf{v}
-\end{bmatrix} _\mathbf{C} &=
-\mathbf{P_C}^{-1} \mathbf{v} \\
+\end{bmatrix} _\mathbf{C} &= \mathbf{P_C}^{-1} \mathbf{v} \\
 \begin{bmatrix}
 \mathbf{v}
-\end{bmatrix} _\mathbf{C}=
-\mathbf{P_C}^{-1} \mathbf{P_B[v]} \\
-\mathbf{P_{C \leftarrow B}} = \mathbf{P_C}^{-1} \mathbf{P_B}
+\end{bmatrix} _\mathbf{C} &= \mathbf{P_C}^{-1} \mathbf{P_B[v]} \\
+\mathbf{P_{C \leftarrow B}} &= \mathbf{P_C}^{-1} \mathbf{P_B}
 \end{aligned}
 $$
 $\mathbf{P_{C \leftarrow B}}$ is the change of basis [[Matrix]].

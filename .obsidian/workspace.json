@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/Linear Algebra/06 Linear Transformations/Change Of Basis.md",
+                "file": "content/Math/Linear Algebra/08 Diagonalization/Eigenbasis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Change Of Basis"
+              "title": "Eigenbasis"
             }
           }
         ]
@@ -198,6 +198,20 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "content/Math/Linear Algebra/08 Diagonalization/Diagonal Matrix.md",
+    "content/Math/Linear Algebra/08 Diagonalization/Condition For Diagonalization.md",
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Trace.md",
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvector.md",
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvalue Equation.md",
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvalue.md",
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md",
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Characteristic Polynomial.md",
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/07 Eigenvalues and Eigenvectors.md",
+    "content/Math/Linear Algebra/06 Linear Transformations/Non Square Matrices.md",
+    "content/Math/Linear Algebra/06 Linear Transformations/Matrix Representation.md",
+    "content/Math/Linear Algebra/06 Linear Transformations/Linear Transformation.md",
+    "content/Math/Linear Algebra/06 Linear Transformations/Geometric Properties Of Linear Transformations.md",
+    "content/Math/Linear Algebra/06 Linear Transformations/Change Of Basis.md",
     "content/Math/Linear Algebra/06 Linear Transformations/06 Linear Transformations.md",
     "content/Math/Linear Algebra/05 Vector Spaces/Vector Space.md",
     "content/Math/Linear Algebra/05 Vector Spaces/Subspace.md",
@@ -210,20 +224,6 @@
     "content/Math/Linear Algebra/04 Basis and Dimension/Span.md",
     "content/Math/Linear Algebra/04 Basis and Dimension/Rank.md",
     "content/Math/Linear Algebra/04 Basis and Dimension/Linear Independence.md",
-    "content/Math/Linear Algebra/04 Basis and Dimension/Linear Dependence.md",
-    "content/Math/Linear Algebra/04 Basis and Dimension/Linear Combination.md",
-    "content/Math/Linear Algebra/04 Basis and Dimension/Dimension.md",
-    "content/Math/Linear Algebra/04 Basis and Dimension/Basis and Dimension Problems.md",
-    "content/Math/Linear Algebra/04 Basis and Dimension/Basis.md",
-    "content/Math/Linear Algebra/04 Basis and Dimension/04 Basis and Dimension.md",
-    "content/Math/Linear Algebra/03 Matrices/Transpose.md",
-    "content/Math/Linear Algebra/03 Matrices/Matrix Vector Multiplication.md",
-    "content/Math/Linear Algebra/03 Matrices/Matrix Problems.md",
-    "content/Math/Linear Algebra/03 Matrices/Matrix Multiplication.md",
-    "content/Math/Linear Algebra/03 Matrices/Matrix.md",
-    "content/Math/Linear Algebra/03 Matrices/Inverse Matrix.md",
-    "content/Math/Linear Algebra/03 Matrices/Identity Matrix.md",
-    "content/Math/Linear Algebra/03 Matrices/Determinant.md",
     "public/Physics/Classical-Mechanics/07-Gravitation/index.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed-og-image.webp",
