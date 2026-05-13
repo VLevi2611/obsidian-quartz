@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "1cacf2ce0f9d9e0f",
+    "id": "2984df7fb2e254cc",
     "type": "split",
     "children": [
       {
-        "id": "8030fec802c9537c",
+        "id": "6dd84805dae6e3e6",
         "type": "tabs",
         "children": [
           {
-            "id": "7aef76f0afaffcd4",
+            "id": "5f14532b2a3415d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Chemistry/Chemistry.md",
+                "file": "content/Chemistry/Chemistry.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,28 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6204a570379ea462",
+    "id": "910be872a790d924",
     "type": "split",
     "children": [
       {
-        "id": "c73ca4bb5c1b168d",
+        "id": "ff52e8584f6066ef",
         "type": "tabs",
         "children": [
           {
-            "id": "ba613edb91774786",
+            "id": "c091af617cf3e9f3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "864432d9a8390295",
+            "id": "c55bf77e867d31f5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d9c7da59aaacc64c",
+            "id": "02472549b974079c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "91b0d70549f4c0e7",
+    "id": "ec532f3f6cd40b1b",
     "type": "split",
     "children": [
       {
-        "id": "9ca2955e215df92a",
+        "id": "ceb2e907420ccd7b",
         "type": "tabs",
         "children": [
           {
-            "id": "8969ca62abf2fc21",
+            "id": "ce22cc8873d3e73e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Math/Calculus/Calculus.md",
+                "file": "content/Physics/Classical Mechanics/Classical Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,112 +104,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Calculus"
+              "title": "Backlinks for Classical Mechanics"
             }
           },
           {
-            "id": "dfde423969072f58",
+            "id": "0a6720d46800be76",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Math/Calculus/Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Calculus"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "078657cc220490c7",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/Math/Linear Algebra/Linear Systems/Linear Systems.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#world  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#subject  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "tag:#summary  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "tag:#concept  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    },
-                    {
-                      "query": "tag:#formula  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431473
-                      }
-                    },
-                    {
-                      "query": "tag:#constant  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5419488
-                      }
-                    },
-                    {
-                      "query": "tag:#symbol  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5395168
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8028080321052247,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Linear Systems"
-            }
-          },
-          {
-            "id": "56207cee358f6845",
+            "id": "ed93efa0756df7b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -224,22 +136,36 @@
             }
           },
           {
-            "id": "df358f523a353628",
+            "id": "2977dff8da31af88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "990b7cd1cd641cf7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Math/Calculus/Calculus.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus"
+              "title": "Outline of README"
             }
           },
           {
-            "id": "72c265e735656386",
+            "id": "f8b09fff2244572c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -250,110 +176,10 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "e98c538aadd58dda",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b683650bb45996cb",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Notes/Chemistry/Chemistry.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#world  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#subject  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    },
-                    {
-                      "query": "tag:#summary  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11657298
-                      }
-                    },
-                    {
-                      "query": "tag:#concept  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431378
-                      }
-                    },
-                    {
-                      "query": "tag:#formula  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5431473
-                      }
-                    },
-                    {
-                      "query": "tag:#constant  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5419488
-                      }
-                    },
-                    {
-                      "query": "tag:#symbol  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5395168
-                      }
-                    },
-                    {
-                      "query": "tag:#problem  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 11621088
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.903485961302095,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Chemistry"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,96 +190,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "9f54df00fe34c365",
-    "type": "floating",
-    "children": [
-      {
-        "id": "684602f8c9c0c33d",
-        "type": "window",
-        "children": [
-          {
-            "id": "7ba57376922dd7b6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e860fa0165a9d812",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "General Chemistry Principles and Modern Applications"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 25,
-        "width": 1440,
-        "height": 797,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7aef76f0afaffcd4",
+  "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
-    "Notes/Chemistry/General Chemistry/21 Main Group I/Soap.md",
-    "Notes/Chemistry/General Chemistry/21 Main Group I/Detergent.md",
-    "Notes/Chemistry/General Chemistry/21 Main Group I/Charge Density.md",
-    "Notes/Chemistry/General Chemistry/21 Main Group I/Alkali Metals.md",
-    "Resources/Images/Substrate.png",
-    "Resources/Images/Reaction Profile.png",
-    "Resources/Images/Reaction Intermediate.png",
-    "Resources/Images/Cell Diagram.png",
-    "Resources/Excalidraw/Activated Complex.ecalidraw.md",
-    "Progress/29.04.26.png",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Zero-Order Reaction.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Unimolecular process.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Transition State.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Substrate.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Second-Order Reaction.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Reaction Profile.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Reaction Mechanism.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Reaction Intermediate.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Rate-Determining Step.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Rate of Reaction.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Rate Equation.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Rate Constant.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Order of Reaction.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Integrated Rate Law.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Instantaneous Rate of Reaction.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Initial Rate of Reaction.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Homogeneous Catalyst.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Heterogeneous Catalyst.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Half-Life.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/First-Order Reaction.md",
-    "Notes/Chemistry/General Chemistry/20 Kinetics/Enzyme.md",
-    "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
-    "Progress/27.04.26.png",
-    "Resources/Images/Self Ionization of water.png",
-    "Resources/Images/Enthalpy of Solution.png",
-    "Resources/Images/Acid-Base Indicator.png",
-    "Progress/22.12.25.png",
-    "Book view.base",
-    "Resources/Excalidraw",
-    "Notes/Chemistry/General Chemistry/25 Nuclear Chemistry",
-    "Notes/Chemistry/General Chemistry/24 Coordination Chemistry",
-    "Notes/Chemistry/General Chemistry/23 Transition Metals",
-    "Notes/Chemistry/General Chemistry/22 Main Group II",
-    "Notes/Chemistry/General Chemistry/21 Main Group I",
-    "Notes/Chemistry/General Chemistry/06 Descriptive Chemistry",
-    "Notes/Chemistry/General Chemistry/20 Kinetics"
+    "content/Physics/Classical Mechanics/Classical Mechanics.md",
+    "content/Physics/Classical Mechanics/06 Oscillations/06 Oscillations.md",
+    "content/Math/Linear Algebra/Linear Algebra.md",
+    "content/Math/Math.md",
+    "content/Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
+    "public/Physics/Classical-Mechanics/07-Gravitation/index.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Newton's-Gravitation-Law.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Newton's-Gravitation-Law-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Kepler's-Laws.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Kepler's-Laws-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Gravitational-Field.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Gravitational-Field-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Escape-Velocity.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Escape-Velocity-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Central-Force-Motion.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Energy-Of-An-Orbiting-Body.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Energy-Of-An-Orbiting-Body-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Circular-Orbits.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Circular-Orbits-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Central-Force-Motion-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Bound-vs-Unbound-Orbits.html",
+    "public/Physics/Classical-Mechanics/07-Gravitation/Bound-vs-Unbound-Orbits-og-image.webp",
+    "public/Physics/Classical-Mechanics/07-Gravitation/07-Gravitation-og-image.webp",
+    "node_modules/parse-latin/node_modules/@types/unist/README.md",
+    "node_modules/mdast-util-to-markdown/node_modules/@types/unist/README.md",
+    "node_modules/mdast-util-mdx-jsx/node_modules/@types/unist/README.md",
+    "node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-raw/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
+    "node_modules/@parcel/watcher/node_modules/picomatch/README.md",
+    "node_modules/node-fetch/node_modules/whatwg-url/README.md",
+    "node_modules/node-fetch/node_modules/webidl-conversions/README.md",
+    "node_modules/node-fetch/node_modules/webidl-conversions/LICENSE.md",
+    "node_modules/mdast-util-mdx-jsx/node_modules/vfile-message/readme.md",
+    "node_modules/mdast-util-mdx-jsx/node_modules/unist-util-stringify-position/readme.md",
+    "node_modules/mdast-util-from-markdown/node_modules/unist-util-stringify-position/readme.md",
+    "node_modules/linebreak/node_modules/base64-js/README.md",
+    "node_modules/katex/src/metrics/README.md",
+    "node_modules/katex/node_modules/commander/Readme.md",
+    "node_modules/katex/contrib/mhchem/README.md"
   ]
 }

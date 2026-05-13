@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "86281f27d409f940",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc90568ed50d2833",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7cb58362b8fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/Chemistry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemistry"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3698acca55f6ebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cc26aa6493ee494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f57880162760d2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7e82b4e1c5ff64b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5919b1747ceacf31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ca8577e955592e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd6b6eeaae4e5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3116997b518e2404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "eec56598dd8c252e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "57f6b9e964b77e21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2694ad574d4c0be5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2bd7e58da74690d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "80fa3a363f30e7c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "fb7cb58362b8fa6c",
+  "lastOpenFiles": [
+    "Physics/Classical Mechanics/Classical Mechanics.md",
+    "Physics/Physics.md",
+    "Chemistry/General Chemistry/01 Matter and Measurement/01 Matter and Measurement.md",
+    "Physics/Classical Mechanics/01 Kinematics/01 Kinematics.md",
+    "Physics/Classical Mechanics/04 Momentum/04 Momentum.md",
+    "Templates/World Template.md",
+    "Templates/Subject Template.md",
+    "Templates/Summary Template.md",
+    "Templates/Problem Template.md",
+    "Templates/Formula Template.md",
+    "Templates/Concept Template.md",
+    "Chemistry/index.md",
+    "Chemistry/Chemistry.md",
+    "Chemistry/General Chemistry/07 Thermochemistry/07 Thermochemistry.md",
+    "Chemistry/General Chemistry/02 Atomic Theory/02 Atomic Theory.md",
+    "index.md",
+    "Resources/Images/Alkali Metals.png",
+    "Chemistry/General Chemistry/21 Main Group I/Soap.md",
+    "Chemistry/General Chemistry/21 Main Group I/Detergent.md",
+    "Chemistry/General Chemistry/21 Main Group I/Charge Density.md",
+    "Chemistry/General Chemistry/21 Main Group I/Alkali Metals.md",
+    "Resources/Books/General Chemistry Principles and Modern Applications.pdf"
+  ]
+}
