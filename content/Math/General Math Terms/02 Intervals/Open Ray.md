@@ -6,5 +6,8 @@ tags:
 ---
 ## Definition
 
-An open ray is defined as: $$(-\infty,a)/(a,\infty)$$
+An open ray is defined as: 
+$$
+(-\infty,a)/(a,\infty)
+$$
 

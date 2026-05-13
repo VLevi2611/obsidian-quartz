@@ -47,8 +47,13 @@ $$
 a \times 1 = 1 \times a = a
 $$
 - [[Multiplicative Inverse]] 
-$$\forall a \not= 0, a \times(a^{-1}) = 1$$
-- [[Distributivity]] $$a \times (b + c) = a \times b + a \times c$$
+$$
+\forall a \not= 0, a \times(a^{-1}) = 1
+$$
+- [[Distributivity]] 
+$$
+a \times (b + c) = a \times b + a \times c
+$$
 There is only one [[Additive Identity]] and one different [[Multiplicative Identity]] in a field.
 For each [[Element Of]] the field, there is only one [[Additive Inverse]] and one [[Multiplicative Inverse]].
 

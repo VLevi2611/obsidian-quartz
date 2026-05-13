@@ -7,4 +7,6 @@ tags:
 ## Definition
 
 A closed ray is defined as: 
-$$(-\infty,a]/[a,\infty)$$
+$$
+(-\infty,a]/[a,\infty)
+$$

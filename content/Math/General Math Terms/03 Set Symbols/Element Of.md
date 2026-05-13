@@ -16,6 +16,8 @@ If an element is in a [[Set]], he is an element of the set.
 \in
 
 ## Example
-$$1 \in \mathbb{N}$$
+$$
+1 \in \mathbb{N}
+$$
 
 

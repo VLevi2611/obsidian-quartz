@@ -25,8 +25,7 @@
         "content/Chemistry",
         "content/Math",
         "content/Medicine",
-        "content/Physics",
-        "content/Resources"
+        "content/Physics"
       ],
       "sortOrder": "custom"
     },
@@ -1325,10 +1324,6 @@
         "content/Physics/Classical Mechanics/07 Gravitation/Newton's Gravitation Law.md",
         "content/Physics/Classical Mechanics/07 Gravitation/Orbital Speed.md"
       ],
-      "sortOrder": "custom"
-    },
-    "content/Resources": {
-      "children": [],
       "sortOrder": "custom"
     },
     "node_modules": {
@@ -34945,7 +34940,7 @@
       "sortOrder": "custom"
     }
   },
-  "sortOrder": "byModifiedTime",
+  "sortOrder": "alphabetical",
   "debugMode": false,
   "newItemPlacement": "bottom"
 }
