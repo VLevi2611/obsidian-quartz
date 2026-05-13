@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sagiv&#039;s Knowledge Base</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Anatomy</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Anatomy</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Anatomy</guid>
-    <description><![CDATA[ Overview summary Cardiovascular System concept formula constant problem Digestive System concept formula constant problem Endocrine System concept formula constant problem Lymphatic and Immune System concept formula constant problem Muscular System concept formula constant problem Nervous System con... ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Set Difference</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/General-Math-Terms/03-Set-Symbols/Set-Difference</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/General-Math-Terms/03-Set-Symbols/Set-Difference</guid>
+    <description><![CDATA[ Sign \setminus Definition A \setminus B = A-B = \{x|x \in A,\text{and} \ x \not \in B\} Latex \setminus Example \{1,2,3,4\} \setminus \{3,4\}=\{1,2\}. ]]></description>
+    <pubDate>Wed, 13 May 2026 20:52:19 GMT</pubDate>
   </item><item>
-    <title>Cardiovascular System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Cardiovascular-System/Cardiovascular-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Cardiovascular-System/Cardiovascular-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Null Space</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Null-Space</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Null-Space</guid>
+    <description><![CDATA[ Definition The null space is a Subspace consisting of all input Vectors \vec x that are mapped to the Zero Vector when multiplied by a Matrix \mathbf{A}. ]]></description>
+    <pubDate>Wed, 13 May 2026 20:49:08 GMT</pubDate>
   </item><item>
-    <title>Digestive System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Digestive-System/Digestive-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Digestive-System/Digestive-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Column Space</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Column-Space</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Column-Space</guid>
+    <description><![CDATA[ Definition A column space of a Matrix is a Span of its Column Vectors. The column space is also called the Rank of a matrix. ]]></description>
+    <pubDate>Wed, 13 May 2026 20:48:52 GMT</pubDate>
   </item><item>
-    <title>Endocrine System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Endocrine-System/Endocrine-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Endocrine-System/Endocrine-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Dimension</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Dimension</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Dimension</guid>
+    <description><![CDATA[ Definition The dimension is the size of the space, defined by the number of Vectors contained in any Basis for that space. ]]></description>
+    <pubDate>Wed, 13 May 2026 20:47:40 GMT</pubDate>
   </item><item>
-    <title>Lymphatic and Immune System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Lymphatic-and-Immune-System/Lymphatic-and-Immune-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Lymphatic-and-Immune-System/Lymphatic-and-Immune-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Identity Matrix</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/03-Matrices/Identity-Matrix</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/03-Matrices/Identity-Matrix</guid>
+    <description><![CDATA[ Definition The identity matrix of size n*n, \mathbf{I}_n is a square Matrix with ones on the main diagonal and zeros elsewhere. ]]></description>
+    <pubDate>Wed, 13 May 2026 20:46:43 GMT</pubDate>
   </item><item>
-    <title>Muscular System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Muscular-System/Muscular-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Muscular-System/Muscular-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Basis and Dimension Problems</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Basis-and-Dimension-Problems</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Basis-and-Dimension-Problems</guid>
+    <description><![CDATA[ Span Question 1 What is the span of Matrix \mathbf{A} Given \mathbf{A} = \begin{pmatrix} 1 &amp; 0 &amp; 2 \\ 2 &amp; 1 &amp; 1 \\ 0 &amp; 3 &amp; 1 \end{pmatrix} Solution A span of a matrix is the collection of the Column Vectors with a Linear Combination. ]]></description>
+    <pubDate>Wed, 13 May 2026 20:40:42 GMT</pubDate>
   </item><item>
-    <title>Nervous System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Nervous-System/Nervous-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Nervous-System/Nervous-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>08 Diagonalization</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/08-Diagonalization</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/08-Diagonalization</guid>
+    <description><![CDATA[ Overview Diagonalization is the process of using a Linear Transformation on a Matrix \mathbf{A} into a Diagonal Matrix by the form \Lambda, by relating it to a Basis composed of its Eigenvectors. ]]></description>
+    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
   </item><item>
-    <title>Renal and Urinary System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Renal-and-Urinary-System/Renal-and-Urinary-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Renal-and-Urinary-System/Renal-and-Urinary-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Diagonal Matrix</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Diagonal-Matrix</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Diagonal-Matrix</guid>
+    <description><![CDATA[ Definition A diagonal matrix is a type of Matrix where the non diagonal components are 0 and the diagonal component are the Eigenvalues. ]]></description>
+    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
   </item><item>
-    <title>Reproductive System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Reproductive-System/Reproductive-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Reproductive-System/Reproductive-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Eigenbasis</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenbasis</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenbasis</guid>
+    <description><![CDATA[ Definition The eigenbasis is a Set of Basis Vectors that are also Eigenvectors of a Matrix \mathbf{A}. ]]></description>
+    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
   </item><item>
-    <title>Respiratory System</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Respiratory-System/Respiratory-System</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Biology/Anatomy/Respiratory-System/Respiratory-System</guid>
-    <description><![CDATA[ Overview concept formula constant problem. ]]></description>
-    <pubDate>Mon, 04 May 2026 09:55:16 GMT</pubDate>
+    <title>Eigenvector Matrix</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenvector-Matrix</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenvector-Matrix</guid>
+    <description><![CDATA[ Definition The eigenvector matrix \mathbf{X} of a matrix \mathbf{A} is a Matrix formed by placing the Eigenvectors of \mathbf{A} on its columns. ]]></description>
+    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
   </item>
     </channel>
   </rss>

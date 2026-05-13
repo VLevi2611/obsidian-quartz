@@ -1,3 +1,5 @@
+// @ts-ignore
+import "katex/contrib/mhchem"
 import remarkMath from "remark-math"
 import rehypeKatex from "rehype-katex"
 import rehypeMathjax from "rehype-mathjax/svg"
@@ -8,6 +10,7 @@ import { KatexOptions } from "katex"
 import { Options as MathjaxOptions } from "rehype-mathjax/svg"
 //@ts-ignore
 import { Options as TypstOptions } from "@myriaddreamin/rehype-typst"
+
 
 interface Options {
   renderEngine: "katex" | "mathjax" | "typst"
