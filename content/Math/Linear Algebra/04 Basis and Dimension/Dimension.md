@@ -18,7 +18,9 @@ $$
 \begin{pmatrix} 0 \\ 0 \\ 1 
 \end{pmatrix} 
 \right\}
-$$ The dimension is:
+$$
+
+The dimension is:
 $$
 \dim _\mathbb{R} (\mathbb{R}^3)=3
 $$
