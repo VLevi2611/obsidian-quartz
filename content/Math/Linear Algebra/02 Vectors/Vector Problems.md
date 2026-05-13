@@ -14,11 +14,11 @@ What's the sum of $\mathbf{a+b+c}$
 #### Given
 
 $$
-\begin{flalign}
+\begin{aligned}
 \vec a &= (1,2,5) \\
 \vec b &= (-2,3,3) \\
 \vec c &= (0,1,2)
-\end{flalign}
+\end{aligned}
 $$
 #### Solution
 
@@ -44,11 +44,12 @@ $$
 #### Solution
 
 To multiply a vector by a scalar, multiply each component by that scalar
-$$\begin{flalign}
-\vec a &= (1,2,5) \\
-\vec b &= (-2,3,3) \\
-\vec c &= (0,1,2)
-\end{flalign}$$
+$$
+\begin{aligned}
+a \vec x = \sum_{i = 1}^{n} ax_i \\
+a \vec x = (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
+\end{aligned}
+$$
 
 ## [[Dot Product]]
 
