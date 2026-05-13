@@ -22,7 +22,7 @@ $$
 $$
 #### Solution
 
-To sum vectors, sum their corresponding components
+To sum [[Vector|Vectors]], sum their corresponding components
 $$
 \vec a+\vec b+\vec c
 =
@@ -99,8 +99,8 @@ Check if $\vec x, \vec y$ are orthogonal
 #### Given
 
 $$\begin{aligned}
-\vec x = (1,2) \\
-\mathbf{y} = (-1,2)
+\vec x &= (1,2) \\
+\vec y &= (-1,2)
 \end{aligned}$$
 #### Solution
 
