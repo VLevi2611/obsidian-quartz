@@ -55,7 +55,11 @@ Have fun!
   
 ## 📐 [[Math]]  
 
+### [[General Math Terms]]
 
+- [[01 Math Symbols]]
+- [[02 Intervals]]
+- [[03 Set Symbols]]
 
 ### [[Linear Algebra]]  
 
@@ -70,4 +74,6 @@ Have fun!
   
 ---  
   
-## 🧬 Biology
+## 🧬 [[Biology]]
+
+*(Coming soon)*
