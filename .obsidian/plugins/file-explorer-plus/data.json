@@ -8,6 +8,12 @@
         "active": true,
         "pattern": "",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
       }
     ],
     "paths": [
@@ -799,9 +805,23 @@
       {
         "name": "",
         "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "",
-        "patternType": "WILDCARD"
+        "type": "DIRECTORIES",
+        "pattern": "quartz",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "node_modules",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "public",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
