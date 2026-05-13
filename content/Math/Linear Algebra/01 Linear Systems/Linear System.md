@@ -19,13 +19,14 @@ There can be 3 different ways a system can behave:
 ---
 A linear system can be represented in a few different ways.
 1. with curly brackets that unite some equations:
-$$\begin{cases}
+$$
+\begin{cases}
 3x + 2y - z = 1 & (1) \\
 2x - 2y + 4z = -2 & (2) \\
--x + \tfrac{1}{2}y - z = 0 & (3)
+-x + \frac{1}{2}y - z = 0 & (3)
 \end{cases}
 $$
 2. in a [[Matrix Representation]]:
-$$Ax=b$$
+$$A \vec x = \vec b$$
 Where $A$ is the coefficients [[Matrix]], $x$ is the variable [[Vector]] and $b$ is the results vector.
 

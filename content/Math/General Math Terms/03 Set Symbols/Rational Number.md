@@ -9,7 +9,9 @@ $$
 \mathbb{Q}
 $$
 ## Definition
-$$\mathbb{Q} = \{ \frac{n}{m}|n \in \mathbb{Z}, m \in \mathbb{N}\} $$
+$$
+\mathbb{Q} = \{ \frac{n}{m}|n \in \mathbb{Z}, m \in \mathbb{N}\} 
+$$
 ## Latex
 \mathbb{Q} 
 
