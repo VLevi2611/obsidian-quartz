@@ -4,29 +4,42 @@ This is an ongoing collection of all my notes on various topics, documenting my 
 This knowledge base may contain mistakes, do not treat it like an academic resource.
 
 Have fun!
-## Main Areas
 
-<div class="cards">
+---  
+  
+## ⚛️ Physics  
+  
+### Classical Mechanics  
 
-<a class="card" href="./Physics/">
-  <h3>⚙️ Physics</h3>
-</a>
+- [[01 Kinematics]]  
+- [[02 Newton's Laws]]  
+- [[03 Energy]]  
+- [[04 Momentum]]  
+- [[05 Rotation]]  
+- [[06 Oscillations]]  
+- [[07 Gravitation]]  
+  
+---  
+  
+## 🧪 Chemistry  
+  
+### General Chemistry  
 
-<a class="card" href="./Math/">
-  <h3>📐 Math</h3>
-</a>
+- [[01 Matter and Measurement]]  
+- [[02 Atoms and Elements]]  
+- [[03 Aqueous Reactions]]  
+- [[04 Stoichiometry]]  
+  
+---  
+  
+## 📐 Mathematics  
+  
+### Linear Algebra  
 
-<a class="card" href="./Chemistry/">
-  <h3>🧪 Chemistry</h3>
-</a>
-
-<a class="card" href="./Biology/">
-  <h3>🧬 Biology</h3>
-</a>
-
-<a class="card" href="./Medicine/">
-  <h3>🏥 Medicine</h3>
-</a>
-
-</div> 
-
+- [[01 Linear Systems]]  
+- [[02 Matrices]]  
+- [[03 Vector Spaces]]  
+  
+---  
+  
+## 🧬 Biology
