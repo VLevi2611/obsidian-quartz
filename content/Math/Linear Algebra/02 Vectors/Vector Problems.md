@@ -123,6 +123,6 @@ $$\vec x = (1,2,3,7)$$
 
 Length of a vector is calculated by the square root of the dot product with itself
 $$\begin{aligned}
-|\vec x| &= \sqrt{\mathbf{x \cdot x}} \\
-|\mathbf{x}| &= \sqrt{1^2 + 2^2 + 3^2 + 7^2} = \sqrt{63}
+|\vec x| &= \sqrt{\vec x \cdot \vec x} \\
+|\vec x| &= \sqrt{1^2 + 2^2 + 3^2 + 7^2} = \sqrt{63}
 \end{aligned}$$
