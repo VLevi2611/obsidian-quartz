@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-Linear combination is the result of scaling a [[Set]] of [[Vector]]s (using [[Scalar]]s) and summing them.
+**Linear combination** is the result of scaling a [[Set]] of [[Vector|Vectors]] (using [[Scalar|Scalars]]) and summing them.
 

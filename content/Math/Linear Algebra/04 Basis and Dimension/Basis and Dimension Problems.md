@@ -97,8 +97,9 @@ $$
 0 & -1 & -1 \\
 0 & 0 & 1
 \end{pmatrix}
-\end{aligned}$$
-No 2 [[Row Vector]]s are the same so the matrix $\mathbf{A}$ has [[Linear Independence]].
+\end{aligned}
+$$
+No 2 [[Row Vector|Row Vectors]] are the same so the matrix $\mathbf{A}$ has [[Linear Independence]].
 
 ## [[Basis]] 
 
@@ -108,7 +109,8 @@ What is the basis of matrix $\mathbf{A}$
 
 #### Given
 
-$$\mathbf{A} = \left(
+$$
+\mathbf{A} = \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
 2 & 0 & 0 & 1 & 0 \\
@@ -120,7 +122,8 @@ $$
 #### Solution
 
 Solve the matrix to row reduced form
-$$\begin{array}{l}
+$$
+\begin{aligned}
 \mathbf{A} = \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
@@ -128,7 +131,7 @@ $$\begin{array}{l}
 1 & 2 & 2 & 1 & 0 \\
 0 & 0 & 1 & 2 & 0
 \end{array}
-\right) \rightarrow 
+\right) &\rightarrow 
 \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
@@ -144,7 +147,7 @@ $$\begin{array}{l}
 0 & 1 & -1 & 0 & 0 \\
 0 & 0 & 1 & 2 & 0
 \end{array}
-\right) \rightarrow
+\right) &\rightarrow
 \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
@@ -160,7 +163,7 @@ $$\begin{array}{l}
 0 & -2 & -6 & -1 & 0 \\
 0 & 0 & 1 & 2 & 0
 \end{array}
-\right) \rightarrow
+\right) &\rightarrow
 \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
@@ -176,7 +179,7 @@ $$\begin{array}{l}
 0 & 0 & -8 & -1 & 0 \\
 0 & 0 & 1 & 2 & 0
 \end{array}
-\right) \rightarrow
+\right) &\rightarrow
 \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
@@ -192,7 +195,7 @@ $$\begin{array}{l}
 0 & 0 & 1 & 2 & 0 \\
 0 & 0 & -8 & -1 & 0
 \end{array}
-\right) \rightarrow
+\right) &\rightarrow
 \left(
 \begin{array}{cccc|c}
 1 & 1 & 3 & 1 & 0 \\
@@ -208,7 +211,7 @@ $$\begin{array}{l}
 0 & 0 & 1 & 2 & 0 \\
 0 & 0 & 0 & 15 & 0
 \end{array}
-\right) \rightarrow 
+\right) &\rightarrow 
 \left(
 \begin{array}{cccc|c}
 1 & 0 & 0 & 0 & 0 \\
@@ -217,5 +220,12 @@ $$\begin{array}{l}
 0 & 0 & 0 & 1 & 0
 \end{array}
 \right)
-\end{array}$$After some long algebra, we get the [[Identity Matrix]] $\mathbf{I}_4$, and the basis is $$Col(\mathbf{A})=\mathbb{R}^4$$
-And the [[Dimension]] $$\dim(\mathbf{A})=4$$
+\end{aligned}
+$$After some long algebra, we get the [[Identity Matrix]] $\mathbf{I}_4$, and the basis is 
+$$
+Col(\mathbf{A})=\mathbb{R}^4
+$$
+And the [[Dimension]] 
+$$
+\dim(\mathbf{A})=4
+$$
