@@ -59,16 +59,16 @@ What's the dot product $\vec a \cdot \vec b$
 #### Given
 
 $$\begin{aligned}
-\mathbf{a} = (9,5,-4,2) \\ 
-\mathbf{b} = (-3,-2,7,-1)
-\end{array}$$
+\vec a &= (9,5,-4,2) \\ 
+\vec b &= (-3,-2,7,-1)
+\end{aligned}$$
 #### Solution
 
 To solve a dot product, multiply the corresponding components and sum them.
-$$\begin{array}{l}
-\mathbf{a \cdot b} = \sum_{i = 1}^{4}a_i b_i \\
-\mathbf{a \cdot b} = -27 - 10 - 28 - 2 = 67
-\end{array}$$
+$$\begin{aligned}
+\vec a \cdot \vec b &= \sum_{i = 1} \vec a_i b_i \\
+\mathbf{a \cdot b} &= -27 - 10 - 28 - 2 = 67
+\end{aligned}$$
 
 ### Question 2
 
