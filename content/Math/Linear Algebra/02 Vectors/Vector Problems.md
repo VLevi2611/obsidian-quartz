@@ -67,12 +67,12 @@ $$\begin{aligned}
 To solve a dot product, multiply the corresponding components and sum them.
 $$\begin{aligned}
 \vec a \cdot \vec b &= \sum_{i = 1} a_i b_i \\
-\vec a \cdot \vec b &= -27 - 10 - 28 - 2 = 67
+\vec a \cdot \vec b &= -27 - 10 - 28 - 2 = -67
 \end{aligned}$$
 
 ### Question 2
 
-Whats the dot product $\mathbf{a \cdot b}$ 
+What's the dot product $\mathbf{a \cdot b}$ 
 
 #### Given
 
