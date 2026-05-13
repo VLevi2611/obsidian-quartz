@@ -44,10 +44,11 @@ $$
 #### Solution
 
 To multiply a vector by a scalar, multiply each component by that scalar
-$$\begin{array}{l}
+$$
+\begin{aligned}
 a\mathbf{x} = \sum_{i = 1}^{n} ax_i \\
 a\mathbf{x} = (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
-\end{array}$$
+\end{aligned}$$
 
 ## [[Dot Product]]
 
