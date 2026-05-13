@@ -86,22 +86,22 @@ $$\begin{aligned}
 
 Recall the other way to solve a dot product
 $$\begin{aligned}
-\vec a \cdot \vec b &= |\vec a| |\mathbf{b}| \cos(\theta) \\
-\mathbf{a \cdot b} &= 5 \times \frac{3}{7} \times \cos (\frac{\pi}{12}) = 2.0698
+\vec a \cdot \vec b &= |\vec a| |\vec b| \cos(\theta) \\
+\vec a \cdot \vec b &= 5 \times \frac{3}{7} \times \cos (\frac{\pi}{12}) = 2.0698
 \end{aligned}$$
 
 ## [[Orthogonal Vectors]]
 
 ### Question 1
 
-Check if $\mathbf{x,y}$ are orthogonal
+Check if $\vec x, \vec y$ are orthogonal
 
 #### Given
 
-$$\begin{array}{l}
-\mathbf{x} = (1,2) \\
+$$\begin{aligned}
+\vec x = (1,2) \\
 \mathbf{y} = (-1,2)
-\end{array}$$
+\end{aligned}$$
 #### Solution
 
 2 vectors are orthogonal if their dot product is 0 
