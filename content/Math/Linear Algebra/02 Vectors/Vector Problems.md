@@ -35,11 +35,11 @@ $$
 
 ### Question 1
 
-What's the product $a \vec x$ 
+What's the product $5 \vec x$ 
 #### Given
 
 $$
-5\vec x = 5(2,3,3) = (10,15,15)
+\vec x = (2,3,3)
 $$
 #### Solution
 
