@@ -26,9 +26,12 @@ Have fun!
 ### General Chemistry  
 
 - [[01 Matter and Measurement]]  
-- [[02 Atoms and Elements]]  
-- [[03 Aqueous Reactions]]  
-- [[04 Stoichiometry]]  
+- [[02 Atomic Theory]]
+- [[03 Chemical Compounds]]
+- [[04 Chemical Reactions]]
+- [[05 Aqueous Reactions]]
+- [[06 Gases]]
+- [[]]
   
 ---  
   
