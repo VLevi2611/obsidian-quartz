@@ -46,7 +46,7 @@ $$
 To multiply a vector by a scalar, multiply each component by that scalar
 $$
 \begin{aligned}
-a \vec x &= \sum_{i = 1}^{n} a \vec x_i \\
+a \vec x &= \sum_{i = 1}^{n} a x_i \\
 5 \vec x &= (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
 \end{aligned}
 $$
@@ -66,8 +66,8 @@ $$\begin{aligned}
 
 To solve a dot product, multiply the corresponding components and sum them.
 $$\begin{aligned}
-\vec a \cdot \vec b &= \sum_{i = 1} \vec a_i b_i \\
-\mathbf{a \cdot b} &= -27 - 10 - 28 - 2 = 67
+\vec a \cdot \vec b &= \sum_{i = 1} a_i b_i \\
+\vec a \cdot \vec b &= -27 - 10 - 28 - 2 = 67
 \end{aligned}$$
 
 ### Question 2
