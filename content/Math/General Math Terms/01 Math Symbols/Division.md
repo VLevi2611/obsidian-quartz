@@ -6,8 +6,7 @@ tags:
 ---
 ## Sign 
 $$
-\begin{array}{l} \frac{a}{b}
-\end{array}
+\frac{a}{b}
 $$
 ## Definition
 
