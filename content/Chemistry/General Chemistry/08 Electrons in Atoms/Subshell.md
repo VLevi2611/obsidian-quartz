@@ -14,4 +14,4 @@ All [[Atomic Orbital|Atomic Orbitals]] with the same $n$ and $\ell$ values are i
 The number of orbitals in a subshell is the same number of allowed values of $m_{\ell}$ for the particular value of $\ell$.
 ![[Subshell_Orbitals.png]]
 
-![[Filling-of-Electronic-Subshells.png]]
+![[Filling_of_Electronic_Subshells.png]]

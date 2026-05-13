@@ -28,4 +28,4 @@ To write electron configurations we'll use the **Aufbau process**. Assign electr
 - **Z = 12, Mg**. For the other third period elements, only the valence shell electron configurations are shown. $3s^2$
 - **Z = 13, Al**. $3s^2 3p^1$
 - **Z = 14, Si**. $3s^2 3p^2$ and so forth.
-![[Electron Configuration.png]]
+![[Electron_Configuration.png]]
