@@ -6,8 +6,8 @@ tags:
 ---
 ## Definition
 
-To multiply a vector by a [[Scalar]], we multiply each component with the scalar.
-The geometric interpretation of scalar multiplying is changing the size of the vector but keeping his direction.
+To [[Multiplication|Multiply]] a [[Vector]] by a [[Scalar]], we multiply each component with the scalar.
+The [[Geometric Interpretation]] of **scalar multiplying** is changing the size of the vector but keeping his direction.
 $$
 \begin{array}{l}
 \mathbf{x}=(1,2,0) \\
