@@ -106,7 +106,7 @@ $$\begin{aligned}
 
 2 vectors are orthogonal if their dot product is 0 
 $$\begin{aligned}
-\vec a \cdot y} &= 1 \times -1 + 2 \times 2 = 3 \\
+\vec a \cdot \vec y &= 1 \times -1 + 2 \times 2 = 3 \\
 \vec x &\not \perp y
 \end{aligned}$$
 
@@ -114,15 +114,15 @@ $$\begin{aligned}
 
 ### Question 1
 
-What is the length of $\mathbf{x}$
+What is the length of $\vec x$
 
 #### Given
 
-$$\mathbf{x} = (1,2,3,7)$$
+$$\vec x = (1,2,3,7)$$
 #### Solution
 
 Length of a vector is calculated by the square root of the dot product with itself
-$$\begin{array}{l}
-|\mathbf{x}| = \sqrt{\mathbf{x \cdot x}} \\
-|\mathbf{x}| = \sqrt{1^2 + 2^2 + 3^2 + 7^2} = \sqrt{63}
-\end{array}$$
+$$\begin{aligned}
+|\vec x| &= \sqrt{\mathbf{x \cdot x}} \\
+|\mathbf{x}| &= \sqrt{1^2 + 2^2 + 3^2 + 7^2} = \sqrt{63}
+\end{aligned}$$
