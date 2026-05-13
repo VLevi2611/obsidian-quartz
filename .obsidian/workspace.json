@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/Linear Algebra/03 Matrices/Cramer's Rule.md",
+                "file": "content/Math/Linear Algebra/03 Matrices/Matrix Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cramer's Rule"
+              "title": "Matrix Problems"
             }
           }
         ]
@@ -198,12 +198,13 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
-    "content/Math/Linear Algebra/03 Matrices/Determinant.md",
-    "content/Math/Linear Algebra/03 Matrices/Identity Matrix.md",
-    "content/Math/Linear Algebra/03 Matrices/Inverse Matrix.md",
-    "content/Math/Linear Algebra/03 Matrices/Matrix Columns.md",
+    "content/Math/Linear Algebra/03 Matrices/Matrix Multiplication.md",
     "content/Math/Linear Algebra/03 Matrices/Matrix.md",
+    "content/Math/Linear Algebra/03 Matrices/Inverse Matrix.md",
+    "content/Math/Linear Algebra/03 Matrices/Identity Matrix.md",
+    "content/Math/Linear Algebra/03 Matrices/Determinant.md",
     "content/Math/Linear Algebra/03 Matrices/Cramer's Rule.md",
+    "content/Math/Linear Algebra/03 Matrices/Matrix Columns.md",
     "content/Math/Linear Algebra/03 Matrices/03 Matrices.md",
     "content/Math/Linear Algebra/02 Vectors/Zero Vector.md",
     "content/Math/Linear Algebra/02 Vectors/Vector Problems.md",
@@ -223,7 +224,6 @@
     "content/Math/Linear Algebra/01 Linear Systems/Linear System Of Equations.md",
     "content/Math/Linear Algebra/01 Linear Systems/Linear System.md",
     "content/Math/Linear Algebra/01 Linear Systems/Geometric Interpretation.md",
-    "content/Math/Linear Algebra/01 Linear Systems/01 Linear systems.md",
     "public/Physics/Classical-Mechanics/07-Gravitation/index.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed-og-image.webp",

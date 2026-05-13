@@ -9,21 +9,24 @@ tags:
 
 ### Question 1
 
-Whats the product of $\mathbf{Ax}$
+Whats the product of $\mathbf{A} \vec x$
 #### Given
 
-$$\begin{array}{l}
-\mathbf{A} = \begin{pmatrix}
+$$
+\begin{aligned}
+\mathbf{A} &= \begin{pmatrix}
 1 & 3 & 2 \\
 2 & 2 & 1 \\
 0 & 2 & 4
 \end{pmatrix} \\
-\mathbf{x} = (1,0,1)^T
-\end{array}$$
+\vec x &= (1,0,1)^T
+\end{aligned}
+$$
 #### Solution
 
 To multiply a [[Matrix]] and a [[Vector]], do a [[Dot Product]] for each row with the vector
-$$\mathbf{Ax} = \begin{pmatrix}
+$$
+\mathbf{A} \vec x = \begin{pmatrix}
 1 \times 1 + 3 \times 0 + 2 \times 1 \\
 2 \times 1 + 2 \times 0 + 1 \times 1 \\
 0 \times 1 + 2 \times 0 + 4 \times 1
@@ -32,7 +35,8 @@ $$\mathbf{Ax} = \begin{pmatrix}
 3 \\
 3 \\
 4
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 
 ## [[Matrix Multiplication]]
 
@@ -42,29 +46,33 @@ Whats the product of $\mathbf{AB}$
 
 #### Given
 
-$$\begin{array}{l}
-\mathbf{A} = \begin{pmatrix}
+$$
+\begin{aligned}
+\mathbf{A} &= \begin{pmatrix}
 1 & 3 \\
 2 & 1
 \end{pmatrix} \\
-\mathbf{B} = \begin{pmatrix}
+\mathbf{B} &= \begin{pmatrix}
 2 & 2 \\
 0 & 1
 \end{pmatrix}
-\end{array}$$
+\end{aligned}
+$$
 #### Solution
 
 To multiply 2 matrix, multiply $\mathbf{A}$ by each column of $\mathbf{B}$
-$$\begin{array}{l}
-\mathbf{AB} = \begin{pmatrix}
+$$
+\begin{aligned}
+\mathbf{AB} &= \begin{pmatrix}
 (1 \times 2) + (3 \times 0) & (1 \times 2) + (3 \times 1) \\
 (2 \times 2) + (1 \times 0) & (2 \times 2) + (1 \times 1)
 \end{pmatrix} \\
-\mathbf{AB} = \begin{pmatrix}
+\mathbf{AB} &= \begin{pmatrix}
 2 & 5 \\
 4 & 5
 \end{pmatrix}
-\end{array}$$
+\end{aligned}
+$$
 
 ## [[Determinant]]
 
@@ -74,21 +82,24 @@ What is the determinant of $\mathbf{A}$
 
 #### Given
 
-$$\mathbf{A} = \begin{pmatrix}
+$$
+\mathbf{A} = \begin{pmatrix}
 1 & 2 \\
 4 & 4
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 #### Solution
 
 To calculate the determinant of a $2 \times 2$ matrix
-$$\begin{array}{l}
+$$
+\begin{aligned}
 |\mathbf{A}| = a_{11} a_{22} - a_{21} a_{12} \\
 \begin{vmatrix}
 1 & 2 \\
 4 & 4
 \end{vmatrix} = 
 4 - 8 = -4
-\end{array}$$
+\end{aligned}$$
 
 ### Question 2
 
