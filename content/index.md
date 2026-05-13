@@ -7,9 +7,9 @@ Have fun!
 
 ---  
   
-## ⚛️ Physics  
+## ⚛️ [[Physics]]  
   
-### Classical Mechanics  
+### [[Classical Mechanics]] 
 
 - [[01 Kinematics]]  
 - [[02 Newton's Laws]]  
@@ -21,9 +21,9 @@ Have fun!
   
 ---  
   
-## 🧪 Chemistry  
+## 🧪 [[Chemistry]] 
   
-### General Chemistry  
+### [[General Chemistry]]
 
 - [[01 Matter and Measurement]]  
 - [[02 Atomic Theory]]
@@ -48,17 +48,17 @@ Have fun!
 - [[21 Main Group I]]
 - [[22 Main Group II]]
 - [[23 Transition Metals]]
-- [[24]]
+- [[24 Coordination Chemistry]]
+- [[25 Nuclear Chemistry]]
   
 ---  
   
-## 📐 Mathematics  
+## 📐 [[Math]]  
   
-### Linear Algebra  
+### [[lin]]  
 
 - [[01 Linear Systems]]  
-- [[02 Matrices]]  
-- [[03 Vector Spaces]]  
+- [[02 Vectors]]
   
 ---  
   
