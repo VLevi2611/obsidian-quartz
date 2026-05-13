@@ -10,14 +10,18 @@ A dot product is an operation between two vectors.
 Multiply each corresponding component, then summing the results.
 The result of scalar multiplication is a [[Scalar]].
 The dot product can also be calculated by multiplying the [[Length (Norm)]] of the 2 vectors and the $\cos$ of the angle between them in radians. 
-$$\begin{array}{l}
-\mathbf{x \cdot y}=\sum \mathbf{x}_i\mathbf{y}_i \\
-\mathbf{x \cdot y}=|\mathbf{x}||\mathbf{y}| \cos(\theta)
-\end{array}$$
 $$
-\begin{array}{l}
-\mathbf{x}=(1,2),\mathbf{y}=(5,3) \\
-\mathbf{x \cdot y}=(1*5+2*3) \\
-\mathbf{x \cdot y}=11
-\end{array}$$
+\begin{aligned}
+\vec x \cdot \vec y &= \sum x_i y_i \\
+\vec x \cdot \vec y &=|\vec x||\vec y| \cos (\theta)
+\end{aligned}
+$$
+For example
+$$
+\begin{aligned}
+\vec x &= (1,2), \vec y = (5,3) \\
+\vec x \cdot \vec y &= (1*5+2*3) \\
+\vec x \cdot \vec y &= 11
+\end{aligned}
+$$
 

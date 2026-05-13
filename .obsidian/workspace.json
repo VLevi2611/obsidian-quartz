@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/Linear Algebra/02 Vectors/Column Vector.md",
+                "file": "content/Math/Linear Algebra/02 Vectors/Length (Norm).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Column Vector"
+              "title": "Length (Norm)"
             }
           }
         ]
@@ -198,6 +198,9 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "content/Math/Linear Algebra/02 Vectors/Dot Product.md",
+    "content/Math/Linear Algebra/02 Vectors/Coordinates.md",
+    "content/Math/Linear Algebra/02 Vectors/Column Vector.md",
     "content/Math/Linear Algebra/02 Vectors/02 Vectors.md",
     "content/Math/Linear Algebra/01 Linear Systems/Unique Solution.md",
     "content/Math/Linear Algebra/01 Linear Systems/Solvability.md",
@@ -221,9 +224,6 @@
     "content/Math/General Math Terms/02 Intervals/Upper Bound.md",
     "content/Math/General Math Terms/02 Intervals/Supremum.md",
     "content/Math/General Math Terms/02 Intervals/Open Ray.md",
-    "content/Math/General Math Terms/02 Intervals/Open Interval.md",
-    "content/Math/General Math Terms/02 Intervals/Minimum.md",
-    "content/Math/General Math Terms/02 Intervals/Maximum.md",
     "public/Physics/Classical-Mechanics/07-Gravitation/index.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed-og-image.webp",
