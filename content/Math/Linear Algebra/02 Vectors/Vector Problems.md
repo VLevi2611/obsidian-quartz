@@ -58,17 +58,21 @@ $$
 What's the dot product $\vec a \cdot \vec b$
 #### Given
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \vec a &= (9,5,-4,2) \\ 
 \vec b &= (-3,-2,7,-1)
-\end{aligned}$$
+\end{aligned}
+$$
 #### Solution
 
 To solve a dot product, multiply the corresponding components and sum them.
-$$\begin{aligned}
+$$
+\begin{aligned}
 \vec a \cdot \vec b &= \sum_{i = 1} a_i b_i \\
 \vec a \cdot \vec b &= -27 - 10 - 28 - 2 = -67
-\end{aligned}$$
+\end{aligned}
+$$
 
 ### Question 2
 
@@ -77,18 +81,22 @@ What's the dot product $\vec a \cdot \vec b$
 #### Given
 
 Given the size of $\vec a, \vec b$, and the size of the angle between them is $\theta$  
-$$\begin{aligned}
+$$
+\begin{aligned}
 |\vec a| &= 5 \\
 |\vec b| &= \frac{3}{7} \\
 \theta &= \frac{\pi}{12}
-\end{aligned}$$
+\end{aligned}
+$$
 #### Solution
 
 Recall the other way to solve a dot product
-$$\begin{aligned}
+$$
+\begin{aligned}
 \vec a \cdot \vec b &= |\vec a| |\vec b| \cos(\theta) \\
 \vec a \cdot \vec b &= 5 \times \frac{3}{7} \times \cos (\frac{\pi}{12}) = 2.0698
-\end{aligned}$$
+\end{aligned}
+$$
 
 ## [[Orthogonal Vectors]]
 
@@ -98,17 +106,21 @@ Check if $\vec x, \vec y$ are orthogonal
 
 #### Given
 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \vec x &= (1,2) \\
 \vec y &= (-1,2)
-\end{aligned}$$
+\end{aligned}
+$$
 #### Solution
 
 2 vectors are orthogonal if their dot product is 0 
-$$\begin{aligned}
+$$
+\begin{aligned}
 \vec a \cdot \vec y &= 1 \times -1 + 2 \times 2 = 3 \\
 \vec x &\not \perp y
-\end{aligned}$$
+\end{aligned}
+$$
 
 ## [[Length (Norm)]]
 
@@ -118,11 +130,15 @@ What is the length of $\vec x$
 
 #### Given
 
-$$\vec x = (1,2,3,7)$$
+$$
+\vec x = (1,2,3,7)
+$$
 #### Solution
 
 Length of a vector is calculated by the square root of the dot product with itself
-$$\begin{aligned}
+$$
+\begin{aligned}
 |\vec x| &= \sqrt{\vec x \cdot \vec x} \\
 |\vec x| &= \sqrt{1^2 + 2^2 + 3^2 + 7^2} = \sqrt{63}
-\end{aligned}$$
+\end{aligned}
+$$
