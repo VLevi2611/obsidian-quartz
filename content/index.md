@@ -4,29 +4,76 @@ This is an ongoing collection of all my notes on various topics, documenting my 
 This knowledge base may contain mistakes, do not treat it like an academic resource.
 
 Have fun!
-## Main Areas
 
-<div class="cards">
+---  
+  
+## ⚛️ [[Physics]]  
+  
+### [[Classical Mechanics]] 
 
-<a class="card" href="./Physics/">
-  <h3>⚙️ Physics</h3>
-</a>
+- [[01 Kinematics]]  
+- [[02 Newton's Laws]]  
+- [[03 Energy]]  
+- [[04 Momentum]]  
+- [[05 Rotation]]  
+- [[06 Oscillations]]  
+- [[07 Gravitation]]  
+  
+---  
+  
+## 🧪 [[Chemistry]] 
+  
+### [[General Chemistry]]
 
-<a class="card" href="./Math/">
-  <h3>📐 Math</h3>
-</a>
+- [[01 Matter and Measurement]]  
+- [[02 Atomic Theory]]
+- [[03 Chemical Compounds]]
+- [[04 Chemical Reactions]]
+- [[05 Aqueous Reactions]]
+- [[06 Gases]]
+- [[07 Thermochemistry]]
+- [[08 Electrons in Atoms]]
+- [[09 Periodic Trends]]
+- [[10 Bonding I]]
+- [[11 Bonding II]]
+- [[12 Intermolecular Forces]]
+- [[13 Entropy and Gibbs Energy]]
+- [[14 Solutions]]
+- [[15 Chemical Equilibrium]]
+- [[16 Acids and Bases]]
+- [[17 Acid-Base Equilibria]]
+- [[18 Solubility Equilibria]]
+- [[19 Electrochemistry]]
+- [[20 Kinetics]]
+- [[21 Main Group I]]
+- [[22 Main Group II]]
+- [[23 Transition Metals]]
+- [[24 Coordination Chemistry]]
+- [[25 Nuclear Chemistry]]
+  
+---  
+  
+## 📐 [[Math]]  
 
-<a class="card" href="./Chemistry/">
-  <h3>🧪 Chemistry</h3>
-</a>
+### [[General Math Terms]]
 
-<a class="card" href="./Biology/">
-  <h3>🧬 Biology</h3>
-</a>
+- [[01 Math Symbols]]
+- [[02 Intervals]]
+- [[03 Set Symbols]]
 
-<a class="card" href="./Medicine/">
-  <h3>🏥 Medicine</h3>
-</a>
+### [[Linear Algebra]]  
 
-</div> 
+- [[01 Linear Systems]]  
+- [[02 Vectors]]
+- [[03 Matrices]]
+- [[04 Basis and Dimension]]
+- [[05 Vector Spaces]]
+- [[06 Linear Transformations]]
+- [[07 Eigenvalues and Eigenvectors]]
+- [[08 Diagonalization]]
+  
+---  
+  
+## 🧬 [[Biology]]
 
+*(Coming soon)*
