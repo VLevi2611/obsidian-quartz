@@ -16,12 +16,20 @@ $$
 $$
 
 Now, imagine a system with constant [[Pressure]], if the heat transferred for this constant pressure process is denoted as $q_P$:
-$$\begin{array}{l}
+$$
+\begin{aligned}
 \Delta U = q_P -P_{ext} \Delta V \\
 U_f - U_i = q_P -P_fV_f + P_iV_i \\
 q_P = (U_f + P_fV_f) - (U_i + P_iV_i)
-\end{array}$$
+\end{aligned}
+$$
+
 The right side of the expression is made up with [[State Function]], so it as a whole must be a state function. This state function is called the **enthalpy**, $H$, and is the sum of the [[Internal Energy]] and the pressure-volume product: $H = U + PV$.
-$$\Delta H = H_f - H_i = q_P$$
-Substituting into the [[First Law of Thermodynamics]]:
-$$\Delta U = \Delta H - P \Delta V$$
+$$
+\Delta H = H_f - H_i = q_P
+$$
+
+Substituting into the first law of thermodynamics:
+$$
+\Delta U = \Delta H - P \Delta V
+$$
