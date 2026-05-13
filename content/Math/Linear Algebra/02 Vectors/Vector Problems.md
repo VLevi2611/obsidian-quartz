@@ -105,10 +105,10 @@ $$\begin{aligned}
 #### Solution
 
 2 vectors are orthogonal if their dot product is 0 
-$$\begin{array}{l}
-\mathbf{x \cdot y} = 1 \times -1 + 2 \times 2 = 3 \\
-\mathbf{x \not \perp y}
-\end{array}$$
+$$\begin{aligned}
+\vec a \cdot y} &= 1 \times -1 + 2 \times 2 = 3 \\
+\vec x &\not \perp y
+\end{aligned}$$
 
 ## [[Length (Norm)]]
 
