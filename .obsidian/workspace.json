@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Chemistry/Chemistry.md",
+                "file": "content/Biology/Physiology/Physiology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chemistry"
+              "title": "Physiology"
             }
           }
         ]
@@ -198,6 +198,12 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "content/Biology/Biology.md",
+    "content/Biology/Cell Biology/Cell Biology.md",
+    "content/Biology/Biochemistry/Biochemistry.md",
+    "content/Biology/Anatomy/Anatomy.md",
+    "content/Biology/Cell Biology/Cytoskeleton/Cytoskeleton.md",
+    "content/Chemistry/Chemistry.md",
     "content/Physics/Classical Mechanics/Classical Mechanics.md",
     "content/Physics/Classical Mechanics/06 Oscillations/06 Oscillations.md",
     "content/Math/Linear Algebra/Linear Algebra.md",
@@ -237,12 +243,6 @@
     "node_modules/node-fetch/node_modules/whatwg-url/README.md",
     "node_modules/node-fetch/node_modules/webidl-conversions/README.md",
     "node_modules/node-fetch/node_modules/webidl-conversions/LICENSE.md",
-    "node_modules/mdast-util-mdx-jsx/node_modules/vfile-message/readme.md",
-    "node_modules/mdast-util-mdx-jsx/node_modules/unist-util-stringify-position/readme.md",
-    "node_modules/mdast-util-from-markdown/node_modules/unist-util-stringify-position/readme.md",
-    "node_modules/linebreak/node_modules/base64-js/README.md",
-    "node_modules/katex/src/metrics/README.md",
-    "node_modules/katex/node_modules/commander/Readme.md",
-    "node_modules/katex/contrib/mhchem/README.md"
+    "node_modules/mdast-util-mdx-jsx/node_modules/vfile-message/readme.md"
   ]
 }
