@@ -46,8 +46,8 @@ $$
 To multiply a vector by a scalar, multiply each component by that scalar
 $$
 \begin{aligned}
-a \vec x = \sum_{i = 1}^{n} ax_i \\
-a \vec x = (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
+a \vec x &= \sum_{i = 1}^{n} ax_i \\
+a \vec x &= (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
 \end{aligned}
 $$
 
