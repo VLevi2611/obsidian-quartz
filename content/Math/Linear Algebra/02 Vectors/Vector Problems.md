@@ -9,7 +9,7 @@ tags:
 
 ### Question 1
 
-Whats the sum of $\mathbf{a+b+c}$ 
+What's the sum of $\mathbf{a+b+c}$ 
 
 #### Given
 
