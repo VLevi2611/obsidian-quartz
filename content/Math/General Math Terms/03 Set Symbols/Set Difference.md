@@ -9,8 +9,10 @@ $$
 \setminus 
 $$
 ## Definition
+
 $$
-A \setminus B = A-B = \{x|x \in A,\text{and} \ x \not \in  B\}$$
+A \setminus B = A-B = \{x|x \in A,\text{and} \ x \not \in  B\}
+$$
 ## Latex
 
 \setminus
