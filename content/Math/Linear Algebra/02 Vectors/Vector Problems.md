@@ -46,8 +46,8 @@ $$
 To multiply a vector by a scalar, multiply each component by that scalar
 $$
 \begin{aligned}
-a \vec x &= \sum_{i = 1}^{n} ax_i \\
-a \vec x &= (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
+a \vec x &= \sum_{i = 1}^{n} a \vec x_i \\
+5 \vec x &= (5 \times 2, 5 \times 3, 5 \times 3) = (10,15,15)
 \end{aligned}
 $$
 
@@ -55,10 +55,10 @@ $$
 
 ### Question 1
 
-Whats the dot product $\mathbf{a \cdot b}$
+What's the dot product $\vec a \cdot \vec b$
 #### Given
 
-$$\begin{array}{l}
+$$\begin{aligned}
 \mathbf{a} = (9,5,-4,2) \\ 
 \mathbf{b} = (-3,-2,7,-1)
 \end{array}$$
