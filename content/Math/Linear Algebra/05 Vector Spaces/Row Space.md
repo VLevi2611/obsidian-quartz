@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-A row space of a [[Matrix]] is a [[Span]] of its [[Row Vector]]s. Similarly to [[Column Space]].
+A row space of a [[Matrix]] is a [[Span]] of its [[Row Vector|Row Vectors]]. Similarly to [[Column Space]].
 
 Let $K$ be a [[Field]] of [[Scalar]]s. Let $\mathbf{A}$ be an $m \times n$ matrix, with row vectors $\mathbf{v_1,v_2,...,v}_n$.
 A [[Linear Combination]] of these vectors is any vector of the form
