@@ -223,20 +223,24 @@ $$
 2 \\
 1
 \end{pmatrix}
-\end{aligned}$$
+\end{aligned}
+$$
 #### Solution
 
-Using Cramer's rule $$\begin{array}{l}
-x_i = \frac{\det \mathbf{A}_i}{\det \mathbf{A}} \\
-\det \mathbf{A} = 2 - 3 = -1 \\
-\det \mathbf{A}_1 = \begin{vmatrix}
+Using Cramer's rule 
+$$
+\begin{aligned}
+x_i &= \frac{\det \mathbf{A}_i}{\det \mathbf{A}} \\
+\det \mathbf{A} &= 2 - 3 = -1 \\
+\det \mathbf{A}_1 &= \begin{vmatrix}
 2 & 3 \\
 1 & 2
 \end{vmatrix} = 1 \\
-\det \mathbf{A}_2 = \begin{vmatrix}
+\det \mathbf{A}_2 &= \begin{vmatrix}
 1 & 2 \\
 1 & 1
 \end{vmatrix} = -1 \\
-x_1 = -1 \\
-x_2 = 1
-\end{array}$$
+x_1 &= -1 \\
+x_2 &= 1
+\end{aligned}
+$$

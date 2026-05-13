@@ -14,16 +14,19 @@ What is the span of [[Matrix]] $\mathbf{A}$
 
 #### Given
 
-$$\mathbf{A} = \begin{pmatrix}
+$$
+\mathbf{A} = \begin{pmatrix}
 1 & 0 & 2 \\
 2 & 1 & 1 \\
 0 & 3 & 1
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 #### Solution
 
 A span of a matrix is the collection of the [[Column Vector]]s with a [[Linear Combination]].
-$$\begin{array}{l}
-Span(\mathbf{A}) = c_1 \begin{pmatrix}
+$$
+\begin{aligned}
+Span(\mathbf{A}) &= c_1 \begin{pmatrix}
 1 \\
 2 \\
 0
@@ -36,35 +39,39 @@ Span(\mathbf{A}) = c_1 \begin{pmatrix}
 1 \\
 1
 \end{pmatrix} \\
-Span(\mathbf{A}) = \begin{pmatrix}
+Span(\mathbf{A}) &= \begin{pmatrix}
 c_1 + 2c_3 \\
 2c_1 + c_2 + c_3 \\
 3c_2 + c_1
 \end{pmatrix}
-\end{array}$$
+\end{aligned}
+$$
 
 ## [[Linear Dependence]]
 
 ### Question 1
 
-Check if the matrix $\mathbf{A}$ has linear dependent [[Vector]]s
+Check if the matrix $\mathbf{A}$ has linear dependent [[Vector|Vectors]]
 
 #### Given
 
-$$\mathbf{A} = \begin{pmatrix}
+$$
+\mathbf{A} = \begin{pmatrix}
 1 & 2 & 2 \\
 2 & -1 & 0 \\
 1 & 1 & 1
-\end{pmatrix}$$
+\end{pmatrix}
+$$
 #### Solution
 
 Preform gaussian elimination
-$$\begin{array}{l}
+$$
+\begin{aligned}
 \begin{pmatrix}
 1 & 2 & 2 \\
 2 & -1 & 0 \\
 1 & 1 & 1
-\end{pmatrix} \rightarrow
+\end{pmatrix} &\rightarrow
 \begin{pmatrix}
 1 & 2 & 2 \\
 0 & -5 & -4 \\
@@ -74,7 +81,7 @@ $$\begin{array}{l}
 1 & 2 & 2 \\
 0 & -5 & -4 \\
 0 & -1 & -1
-\end{pmatrix} \rightarrow 
+\end{pmatrix} &\rightarrow 
 \begin{pmatrix}
 1 & 2 & 2 \\
 0 & -1 & -1 \\
@@ -84,13 +91,13 @@ $$\begin{array}{l}
 1 & 2 & 2 \\
 0 & -1 & -1 \\
 0 & -5 & -4
-\end{pmatrix} \rightarrow
+\end{pmatrix} &\rightarrow
 \begin{pmatrix}
 1 & 2 & 2 \\
 0 & -1 & -1 \\
 0 & 0 & 1
 \end{pmatrix}
-\end{array}$$
+\end{aligned}$$
 No 2 [[Row Vector]]s are the same so the matrix $\mathbf{A}$ has [[Linear Independence]].
 
 ## [[Basis]] 

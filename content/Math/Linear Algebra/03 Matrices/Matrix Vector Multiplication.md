@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-The action of applying the [[Linear Transformation]] $\mathbf{A}$ to a [[Vector]] $\mathbf{x}$. The resulting [[Matrix]] is a [[Linear Combination]] of the columns of $\mathbf{A}$, where the components of $\mathbf{x}$ are the [[Scalar]]s.
+The action of applying the [[Linear Transformation]] $\mathbf{A}$ to a [[Vector]] $\vec x$. The resulting [[Matrix]] is a [[Linear Combination]] of the columns of $\mathbf{A}$, where the components of $\vec x$ are the [[Scalar|Scalars]].
 
 $$
 \begin{pmatrix}
