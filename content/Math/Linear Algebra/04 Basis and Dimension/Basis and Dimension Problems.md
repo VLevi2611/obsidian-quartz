@@ -221,7 +221,9 @@ $$
 \end{array}
 \right)
 \end{aligned}
-$$After some long algebra, we get the [[Identity Matrix]] $\mathbf{I}_4$, and the basis is 
+$$
+
+After some long algebra, we get the [[Identity Matrix]] $\mathbf{I}_4$, and the basis is 
 $$
 Col(\mathbf{A})=\mathbb{R}^4
 $$
