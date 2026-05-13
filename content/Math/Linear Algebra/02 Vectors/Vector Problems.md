@@ -85,10 +85,10 @@ $$\begin{aligned}
 #### Solution
 
 Recall the other way to solve a dot product
-$$\begin{array}{l}
-\mathbf{a \cdot b} = |\mathbf{a}| |\mathbf{b}| \cos(\theta) \\
-\mathbf{a \cdot b} = 5 \times \frac{3}{7} \times \cos (\frac{\pi}{12}) = 2.0698
-\end{array}$$
+$$\begin{aligned}
+\vec a \cdot \vec b &= |\vec a| |\mathbf{b}| \cos(\theta) \\
+\mathbf{a \cdot b} &= 5 \times \frac{3}{7} \times \cos (\frac{\pi}{12}) = 2.0698
+\end{aligned}$$
 
 ## [[Orthogonal Vectors]]
 
