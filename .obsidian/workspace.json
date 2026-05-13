@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/Linear Algebra/02 Vectors/Scalar Multiplication.md",
+                "file": "content/Math/Linear Algebra/03 Matrices/Cramer's Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scalar Multiplication"
+              "title": "Cramer's Rule"
             }
           }
         ]
@@ -198,6 +198,12 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "content/Math/Linear Algebra/03 Matrices/03 Matrices.md",
+    "content/Math/Linear Algebra/02 Vectors/Zero Vector.md",
+    "content/Math/Linear Algebra/02 Vectors/Vector Problems.md",
+    "content/Math/Linear Algebra/02 Vectors/Vector Addition.md",
+    "content/Math/Linear Algebra/02 Vectors/Vector.md",
+    "content/Math/Linear Algebra/02 Vectors/Scalar Multiplication.md",
     "content/Math/Linear Algebra/02 Vectors/Row Vector.md",
     "content/Math/Linear Algebra/02 Vectors/Orthogonal Vectors.md",
     "content/Math/Linear Algebra/02 Vectors/Length (Norm).md",
@@ -218,12 +224,6 @@
     "content/Math/General Math Terms/03 Set Symbols/Set Difference.md",
     "content/Math/General Math Terms/03 Set Symbols/Set.md",
     "content/Math/General Math Terms/03 Set Symbols/Real Number.md",
-    "content/Math/General Math Terms/03 Set Symbols/Rational Number.md",
-    "content/Math/General Math Terms/03 Set Symbols/Intersection.md",
-    "content/Math/General Math Terms/03 Set Symbols/Natural Number.md",
-    "content/Math/General Math Terms/03 Set Symbols/Element Of.md",
-    "content/Math/General Math Terms/03 Set Symbols/Complex Number.md",
-    "content/Math/General Math Terms/03 Set Symbols/Complement.md",
     "public/Physics/Classical-Mechanics/07-Gravitation/index.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed.html",
     "public/Physics/Classical-Mechanics/07-Gravitation/Orbital-Speed-og-image.webp",

@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The zero vector is a [[Vector]] that all of its components are 0.
+The **zero vector** is a [[Vector]] that all of its components are 0.
 
