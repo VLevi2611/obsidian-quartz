@@ -29,4 +29,4 @@ $$P = \frac{gm}{A} = \frac{gVd}{A} = \frac{ghAd}{A} = ghd$$
 |  $h$   | [[Length\|Height]]         | $(m)$              |
 |  $d$   | [[Density]]                | $(\frac{kg}{m^3})$ |
 |  $g$   | [[Gravitational Constant]] | $(\frac{m}{s^2})$  |
-![[Pressure Units.png]]
+![[Pressure-Units.png]]
