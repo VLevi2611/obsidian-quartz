@@ -12,5 +12,6 @@ $$
 \cdot \\
 \cdot \; \mathrm{Si} \; \cdot \\
 \cdot
-\end{array}$$
+\end{array}
+$$
 
