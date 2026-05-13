@@ -3,5 +3,10 @@
   "propertiesInDocument": "visible",
   "newFileLocation": "root",
   "newFileFolderPath": "Resources",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "quartz/",
+    "node_modules/",
+    "public/"
+  ]
 }

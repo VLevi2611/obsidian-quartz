@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Physiology/Physiology.md",
+                "file": "Templates/World Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physiology"
+              "title": "World Template"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -145,8 +145,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-ghost",
+              "title": "all-properties"
             }
           },
           {
@@ -198,6 +198,13 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "Templates/Symbol Template.md",
+    "Templates/Summary Template.md",
+    "Templates/Subject Template.md",
+    "Templates/Problem Template.md",
+    "Templates/Formula Template.md",
+    "Templates/Concept Template.md",
+    "content/Biology/Physiology/Physiology.md",
     "content/Biology/Biology.md",
     "content/Biology/Cell Biology/Cell Biology.md",
     "content/Biology/Biochemistry/Biochemistry.md",
@@ -236,13 +243,6 @@
     "node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
     "node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
     "node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
-    "node_modules/hast-util-raw/node_modules/@types/unist/README.md",
-    "node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
-    "node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
-    "node_modules/@parcel/watcher/node_modules/picomatch/README.md",
-    "node_modules/node-fetch/node_modules/whatwg-url/README.md",
-    "node_modules/node-fetch/node_modules/webidl-conversions/README.md",
-    "node_modules/node-fetch/node_modules/webidl-conversions/LICENSE.md",
-    "node_modules/mdast-util-mdx-jsx/node_modules/vfile-message/readme.md"
+    "node_modules/hast-util-raw/node_modules/@types/unist/README.md"
   ]
 }
