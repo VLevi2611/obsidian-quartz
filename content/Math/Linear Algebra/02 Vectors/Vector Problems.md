@@ -72,16 +72,16 @@ $$\begin{aligned}
 
 ### Question 2
 
-What's the dot product $\mathbf{a \cdot b}$ 
+What's the dot product $\vec a \cdot \vec b$ 
 
 #### Given
 
-Given the size of $\mathbf{a,b}$, and the size of the angle between them is $\theta$  
-$$\begin{array}{l}
-|\mathbf{a}| = 5 \\
-|\mathbf{b}| = \frac{3}{7} \\
-\theta = \frac{\pi}{12}
-\end{array}$$
+Given the size of $\vec a, \vec b$, and the size of the angle between them is $\theta$  
+$$\begin{aligned}
+|\vec a| &= 5 \\
+|\vec b| &= \frac{3}{7} \\
+\theta &= \frac{\pi}{12}
+\end{aligned}$$
 #### Solution
 
 Recall the other way to solve a dot product
