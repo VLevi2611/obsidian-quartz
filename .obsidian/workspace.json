@@ -11,12 +11,14 @@
             "id": "5f14532b2a3415d8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "content/Resources/Excalidraw/Activated Complex.ecalidraw.md"
+                "file": "Templates/Daily Note Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Activated Complex.ecalidraw"
+              "icon": "lucide-file",
+              "title": "Daily Note Template"
             }
           }
         ]
@@ -196,7 +198,10 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "Templates/Concept Template.md",
+    "Templates/Daily Note Template.md",
     "content/Resources/Excalidraw/Activated Complex.ecalidraw.md",
+    "content/Daily Notes",
     "content/Math/Linear Algebra/08 Diagonalization/Matrix Powers.md",
     "public/Physics/Classical-Mechanics/03-Energy/03-Energy.html",
     "public/Physics/Classical-Mechanics/03-Energy/03-Energy-og-image.webp",
@@ -224,7 +229,6 @@
     "content/Resources/Books/General Chemistry Principles and Modern Applications.pdf",
     "content/Resources/Books/A Short History Of Nearly Everything.pdf",
     "content/Resources/Books",
-    "content/Resources",
     "content/Math/Linear Algebra/08 Diagonalization/08 Diagonalization.md",
     "content/Math/Linear Algebra/08 Diagonalization/Diagonal Matrix.md",
     "content/Math/Linear Algebra/08 Diagonalization/Eigenbasis.md",
@@ -239,7 +243,6 @@
     "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/07 Eigenvalues and Eigenvectors.md",
     "content/Math/Linear Algebra/06 Linear Transformations/Non Square Matrices.md",
     "content/Math/Linear Algebra/06 Linear Transformations/Matrix Representation.md",
-    "content/Math/Linear Algebra/06 Linear Transformations/Linear Transformation.md",
-    "content/Math/Linear Algebra/06 Linear Transformations/Geometric Properties Of Linear Transformations.md"
+    "content/Math/Linear Algebra/06 Linear Transformations/Linear Transformation.md"
   ]
 }
