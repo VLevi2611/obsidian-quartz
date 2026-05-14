@@ -7,7 +7,8 @@ tags:
 ## Overview
 
 Yooo Mr. White
-I 
+
+My notes on the subject are based on the [[General Chemistry Principles and Modern Applications.pdf]] book.
 ### [[01 Matter and Measurement]]
 
 ### [[02 Atomic Theory]]
