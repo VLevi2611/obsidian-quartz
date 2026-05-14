@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Note Template.md",
+                "file": "content/Daily Notes/2026-05-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Note Template"
+              "title": "2026-05-14"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
-    "content/Daily Notes/2026-05-14.md",
     "Templates/Daily Note Template.md",
+    "content/Daily Notes/2026-05-14.md",
     "content/Daily Notes/Untitled.md",
     "Untitled.md",
     "Templates/Concept Template.md",
