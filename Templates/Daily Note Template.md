@@ -1,21 +1,16 @@
----
-tags:
-  - daily-note
-publishDate:
----
-## Start
+# {{date:YYYY-MM-DD}}
 
-- [ ] Read 3 pages
+## Study Plan
 
-## Time
+- [ ] read 3 pages 
 
-starting time: 
-finishing time:
+## Duration
 
-## What I Did
+start:
+finish:
+
+## What Did I Do
 
 
 
-## Where to Pick up Tomorrow 
-
-
+## Pickup Point
