@@ -45,11 +45,6 @@ Have fun!
 - [[18 Solubility Equilibria]]
 - [[19 Electrochemistry]]
 - [[20 Kinetics]]
-- [[21 Main Group I]]
-- [[22 Main Group II]]
-- [[23 Transition Metals]]
-- [[24 Coordination Chemistry]]
-- [[25 Nuclear Chemistry]]
   
 ---  
   
