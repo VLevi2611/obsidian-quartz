@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-**Ionic solids** are [[Crystal]] materials [[Composition|Composed]] of positively [[Charge|Charged]] [[Cation|Cations]] and negatively charged [[Anion|Anions]] held together by strong [[Ionic Bond|Ionic Bonds]]. Their [[Melting Point]] is generally high due to to
+**Ionic solids** are [[Crystal]] materials [[Composition|Composed]] of positively [[Charge|Charged]] [[Cation|Cations]] and negatively charged [[Anion|Anions]] held together by strong [[Ionic Bond|Ionic Bonds]]. Their [[Melting Point]] is generally high due to the large amount of [[Energy]] required to overcome the strong interionic forces.
 
