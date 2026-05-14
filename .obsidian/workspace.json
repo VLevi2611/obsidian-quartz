@@ -11,14 +11,12 @@
             "id": "5f14532b2a3415d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "content/Math/Linear Algebra/08 Diagonalization/Matrix Powers.md",
-                "mode": "source",
-                "source": false
+                "file": "content/Resources/Excalidraw/Activated Complex.ecalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Matrix Powers"
+              "icon": "excalidraw-icon",
+              "title": "Activated Complex.ecalidraw"
             }
           }
         ]
@@ -196,8 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c091af617cf3e9f3",
+  "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "content/Resources/Excalidraw/Activated Complex.ecalidraw.md",
+    "content/Math/Linear Algebra/08 Diagonalization/Matrix Powers.md",
+    "public/Physics/Classical-Mechanics/03-Energy/03-Energy.html",
+    "public/Physics/Classical-Mechanics/03-Energy/03-Energy-og-image.webp",
     "content/Resources/Images/Subshell_Orbitals.png",
     "content/Resources/Images/Substrate.png",
     "content/Resources/Images/Reaction_Profile.png",
@@ -207,12 +209,9 @@
     "content/Resources/Images/Pressure_Units.png",
     "content/Resources/Images/Electronegativity.png",
     "content/Resources/Images/Periodic_Table.png",
-    "content/Resources/Images/Filling_of_Electronic_Subshells.png",
-    "content/Resources/Images/Enthalpy_of_Solution.png",
     "content/Resources/Images",
     "content/Resources/Excalidraw/Skeletal Structure.excalidraw.md",
     "content/Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md",
-    "content/Resources/Excalidraw/Activated Complex.ecalidraw.md",
     "content/Resources/Excalidraw",
     "content/Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
     "content/Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
@@ -227,7 +226,6 @@
     "content/Resources/Books",
     "content/Resources",
     "content/Math/Linear Algebra/08 Diagonalization/08 Diagonalization.md",
-    "content/Math/Linear Algebra/08 Diagonalization/Matrix Powers.md",
     "content/Math/Linear Algebra/08 Diagonalization/Diagonal Matrix.md",
     "content/Math/Linear Algebra/08 Diagonalization/Eigenbasis.md",
     "content/Math/Linear Algebra/08 Diagonalization/Eigenvector Matrix.md",
@@ -242,7 +240,6 @@
     "content/Math/Linear Algebra/06 Linear Transformations/Non Square Matrices.md",
     "content/Math/Linear Algebra/06 Linear Transformations/Matrix Representation.md",
     "content/Math/Linear Algebra/06 Linear Transformations/Linear Transformation.md",
-    "content/Math/Linear Algebra/06 Linear Transformations/Geometric Properties Of Linear Transformations.md",
-    "public/Physics/Classical-Mechanics/07-Gravitation/index.html"
+    "content/Math/Linear Algebra/06 Linear Transformations/Geometric Properties Of Linear Transformations.md"
   ]
 }

@@ -3,7 +3,6 @@
     "/": {
       "children": [
         "Progress",
-        "Resources",
         "Templates",
         "Book view.base",
         "content",
@@ -22,7 +21,8 @@
         "content/Chemistry",
         "content/Math",
         "content/Medicine",
-        "content/Physics"
+        "content/Physics",
+        "content/Resources"
       ],
       "sortOrder": "custom"
     },
@@ -1323,6 +1323,65 @@
       ],
       "sortOrder": "custom"
     },
+    "content/Resources": {
+      "children": [
+        "content/Resources/Books",
+        "content/Resources/Excalidraw",
+        "content/Resources/Images"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Resources/Books": {
+      "children": [
+        "content/Resources/Books/Thumbnails",
+        "content/Resources/Books/A Short History Of Nearly Everything.pdf",
+        "content/Resources/Books/General Chemistry Principles and Modern Applications.pdf",
+        "content/Resources/Books/Harry Potter And The Philosophers Stone.pdf",
+        "content/Resources/Books/The Runaway Species.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Resources/Books/Thumbnails": {
+      "children": [
+        "content/Resources/Books/Thumbnails/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
+        "content/Resources/Books/Thumbnails/Applied Minds - Guru Madhavan.md",
+        "content/Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
+        "content/Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
+        "content/Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Resources/Excalidraw": {
+      "children": [
+        "content/Resources/Excalidraw/Activated Complex.ecalidraw.md",
+        "content/Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md",
+        "content/Resources/Excalidraw/Skeletal Structure.excalidraw.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Resources/Images": {
+      "children": [
+        "content/Resources/Images/Acid-Base_Indicator.png",
+        "content/Resources/Images/Action_Potential_Diagram.png",
+        "content/Resources/Images/Alkali_Metals.png",
+        "content/Resources/Images/Biomedical_Engineering_Map.png",
+        "content/Resources/Images/Cell_Diagram.png",
+        "content/Resources/Images/Chemical_Formula_of_Water.png",
+        "content/Resources/Images/Electron_Configuration.png",
+        "content/Resources/Images/Electronegativity.png",
+        "content/Resources/Images/Enthalpy_of_Solution.png",
+        "content/Resources/Images/Filling_of_Electronic_Subshells.png",
+        "content/Resources/Images/Periodic_Table.png",
+        "content/Resources/Images/Pressure_Units.png",
+        "content/Resources/Images/Reaction_Intermediate.png",
+        "content/Resources/Images/Reaction_Profile.png",
+        "content/Resources/Images/Self_Ionization_of_water.png",
+        "content/Resources/Images/Solute_Types.png",
+        "content/Resources/Images/Subshell_Orbitals.png",
+        "content/Resources/Images/Substrate.png"
+      ],
+      "sortOrder": "custom"
+    },
     "Progress": {
       "children": [
         "Progress/13.11.25.png",
@@ -1334,65 +1393,6 @@
         "Progress/22.12.25.png",
         "Progress/27.04.26.png",
         "Progress/29.04.26.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "Resources": {
-      "children": [
-        "Resources/Excalidraw",
-        "Resources/Books",
-        "Resources/Images"
-      ],
-      "sortOrder": "custom"
-    },
-    "Resources/Books": {
-      "children": [
-        "Resources/Books/Thumbnails",
-        "Resources/Books/General Chemistry Principles and Modern Applications.pdf",
-        "Resources/Books/Harry Potter And The Philosophers Stone.pdf",
-        "Resources/Books/The Runaway Species.pdf",
-        "Resources/Books/A Short History Of Nearly Everything.pdf"
-      ],
-      "sortOrder": "custom"
-    },
-    "Resources/Books/Thumbnails": {
-      "children": [
-        "Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
-        "Resources/Books/Thumbnails/Applied Minds - Guru Madhavan.md",
-        "Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
-        "Resources/Books/Thumbnails/A Short History of Nearly Everything Special Illustrated Edition - Bill Bryson.md",
-        "Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Resources/Excalidraw": {
-      "children": [
-        "Resources/Excalidraw/Skeletal Structure.excalidraw.md",
-        "Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md",
-        "Resources/Excalidraw/Activated Complex.ecalidraw.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Resources/Images": {
-      "children": [
-        "Resources/Images/Pressure Units.png",
-        "Resources/Images/Solute types.png",
-        "Resources/Images/Chemical Formula of Water.png",
-        "Resources/Images/Periodic Table.png",
-        "Resources/Images/ActionPotentialDiagram.png",
-        "Resources/Images/Biomedical Engineering Map.png",
-        "Resources/Images/Filling of Electronic Subshells.png",
-        "Resources/Images/Subshell Orbitals.png",
-        "Resources/Images/Electron Configuration.png",
-        "Resources/Images/Electronegativity.png",
-        "Resources/Images/Acid-Base Indicator.png",
-        "Resources/Images/Enthalpy of Solution.png",
-        "Resources/Images/Self Ionization of water.png",
-        "Resources/Images/Alkali Metals.png",
-        "Resources/Images/Cell Diagram.png",
-        "Resources/Images/Reaction Intermediate.png",
-        "Resources/Images/Reaction Profile.png",
-        "Resources/Images/Substrate.png"
       ],
       "sortOrder": "custom"
     },
