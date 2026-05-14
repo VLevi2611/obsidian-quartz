@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The [[Groups|Group 2]] [[Metal|Metals]]
+The [[Groups|Group 2]] [[Element|Elements]] beryllium
 
