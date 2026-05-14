@@ -196,8 +196,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f14532b2a3415d8",
+  "active": "f8b09fff2244572c",
   "lastOpenFiles": [
+    "content/Resources/Images/Alkaline_Earth_Metals.png",
+    "content/Chemistry/General Chemistry/12 Intermolecular Forces/Polymorphism.md",
+    "content/Chemistry/General Chemistry/12 Intermolecular Forces/Normal Boiling Point.md",
+    "content/Chemistry/General Chemistry/12 Intermolecular Forces/Network Covalent Solids.md",
+    "content/Chemistry/General Chemistry/12 Intermolecular Forces/Ionic Solids.md",
     "Templates/Daily Note Template.md",
     "content/Daily Notes/2026-05-14.md",
     "content/Daily Notes/Untitled.md",
@@ -238,11 +243,6 @@
     "content/Math/Linear Algebra/08 Diagonalization/Eigenvector Matrix.md",
     "content/Math/Linear Algebra/08 Diagonalization/Condition For Diagonalization.md",
     "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Trace.md",
-    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvector.md",
-    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvalue Equation.md",
-    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvalue.md",
-    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Determinant And Eigenvalues.md",
-    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Characteristic Polynomial.md",
-    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/07 Eigenvalues and Eigenvectors.md"
+    "content/Math/Linear Algebra/07 Eigenvalues and Eigenvectors/Eigenvector.md"
   ]
 }

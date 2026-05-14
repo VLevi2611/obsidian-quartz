@@ -490,41 +490,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "content/Chemistry/General Chemistry/21 Main Group I/21 Main Group I.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "content/Chemistry/General Chemistry/22 Main Group II/22 Main Group II.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "content/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "content/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "content/Chemistry/General Chemistry/25 Nuclear Chemistry/25 Nuclear Chemistry.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "content/Chemistry/General Chemistry/General Chemistry.md",
         "patternType": "STRICT"
       },
