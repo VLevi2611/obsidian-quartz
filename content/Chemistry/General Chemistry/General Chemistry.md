@@ -7,7 +7,7 @@ tags:
 ## Overview
 
 Yooo Mr. White
-
+I 
 ### [[01 Matter and Measurement]]
 
 ### [[02 Atomic Theory]]
@@ -47,12 +47,3 @@ Yooo Mr. White
 
 ### [[20 Kinetics]]
 
-### [[21 Main Group I]]
-
-### [[22 Main Group II]]
-
-### [[23 Transition Metals]]
-
-### [[24 Coordination Chemistry]]
-
-### [[25 Nuclear Chemistry]]
