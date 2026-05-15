@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Third Law of Thermodynamics.md",
+                "file": "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Third Law of Thermodynamics"
+              "title": "13 Entropy and Gibbs Energy"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Third Law of Thermodynamics.md",
+                "file": "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Third Law of Thermodynamics"
+              "title": "Outline of 13 Entropy and Gibbs Energy"
             }
           },
           {
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a6d6936d052182bc",
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Third Law of Thermodynamics.md",
+                "file": "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Third Law of Thermodynamics"
+              "title": "Graph of 13 Entropy and Gibbs Energy"
             }
           }
         ]
@@ -303,12 +303,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ca95b5a0de55ea7",
+  "active": "f8b09fff2244572c",
   "lastOpenFiles": [
+    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Third Law of Thermodynamics.md",
     "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
     "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Boltzmann Constant.md",
     "content/Chemistry/General Chemistry/04 Chemical Reactions/04 Chemical Reactions.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Third Law of Thermodynamics.md",
     "content/Daily Notes/2026-05-15.md",
     "content/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
     "content/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
