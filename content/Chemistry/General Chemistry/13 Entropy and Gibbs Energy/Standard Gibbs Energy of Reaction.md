@@ -11,6 +11,8 @@ $$
 \Delta _r G^{\circ} = -RT \ln K
 $$
 
-| Symbol | Meaning | Units |
-| :----: | :-----: | :---: |
-|  $R$   |         |       |
+| Symbol |         Meaning          |      Units       |
+| :----: | :----------------------: | :--------------: |
+|  $R$   |     [[Gas Constant]]     | $\frac{J}{molK}$ |
+|  $T$   |     [[Temperature]]      |       $K$        |
+|  $K$   | [[Equilibrium Constant]] |                  |
