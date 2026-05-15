@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-The **standard Gibbs energy of formation $\Delta _f G^{\circ}$,** is the [[Gibbs Energy Change]] for a [[Chemical Reaction]] when 1 [[Mole]] of a [[s]]
+The **standard Gibbs energy of formation $\Delta _f G^{\circ}$,** is the [[Gibbs Energy Change]] for a [[Chemical Reaction]] when 1 [[Mole]] of a [[Substance]] is formed from its constituent [[Element|Elements]] in their most stable form under [[STP]]
 $$
 \Delta _r G^{\circ} = -RT \ln K
 $$
