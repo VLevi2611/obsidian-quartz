@@ -12,8 +12,8 @@ $$
 $$
 
 
-| Symbol |         Meaning          |      Units       |
-| :----: | :----------------------: | :--------------: |
-|  $R$   |     [[Gas Constant]]     | $\frac{J}{molK}$ |
-|  $T$   |     [[Temperature]]      |       $K$        |
-|  $K$   | [[Equilibrium Constant]] |        -         |
+| Symbol |        Meaning        |      Units       |
+| :----: | :-------------------: | :--------------: |
+|  $R$   |   [[Gas Constant]]    | $\frac{J}{molK}$ |
+|  $T$   |    [[Temperature]]    |       $K$        |
+|  $Q$   | [[Reaction Quotient]] |        -         |
