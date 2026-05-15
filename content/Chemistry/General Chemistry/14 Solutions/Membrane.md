@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **membrane** is a selective barrier, it allows some things to pass through but stops others ([[Molecule|Molecules]], [[Ion]])
+A **membrane** is a selective barrier, it allows some things to pass through but stops others ([[Molecule|Molecules]], [[Ion|Ions]] or other small particles).
 
