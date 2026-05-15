@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily Notes/2026-05-14.md",
+                "file": "content/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-14"
+              "title": "20 Kinetics"
             }
           }
         ]
@@ -196,8 +196,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8b09fff2244572c",
+  "active": "5f14532b2a3415d8",
   "lastOpenFiles": [
+    "content/Chemistry/General Chemistry/04 Chemical Reactions/Consecutive Reactions.md",
+    "content/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md",
+    "content/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
+    "content/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
+    "content/Chemistry/General Chemistry/17 Acid-Base Equilibria/17 Acid-Base Equilibria.md",
+    "content/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
+    "content/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
+    "content/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
+    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
+    "content/Daily Notes/2026-05-14.md",
     "content/Chemistry/General Chemistry/12 Intermolecular Forces/Unit Cells.md",
     "content/Chemistry/General Chemistry/12 Intermolecular Forces/Molecular Solids.md",
     "content/Chemistry/General Chemistry/12 Intermolecular Forces/Metallic Solids.md",
@@ -214,13 +224,8 @@
     "content/Chemistry/General Chemistry/12 Intermolecular Forces/Network Covalent Solids.md",
     "content/Chemistry/General Chemistry/12 Intermolecular Forces/Ionic Solids.md",
     "Templates/Daily Note Template.md",
-    "content/Daily Notes/2026-05-14.md",
     "content/Daily Notes/Untitled.md",
-    "Untitled.md",
-    "Templates/Concept Template.md",
-    "content/Resources/Excalidraw/Activated Complex.ecalidraw.md",
     "content/Daily Notes",
-    "content/Math/Linear Algebra/08 Diagonalization/Matrix Powers.md",
     "public/Physics/Classical-Mechanics/03-Energy/03-Energy.html",
     "public/Physics/Classical-Mechanics/03-Energy/03-Energy-og-image.webp",
     "content/Resources/Images/Subshell_Orbitals.png",
@@ -232,12 +237,7 @@
     "content/Resources/Images/Pressure_Units.png",
     "content/Resources/Images/Electronegativity.png",
     "content/Resources/Images",
-    "content/Resources/Excalidraw/Skeletal Structure.excalidraw.md",
-    "content/Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md",
     "content/Resources/Excalidraw",
-    "content/Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
-    "content/Resources/Books/Thumbnails/Harry Potter and the Philosopher's Stone - J K Rowling.md",
-    "content/Resources/Books/Thumbnails/General Chemistry Principles and Modern Applications.md",
     "content/Resources/Books/Thumbnails",
     "content/Resources/Books/The Runaway Species.pdf",
     "content/Resources/Books/Harry Potter And The Philosophers Stone.pdf",
