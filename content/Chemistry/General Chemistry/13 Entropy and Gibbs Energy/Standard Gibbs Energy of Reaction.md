@@ -11,4 +11,6 @@ $$
 \Delta _r G^{\circ} = -RT \ln K
 $$
 
-| | 
+| Symbol | Meaning | Units |
+| :----: | :-----: | :---: |
+|  $R$   |         |       |
