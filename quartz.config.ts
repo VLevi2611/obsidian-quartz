@@ -22,8 +22,6 @@ const config: QuartzConfig = {
   ".trash",
   "Templates",
   "Templates/**",
-  "Resources",
-  "Resources/**",
 ],
     defaultDateType: "modified",
     theme: {
