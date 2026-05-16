@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-The experimental basis of the [[Periodic Table]] of the [[Element|Elements]] is the [[Periodic Law]]: Certain [[Property|Properties]] recure periodically when the elements are arranged by increasing [[Atomic Number]]. The theoretical basis is that the properties of an element are related to the [[Electron Configuration]] of its [[Atom|Atoms]], and elements in the same [[Groups|Group]] of the periodic table have similar electron configurations.
+The experimental basis of the [[Periodic Table]] of the [[Element|Elements]] is the [[Periodic Law]]: Certain [[Property|Properties]] reoccure periodically when the elements are arranged by increasing [[Atomic Number]]. The theoretical basis is that the properties of an element are related to the [[Electron Configuration]] of its [[Atom|Atoms]], and elements in the same [[Groups|Group]] of the periodic table have similar electron configurations.
 
 The 3 classes of elements in the periodic table are the [[Nonmetal|Nonmetals]], [[Metal|Metals]], and [[Metalloid|Metalloids]]. Metalloids have some properties characteristic of metals and some of nonmetals. The nonmetals are further divided into the [[Noble Gas|Noble Gases]] and the remainder of the main-group nonmetals, while metals include the main-group metals and transition elements.
 
