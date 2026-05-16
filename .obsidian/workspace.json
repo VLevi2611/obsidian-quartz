@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
+                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Periodic Trends"
+              "title": "Periodic Table"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
+                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 09 Periodic Trends"
+              "title": "Outline of Periodic Table"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
+                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 09 Periodic Trends"
+              "title": "Graph of Periodic Table"
             }
           }
         ]
@@ -305,6 +305,7 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
     "content/Resources/Images/Acid-Base_Indicator.png",
     "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
     "content/Chemistry/General Chemistry/14 Solutions/Reverse Osmosis.md",
@@ -342,7 +343,6 @@
     "content/Resources/Images/Self_Ionization_of_water.png",
     "content/Resources/Images/Reaction_Intermediate.png",
     "content/Resources/Images/Pressure_Units.png",
-    "content/Resources/Images/Electronegativity.png",
     "content/Resources/Images",
     "content/Resources/Excalidraw",
     "content/Resources/Books/Thumbnails",
