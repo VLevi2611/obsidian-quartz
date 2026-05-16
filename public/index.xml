@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sagiv&#039;s Knowledge Base</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Set Difference</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/General-Math-Terms/03-Set-Symbols/Set-Difference</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/General-Math-Terms/03-Set-Symbols/Set-Difference</guid>
-    <description><![CDATA[ Sign \setminus Definition A \setminus B = A-B = \{x|x \in A,\text{and} \ x \not \in B\} Latex \setminus Example \{1,2,3,4\} \setminus \{3,4\}=\{1,2\}. ]]></description>
-    <pubDate>Wed, 13 May 2026 20:52:19 GMT</pubDate>
+    <title>Periodic Table</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/09-Periodic-Trends/Periodic-Table</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/09-Periodic-Trends/Periodic-Table</guid>
+    <description><![CDATA[ Definition The periodic table organizes Elements into 18 vertical Groups and 7 horizontal Periods. ]]></description>
+    <pubDate>Sat, 16 May 2026 09:45:13 GMT</pubDate>
   </item><item>
-    <title>Null Space</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Null-Space</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Null-Space</guid>
-    <description><![CDATA[ Definition The null space is a Subspace consisting of all input Vectors \vec x that are mapped to the Zero Vector when multiplied by a Matrix \mathbf{A}. ]]></description>
-    <pubDate>Wed, 13 May 2026 20:49:08 GMT</pubDate>
+    <title>09 Periodic Trends</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/09-Periodic-Trends/09-Periodic-Trends</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/09-Periodic-Trends/09-Periodic-Trends</guid>
+    <description><![CDATA[ Overview The experimental basis of the Periodic Table of the Elements is the Periodic Law: Certain Properties reoccur periodically when the elements are arranged by increasing Atomic Number. ]]></description>
+    <pubDate>Sat, 16 May 2026 09:30:47 GMT</pubDate>
   </item><item>
-    <title>Column Space</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Column-Space</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/05-Vector-Spaces/Column-Space</guid>
-    <description><![CDATA[ Definition A column space of a Matrix is a Span of its Column Vectors. The column space is also called the Rank of a matrix. ]]></description>
-    <pubDate>Wed, 13 May 2026 20:48:52 GMT</pubDate>
+    <title>2026-05-15</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Daily-Notes/2026-05-15</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Daily-Notes/2026-05-15</guid>
+    <description><![CDATA[ 2026-05-15 Study Plan Fix 13 Entropy and Gibbs Energy empty notes. Fix 14 Solutions empty notes. ]]></description>
+    <pubDate>Fri, 15 May 2026 11:18:44 GMT</pubDate>
   </item><item>
-    <title>Dimension</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Dimension</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Dimension</guid>
-    <description><![CDATA[ Definition The dimension is the size of the space, defined by the number of Vectors contained in any Basis for that space. ]]></description>
-    <pubDate>Wed, 13 May 2026 20:47:40 GMT</pubDate>
+    <title>Colloids</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Colloids</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Colloids</guid>
+    <description><![CDATA[ Definition A colloid is a Mixture in which one Substance, consisting of microscopically dispersed Insoluble particles, is suspended throughout another substance. ]]></description>
+    <pubDate>Fri, 15 May 2026 11:16:33 GMT</pubDate>
   </item><item>
-    <title>Identity Matrix</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/03-Matrices/Identity-Matrix</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/03-Matrices/Identity-Matrix</guid>
-    <description><![CDATA[ Definition The identity matrix of size n*n, \mathbf{I}_n is a square Matrix with ones on the main diagonal and zeros elsewhere. ]]></description>
-    <pubDate>Wed, 13 May 2026 20:46:43 GMT</pubDate>
+    <title>Colligative Property</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Colligative-Property</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Colligative-Property</guid>
+    <description><![CDATA[ Definition Colligative properties are Physical Properties of Solutions that depend solely on the ratio of the number of Solute particles to Solvent particles, not the nature or identity of the solute. ]]></description>
+    <pubDate>Fri, 15 May 2026 11:14:19 GMT</pubDate>
   </item><item>
-    <title>Basis and Dimension Problems</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Basis-and-Dimension-Problems</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/04-Basis-and-Dimension/Basis-and-Dimension-Problems</guid>
-    <description><![CDATA[ Span Question 1 What is the span of Matrix \mathbf{A} Given \mathbf{A} = \begin{pmatrix} 1 &amp; 0 &amp; 2 \\ 2 &amp; 1 &amp; 1 \\ 0 &amp; 3 &amp; 1 \end{pmatrix} Solution A span of a matrix is the collection of the Column Vectors with a Linear Combination. ]]></description>
-    <pubDate>Wed, 13 May 2026 20:40:42 GMT</pubDate>
+    <title>Osmotic Pressure</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Osmotic-Pressure</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Osmotic-Pressure</guid>
+    <description><![CDATA[ Definition Osmotic pressure \Pi, is the Minimum Pressure required to stop the flow of pure Solvent across a semipermeable Membrane into a Solution. ]]></description>
+    <pubDate>Fri, 15 May 2026 11:12:06 GMT</pubDate>
   </item><item>
-    <title>08 Diagonalization</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/08-Diagonalization</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/08-Diagonalization</guid>
-    <description><![CDATA[ Overview Diagonalization is the process of using a Linear Transformation on a Matrix \mathbf{A} into a Diagonal Matrix by the form \Lambda, by relating it to a Basis composed of its Eigenvectors. ]]></description>
-    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
+    <title>Reverse Osmosis</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Reverse-Osmosis</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Reverse-Osmosis</guid>
+    <description><![CDATA[ Definition Reverse osmosis is a highly effective Water purification process that used Pressure to force water through a semipermeable Membrane, separating it from contaminants, like Salts, bacteria and chemicals. ]]></description>
+    <pubDate>Fri, 15 May 2026 11:10:58 GMT</pubDate>
   </item><item>
-    <title>Diagonal Matrix</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Diagonal-Matrix</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Diagonal-Matrix</guid>
-    <description><![CDATA[ Definition A diagonal matrix is a type of Matrix where the non diagonal components are 0 and the diagonal component are the Eigenvalues. ]]></description>
-    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
+    <title>14 Solutions</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/14-Solutions</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/14-Solutions</guid>
+    <description><![CDATA[ Overview In a Solution, the Solvent, usually the component present in greatest amounts, determines the State of Matter in which the solution exists. ]]></description>
+    <pubDate>Fri, 15 May 2026 11:09:13 GMT</pubDate>
   </item><item>
-    <title>Eigenbasis</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenbasis</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenbasis</guid>
-    <description><![CDATA[ Definition The eigenbasis is a Set of Basis Vectors that are also Eigenvectors of a Matrix \mathbf{A}. ]]></description>
-    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
+    <title>Membrane</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Membrane</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Membrane</guid>
+    <description><![CDATA[ Definition A membrane is a selective barrier, it allows some things to pass through but stops others (Molecules, Ions or other small particles). ]]></description>
+    <pubDate>Fri, 15 May 2026 11:06:29 GMT</pubDate>
   </item><item>
-    <title>Eigenvector Matrix</title>
-    <link>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenvector-Matrix</link>
-    <guid>https://vlevi2611.github.io/obsidian-quartz/Math/Linear-Algebra/08-Diagonalization/Eigenvector-Matrix</guid>
-    <description><![CDATA[ Definition The eigenvector matrix \mathbf{X} of a matrix \mathbf{A} is a Matrix formed by placing the Eigenvectors of \mathbf{A} on its columns. ]]></description>
-    <pubDate>Wed, 13 May 2026 18:43:35 GMT</pubDate>
+    <title>Osmosis</title>
+    <link>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Osmosis</link>
+    <guid>https://vlevi2611.github.io/obsidian-quartz/Chemistry/General-Chemistry/14-Solutions/Osmosis</guid>
+    <description><![CDATA[ Definition Osmosis is the Spontaneous movement of Solvent Molecules (usually Water) through a semipermeable Membrane from a region of low Solute Concentration to high solute concentration. ]]></description>
+    <pubDate>Fri, 15 May 2026 11:04:16 GMT</pubDate>
   </item>
     </channel>
   </rss>

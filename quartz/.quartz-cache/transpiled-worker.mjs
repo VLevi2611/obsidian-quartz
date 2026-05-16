@@ -15024,9 +15024,7 @@ var config = {
       ".obsidian",
       ".trash",
       "Templates",
-      "Templates/**",
-      "Resources",
-      "Resources/**"
+      "Templates/**"
     ],
     defaultDateType: "modified",
     theme: {
