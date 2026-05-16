@@ -10,3 +10,4 @@ The **periodic table** organizes [[Element|Elements]] into 18 vertical [[Groups]
 ![[content/Resources/Images/Periodic_Table.png]]
 
 
+![[Periodic_Table.png]]
