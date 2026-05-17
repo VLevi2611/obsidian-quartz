@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+                "file": "content/Daily Notes/2026-05-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Periodic Table"
+              "title": "2026-05-16"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+                "file": "content/Daily Notes/2026-05-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Periodic Table"
+              "title": "Outline of 2026-05-16"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+                "file": "content/Daily Notes/2026-05-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Periodic Table"
+              "title": "Graph of 2026-05-16"
             }
           }
         ]
@@ -303,8 +303,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8b09fff2244572c",
+  "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
     "public/tags/excalidraw.html",
     "public/Resources/Books/Thumbnails/index.html",
     "public/Resources/Books/Thumbnails/The-Runaway-Species---David-Eagleman-Anthony-Brandt-og-image.webp",
@@ -325,7 +326,6 @@
     "public/Resources/Excalidraw/index.html",
     "public/Resources/Excalidraw/Skeletal-Structure.excalidraw.html",
     "public/Resources/Excalidraw/Lewis-acid-base-reaction.excalidraw.html",
-    "public/Resources/Excalidraw/Activated-Complex.ecalidraw.html",
     "content/Daily Notes/2026-05-16.md",
     "content/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
     "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
