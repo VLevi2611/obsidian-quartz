@@ -5,9 +5,9 @@ tags:
   - anatomy
 
 ---
-## Purpose
+## Definition
 
-Used to describe location of structures relative to each other.
+The **anatomical directions** are used to describe location of structures relative to each other.
 
 ## Main Directions
 
@@ -16,7 +16,7 @@ Used to describe location of structures relative to each other.
 - **Superior (Cranial)** → above
 - **Inferior (Caudal)** → below
 - **Medial** → toward midline
-- **Lateral** → away from midline
+- **Lateral** $\rightarrow$ away from midline
 
 ## Relative Terms
 
