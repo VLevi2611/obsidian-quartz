@@ -18,4 +18,8 @@ In the body:
 - Air attenuates X-rays a little.
 - [[Fat]] attenuates X-rays more than air but less than [[Water]].
 - [[Bone]] Attenuates X-rays the most.
-These differences in attenuation result in difference in the level of exposure of the film. When the photographic film is developed, bone appears white on the film because this region of the film has been exposed to the least amount of X-rays, air appear dark
+These differences in attenuation result in difference in the level of exposure of the film. When the photographic film is developed, bone appears white on the film because this region of the film has been exposed to the least amount of X-rays, air appears dark.
+
+### Contrast Agents
+
+To demonst
