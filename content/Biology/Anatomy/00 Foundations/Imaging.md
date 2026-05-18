@@ -23,4 +23,4 @@ These differences in attenuation result in difference in the level of exposure o
 ### Contrast Agents
 
 To demonstrate specific structures, such as bowel loops or arteries, it may be necessary to fill these structures with a [[Substance]] that attenuates X-rays more than bowel loops do normally. It is important that these substances are nontoxic. When a [[Barium Sulfate Suspension]] is ingested it attenuates X-rays and can be used to demonstrate the bowel lumen. 
-For some patients it is necessary to inject contrast agents directly into art
+For some patients it is necessary to inject contrast agents directly into arteries or veins. In this case, [[Iodine]] based [[Molecule|Molecules]] are suitable contrast agents.
