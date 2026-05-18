@@ -22,4 +22,4 @@ These differences in attenuation result in difference in the level of exposure o
 
 ### Contrast Agents
 
-To demonst
+To demonstrate specific structures, such as bowel loops or arteries, it may be necessary to fill these structures with a [[Substance]] that attenuates X-rays more than bowel loops do normally
