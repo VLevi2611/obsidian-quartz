@@ -41,4 +41,6 @@ Doppler ultrasound enables determination of flow, its direction, and its [[Veloc
 
 Computed tomography (CT) scanner obtains a series of images of the body (slices) in the [[Anatomical Planes|Axial Plane]]. The patient lies on a bed, an X-ray tube passes around the body, and a series of images are obtained. A computer carries out a complex mathematical transformation on the multitude of images to produce the final image.
 
-### Magnetic R
+### Magnetic Resonance Imaging
+
+Nuclear magnetic resonance imaging (MRIis used to determine the structure of complex molecules. The process of magnetic [[Resonance]] imagin 
