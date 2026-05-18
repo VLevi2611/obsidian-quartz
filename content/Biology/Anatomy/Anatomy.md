@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-Anatomy includes those structures that can be seen grossly (without the aid of magnification) and microscopically (with the aid of magnification). The term anatomy, that is, 
+Anatomy includes those structures that can be seen grossly (without the aid of magnification) and microscopically (with the aid of magnification). Anatomy forms the basis for the practice of [[Medicine]]. Anatomy leads the physician toward an understanding of a patient's de
 
 ### [[00 Foundations]]
 
