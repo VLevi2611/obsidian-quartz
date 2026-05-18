@@ -15,4 +15,4 @@ X-rays are [[Photon|Photons]] and are generated from a complex X-ray tube, which
 - [[Fat]] attenuates X-rays more than air but less than [[Water]].
 - [[Bone]] Attenuates X-rays the most.
 
-
+![[X-ray.png]]
