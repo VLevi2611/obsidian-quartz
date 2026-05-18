@@ -10,6 +10,6 @@ In 1895 Wilhelm Roentgen used the X-rays from a [[Cathode]] ray tube to expose a
 
 ### Plain Radiography
 
-X-rays are [[Photon|Photons]] and are generated from a complex X-ray tube, which is a type of cathode ray tube. The X-rays are then directed 
+X-rays are [[Photon|Photons]] and are generated from a complex X-ray tube, which is a type of cathode ray tube. The X-rays are then directed through lead-lines shutters to stop them from fanning out to the appropriate area of the body. As thee X-rays pass through the body they are attenuated (reduced in [[Energy]]) by the 
 
 
