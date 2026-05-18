@@ -8,7 +8,7 @@ tags:
 
 Anatomy includes those structures that can be seen grossly (without the aid of magnification) and microscopically (with the aid of magnification). Anatomy forms the basis for the practice of [[Medicine]]. Anatomy leads the physician toward an understanding of a patient's disease, whether carrying out a physical examination or using imaging techniques.
 
-We will be studying anatomy with a **regional approach**, each region of the body is studied separately and all aspects of that region are studied at the same time. This includes the vasculature, the nerves, the bones, the muscles, and all other structures and organs located in the  
+We will be studying anatomy with a **regional approach**, each region of the body is studied separately and all aspects of that region are studied at the same time. This includes the vasculature, the nerves, the bones, the muscles, and all other structures and organs located in the region of the body. 
 
 ### [[00 Foundations]]
 
