@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Anatomical Directions"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Anatomical Directions"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of index"
+              "title": "Graph of Anatomical Directions"
             }
           }
         ]
@@ -305,6 +305,10 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/Anatomical Planes.md",
+    "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
+    "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+    "content/index.md",
     "content/Biology/Biology.md",
     "content/Biology/Anatomy/Anatomy.md",
     "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md",
@@ -346,10 +350,6 @@
     "content/Chemistry/General Chemistry/14 Solutions/Fractional Distillation.md",
     "content/Chemistry/General Chemistry/14 Solutions/Colloids.md",
     "content/Chemistry/General Chemistry/14 Solutions/Colligative Property.md",
-    "content/Chemistry/General Chemistry/14 Solutions/Azeotrope.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Gibbs Energy of Reaction.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Chemical Potential.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Gibbs Energy of Reaction.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Gibbs Energy of Formation.md"
+    "content/Chemistry/General Chemistry/14 Solutions/Azeotrope.md"
   ]
 }
