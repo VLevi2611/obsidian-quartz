@@ -4,7 +4,8 @@ tags:
   - biology
   - anatomy
 ---
-## Definition
+## Diagnostic Imaging Techniques
 
+In 1895 Wilhelm Roentgen used the X-rays from a [[ca]]
 
 
