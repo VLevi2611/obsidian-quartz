@@ -43,4 +43,4 @@ Computed tomography (CT) scanner obtains a series of images of the body (slices)
 
 ### Magnetic Resonance Imaging
 
-Nuclear magnetic resonance imaging (MRIis used to determine the structure of complex molecules. The process of magnetic [[Resonance]] imagin 
+Nuclear magnetic resonance imaging (MRI) is used to determine the structure of complex molecules. The process of magnetic [[Resonance]] imaging is dependent on the free [[Proton|Protons]] in the hydrogen [[Nucleus|Nuclei]] in molecules of water. Because water is present in almost all biological tissues, the hydrogen proton is ideal. The proton within a pa
