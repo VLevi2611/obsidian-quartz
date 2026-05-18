@@ -26,3 +26,5 @@ To demonstrate specific structures, such as bowel loops or arteries, it may be n
 For some patients it is necessary to inject contrast agents directly into arteries or veins. In this case, [[Iodine]] based [[Molecule|Molecules]] are suitable contrast agents.
 
 ### Subtraction Angiography
+
+One or 2 images are obtained before the injection of contrast media. These images are inverted (such ta)
