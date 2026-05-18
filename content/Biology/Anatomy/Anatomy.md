@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-Anatomy includes those structures that can be seen grossly (without the aid of magnification) and microscopically (with the aid of magnification). Anatomy forms the basis for the practice of [[Medicine]]. Anatomy leads the physician toward an understanding of a patient's de
+Anatomy includes those structures that can be seen grossly (without the aid of magnification) and microscopically (with the aid of magnification). Anatomy forms the basis for the practice of [[Medicine]]. Anatomy leads the physician toward an understanding of a patient's disease, whether carrying out a physical examination or using imaging techniques.
 
 ### [[00 Foundations]]
 
