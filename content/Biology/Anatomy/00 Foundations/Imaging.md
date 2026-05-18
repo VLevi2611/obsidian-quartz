@@ -39,4 +39,4 @@ Doppler ultrasound enables determination of flow, its direction, and its [[Veloc
 
 ### Computed Tomography
 
-Computed 
+Computed tomography (CT) scanner obtains a series of images of the body (slices) in the [[Anatomical Planes|Axial Plane]]. The patient lies on a bed, an X-ray tube passes around the body
