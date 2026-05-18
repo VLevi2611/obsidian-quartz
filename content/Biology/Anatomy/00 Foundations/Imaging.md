@@ -51,4 +51,4 @@ MRI can also be used to assess flow within vessels and to produce complex angiog
 
 ### Diffusion-Weighted Imaging
 
-Diffusion-weighted imaging provides information on the degree of Brownian motion of water molecules in various tis
+Diffusion-weighted imaging provides information on the degree of Brownian motion of water molecules in various tissues. The is relatively free diffusion in extracellular spaces and more restricted diffusion in intracellular spaces. In tumors and infracted tissue, there is an increase in intercellular fluid water molecules compared with the extracellular fluid en
