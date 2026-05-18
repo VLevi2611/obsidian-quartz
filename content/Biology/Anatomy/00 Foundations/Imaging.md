@@ -48,3 +48,7 @@ By altering the sequence of pulses, different [[Property|Properties]] of the pro
 - Most T1 weighed images two dark fluid and bright fat-for example, within the brain the cerebrospinal fluid (CSF) is dark.
 - T2 weighted images demonstrate a bright signal from fluid and an intermediate signal from fat-for example, in the brain the CSF appears white.
 MRI can also be used to assess flow within vessels and to produce complex angiograms of the peripheral and cerebral circulation.
+
+### Diffusion-Weighted Imaging
+
+Diffusion-weighted imaging provides information on the degree of Brownian motion of water molecules in various tis
