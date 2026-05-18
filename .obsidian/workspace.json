@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anatomical Directions"
+              "title": "00 Foundations"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anatomical Directions"
+              "title": "Outline of 00 Foundations"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Anatomical Directions"
+              "title": "Graph of 00 Foundations"
             }
           }
         ]
@@ -305,9 +305,11 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+    "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+    "Templates/Daily Note Template.md",
     "content/Biology/Anatomy/00 Foundations/Anatomical Planes.md",
     "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
-    "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
     "content/index.md",
     "content/Biology/Biology.md",
     "content/Biology/Anatomy/Anatomy.md",
@@ -320,7 +322,6 @@
     "content/Biology/Anatomy/03 Thorax",
     "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
     "content/Biology/Anatomy/02 Lower Limb",
-    "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/Anatomy/01 Upper Limb",
     "content/Daily Notes/2026-05-17.md",
     "content/Biology/Anatomy/00 Foundations",
@@ -349,7 +350,6 @@
     "content/Chemistry/General Chemistry/14 Solutions/Membrane.md",
     "content/Chemistry/General Chemistry/14 Solutions/Fractional Distillation.md",
     "content/Chemistry/General Chemistry/14 Solutions/Colloids.md",
-    "content/Chemistry/General Chemistry/14 Solutions/Colligative Property.md",
-    "content/Chemistry/General Chemistry/14 Solutions/Azeotrope.md"
+    "content/Chemistry/General Chemistry/14 Solutions/Colligative Property.md"
   ]
 }
