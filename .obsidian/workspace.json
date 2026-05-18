@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Periodic Table"
+              "title": "00 Foundations"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Periodic Table"
+              "title": "Outline of 00 Foundations"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Periodic Table"
+              "title": "Graph of 00 Foundations"
             }
           }
         ]
@@ -305,8 +305,43 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+    "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+    "Templates/Daily Note Template.md",
+    "content/Biology/Anatomy/00 Foundations/Anatomical Planes.md",
+    "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
+    "content/index.md",
+    "content/Biology/Biology.md",
+    "content/Biology/Anatomy/Anatomy.md",
+    "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md",
+    "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
+    "content/Biology/Anatomy/05 Head and Neck",
+    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
+    "content/Biology/Anatomy/04 Abdomen",
+    "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md",
+    "content/Biology/Anatomy/03 Thorax",
+    "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
+    "content/Biology/Anatomy/02 Lower Limb",
+    "content/Biology/Anatomy/01 Upper Limb",
+    "content/Daily Notes/2026-05-17.md",
+    "content/Biology/Anatomy/00 Foundations",
+    "content/Daily Notes/2026-05-16.md",
+    "content/Chemistry/General Chemistry/09 Periodic Trends/Periodic Table.md",
+    "public/tags/excalidraw.html",
+    "public/Resources/Books/Thumbnails/index.html",
+    "public/Resources/Books/Thumbnails/The-Runaway-Species---David-Eagleman-Anthony-Brandt-og-image.webp",
+    "public/Resources/Books/Thumbnails/The-Runaway-Species---David-Eagleman-Anthony-Brandt.html",
+    "public/Resources/Books/Thumbnails/Harry-Potter-and-the-Philosopher's-Stone---J-K-Rowling.html",
+    "public/Resources/Books/Thumbnails/Harry-Potter-and-the-Philosopher's-Stone---J-K-Rowling-og-image.webp",
+    "public/Resources/Books/Thumbnails/Applied-Minds---Guru-Madhavan-og-image.webp",
+    "public/Resources/Books/Thumbnails/General-Chemistry-Principles-and-Modern-Applications-og-image.webp",
+    "public/Resources/Books/Thumbnails/A-Short-History-of-Nearly-Everything-Special-Illustrated-Edition---Bill-Bryson-og-image.webp",
+    "public/Resources/Images/Substrate.png",
+    "public/Resources/Images/Subshell_Orbitals.png",
+    "public/Resources/Images/Solute_Types.png",
+    "public/Resources/Images/Self_Ionization_of_water.png",
+    "public/Resources/Images/Reaction_Profile.png",
     "content/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
-    "content/Resources/Images/Acid-Base_Indicator.png",
     "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/13 Entropy and Gibbs Energy.md",
     "content/Chemistry/General Chemistry/14 Solutions/Reverse Osmosis.md",
     "content/Chemistry/General Chemistry/14 Solutions/Raoult's Law.md",
@@ -315,41 +350,6 @@
     "content/Chemistry/General Chemistry/14 Solutions/Membrane.md",
     "content/Chemistry/General Chemistry/14 Solutions/Fractional Distillation.md",
     "content/Chemistry/General Chemistry/14 Solutions/Colloids.md",
-    "content/Chemistry/General Chemistry/14 Solutions/Colligative Property.md",
-    "content/Chemistry/General Chemistry/14 Solutions/Azeotrope.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Gibbs Energy of Reaction.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Chemical Potential.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Gibbs Energy of Reaction.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Gibbs Energy of Formation.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Third Law of Thermodynamics.md",
-    "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Boltzmann Constant.md",
-    "content/Chemistry/General Chemistry/04 Chemical Reactions/04 Chemical Reactions.md",
-    "content/Daily Notes/2026-05-15.md",
-    "content/Chemistry/General Chemistry/14 Solutions/14 Solutions.md",
-    "content/Chemistry/General Chemistry/15 Chemical Equilibrium/15 Chemical Equilibrium.md",
-    "content/Chemistry/General Chemistry/16 Acids and Bases/16 Acids and Bases.md",
-    "content/Chemistry/General Chemistry/20 Kinetics/20 Kinetics.md",
-    "content/Chemistry/General Chemistry/04 Chemical Reactions/Consecutive Reactions.md",
-    "content/Chemistry/General Chemistry/19 Electrochemistry/19 Electrochemistry.md",
-    "content/Chemistry/General Chemistry/18 Solubility Equilibria/18 Solubility Equilibria.md",
-    "content/Resources/Images/Alkaline_Earth_Metals.png",
-    "content/Daily Notes",
-    "public/Physics/Classical-Mechanics/03-Energy/03-Energy.html",
-    "public/Physics/Classical-Mechanics/03-Energy/03-Energy-og-image.webp",
-    "content/Resources/Images/Subshell_Orbitals.png",
-    "content/Resources/Images/Substrate.png",
-    "content/Resources/Images/Reaction_Profile.png",
-    "content/Resources/Images/Solute_Types.png",
-    "content/Resources/Images/Self_Ionization_of_water.png",
-    "content/Resources/Images/Reaction_Intermediate.png",
-    "content/Resources/Images/Pressure_Units.png",
-    "content/Resources/Images",
-    "content/Resources/Excalidraw",
-    "content/Resources/Books/Thumbnails",
-    "content/Resources/Books/The Runaway Species.pdf",
-    "content/Resources/Books/Harry Potter And The Philosophers Stone.pdf",
-    "content/Resources/Books/General Chemistry Principles and Modern Applications.pdf",
-    "content/Resources/Books/A Short History Of Nearly Everything.pdf",
-    "content/Resources/Books"
+    "content/Chemistry/General Chemistry/14 Solutions/Colligative Property.md"
   ]
 }

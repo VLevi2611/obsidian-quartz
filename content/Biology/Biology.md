@@ -7,9 +7,3 @@ tags:
 
 ### [[Anatomy]]
 
-### [[Biochemistry]]
-
-### [[Cell Biology]]
-
-### [[Physiology]]
-
