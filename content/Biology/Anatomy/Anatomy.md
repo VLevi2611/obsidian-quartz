@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-Anatomy includes those structures taht can be 
+Anatomy includes those structures that can be seen grossly (without the aid of magnification) and microscopically (with the aid of magnification). The term anatomy, that is, 
 
 ### [[00 Foundations]]
 
