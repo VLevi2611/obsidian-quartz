@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-**Iodine** is a good contrast agent because it has a relatively high [[Atomic Mass]] and so markedly attenuates X-rays
+**Iodine** is a good contrast agent because it has a relatively high [[Atomic Mass]] and so markedly attenuates X-rays, but also, it is naturally excreted via the urinary system.
 
