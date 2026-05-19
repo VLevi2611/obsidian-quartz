@@ -48,4 +48,6 @@ Again, keeping the elbow and shoulder still, flip your hand onto its front, palm
 
 These terms also apply to the whole body - when lying flat on the back, the body is supine. When lying flat on the front, the body is prone.
 
-### Dorsiflexion and Plant
+### Dorsiflexion and Plantarflexion
+
+Dorsiflexion and plantarflexion are terms used to describe movements at the ankle. They refer to the 2 surfaces of the foot; the dur
