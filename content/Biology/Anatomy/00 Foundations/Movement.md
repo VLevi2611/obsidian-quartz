@@ -36,3 +36,6 @@ Medial and lateral rotation describe movement of the limbs around their long axi
 
 ![[Abdction, Adduction and Rotation.png]]
 
+### Elevation and Depression
+
+**Elevation** refers to movement in superior direction like shoulder shrug, **Depression**
