@@ -16,4 +16,8 @@ Flexion and extension are movements that occur in the [[Anatomical Planes|Sagitt
 
 **Extension** refers to a movement that increases the angle between 2 body parts. Extension at the elbow is increasing the angle between the ulna and the humerus. Extension of the knee straightens the lower limb.
 
-![[Pasted image 20260519133001.png]]
+![[Flexion and Extension.png]]
+
+### Abduction and Adduction
+
+Abduction and adduction are 2 terms that are used to describe movements wo
