@@ -51,3 +51,4 @@ These terms also apply to the whole body - when lying flat on the back, the body
 ### Dorsiflexion and Plantarflexion
 
 Dorsiflexion and plantarflexion are terms used to describe movements at the ankle. They refer to the 2 surfaces of the foot; the dur
+
