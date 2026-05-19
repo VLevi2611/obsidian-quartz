@@ -20,4 +20,6 @@ Flexion and extension are movements that occur in the [[Anatomical Planes|Sagitt
 
 ### Abduction and Adduction
 
-Abduction and adduction are 2 terms that are used to describe movements wo
+Abduction and adduction are 2 terms that are used to describe movements towards or away from the midline of the body.
+
+**Abduction** is a movement away from the midline - just as abducting someone is to take them away. For example, abduction of the shoulder raises the arms out 
