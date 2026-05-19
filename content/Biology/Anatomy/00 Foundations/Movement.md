@@ -30,4 +30,4 @@ Abduction and adduction are 2 terms that are used to describe movements towards 
 
 Medial and lateral rotation describe movement of the limbs around their long axis.
 
-**Medial Rotation** is a rotational movement towards the midline. It is sometimes referred to as internal rotation. To understand this, we have 2 scenarios to imagine. First, with a straight leg, rotate it to point the toes inwa
+**Medial Rotation** is a rotational movement towards the midline. It is sometimes referred to as internal rotation. To understand this, we have 2 scenarios to imagine. First, with a straight leg, rotate it to point the toes inward. This is medial rotation of the hip. Second, imagine you are carrying a tea tray in front of you, with elbow at 90$^{\circ}$ 
