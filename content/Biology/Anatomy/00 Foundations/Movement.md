@@ -6,4 +6,9 @@ tags:
 ---
 ## Definition
 
-Anatomical terms of **movement** are used to describe the actions of [[Muscle|Muscles]] upon the skeleton. Muscles contract to produce movement as [[Joint|Joints]], and the subsequent movements can be precisely describe using this terminology. The terms used assum
+Anatomical terms of **movement** are used to describe the actions of [[Muscle|Muscles]] upon the skeleton. Muscles contract to produce movement as [[Joint|Joints]], and the subsequent movements can be precisely describe using this terminology. The terms used assume that the body begins in the [[Anatomical Position]]
+
+### Flexion and Extension
+
+Flexion and extension are movements that occur in the [[Anatomical Planes|Sagittal Plane]] th
+
