@@ -10,5 +10,7 @@ Anatomical terms of **movement** are used to describe the actions of [[Muscle|Mu
 
 ### Flexion and Extension
 
-Flexion and extension are movements that occur in the [[Anatomical Planes|Sagittal Plane]] th
+Flexion and extension are movements that occur in the [[Anatomical Planes|Sagittal Plane]]. They refer to increasing and decreasing the angle between 2 body parts.
+
+**Flexion** refers to a movement that decreases the angle between 2 body parts. Flexion at the elbow is decreasing the angle between the [[Ulna]] and the [[Humerus]]
 
