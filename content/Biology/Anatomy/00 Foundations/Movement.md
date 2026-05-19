@@ -36,3 +36,19 @@ Medial and lateral rotation describe movement of the limbs around their long axi
 
 ![[Abdction, Adduction and Rotation.png]]
 
+### Elevation and Depression
+
+**Elevation** refers to movement in superior direction like shoulder shrug, **Depression** refers to movement in an inferior direction
+
+### Pronation and Supination
+
+This is easily confused with [[Movement#Medial and Lateral Rotation|Medial and Lateral Rotation]], but the difference is subtle. With your hand resting on a table in front of you, and keeping your shoulder and elbow still, turn your hand onto its back, palm up. This is the supine position and so this movement is **supination**.
+
+Again, keeping the elbow and shoulder still, flip your hand onto its front, palm down. This is the prone position and so this movement is named **pronation**.
+
+These terms also apply to the whole body - when lying flat on the back, the body is supine. When lying flat on the front, the body is prone.
+
+### Dorsiflexion and Plantarflexion
+
+Dorsiflexion and plantarflexion are terms used to describe movements at the ankle. They refer to the 2 surfaces of the foot; the dur
+
