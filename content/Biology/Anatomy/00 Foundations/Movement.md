@@ -35,3 +35,4 @@ Medial and lateral rotation describe movement of the limbs around their long axi
 **Lateral Rotation** is a rotating movement away from the midline. This is in the opposite direction to the medial rotation.
 
 ![[Abdction, Adduction and Rotation.png]]
+
