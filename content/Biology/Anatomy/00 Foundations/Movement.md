@@ -44,4 +44,8 @@ Medial and lateral rotation describe movement of the limbs around their long axi
 
 This is easily confused with [[Movement#Medial and Lateral Rotation|Medial and Lateral Rotation]], but the difference is subtle. With your hand resting on a table in front of you, and keeping your shoulder and elbow still, turn your hand onto its back, palm up. This is the supine position and so this movement is **supination**.
 
-Again, keeping the elbow and shoulder still, flip your hand onto its front, palm down. This is the prone position and sot
+Again, keeping the elbow and shoulder still, flip your hand onto its front, palm down. This is the prone position and so this movement is named **pronation**.
+
+These terms also apply to the whole body - when lying flat on the back, the body is supine. When lying flat on the front, the body is prone.
+
+### Dorsiflexion and Plant
