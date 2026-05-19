@@ -32,4 +32,6 @@ Medial and lateral rotation describe movement of the limbs around their long axi
 
 **Medial Rotation** is a rotational movement towards the midline. It is sometimes referred to as internal rotation. To understand this, we have 2 scenarios to imagine. First, with a straight leg, rotate it to point the toes inward. This is medial rotation of the hip. Second, imagine you are carrying a tea tray in front of you, with elbow at 90$^{\circ}$. Now rotate the arm, bringing your hand towards your opposite hip. This is internal rotation of the shoulder.
 
-**Lateral Rotation** is a rotating movement away from the midline
+**Lateral Rotation** is a rotating movement away from the midline. This is in the opposite direction to the medial rotation.
+
+![[Abdction, Adduction and Rotation.png]]
