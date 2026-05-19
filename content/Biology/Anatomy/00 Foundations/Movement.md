@@ -24,4 +24,8 @@ Abduction and adduction are 2 terms that are used to describe movements towards 
 
 **Abduction** is a movement away from the midline - just as abducting someone is to take them away. For example, abduction of the shoulder raises the arms out to the sides of the body.
 
-**Adduction** is a movement towards the midline. Adductio
+**Adduction** is a movement towards the midline. Adduction of the hip squeezes the legs together
+
+### Medial and Lateral Rotation
+
+Medial and lateral rotation describe movement of the limbs around their long axis.
