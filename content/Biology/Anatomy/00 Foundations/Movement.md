@@ -38,4 +38,8 @@ Medial and lateral rotation describe movement of the limbs around their long axi
 
 ### Elevation and Depression
 
-**Elevation** refers to movement in superior direction like shoulder shrug, **Depression**
+**Elevation** refers to movement in superior direction like shoulder shrug, **Depression** refers to movement in an inferior direction
+
+### Pronation and Supination
+
+This is easily confused with [[Movement#Medial and Lateral Rotation|Medial and Lateral Rotation]], but th
