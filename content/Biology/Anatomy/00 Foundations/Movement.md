@@ -20,6 +20,8 @@ Flexion and extension are movements that occur in the [[Anatomical Planes|Sagitt
 
 ### Abduction and Adduction
 
-Abduction and adduction are 2 terms that are used to describe movements towards or away from the midline of the body.
+Abduction and adduction are 2 terms that are used to describe movements towards or away from the midline of the body. In fingers and toes, the midline used is not the midline of the body, but of the hand and foot respectively.
 
-**Abduction** is a movement away from the midline - just as abducting someone is to take them away. For example, abduction of the shoulder raises the arms out 
+**Abduction** is a movement away from the midline - just as abducting someone is to take them away. For example, abduction of the shoulder raises the arms out to the sides of the body.
+
+**Adduction** is a movement towards the midline. Adductio
