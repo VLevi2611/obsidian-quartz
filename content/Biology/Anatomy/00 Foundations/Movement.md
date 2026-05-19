@@ -42,4 +42,4 @@ Medial and lateral rotation describe movement of the limbs around their long axi
 
 ### Pronation and Supination
 
-This is easily confused with [[Movement#Medial and Lateral Rotation|Medial and Lateral Rotation]], but th
+This is easily confused with [[Movement#Medial and Lateral Rotation|Medial and Lateral Rotation]], but the difference is subtle. With your hand resting on a table in front of you, and keeping your shoulder and elbow still, turn your hand onto its back, palm up. This is the supine position and so this movement is **supination**.
