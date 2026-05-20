@@ -10,7 +10,8 @@
         "package-lock.json",
         "quartz.config.ts",
         "quartz.layout.ts",
-        "tsconfig.json"
+        "tsconfig.json",
+        "Dorsiflexion and Plantarflexion.png"
       ],
       "sortOrder": "custom"
     },
@@ -22,321 +23,27 @@
         "content/Math",
         "content/Medicine",
         "content/Physics",
-        "content/Resources"
+        "content/Resources",
+        "content/Daily Notes"
       ],
       "sortOrder": "custom"
     },
     "content/Biology": {
       "children": [
         "content/Biology/Biology.md",
-        "content/Biology/Anatomy",
-        "content/Biology/Biochemistry",
-        "content/Biology/Cell Biology",
-        "content/Biology/Physiology"
+        "content/Biology/Anatomy"
       ],
       "sortOrder": "custom"
     },
     "content/Biology/Anatomy": {
       "children": [
         "content/Biology/Anatomy/Anatomy.md",
-        "content/Biology/Anatomy/Cardiovascular System",
-        "content/Biology/Anatomy/Digestive System",
-        "content/Biology/Anatomy/Endocrine System",
-        "content/Biology/Anatomy/Lymphatic and Immune System",
-        "content/Biology/Anatomy/Muscular System",
-        "content/Biology/Anatomy/Nervous System",
-        "content/Biology/Anatomy/Renal and Urinary System",
-        "content/Biology/Anatomy/Reproductive System",
-        "content/Biology/Anatomy/Respiratory System",
-        "content/Biology/Anatomy/Skeletal System"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Cardiovascular System": {
-      "children": [
-        "content/Biology/Anatomy/Cardiovascular System/Cardiovascular System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Digestive System": {
-      "children": [
-        "content/Biology/Anatomy/Digestive System/Digestive System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Endocrine System": {
-      "children": [
-        "content/Biology/Anatomy/Endocrine System/Endocrine System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Lymphatic and Immune System": {
-      "children": [
-        "content/Biology/Anatomy/Lymphatic and Immune System/Lymphatic and Immune System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Muscular System": {
-      "children": [
-        "content/Biology/Anatomy/Muscular System/Muscular System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Nervous System": {
-      "children": [
-        "content/Biology/Anatomy/Nervous System/Nervous System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Renal and Urinary System": {
-      "children": [
-        "content/Biology/Anatomy/Renal and Urinary System/Renal and Urinary System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Reproductive System": {
-      "children": [
-        "content/Biology/Anatomy/Reproductive System/Reproductive System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Respiratory System": {
-      "children": [
-        "content/Biology/Anatomy/Respiratory System/Respiratory System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/Skeletal System": {
-      "children": [
-        "content/Biology/Anatomy/Skeletal System/Skeletal System.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry": {
-      "children": [
-        "content/Biology/Biochemistry/Biochemistry.md",
-        "content/Biology/Biochemistry/Amino Acids",
-        "content/Biology/Biochemistry/Carbohydrates",
-        "content/Biology/Biochemistry/Citric Acid Cycle",
-        "content/Biology/Biochemistry/DNA replication",
-        "content/Biology/Biochemistry/Enzymes and Kinetics",
-        "content/Biology/Biochemistry/Glycolysis",
-        "content/Biology/Biochemistry/Lipids and Membranes",
-        "content/Biology/Biochemistry/Nucleic Acids",
-        "content/Biology/Biochemistry/Oxidative Phosphorylation",
-        "content/Biology/Biochemistry/Proteins",
-        "content/Biology/Biochemistry/Transciption",
-        "content/Biology/Biochemistry/Translation"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Amino Acids": {
-      "children": [
-        "content/Biology/Biochemistry/Amino Acids/Amino Acids.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Carbohydrates": {
-      "children": [
-        "content/Biology/Biochemistry/Carbohydrates/Carbohydrates.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Citric Acid Cycle": {
-      "children": [
-        "content/Biology/Biochemistry/Citric Acid Cycle/Citric Acid Cycle.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/DNA replication": {
-      "children": [
-        "content/Biology/Biochemistry/DNA replication/DNA replication.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Enzymes and Kinetics": {
-      "children": [
-        "content/Biology/Biochemistry/Enzymes and Kinetics/Enzymes and Kinetics.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Glycolysis": {
-      "children": [
-        "content/Biology/Biochemistry/Glycolysis/Glycolysis.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Lipids and Membranes": {
-      "children": [
-        "content/Biology/Biochemistry/Lipids and Membranes/Lipids and Membranes.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Nucleic Acids": {
-      "children": [
-        "content/Biology/Biochemistry/Nucleic Acids/Nucleic Acids.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Oxidative Phosphorylation": {
-      "children": [
-        "content/Biology/Biochemistry/Oxidative Phosphorylation/Oxidative Phosphorylation.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Proteins": {
-      "children": [
-        "content/Biology/Biochemistry/Proteins/Proteins.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Transciption": {
-      "children": [
-        "content/Biology/Biochemistry/Transciption/Transcription.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Biochemistry/Translation": {
-      "children": [
-        "content/Biology/Biochemistry/Translation/Translation.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology": {
-      "children": [
-        "content/Biology/Cell Biology/Cell Biology.md",
-        "content/Biology/Cell Biology/Apoptosis",
-        "content/Biology/Cell Biology/Cell Division",
-        "content/Biology/Cell Biology/Cell Membrane",
-        "content/Biology/Cell Biology/Cell Signaling",
-        "content/Biology/Cell Biology/Cytoskeleton",
-        "content/Biology/Cell Biology/Organelles",
-        "content/Biology/Cell Biology/Prokaryotic vs Eukaryotic",
-        "content/Biology/Cell Biology/Stem Cells",
-        "content/Biology/Cell Biology/Transport Mechanisms"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Apoptosis": {
-      "children": [
-        "content/Biology/Cell Biology/Apoptosis/Apoptosis.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Cell Division": {
-      "children": [
-        "content/Biology/Cell Biology/Cell Division/Cell Division.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Cell Membrane": {
-      "children": [
-        "content/Biology/Cell Biology/Cell Membrane/Cell Membrane.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Cell Signaling": {
-      "children": [
-        "content/Biology/Cell Biology/Cell Signaling/Cell signaling.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Cytoskeleton": {
-      "children": [
-        "content/Biology/Cell Biology/Cytoskeleton/Cytoskeleton.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Organelles": {
-      "children": [
-        "content/Biology/Cell Biology/Organelles/Organelles.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Prokaryotic vs Eukaryotic": {
-      "children": [
-        "content/Biology/Cell Biology/Prokaryotic vs Eukaryotic/Prokaryotic vs Eukaryotic.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Stem Cells": {
-      "children": [
-        "content/Biology/Cell Biology/Stem Cells/Stem Cells.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Cell Biology/Transport Mechanisms": {
-      "children": [
-        "content/Biology/Cell Biology/Transport Mechanisms/Transport Mechanisms.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology": {
-      "children": [
-        "content/Biology/Physiology/Physiology.md",
-        "content/Biology/Physiology/Cardiovascular Physiology",
-        "content/Biology/Physiology/Endocrine Physiology",
-        "content/Biology/Physiology/Gastrointestinal Physiology",
-        "content/Biology/Physiology/Homeostasis",
-        "content/Biology/Physiology/Muscle Physiology",
-        "content/Biology/Physiology/Neurons and Action Potentials",
-        "content/Biology/Physiology/Renal Physiology",
-        "content/Biology/Physiology/Respiratory Physiology",
-        "content/Biology/Physiology/Sensory Systems"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Cardiovascular Physiology": {
-      "children": [
-        "content/Biology/Physiology/Cardiovascular Physiology/Cardiovascular Physiology.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Endocrine Physiology": {
-      "children": [
-        "content/Biology/Physiology/Endocrine Physiology/Endocrine Physiology.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Gastrointestinal Physiology": {
-      "children": [
-        "content/Biology/Physiology/Gastrointestinal Physiology/Gastrointestinal Physiology.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Homeostasis": {
-      "children": [
-        "content/Biology/Physiology/Homeostasis/Homeostasis.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Muscle Physiology": {
-      "children": [
-        "content/Biology/Physiology/Muscle Physiology/Muscle Physiology.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Neurons and Action Potentials": {
-      "children": [
-        "content/Biology/Physiology/Neurons and Action Potentials/Neurons and Action Potentials.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Renal Physiology": {
-      "children": [
-        "content/Biology/Physiology/Renal Physiology/Renal Physiology.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Respiratory Physiology": {
-      "children": [
-        "content/Biology/Physiology/Respiratory Physiology/Respiratory Physiology.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Physiology/Sensory Systems": {
-      "children": [
-        "content/Biology/Physiology/Sensory Systems/Sensory Systems.md"
+        "content/Biology/Anatomy/00 Foundations",
+        "content/Biology/Anatomy/01 Upper Limb",
+        "content/Biology/Anatomy/02 Lower Limb",
+        "content/Biology/Anatomy/03 Thorax",
+        "content/Biology/Anatomy/04 Abdomen",
+        "content/Biology/Anatomy/05 Head and Neck"
       ],
       "sortOrder": "custom"
     },
@@ -369,12 +76,7 @@
         "content/Chemistry/General Chemistry/17 Acid-Base Equilibria",
         "content/Chemistry/General Chemistry/18 Solubility Equilibria",
         "content/Chemistry/General Chemistry/19 Electrochemistry",
-        "content/Chemistry/General Chemistry/20 Kinetics",
-        "content/Chemistry/General Chemistry/21 Main Group I",
-        "content/Chemistry/General Chemistry/22 Main Group II",
-        "content/Chemistry/General Chemistry/23 Transition Metals",
-        "content/Chemistry/General Chemistry/24 Coordination Chemistry",
-        "content/Chemistry/General Chemistry/25 Nuclear Chemistry"
+        "content/Chemistry/General Chemistry/20 Kinetics"
       ],
       "sortOrder": "custom"
     },
@@ -699,7 +401,21 @@
         "content/Chemistry/General Chemistry/12 Intermolecular Forces/Van Der Waals Forces.md",
         "content/Chemistry/General Chemistry/12 Intermolecular Forces/Vapor.md",
         "content/Chemistry/General Chemistry/12 Intermolecular Forces/Vapor Pressure.md",
-        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Viscosity.md"
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Viscosity.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Ionic Solids.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Network Covalent Solids.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Normal Boiling Point.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Polymorphism.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Body Centered Cubic.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Conductivity.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Crystal.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Cubic Closest Packed.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Face Centered Cubic.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Hexagonal Closest Packed.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Lattice Energy.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Metallic Solids.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Molecular Solids.md",
+        "content/Chemistry/General Chemistry/12 Intermolecular Forces/Unit Cells.md"
       ],
       "sortOrder": "custom"
     },
@@ -714,7 +430,12 @@
         "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Microstate.md",
         "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Second Law of Thermodynamics.md",
         "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Molar Entropy.md",
-        "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Reaction Entropy.md"
+        "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Reaction Entropy.md",
+        "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Third Law of Thermodynamics.md",
+        "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Gibbs Energy of Formation.md",
+        "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Standard Gibbs Energy of Reaction.md",
+        "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Chemical Potential.md",
+        "content/Chemistry/General Chemistry/13 Entropy and Gibbs Energy/Gibbs Energy of Reaction.md"
       ],
       "sortOrder": "custom"
     },
@@ -735,7 +456,16 @@
         "content/Chemistry/General Chemistry/14 Solutions/Saturated Solution.md",
         "content/Chemistry/General Chemistry/14 Solutions/Solubility.md",
         "content/Chemistry/General Chemistry/14 Solutions/Supersaturated Solution.md",
-        "content/Chemistry/General Chemistry/14 Solutions/Unsaturated Solution.md"
+        "content/Chemistry/General Chemistry/14 Solutions/Unsaturated Solution.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Azeotrope.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Colligative Property.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Colloids.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Fractional Distillation.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Membrane.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Osmosis.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Osmotic Pressure.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Raoult's Law.md",
+        "content/Chemistry/General Chemistry/14 Solutions/Reverse Osmosis.md"
       ],
       "sortOrder": "custom"
     },
@@ -868,40 +598,6 @@
         "content/Chemistry/General Chemistry/20 Kinetics/Transition State.md",
         "content/Chemistry/General Chemistry/20 Kinetics/Unimolecular process.md",
         "content/Chemistry/General Chemistry/20 Kinetics/Zero-Order Reaction.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Chemistry/General Chemistry/21 Main Group I": {
-      "children": [
-        "content/Chemistry/General Chemistry/21 Main Group I/21 Main Group I.md",
-        "content/Chemistry/General Chemistry/21 Main Group I/Alkali Metals.md",
-        "content/Chemistry/General Chemistry/21 Main Group I/Charge Density.md",
-        "content/Chemistry/General Chemistry/21 Main Group I/Detergent.md",
-        "content/Chemistry/General Chemistry/21 Main Group I/Soap.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Chemistry/General Chemistry/22 Main Group II": {
-      "children": [
-        "content/Chemistry/General Chemistry/22 Main Group II/22 Main Group II.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Chemistry/General Chemistry/23 Transition Metals": {
-      "children": [
-        "content/Chemistry/General Chemistry/23 Transition Metals/23 Transition Metals.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Chemistry/General Chemistry/24 Coordination Chemistry": {
-      "children": [
-        "content/Chemistry/General Chemistry/24 Coordination Chemistry/24 Coordination Chemistry.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Chemistry/General Chemistry/25 Nuclear Chemistry": {
-      "children": [
-        "content/Chemistry/General Chemistry/25 Nuclear Chemistry/25 Nuclear Chemistry.md"
       ],
       "sortOrder": "custom"
     },
@@ -1354,8 +1050,10 @@
     "content/Resources/Excalidraw": {
       "children": [
         "content/Resources/Excalidraw/Activated Complex.ecalidraw.md",
-        "content/Resources/Excalidraw/Lewis acid-base reaction.excalidraw.md",
-        "content/Resources/Excalidraw/Skeletal Structure.excalidraw.md"
+        "content/Resources/Excalidraw/Skeletal Structure.excalidraw.md",
+        "content/Resources/Excalidraw/Activated Complex.ecalidraw.svg",
+        "content/Resources/Excalidraw/Lewis acid-base reaction.excalidraw.svg",
+        "content/Resources/Excalidraw/Skeletal Structure.excalidraw.svg"
       ],
       "sortOrder": "custom"
     },
@@ -1363,7 +1061,6 @@
       "children": [
         "content/Resources/Images/Acid-Base_Indicator.png",
         "content/Resources/Images/Action_Potential_Diagram.png",
-        "content/Resources/Images/Alkali_Metals.png",
         "content/Resources/Images/Biomedical_Engineering_Map.png",
         "content/Resources/Images/Cell_Diagram.png",
         "content/Resources/Images/Chemical_Formula_of_Water.png",
@@ -1378,7 +1075,11 @@
         "content/Resources/Images/Self_Ionization_of_water.png",
         "content/Resources/Images/Solute_Types.png",
         "content/Resources/Images/Subshell_Orbitals.png",
-        "content/Resources/Images/Substrate.png"
+        "content/Resources/Images/Substrate.png",
+        "content/Resources/Images/Anatomical Position and Planes.png",
+        "content/Resources/Images/X-ray.png",
+        "content/Resources/Images/Abdction, Adduction and Rotation.png",
+        "content/Resources/Images/Flexion and Extension.png"
       ],
       "sortOrder": "custom"
     },
@@ -1404,12 +1105,151 @@
         "Templates/Concept Template.md",
         "Templates/Formula Template.md",
         "Templates/Symbol Template.md",
-        "Templates/Problem Template.md"
+        "Templates/Problem Template.md",
+        "Templates/Daily Note Template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Daily Notes": {
+      "children": [
+        "content/Daily Notes/2026-05-14.md",
+        "content/Daily Notes/2026-05-15.md",
+        "content/Daily Notes/2026-05-16.md",
+        "content/Daily Notes/2026-05-17.md",
+        "content/Daily Notes/2026-05-18.md",
+        "content/Daily Notes/2026-05-19.md",
+        "content/Daily Notes/2026-05-20.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "public/Daily-Notes": {
+      "children": [
+        "public/Daily-Notes/2026-05-14-og-image.webp",
+        "public/Daily-Notes/2026-05-14.html",
+        "public/Daily-Notes/2026-05-15-og-image.webp",
+        "public/Daily-Notes/2026-05-15.html",
+        "public/Daily-Notes/index.html"
+      ],
+      "sortOrder": "custom"
+    },
+    "public/Resources": {
+      "children": [
+        "public/Resources/Books",
+        "public/Resources/Excalidraw",
+        "public/Resources/Images",
+        "public/Resources/index.html"
+      ],
+      "sortOrder": "custom"
+    },
+    "public/Resources/Books": {
+      "children": [
+        "public/Resources/Books/A-Short-History-Of-Nearly-Everything.pdf",
+        "public/Resources/Books/Harry-Potter-And-The-Philosophers-Stone.pdf",
+        "public/Resources/Books/The-Runaway-Species.pdf",
+        "public/Resources/Books/index.html",
+        "public/Resources/Books/General-Chemistry-Principles-and-Modern-Applications.pdf",
+        "public/Resources/Books/Thumbnails"
+      ],
+      "sortOrder": "custom"
+    },
+    "public/Resources/Excalidraw": {
+      "children": [
+        "public/Resources/Excalidraw/Activated-Complex.ecalidraw-og-image.webp",
+        "public/Resources/Excalidraw/Activated-Complex.ecalidraw.html",
+        "public/Resources/Excalidraw/Lewis-acid-base-reaction.excalidraw-og-image.webp",
+        "public/Resources/Excalidraw/Lewis-acid-base-reaction.excalidraw.html",
+        "public/Resources/Excalidraw/Skeletal-Structure.excalidraw-og-image.webp",
+        "public/Resources/Excalidraw/Skeletal-Structure.excalidraw.html",
+        "public/Resources/Excalidraw/index.html"
+      ],
+      "sortOrder": "custom"
+    },
+    "public/Resources/Images": {
+      "children": [
+        "public/Resources/Images/Acid-Base_Indicator.png",
+        "public/Resources/Images/Action_Potential_Diagram.png",
+        "public/Resources/Images/Biomedical_Engineering_Map.png",
+        "public/Resources/Images/Cell_Diagram.png",
+        "public/Resources/Images/Chemical_Formula_of_Water.png",
+        "public/Resources/Images/Electron_Configuration.png",
+        "public/Resources/Images/Electronegativity.png",
+        "public/Resources/Images/Enthalpy_of_Solution.png",
+        "public/Resources/Images/Filling_of_Electronic_Subshells.png",
+        "public/Resources/Images/Periodic_Table.png",
+        "public/Resources/Images/Pressure_Units.png",
+        "public/Resources/Images/Reaction_Intermediate.png",
+        "public/Resources/Images/Reaction_Profile.png",
+        "public/Resources/Images/Self_Ionization_of_water.png",
+        "public/Resources/Images/Solute_Types.png",
+        "public/Resources/Images/Subshell_Orbitals.png",
+        "public/Resources/Images/Substrate.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "public/Resources/Books/Thumbnails": {
+      "children": [
+        "public/Resources/Books/Thumbnails/A-Short-History-of-Nearly-Everything-Special-Illustrated-Edition---Bill-Bryson.html",
+        "public/Resources/Books/Thumbnails/A-Short-History-of-Nearly-Everything-Special-Illustrated-Edition---Bill-Bryson-og-image.webp",
+        "public/Resources/Books/Thumbnails/Applied-Minds---Guru-Madhavan.html",
+        "public/Resources/Books/Thumbnails/General-Chemistry-Principles-and-Modern-Applications-og-image.webp",
+        "public/Resources/Books/Thumbnails/General-Chemistry-Principles-and-Modern-Applications.html",
+        "public/Resources/Books/Thumbnails/Applied-Minds---Guru-Madhavan-og-image.webp",
+        "public/Resources/Books/Thumbnails/Harry-Potter-and-the-Philosopher's-Stone---J-K-Rowling-og-image.webp",
+        "public/Resources/Books/Thumbnails/Harry-Potter-and-the-Philosopher's-Stone---J-K-Rowling.html",
+        "public/Resources/Books/Thumbnails/The-Runaway-Species---David-Eagleman-Anthony-Brandt.html",
+        "public/Resources/Books/Thumbnails/The-Runaway-Species---David-Eagleman-Anthony-Brandt-og-image.webp",
+        "public/Resources/Books/Thumbnails/index.html"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/00 Foundations": {
+      "children": [
+        "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+        "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+        "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
+        "content/Biology/Anatomy/00 Foundations/Anatomical Planes.md",
+        "content/Biology/Anatomy/00 Foundations/Imaging.md",
+        "content/Biology/Anatomy/00 Foundations/Bone.md",
+        "content/Biology/Anatomy/00 Foundations/Movement.md",
+        "content/Biology/Anatomy/00 Foundations/Muscle.md",
+        "content/Biology/Anatomy/00 Foundations/Nerve.md",
+        "content/Biology/Anatomy/00 Foundations/Tissue.md",
+        "content/Biology/Anatomy/00 Foundations/Vessels.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/03 Thorax.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/04 Abdomen": {
+      "children": [
+        "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/05 Head and Neck": {
+      "children": [
+        "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md"
       ],
       "sortOrder": "custom"
     }
   },
-  "sortOrder": "alphabetical",
+  "sortOrder": "byCreatedTimeReverse",
   "debugMode": false,
   "newItemPlacement": "bottom"
 }
