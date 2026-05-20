@@ -68,4 +68,17 @@ Inversion and eversion are used to describe the rotation of a structure towards 
 
 ### Opposition and Reposition
 
-A pair of movements that are limited to humans and some great apes, these te
+A pair of movements that are limited to humans and some great apes, these terms apply to the additional movements that the hand and thumb can perform in this species.
+
+**Opposition** Brings the thumb and the little finger together.
+
+**Reposition** is a movement that moves the thumb and the little finger away from each other, effectively reversing opposition.
+
+### Circumduction 
+
+**Circumduction** can be defined as a conical movement of a limb extending from the joint at which the movement is controlled.
+
+It is sometimes talked about as a circular motion, but it more accurately conical due to the cone formed by a moving limb.
+
+### Protraction and Retraction
+**Protraction** describes the anterolateral movement of the scapula on the thoracic wall that allows the shoulder to move aneri
