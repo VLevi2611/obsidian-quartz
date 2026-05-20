@@ -50,5 +50,11 @@ These terms also apply to the whole body - when lying flat on the back, the body
 
 ### Dorsiflexion and Plantarflexion
 
-Dorsiflexion and plantarflexion are terms used to describe movements at the ankle. They refer to the 2 surfaces of the foot; the dur
+Dorsiflexion and plantarflexion are terms used to describe movements at the ankle. They refer to the 2 surfaces of the foot; the dorsum (superior surface) and the plantar surface (the sole).
+
+**Dorsiflexion** refers to [[Movement#Flexion and Extension|Flexion]] at the ankle, so that the foot points more superiorly. Dorsiflexion of the wrist is the same as extension.
+
+**Plantarflexion** refers extension at the ankle, so that the foot points inferiorly. Similarly, there is a term for the hand, which is palmarflexion.
+
+![[Dorsiflexion and Plantarflexion.png]]
 
