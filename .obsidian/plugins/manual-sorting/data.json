@@ -1249,7 +1249,7 @@
       "sortOrder": "custom"
     }
   },
-  "sortOrder": "byCreatedTimeReverse",
+  "sortOrder": "byModifiedTime",
   "debugMode": false,
   "newItemPlacement": "bottom"
 }
