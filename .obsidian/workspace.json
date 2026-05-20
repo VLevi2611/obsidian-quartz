@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Bone.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bone"
+              "title": "Skeletal System"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Bone.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bone"
+              "title": "Outline of Skeletal System"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Bone.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bone"
+              "title": "Graph of Skeletal System"
             }
           }
         ]
@@ -303,8 +303,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c091af617cf3e9f3",
+  "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/Bone.md",
+    "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
     "content/Biology/Anatomy/00 Foundations/Muscle.md",
     "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Chemistry/General Chemistry/General Chemistry.md",
@@ -320,7 +322,6 @@
     "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
     "content/Resources/Images/Flexion and Extension.png",
     "content/Resources/Images/Abdction, Adduction and Rotation.png",
-    "content/Biology/Anatomy/00 Foundations/Bone.md",
     "content/Resources/Images/X-ray.png",
     "content/Resources/Images/Anatomical Position and Planes.png",
     "content/Daily Notes/2026-05-18.md",
@@ -337,7 +338,6 @@
     "content/Biology/Anatomy/05 Head and Neck",
     "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
     "content/Biology/Anatomy/04 Abdomen",
-    "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md",
     "content/Biology/Anatomy/03 Thorax",
     "content/Biology/Anatomy/02 Lower Limb",
     "content/Biology/Anatomy/01 Upper Limb",
