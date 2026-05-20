@@ -81,4 +81,6 @@ A pair of movements that are limited to humans and some great apes, these terms 
 It is sometimes talked about as a circular motion, but it more accurately conical due to the cone formed by a moving limb.
 
 ### Protraction and Retraction
-**Protraction** describes the anterolateral movement of the scapula on the thoracic wall that allows the shoulder to move aneri
+**Protraction** describes the anterolateral movement of the scapula on the thoracic wall that allows the shoulder to move anteriorly. In practice, this is the movement of reaching out to something.
+
+**Retraction** refers to the postermedial movement of the scapula on the thoracic wall, which causes the shoulder region to move posteriorly, picking up something.

@@ -8,5 +8,6 @@
     "quartz/",
     "node_modules/",
     "public/"
-  ]
+  ],
+  "attachmentFolderPath": "content/Resources/Images"
 }
