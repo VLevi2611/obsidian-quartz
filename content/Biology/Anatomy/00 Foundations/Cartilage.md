@@ -13,5 +13,6 @@ tags:
 There are 3 types of cartilage:
 - **Hyaline** - the most common. Matrix contains a moderate amount of collagen fibers.
 - **Elastic** - Matrix contains collagen fibers along with a large number of elastic fibers.
-- 
+- **Fibrocartilage** - Matrix contains a limited number of cells and ground [[Substance]] amidst a substantial amount of collagen fibers.
+Cartilage is nourished by diffusion and has no [[Vessels]], lymphatics or [[Nerve|Nerves]]
 
