@@ -58,3 +58,14 @@ Dorsiflexion and plantarflexion are terms used to describe movements at the ankl
 
 ![[Dorsiflexion and Plantarflexion.png]]
 
+### Inversion and Eversion
+
+Inversion and eversion are used to describe the rotation of a structure towards or away from a central axis or surface. While most commonly referring to movements of the foot, the terms are also used in other anatomical contexts. 
+
+**Inversion** involves turning the sole towards the midline of the body, so that it faces in a medial direction.
+
+**Eversion** involves turning the sole away from the midline, so that it faces in a lateral direction.
+
+### Opposition and Reposition
+
+A pair of movements that are limited to humans and some great apes, these te
