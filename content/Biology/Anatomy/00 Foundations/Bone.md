@@ -15,5 +15,7 @@ tags:
 ### Cellular Components
 
 There are 3 types of [[Cell|Cells]] in bone:
-- **Osteoblasts** - synthesise unclarcified/unmineralised extracellular matrix called osteoid. This will later become calcified/mineralised 
+- **Osteoblasts** - Synthesise unclarcified/unmineralised extracellular matrix called osteoid. This will later become calcified/mineralised to form bone.
+- Osteocytes - As the osteoid mineralises, the osteoblasts become entombed between lamellae in lacunae where they mature into osteocytes. They then monitor the [[Mineral|Minerals]] and [[Proteins]] to regulate bone [[Mass]].
+- **Osteoclasts** - Derived from monocytes and resorb bone by releasing $\ce{H+}$ [[Ion|Ions]] and lysosomal enzymes. They are large and polynucleated cells.
 
