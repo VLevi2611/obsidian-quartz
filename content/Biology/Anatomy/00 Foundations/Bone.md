@@ -13,4 +13,4 @@ tags:
 - Levers on which [[Muscle|Muscles]] act to produce [[Movement]].
 - Containers for blood producing cells.
 
-There are 2 types of bone, compact and spongy
+There are 2 types of bone, compact and spongy (trabecular or cancellous). **Compa**
