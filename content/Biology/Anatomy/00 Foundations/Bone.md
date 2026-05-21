@@ -13,4 +13,40 @@ tags:
 - Levers on which [[Muscle|Muscles]] act to produce [[Movement]].
 - Containers for blood producing cells.
 
-There are 2 types of bone, compact and spongy (trabecular or cancellous). **Compact** bone is dense bone that forms the outer shell of all bones and surrounds spongy bone
+There are 2 types of bone, compact and spongy (trabecular or cancellous). **Compact** bone is dense bone that forms the outer shell of all bones and surrounds spongy bone. **Spongy bone** consists of spicules of bone enclosing cavities containing blood forming cells (marrow). Classification 
+
+
+
+ Classifi-
+
+cation of bones is by shape.
+
+■
+
+■
+
+■
+
+■
+
+■
+
+Long bones are tubular (e.g., humerus in upper limb;
+
+femur in lower limb).
+
+Short bones are cuboidal (e.g., bones of the wrist and
+
+ankle).
+
+Flat bones consist of two compact bone plates separated
+
+by spongy bone (e.g., skull).
+
+Irregular bones are bones with various shapes (e.g.,
+
+bones of the face).
+
+Sesamoid bones are round or oval bones that develop in
+
+tendons.
