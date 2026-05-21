@@ -17,18 +17,8 @@ There are 2 types of bone, compact and spongy (trabecular or cancellous). **Comp
 - **Long bones** are tubular ([[Humerus]], [[Femur]]).
 - **Short bones** are cuboidal (bones of the wrist and ankle).
 - **Flat bones** consists of 2 compact bone plates separated by spongy bone (skull).
-- ****
+- **Irregular bones** are bones with various shapes (bones of the face).
+- **Sesamoid bones** are are round or oval bones that develop in tendons. 
 
+Bones are vascular and are innervated (have [[Vessels]] and [[Nerve|Nerves]])
 
-
-Flat bones consist of two compact bone plates separated
-
-by spongy bone (e.g., skull).
-
-Irregular bones are bones with various shapes (e.g.,
-
-bones of the face).
-
-Sesamoid bones are round or oval bones that develop in
-
-tendons.
