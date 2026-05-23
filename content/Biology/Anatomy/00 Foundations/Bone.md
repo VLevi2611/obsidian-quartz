@@ -20,5 +20,5 @@ There are 2 types of bone, compact and spongy (trabecular or cancellous). **Comp
 - **Irregular bones** are bones with various shapes (bones of the face).
 - **Sesamoid bones** are are round or oval bones that develop in tendons. 
 
-Bones are vascular and are innervated (have [[Vessels]] and [[Nerve|Nerves]]).
+Bones are vascular and are innervated (have [[Blood Vessels]] and [[Nerve|Nerves]]).
 

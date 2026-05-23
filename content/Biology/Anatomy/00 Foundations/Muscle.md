@@ -4,7 +4,7 @@ tags:
   - biology
   - anatomy
 ---
-## Overview
+## Definition
 
 **Muscle** is a specialized contractile [[Tissue]] responsible for [[Movement]], posture, stabilization, and [[Heat]] production. Muscles work together with the [[Skeletal System]] and nervous systems to produce both voluntary and involuntary body functions.
 The **muscular system** contains more than 600 muscles and contributes significantly to total body [[Mass]]. Muscles are composed of elongated cells called **muscle fibers** that are capable of contraction in response to nervous stimulation. 
@@ -24,7 +24,7 @@ The body contains three primary muscle types:
 
 ### Smooth Muscle
 
-[[Smooth Muscle]] is found within the walls of hollow organs and blood [[Vessels]]. Unlike skeletal muscle, smooth muscle lacks visible striations and operates involuntarily under autonomic nervous system control. The intestinal wall, blood vessels, and bladder are examples of smooth muscles.
+[[Smooth Muscle]] is found within the walls of hollow organs and blood [[Blood Vessels]]. Unlike skeletal muscle, smooth muscle lacks visible striations and operates involuntarily under autonomic nervous system control. The intestinal wall, blood vessels, and bladder are examples of smooth muscles.
 
 ## Functions of Muscle
 
@@ -49,5 +49,4 @@ Individual muscle fibers are surrounded by connective tissue layers:
 - Endomysium- surrounds individual fibers
 - Perimysium- surrounds fascicles
 - Epimysium- surrounds the entire muscle
-
-These connective tissues provide protection, organization, and force transmission.
+These connective tissues provide protection, organization, and [[Force]] transmission.

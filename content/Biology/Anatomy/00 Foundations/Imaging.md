@@ -27,7 +27,7 @@ For some patients it is necessary to inject contrast agents directly into arteri
 
 ### Subtraction Angiography
 
-One or 2 images are obtained before the injection of contrast media. These images are inverted (such that a negative is created from the positive image). After injection of the contrast media into the [[Vessels]], a further series of images are obtained, demonstrating the passage of the contrast through the arteries into the veins and around the circulation.
+One or 2 images are obtained before the injection of contrast media. These images are inverted (such that a negative is created from the positive image). After injection of the contrast media into the [[Blood Vessels]], a further series of images are obtained, demonstrating the passage of the contrast through the arteries into the veins and around the circulation.
 
 ### Ultrasound
 
