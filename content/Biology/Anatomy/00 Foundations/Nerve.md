@@ -74,24 +74,18 @@ Nerves transmit action potentials through rapid electrical and chemical signalin
 - Organ regulation
 - Communication between body systems
 
----
+## Autonomic Nervous System
 
-# Autonomic Nervous System
-
-The [[Autonomic Nervous System]] regulates involuntary functions.
-
-## Divisions
+The [[Autonomic Nervous System]] regulates involuntary functions. It is made up of 2 systems.
 
 ### Sympathetic System
-Associated with:
+
 - Fight-or-flight responses
 - Increased heart rate
 - Increased blood pressure
 
 ### Parasympathetic System
-Associated with:
+
 - Rest-and-digest functions
-- Energy conservation
+- [[Energy]] conservation
 - Digestion
-
-
