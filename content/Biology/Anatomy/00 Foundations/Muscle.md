@@ -24,7 +24,7 @@ The body contains three primary muscle types:
 
 ### Smooth Muscle
 
-[[Smooth Muscle]] is found within the walls of hollow organs and blood [[Blood Vessels]]. Unlike skeletal muscle, smooth muscle lacks visible striations and operates involuntarily under autonomic nervous system control. The intestinal wall, blood vessels, and bladder are examples of smooth muscles.
+[[Smooth Muscle]] is found within the walls of hollow organs and [[Blood Vessels]]. Unlike skeletal muscle, smooth muscle lacks visible striations and operates involuntarily under autonomic nervous system control. The intestinal wall, blood vessels, and bladder are examples of smooth muscles.
 
 ## Functions of Muscle
 

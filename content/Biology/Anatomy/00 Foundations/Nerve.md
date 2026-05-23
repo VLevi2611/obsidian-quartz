@@ -8,57 +8,30 @@ tags:
 
 **Nerve** structures are specialized bundles of fibers responsible for transmitting electrical signals throughout the body. The nervous system coordinates sensation, [[Movement]], autonomic regulation, cognition, and communication between different body regions.
 Nerves function as part of the [[Nervous System]], connecting the [[Brain]] and the spinal cord to [[Muscle|Muscles]], organs, [[Blood Vessels]], glands, and sensory receptors. Through rapid electrical signaling, nerves allow the body to respond to both internal and external stimuli.
-The nervous system is divided into the [[Central Nervous System]] (CNS), consisting of the brain and spinal cord, and the [[Peripheral Nervous System]] (PNS), which includes all nerves extending beyond the CNS.
 
----
+## Organization of the Nervous System
 
-# Organization of the Nervous System
+### Central Nervous System
 
-## Central Nervous System
-
-The [[Central Nervous System]] consists of:
+The [[Central Nervous System]] (CNS) consists of:
 - Brain
 - Spinal cord
-
 The CNS processes sensory information, generates responses, and coordinates higher cognitive functions.
 
----
+### Peripheral Nervous System
 
-## Peripheral Nervous System
-
-The [[Peripheral Nervous System]] contains nerves extending from the CNS to the rest of the body.
-
-### Components
+The [[Peripheral Nervous System]] (PNS) contains nerves extending from the CNS to the rest of the body. It is made up from
 - Cranial nerves
 - Spinal nerves
 - Peripheral nerves
 
-Examples:
-- [[Radial Nerve]]
-- [[Median Nerve]]
-- [[Ulnar Nerve]]
-- [[Sciatic Nerve]]
+## Structure of a Nerve
 
----
-
-# Structure of a Nerve
-
-Peripheral nerves are composed of bundles of axons surrounded by connective tissue.
-
-## Main Components
-- Axons
-- Myelin sheath
-- Schwann cells
-- Connective tissue layers
-
-### Connective Tissue Layers
-- Endoneurium → surrounds individual axons
-- Perineurium → surrounds fascicles
-- Epineurium → surrounds the entire nerve
-
+Peripheral nerves are composed of bundles of axons surrounded by connective [[Tissue]].
+- Endoneurium- surrounds individual axons
+- Perineurium- surrounds fascicles
+- Epineurium- surrounds the entire nerve
 This organization protects nerve fibers and supports signal transmission.
-
----
 
 # Types of Nerves
 
