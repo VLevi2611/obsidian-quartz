@@ -33,66 +33,46 @@ Peripheral nerves are composed of bundles of axons surrounded by connective [[Ti
 - Epineurium- surrounds the entire nerve
 This organization protects nerve fibers and supports signal transmission.
 
-# Types of Nerves
+## Types of Nerves
 
-## Sensory Nerves
+### Sensory Nerves
 
-[[Sensory Nerve]] fibers carry information from receptors to the CNS.
-
-### Examples of Sensory Information
+[[Sensory Nerve]] fibers carry information from receptors to the CNS. Examples of Sensory Information:
 - Touch
 - Pain
-- Temperature
+- [[Temperature]]
 - Proprioception
 
----
+### Motor Nerves
 
-## Motor Nerves
-
-[[Motor Nerve]] fibers transmit signals from the CNS to muscles and glands.
-
-Motor innervation controls:
-- Skeletal muscle contraction
+[[Motor Nerve]] fibers transmit signals from the CNS to muscles and glands. Motor innervation controls:
+- [[Skeletal Muscle]] contraction
 - Movement
 - Reflexes
 
----
+### Mixed Nerves
 
-## Mixed Nerves
-
-Most peripheral nerves contain both sensory and motor fibers.
-
-Examples:
+Most peripheral nerves contain both sensory and motor fibers. Examples of mixed nerves:
 - [[Median Nerve]]
 - [[Ulnar Nerve]]
 - [[Sciatic Nerve]]
 
----
-
-# Myelin
+## Myelin
 
 Many nerve fibers are surrounded by [[Myelin]], a lipid-rich insulating layer that increases the speed of electrical conduction.
-
-## Myelinating Cells
-- Schwann cells → PNS
-- Oligodendrocytes → CNS
-
+Myelinating Cells
+- Schwann cells- PNS
+- Oligodendrocytes- CNS
 Loss of myelin impairs signal transmission.
 
----
+## Nerve Function
 
-# Nerve Function
-
-Nerves transmit action potentials through rapid electrical and chemical signaling.
-
-## Main Functions
+Nerves transmit action potentials through rapid electrical and chemical signaling. Main Functions:
 - Sensory perception
 - Motor control
 - Reflex activity
 - Organ regulation
 - Communication between body systems
-
-Nerves interact closely with [[Muscle]], [[Blood Vessels]], glands, and sensory receptors.
 
 ---
 
@@ -113,54 +93,5 @@ Associated with:
 - Rest-and-digest functions
 - Energy conservation
 - Digestion
-
----
-
-# Clinical Relevance
-
-Nerve injury may impair sensation, movement, or autonomic regulation.
-
-## Common Conditions
-- Peripheral neuropathy
-- Nerve compression
-- Paralysis
-- Demyelinating disease
-- Radiculopathy
-
-### Examples
-- Carpal tunnel syndrome → [[Median Nerve]]
-- Wrist drop → [[Radial Nerve]] injury
-
----
-
-# Imaging & Diagnosis
-
-Nerves may be evaluated using:
-- MRI
-- Ultrasound
-- Electromyography (EMG)
-- Nerve conduction studies
-
-These methods help identify:
-- Compression
-- Inflammation
-- Trauma
-- Degeneration
-
----
-
-# Related Concepts
-- [[Muscle]]
-- [[Movement]]
-- [[Bone]]
-- [[Tissue]]
-- [[Central Nervous System]]
-- [[Peripheral Nervous System]]
-- [[Autonomic Nervous System]]
-- [[Myelin]]
-- [[Radial Nerve]]
-- [[Median Nerve]]
-- [[Ulnar Nerve]]
-
 
 
