@@ -16,7 +16,7 @@ The body contains three primary muscle types:
 
 ### Skeletal Muscle
 
-[[Skeletal Muscle]] is attached to bones through tendons and is responsible for voluntary movement. Skeletal muscle fibers appear striated under microscopy due to their organized internal structure. These muscles allow locomotion, posture maintenance, breathing, and fine motor control. [[Biceps Brachii]], [[Triceps Brachii]], and [[Deltoid]] are examples for skeletal muscles
+[[Skeletal Muscle]] is attached to bones through tendons and is responsible for voluntary movement. Skeletal muscle fibers appear striated under microscopy due to their organized internal structure. These muscles allow locomotion, posture maintenance, breathing, and fine motor control. [[Biceps Brachii]], [[Triceps Brachii]], and [[Deltoid]] are examples of skeletal muscles
 
 ### Cardiac Muscle
 
@@ -24,38 +24,30 @@ The body contains three primary muscle types:
 
 ### Smooth Muscle
 
-[[Smooth Muscle]] is found within the walls of hollow organs and blood [[Vessels]]. Unlike skeletal muscle, smooth muscle lacks visible striations and operates involuntarily under autonomic nervous system control. 
+[[Smooth Muscle]] is found within the walls of hollow organs and blood [[Vessels]]. Unlike skeletal muscle, smooth muscle lacks visible striations and operates involuntarily under autonomic nervous system control. The intestinal wall, blood vessels, and bladder are examples of smooth muscles.
 
-Examples:
-- Intestinal wall
-- Blood vessels
-- Bladder
-
----
-
-# Functions of Muscle
+## Functions of Muscle
 
 Muscles perform several major physiological functions:
-
 - Produce body movement
 - Maintain posture and balance
 - Stabilize joints
 - Assist respiration
 - Generate heat
 - Support circulation and organ function
+Skeletal muscles specifically act as levers by pulling on bone structures across joints. 
 
-Skeletal muscles specifically act as levers by pulling on [[Bone]] structures across joints. :contentReference[oaicite:5]{index=5}
-
----
-
-# Structural Organization
+## Structural Organization
 
 Skeletal muscles are organized hierarchically:
-
-```text
 Muscle
-  → Fascicles
-    → Muscle Fibers
-      → Myofibrils
-        → Sarcomeres
+	Fascicles
+		Muscle Fibers
+			Myofibrils
+				Sarcomeres
+Individual muscle fibers are surrounded by connective tissue layers:
+- Endomysium- surrounds individual fibers
+- Perimysium- surrounds fascicles
+- Epimysium- surrounds the entire muscle
 
+These connective tissues provide protection, organization, and force transmission.
