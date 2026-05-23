@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Bone.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Muscle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bone"
+              "title": "Muscle"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ec532f3f6cd40b1b",
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Bone.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Muscle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bone"
+              "title": "Outline of Muscle"
             }
           },
           {
@@ -188,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Bone.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Muscle.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -280,15 +279,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bone"
+              "title": "Graph of Muscle"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,22 +305,22 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/Tissue.md",
+    "content/Biology/Anatomy/00 Foundations/Vessels.md",
+    "content/Biology/Anatomy/00 Foundations/Nerve.md",
+    "content/Biology/Anatomy/00 Foundations/Muscle.md",
+    "content/Biology/Anatomy/00 Foundations/Imaging.md",
+    "content/Biology/Anatomy/00 Foundations/Movement.md",
     "content/Biology/Anatomy/00 Foundations/Cartilage.md",
     "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
-    "content/Resources/Images/Skeletal System.png",
     "content/Biology/Anatomy/00 Foundations/Bone.md",
-    "content/Biology/Anatomy/00 Foundations/Muscle.md",
+    "content/Resources/Images/Skeletal System.png",
     "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Chemistry/General Chemistry/General Chemistry.md",
     "content/Chemistry/General Chemistry/09 Periodic Trends/09 Periodic Trends.md",
-    "content/Biology/Anatomy/00 Foundations/Movement.md",
     "content/Daily Notes/2026-05-20.md",
     "content/Resources/Images/Dorsiflexion and Plantarflexion.png",
     "content/Daily Notes/2026-05-19.md",
-    "content/Biology/Anatomy/00 Foundations/Imaging.md",
-    "content/Biology/Anatomy/00 Foundations/Nerve.md",
-    "content/Biology/Anatomy/00 Foundations/Tissue.md",
-    "content/Biology/Anatomy/00 Foundations/Vessels.md",
     "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
     "content/Resources/Images/Flexion and Extension.png",
     "content/Resources/Images/Abdction, Adduction and Rotation.png",
