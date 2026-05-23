@@ -8,9 +8,9 @@ tags:
 
 ## Overview
 
-[[Muscle]] is a specialized contractile tissue responsible for movement, posture, stabilization, and heat production. Muscles work together with the skeletal and nervous systems to produce both voluntary and involuntary body functions.
+**Muscle** is a specialized contractile [[Tissue]] responsible for [[Movement]], posture, stabilization, and [[Heat]] production. Muscles work together with the [[Skeletal System]] and nervous systems to produce both voluntary and involuntary body functions.
 
-The muscular system contains more than 600 muscles and contributes significantly to total body mass. Muscles are composed of elongated cells called muscle fibers that are capable of contraction in response to nervous stimulation. :contentReference[oaicite:0]{index=0}
+The **muscular system** contains more than 600 muscles and contributes significantly to total body [[Mass]]. Muscles are composed of elongated cells called **muscle fibers** that are capable of contraction in response to nervous stimulation. :contentReference[oaicite:0]{index=0}
 
 Muscles function as part of the [[Musculoskeletal System]], interacting with [[Bone]], [[Nerve]], connective tissues, tendons, and joints to generate movement and maintain structural support. :contentReference[oaicite:1]{index=1}
 
