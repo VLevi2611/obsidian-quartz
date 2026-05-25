@@ -40,64 +40,30 @@ Connective tissue is the most abundant and widely distributed tissue type. Unlik
 **Major Categories:**
 - **Connective Tissue Proper** – Includes loose connective tissue (e.g., adipose/fat) and dense connective tissue (e.g., tendons and ligaments).
 - **Fluid Connective Tissues** – Blood and lymph.
-- **Supporting Connective Tissues** – Cartilage and Bone.
+- **Supporting Connective Tissues** – [[Cartilage]] and [[Bone]].
 
 ### Muscle Tissue
 
-Muscle tissue is highly vascularized and consists of elongated cells (muscle fibers) specialized for contraction using actin and myosin filaments.
+Muscle tissue is highly vascularized and consists of elongated cells ([[Muscle]] fibers) specialized for contraction using actin and myosin filaments.
 
 **Types of Muscle Tissue:**
-
 - **Skeletal Muscle** – Striated, voluntary, and attached to bones for movement.
-    
 - **Cardiac Muscle** – Striated, involuntary, found exclusively in the heart wall, featuring intercalated discs.
-    
 - **Smooth Muscle** – Non-striated, involuntary, found in the walls of hollow organs (e.g., Blood Vessels, stomach).
-    
 
 ### Nervous Tissue
 
-Nervous tissue makes up the Brain, spinal cord, and peripheral nerves. It is specialized for rapid communication.
+Nervous tissue makes up the Brain, spinal cord, and peripheral [[Nerve|Nerves]]. It is specialized for rapid communication.
 
 **Primary Cell Types:**
-
 - **Neurons** – Excitable cells that generate and transmit electrical impulses.
-    
 - **Neuroglia (Glial cells)** – Non-conducting cells that support, insulate, and protect neurons.
-    
 
 ## Tissue Function
 
-Tissues coordinate to maintain homeostasis and execute macro-level biological processes. Main Functions:
-
+Tissues coordinate to maintain [[Homeostasis]] and execute macro-level biological processes. Main Functions:
 - **Protection** – Epithelium shields internal structures from physical trauma and pathogens.
-    
 - **Support and Framework** – Connective tissues like bone and cartilage provide the body's structural scaffolding.
-    
 - **Movement** – Skeletal, cardiac, and smooth muscle tissues drive voluntary and involuntary locomotion.
-    
 - **Transport and Integration** – Blood transports nutrients and gases, while nervous tissue integrates systemic communication.
-    
 - **Permeability and Secretion** – Epithelial membranes control absorption (e.g., intestines) and secretion (e.g., glands).
-    
-
-## The Extracellular Matrix (ECM)
-
-The Extracellular Matrix is the non-cellular component present within all tissues, dictating the tissue's physical properties. It consists of two main components:
-
-### Ground Substance
-
-- An amorphous, gelatinous fluid filling the spaces between cells and fibers.
-    
-- Composed of water, glycosaminoglycans (GAGs), and glycoproteins.
-    
-- Resists compression and acts as a medium for nutrient exchange.
-    
-
-### Protein Fibers
-
-- **Collagen fibers** – Provide high tensile strength (prevents tearing).
-    
-- **Elastic fibers** – Provide flexibility and elasticity (allows stretch and recoil).
-    
-- **Reticular fibers** – Form a fine, structural meshwork to support soft organs like the spleen and liver.

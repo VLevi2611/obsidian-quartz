@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tissue"
+              "title": "Extracellular Matrix"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tissue"
+              "title": "Outline of Extracellular Matrix"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tissue"
+              "title": "Graph of Extracellular Matrix"
             }
           }
         ]
@@ -305,9 +305,10 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/Tissue.md",
+    "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
     "content/Daily Notes/2026-05-23.md",
     "content/Biology/Anatomy/00 Foundations/Nerve.md",
-    "content/Biology/Anatomy/00 Foundations/Tissue.md",
     "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/Anatomy/00 Foundations/Muscle.md",
     "content/Biology/Anatomy/00 Foundations/Blood Vessels.md",
@@ -336,7 +337,6 @@
     "content/index.md",
     "content/Biology/Biology.md",
     "content/Biology/Anatomy/Anatomy.md",
-    "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md",
     "content/Biology/Anatomy/05 Head and Neck",
     "content/Biology/Anatomy/04 Abdomen",
     "content/Biology/Anatomy/03 Thorax",
