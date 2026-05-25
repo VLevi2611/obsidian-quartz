@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Imaging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extracellular Matrix"
+              "title": "Imaging"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "extracellular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Imaging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Extracellular Matrix"
+              "title": "Outline of Imaging"
             }
           },
           {
@@ -187,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Imaging.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Extracellular Matrix"
+              "title": "Graph of Imaging"
             }
           }
         ]
@@ -305,8 +306,9 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
-    "content/Biology/Anatomy/00 Foundations/Tissue.md",
+    "content/Biology/Anatomy/00 Foundations/Cartilage.md",
     "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
+    "content/Biology/Anatomy/00 Foundations/Tissue.md",
     "content/Daily Notes/2026-05-23.md",
     "content/Biology/Anatomy/00 Foundations/Nerve.md",
     "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
@@ -314,7 +316,6 @@
     "content/Biology/Anatomy/00 Foundations/Blood Vessels.md",
     "content/Biology/Anatomy/00 Foundations/Imaging.md",
     "content/Biology/Anatomy/00 Foundations/Bone.md",
-    "content/Biology/Anatomy/00 Foundations/Cartilage.md",
     "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
     "content/Biology/Anatomy/00 Foundations/Movement.md",
     "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
