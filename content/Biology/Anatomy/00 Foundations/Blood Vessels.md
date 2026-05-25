@@ -61,23 +61,9 @@ This layer is significantly thicker in arteries than in veins to withstand highe
 ## Blood Vessel Function and Hemodynamics
 
 Blood vessels rely on physical and mechanical principles to maintain proper blood distribution:
-
-- **Perfusion and Exchange:** Capillaries utilize simple diffusion, filtration, and osmosis to exchange oxygen, glucose, and ions for carbon dioxide and cellular waste.
-    
+- **Perfusion and Exchange:** Capillaries utilize simple diffusion, filtration, and [[Osmosis]] to exchange oxygen, glucose, and [[Ion|Ions]] for carbon dioxide and cellular waste.
 - **Pressure Management:** Arteries act as pressure reservoirs. Their highly elastic walls expand during cardiac contraction (systole) and recoil during cardiac relaxation (diastole), smoothing out pressure fluctuations to maintain continuous blood flow.
-    
-- **Venous Return:** Because blood pressure in veins is too low to fight gravity, veins utilize two mechanical aids:
-    
-    - **Venous Valves:** Flaps of tissue that keep blood moving in one direction (toward the heart).
-        
-    - **Skeletal Muscle Pump:** Surrounding skeletal muscles contract during movement, physically squeezing veins to push blood upward.
-        
-
-## Biomedical Engineering Relevance
-
-- **Vascular Grafts:** Designing synthetic conduits (e.g., Dacron, PTFE) or tissue-engineered blood vessels (TEBVs) to bypass blocked arteries. A major hurdle is matching the mechanical compliance (elasticity) of native vessels to prevent graft failure.
-    
-- **Atherosclerosis and Fluid Dynamics:** BMEs study fluid shear stress—the frictional force exerted by flowing blood on the endothelium. Plaque tends to form in areas of turbulent, low-shear flow (like vessel branches or bends).
-    
-- **Angiogenesis:** The growth of new blood vessels. Engineers study this to design scaffolds that encourage blood vessel growth into engineered tissues, ensuring implant survival.
+- **Venous Return:** Because blood pressure in veins is too low to fight [[Gravity]], veins utilize two mechanical aids:
+	1. **Venous Valves:** Flaps of tissue that keep blood moving in one direction (toward the heart).
+    2. **Skeletal Muscle Pump:** Surrounding skeletal muscles contract during [[Movement]], physically squeezing veins to push blood upward.
 
