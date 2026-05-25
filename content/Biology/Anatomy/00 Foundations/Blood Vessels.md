@@ -19,13 +19,11 @@ The vascular system is a closed loop organized into three primary types of vesse
 
 ### 2. Capillaries
 
-- The smallest and most microscopic blood vessels, forming intricate networks (capillary beds) within tissues.
-They connect arterioles to venules and feature ultra-thin walls to facilitate the exchange of gases, nutrients, and wastes between blood and surrounding tissues.
+The smallest and most microscopic blood vessels, forming intricate networks (capillary beds) within tissues. They connect arterioles to venules and feature ultra-thin walls to facilitate the exchange of [[Gas|Gases]], nutrients, and wastes between blood and surrounding tissues.
 
 ### 3. Veins and Venules
 
 - **Venules:** Small vessels that collect blood from capillaries and drain into larger veins.
-    
 - **Veins:** Low-pressure vessels that return deoxygenated blood back _toward_ the heart (with the exception of pulmonary veins). They act as a major blood reservoir, holding roughly 60% of the body's total blood volume at any given time.
     
 
@@ -35,30 +33,21 @@ With the exception of capillaries, the walls of blood vessels are organized into
 
 ### Tunica Intima (Inner Layer)
 
-- **Composition:** A single layer of specialized squamous epithelium called **endothelium**, resting on a thin basement membrane.
-    
-- **Function:** Provides a smooth, friction-reducing surface for blood flow. Endothelial cells act as a critical semi-permeable barrier and secrete chemicals that regulate vascular contraction and clotting.
-    
+**Composition:** A single layer of specialized squamous epithelium called **endothelium**, resting on a thin basement [[Membrane]].    
+**Function:** Provides a smooth, friction-reducing surface for blood flow. Endothelial cells act as a critical semi-permeable barrier and secrete chemicals that regulate vascular contraction and clotting.    
 
 ### Tunica Media (Middle Layer)
 
-- **Composition:** Smooth muscle cells arranged circularly, interspersed with sheets of elastic fibers (elastin).
-    
-- **Function:** Regulates vessel diameter. Controlled by the sympathetic branch of the Autonomic Nervous System:
-    
-    - **Vasoconstriction:** Smooth muscle contracts, narrowing the lumen and increasing blood pressure.
-        
-    - **Vasodilation:** Smooth muscle relaxes, widening the lumen and decreasing blood pressure.
-        
-- _Note:_ This layer is significantly thicker in arteries than in veins to withstand higher hydrostatic pressures.
-    
+**Composition:** Smooth muscle cells arranged circularly, interspersed with sheets of elastic fibers (elastin).    
+**Function:** Regulates vessel diameter. Controlled by the sympathetic branch of the Autonomic Nervous System:    
+- **Vasoconstriction:** Smooth muscle contracts, narrowing the lumen and increasing blood pressure.        
+- **Vasodilation:** Smooth muscle relaxes, widening the lumen and decreasing blood pressure.     
+This layer is significantly thicker in arteries than in veins to withstand higher hydrostatic pressures.    
 
 ### Tunica Externa (Outer Layer / Adventitia)
 
-- **Composition:** Loose Connective Tissue composed primarily of collagen fibers.
-    
-- **Function:** Protects and stabilizes the vessel, anchoring it to surrounding organs and tissues. In larger vessels, this layer contains its own tiny blood vessels (the _vasa vasorum_) to supply the outer wall cells.
-    
+**Composition:** Loose Connective Tissue composed primarily of collagen fibers.
+**Function:** Protects and stabilizes the vessel, anchoring it to surrounding organs and tissues. In larger vessels, this layer contains its own tiny blood vessels (the _vasa vasorum_) to supply the outer wall cells.    
 
 ## Structural Comparison of Vessel Types
 
