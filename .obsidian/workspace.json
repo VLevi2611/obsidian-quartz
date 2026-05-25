@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Blood Vessels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Foundations"
+              "title": "Blood Vessels"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Blood Vessels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 Foundations"
+              "title": "Outline of Blood Vessels"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Blood Vessels.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 00 Foundations"
+              "title": "Graph of Blood Vessels"
             }
           }
         ]
@@ -305,13 +305,14 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Daily Notes/2026-05-25.md",
+    "content/Daily Notes/2026-05-23.md",
     "content/Biology/Anatomy/00 Foundations/Tissue.md",
+    "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/Anatomy/00 Foundations/Imaging.md",
     "content/Biology/Anatomy/00 Foundations/Cartilage.md",
     "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
-    "content/Daily Notes/2026-05-23.md",
     "content/Biology/Anatomy/00 Foundations/Nerve.md",
-    "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/Anatomy/00 Foundations/Muscle.md",
     "content/Biology/Anatomy/00 Foundations/Blood Vessels.md",
     "content/Biology/Anatomy/00 Foundations/Bone.md",
@@ -336,7 +337,6 @@
     "content/Biology/Anatomy/00 Foundations/Anatomical Planes.md",
     "content/index.md",
     "content/Biology/Biology.md",
-    "content/Biology/Anatomy/Anatomy.md",
     "content/Biology/Anatomy/05 Head and Neck",
     "content/Biology/Anatomy/04 Abdomen",
     "content/Biology/Anatomy/03 Thorax",
