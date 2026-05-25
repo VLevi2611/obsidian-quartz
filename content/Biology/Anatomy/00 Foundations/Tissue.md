@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-**Tissue** structures are groups of similar cells and their extracellular matrix that work together to perform a specialized function. Tissues form the structural and functional building blocks of organs, serving as the intermediate level of organization between individual cells and complete organ systems.
+**Tissue** structures are groups of similar cells and their [[Extracellular Matrix]] that work together to perform a specialized function. Tissues form the structural and functional building blocks of organs, serving as the intermediate level of organization between individual cells and complete organ systems.
 Tissues allow the body to compartmentalize functions, provide mechanical support, facilitate communication, and protect the internal environment.
 
 ## Organization of Tissue Types

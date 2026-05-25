@@ -18,12 +18,10 @@ The body is composed of specialized [[Tissue]] types organized into organs and s
 
 The skeletal framework of the body is formed by [[Bone]], a rigid connective tissue responsible for support, protection, mineral storage, and movement leverage. Bones articulate at joints and provide attachment sites for muscles and connective tissues.
 
-Movement of the body is produced primarily by [[Muscle]], a contractile tissue capable of generating [[Force]]. Skeletal muscles act on bones through tendons to create voluntary [[Movement]]. Common anatomical movements include flexion, extension, abduction, adduction, and rotation.
+[[Movement]] of the body is produced primarily by [[Muscle]], a contractile tissue capable of generating [[Force]]. Skeletal muscles act on bones through tendons to create voluntary movement. Common anatomical movements include flexion, extension, abduction, adduction, and rotation.
 
 Control and coordination of bodily activity are mediated by [[Nerve]] structures. The nervous system transmits electrical signals responsible for sensory perception, motor control, and autonomic regulation. Peripheral nerves connect the central nervous system to muscles, organs, and skin.
 
 Transport throughout the body occurs through [[Blood Vessels]], including arteries, veins, and lymphatic vessels. Blood vessels distribute oxygen, nutrients, hormones, and immune cells while removing metabolic waste products.
 
 Modern anatomy is closely integrated with [[Imaging]] techniques, which allow visualization of internal structures in living patients. Common modalities include X-ray, CT, MRI, and ultrasound. Imaging provides both diagnostic and anatomical information and is essential in clinical medicine.
-
-Together, the concepts introduced in Foundations establish the language and structural principles required for the study of regional anatomy, organ systems, physiology, pathology, and clinical medicine.
