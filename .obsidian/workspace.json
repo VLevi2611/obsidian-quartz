@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Daily Notes/2026-05-23.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-23"
+              "title": "Tissue"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Daily Notes/2026-05-23.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-23"
+              "title": "Outline of Tissue"
             }
           },
           {
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Daily Notes/2026-05-23.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2026-05-23"
+              "title": "Graph of Tissue"
             }
           }
         ]
@@ -305,8 +305,8 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
-    "content/Biology/Anatomy/00 Foundations/Nerve.md",
     "content/Daily Notes/2026-05-23.md",
+    "content/Biology/Anatomy/00 Foundations/Nerve.md",
     "content/Biology/Anatomy/00 Foundations/Tissue.md",
     "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/Anatomy/00 Foundations/Muscle.md",
