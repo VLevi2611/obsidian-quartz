@@ -24,19 +24,18 @@ Homeostasis is maintained through **feedback systems**, which are cycles of even
 
 - **Receptor** - a body structure that monitors changes and sends input (impulses or signals) to a control center.
 - **Control Center** - (typically the [[Brain]]) sets the range of values, evaluates input, and generates output commands.
-- **Effector** - a body structure, such as a muscle or gland, that receives output and produces a response to change the condition.
+- **Effector** - a body structure, such as a [[Muscle]] or gland, that receives output and produces a response to change the condition.
 
 ### Types of Feedback
 
-### Negative Feedback
+#### Negative Feedback
 
 [[Negative Feedback]] systems **reverse** a change in a controlled condition to return it to a "set point". Examples include:
-
 - Regulation of [[Blood Pressure]].
 - Control of **Body Temperature**.
 - Maintenance of blood glucose levels.
 
-Positive Feedback
+#### Positive Feedback
 
 [[Positive Feedback]] systems **strengthen or reinforce** a change rather than reversing it. Examples include:
 
