@@ -12,7 +12,7 @@ tags:
 
 ### Nervous System
 
-The [[Nervous System]] regulates homeostasis by detecting changes from a balanced state and sending rapid **nerve impulses** to organs. These impulses produce quick corrections, such as triggering shivering when body temperature drops.
+The [[Nervous System]] regulates homeostasis by detecting changes from a balanced state and sending rapid [[Nerve]] impulses to organs. These impulses produce quick corrections, such as triggering shivering when body [[Temperature]] drops.
 
 ### Endocrine System
 
@@ -51,7 +51,7 @@ Homeostasis is not a static state but a [[Dynamic Equilibrium]] where internal c
 - **Hydration** - regulated by the [[Renal System]] and ADH.
 - **Oxygen/CO2 levels** - controlled by the [[Respiratory System]].
 
-Homeostatic Function
+## Homeostatic Function
 
 The primary goal of homeostasis is to provide a stable environment for the body's trillions of cells. Main Functions:
 
@@ -60,16 +60,16 @@ The primary goal of homeostasis is to provide a stable environment for the body'
 - **Fluid Balance** - manages the volume and composition of body fluids.
 - **Protection** - maintains the health of the organism to prevent disease.
 
-Homeostatic Imbalance
+## Homeostatic Imbalance
 
 When the body's ability to maintain balance is disrupted, it results in **imbalance**, which can lead to illness or death.
 
-Disorder and Disease
+### Disorder and Disease
 
 - **Disorder** - any abnormality of structure or function.
 - **Disease** - an illness with a specific set of **symptoms** (subjective changes like a headache) and **signs** (objective changes like a fever).
 
-Aging
+### Aging
 
 - Progressive decline in the ability to restore homeostasis.
 - Increased vulnerability to **stress** and disease.
