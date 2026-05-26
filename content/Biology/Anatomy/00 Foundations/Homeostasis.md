@@ -38,15 +38,13 @@ Homeostasis is maintained through **feedback systems**, which are cycles of even
 #### Positive Feedback
 
 [[Positive Feedback]] systems **strengthen or reinforce** a change rather than reversing it. Examples include:
-
 - **Childbirth** (labor contractions stretch the cervix, triggering more oxytocin and stronger contractions).
 - Blood clotting.
 
 ## Dynamic Equilibrium
 
-Homeostasis is not a static state but a [[Dynamic Equilibrium]] where internal conditions vary and oscillate within relatively narrow limits. Main Regulatory Variables:
-
-- **Blood pH** - maintained between 7.35 and 7.45 by buffer systems.
+Homeostasis is not a static state but a [[Dynamic Equilibrium]] where internal conditions vary and [[06 Oscillations|Oscillate]] within relatively narrow limits. Main Regulatory Variables:
+- **Blood [[pH]]** - maintained between 7.35 and 7.45 by [[Buffer Solution|Buffer]] systems.
 - **Hydration** - regulated by the [[Renal System]] and ADH.
 - **Oxygen/CO2 levels** - controlled by the [[Respiratory System]].
 
