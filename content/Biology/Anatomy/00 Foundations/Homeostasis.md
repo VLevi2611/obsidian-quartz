@@ -54,7 +54,7 @@ The primary goal of homeostasis is to provide a stable environment for the body'
 - **Thermoregulation** - maintains core temperature near 37°C.
 - **Fluid Balance** - manages the [[Volume]] and [[Composition]] of body fluids.
 - **Protection** - maintains the health of the organism to prevent disease.
-
+ 
 ## Homeostatic Imbalance
 
 When the body's ability to maintain balance is disrupted, it results in **imbalance**, which can lead to illness or death.
