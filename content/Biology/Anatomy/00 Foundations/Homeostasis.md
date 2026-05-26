@@ -21,7 +21,6 @@ The [[Endocrine System]] maintains balance more slowly by secreting chemical reg
 ## Structure of a Feedback System
 
 Homeostasis is maintained through **feedback systems**, which are cycles of events that continually monitor and evaluate the body's state.
-
 - **Receptor** - a body structure that monitors changes and sends input (impulses or signals) to a control center.
 - **Control Center** - (typically the [[Brain]]) sets the range of values, evaluates input, and generates output commands.
 - **Effector** - a body structure, such as a [[Muscle]] or gland, that receives output and produces a response to change the condition.
@@ -51,10 +50,9 @@ Homeostasis is not a static state but a [[Dynamic Equilibrium]] where internal c
 ## Homeostatic Function
 
 The primary goal of homeostasis is to provide a stable environment for the body's trillions of cells. Main Functions:
-
 - **Cell Survival** - ensures cells receive nutrients and oxygen while waste is removed.
 - **Thermoregulation** - maintains core temperature near 37°C.
-- **Fluid Balance** - manages the volume and composition of body fluids.
+- **Fluid Balance** - manages the [[Volume]] and [[Composition]] of body fluids.
 - **Protection** - maintains the health of the organism to prevent disease.
 
 ## Homeostatic Imbalance
