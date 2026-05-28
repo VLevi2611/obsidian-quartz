@@ -19,7 +19,10 @@ tags:
 
 - [[Trapezius]]
 - [[Latissimus Dorsi]]
-- [[L]]
+- [[Levator Scapulae]]
+- [[Rhomboid Major]]
+- [[Rhomboid Minor]]
+
 
 ### The Upper Arm
 
