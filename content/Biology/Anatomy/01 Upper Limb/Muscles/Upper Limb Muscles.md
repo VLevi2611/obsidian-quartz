@@ -17,7 +17,9 @@ tags:
 
 ### The Shoulder Region
 
-
+- [[Trapezius]]
+- [[Latissimus Dorsi]]
+- [[L]]
 
 ### The Upper Arm
 
