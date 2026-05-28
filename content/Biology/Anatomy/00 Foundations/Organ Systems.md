@@ -8,8 +8,6 @@ tags:
 
 A **system** consists of related organs that work together to perform a common function. At this level of structural organization, organs join together in a manner similar to how paragraphs are arranged to form a chapter. The human organism is a collection of these **11 principal systems** that are structurally and functionally integrated to maintain health, protect against disease, and ensure survival.
 
----
-
 ## 1. Integumentary System
 
 - **Components:** Skin and associated structures such as hair, fingernails, toenails, sweat glands, and oil glands.
@@ -38,12 +36,12 @@ A **system** consists of related organs that work together to perform a common
 ## 6. Cardiovascular System
 
 - **Components:** Blood, heart, and blood vessels.
-- **Functions:** The heart pumps blood through vessels to carry oxygen and nutrients to cells and carbon dioxide and wastes away from them. It also helps regulate acid-base balance, temperature, and water content of body fluids.
+- **Functions:** The heart pumps blood through [[Blood Vessels|Vessels]] to carry oxygen and nutrients to cells and carbon dioxide and wastes away from them. It also helps regulate [[Acid]]-[[Base]] balance, temperature, and [[Water]] content of body fluids.
 
 ## 7. Lymphatic System and Immunity
 
 - **Components:** Lymphatic fluid and vessels, spleen, thymus, lymph nodes, and tonsils.
-- **Functions:** Returns proteins and fluid to the blood and carries lipids from the gastrointestinal tract to the blood. It includes structures where lymphocytes (B cells and T cells) mature and proliferate to protect against disease-causing microbes.
+- **Functions:** Returns [[Proteins]] and fluid to the blood and carries lipids from the gastrointestinal tract to the blood. It includes structures where lymphocytes (B cells and T cells) mature and proliferate to protect against disease-causing microbes.
 
 ## 8. Respiratory System
 
@@ -64,8 +62,6 @@ A **system** consists of related organs that work together to perform a common
 
 - **Components:** Gonads (testes in males and ovaries in females) and associated organs such as the uterus, vagina, and mammary glands in females, and the epididymis, ductus deferens, and penis in males.
 - **Functions:** Gonads produce gametes (sperm or oocytes) that unite to form a new organism. They also release hormones that regulate reproduction and other body processes.
-
----
 
 ## Organismal Level
 
