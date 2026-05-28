@@ -64,4 +64,7 @@ tags:
 
 - [[Opponens Pollicis]]
 - [[Abductor Pollicis Brevis]]
-- [[Flexor ]]
+- [[Flexor Pollicis Brevis]]
+- [[Opponens Digiti Minimi]]
+- [[Abductor Digiti Minimi]]
+- [[Flexor Digiti Minimi Brevis]]
