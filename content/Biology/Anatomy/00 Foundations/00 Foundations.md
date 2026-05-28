@@ -22,7 +22,7 @@ Normal physiological stability is maintained through [[Homeostasis]], the dynami
 
 The body is composed of specialized [[Tissue]] types organized into organs and structural frameworks. The four major tissue classes are epithelial tissue, connective tissue, muscle tissue, and nervous tissue. These tissues combine to create structures with highly specialized functions.
 
-A major component of connective tissue is the [[Extracellular Matrix]], a network of proteins and ground substance surrounding cells. The extracellular matrix provides structural support, mechanical strength, organization, and biochemical signaling throughout the body.
+A major component of connective tissue is the [[Extracellular Matrix]], a network of [[Proteins]] and ground substance surrounding cells. The extracellular matrix provides structural support, mechanical strength, organization, and biochemical signaling throughout the body.
 
 The skeletal framework of the body is formed primarily by [[Bone]], a rigid connective tissue responsible for support, protection, mineral storage, blood cell production, and movement leverage. Bones articulate at [[Joint]] structures and serve as attachment sites for muscles and connective tissues.
 
@@ -37,5 +37,3 @@ Control and coordination of bodily activity are mediated by [[Nerve]] structures
 Transport throughout the body occurs through [[Blood Vessels]], including arteries, veins, and capillaries. Blood vessels distribute oxygen, nutrients, hormones, immune cells, and metabolic waste products throughout tissues and organs.
 
 Modern anatomy is closely integrated with [[Imaging]] techniques that allow visualization of internal structures in living patients. Common imaging modalities include X-ray, CT, MRI, and ultrasound. Imaging provides both anatomical and diagnostic information and plays a central role in modern clinical medicine.
-
-Together, the concepts introduced in Foundations establish the structural and functional principles required for the study of regional anatomy, physiology, pathology, biomechanics, and clinical medicine.
