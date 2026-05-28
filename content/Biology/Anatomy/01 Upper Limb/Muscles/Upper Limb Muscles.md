@@ -11,9 +11,13 @@ tags:
 ### The Pectoral Region
 
 - [[Pectoralis Major]]
-- [[Pectoralis M]]
+- [[Pectoralis Minor]]
+- [[Serratus Anterior]]
+- [[Subclavius]]
 
 ### The Shoulder Region
+
+
 
 ### The Upper Arm
 
