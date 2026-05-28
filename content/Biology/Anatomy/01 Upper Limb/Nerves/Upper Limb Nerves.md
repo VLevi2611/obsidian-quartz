@@ -18,6 +18,9 @@ The [[Nerve]] supply of the upper limb underpins all sensory and motor function.
 - [[Lateral Cutaneous Nerve of the Forearm]]
 - [[Medial Cutaneous Nerve of the Forearm]]
 - [[Posterior Cutaneous Nerve of the Forearm]]
+- [[Median Nerve]]
+- [[Common Palmar Digital Nerve]]
+- [[Proper Palmar Digital Nerve]]
 
 ### The brachial Plexus
 
