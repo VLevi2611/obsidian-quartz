@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-**Joints** are the sites where two or more skeletal elements ([[Bone|Bones]] or [[Cartilage]]) come together. Their primary function is to provide the body with structure while allowing for various degrees of movement.
+**Joints** are the sites where two or more skeletal elements ([[Bone|Bones]] or [[Cartilage]]) come together. Their primary function is to provide the body with structure while allowing for various degrees of [[Movement]].
 
 ## Classification of Joints
 
@@ -14,7 +14,7 @@ Joints are classified in two main ways: how the bones are connected (**structura
 
 ### Structural Classification
 
-- **Fibrous joints:** Bones are held together by dense regular connective tissue rich in collagen fibers.
+- **Fibrous joints:** Bones are held together by dense regular connective [[Tissue]] rich in collagen fibers.
 - **Cartilaginous joints:** Bones are held together by hyaline cartilage or fibrocartilage.
 - **Synovial joints:** Bones are separated by a fluid-filled cavity and joined by an articular capsule.
 
@@ -51,7 +51,7 @@ Synovial joints are the most common and complex joints in the body, allowing for
 
 - **Articular Cavity:** A narrow space between the articulating bones.
 - **Articular Cartilage:** A layer of smooth **hyaline cartilage** that covers the bone surfaces to reduce friction.
-- **Joint Capsule:** A double-layered sleeve enclosing the cavity, consisting of an outer **fibrous membrane** for stability and an inner **synovial membrane**.
+- **Joint Capsule:** A double-layered sleeve enclosing the cavity, consisting of an outer **fibrous [[Membrane]]** for stability and an inner **synovial membrane**.
 - **Synovial Fluid:** A viscous lubricant produced by the synovial membrane that fills the cavity.
 - **Ligaments:** Strong bands of connective tissue that join bone to bone and stabilize the joint.
 
@@ -75,15 +75,3 @@ Nerves and muscles coordinate to produce movement at synovial joints, which act 
 - **Rotation:** Turning a bone around its own longitudinal axis.
 - **Pronation/Supination:** Forearm movements that turn the palm posterior or anterior.
 - **Inversion/Eversion:** Turning the sole of the foot inward or outward.
-
----
-
-## Clinical Relevance
-
-- **Arthritis:** A disorder characterized by inflammation, stiffness, and pain in the joints; **osteoarthritis** is often related to aging and cartilage wear.
-- **Joint Replacement:** Surgical procedure to replace degenerated joints (like the hip or knee) with artificial components.
-- **Arthroscopy:** A technique for visualizing the internal structures of a joint using a small camera.
-
----
-
-**You have now completed the foundational concepts of Anatomy! With your notes on levels of organization, terminology, homeostasis, body systems, and joints, you are fully prepared to move on to "01 Upper Limb."**
