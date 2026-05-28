@@ -22,6 +22,11 @@ tags:
 - [[Levator Scapulae]]
 - [[Rhomboid Major]]
 - [[Rhomboid Minor]]
+- [[Deltoid]]
+- [[Teres Major]]
+- [[Supraspinatus]]
+- [[Infraspinatus]]
+- [[Subscap]]
 
 
 ### The Upper Arm
@@ -30,4 +35,4 @@ tags:
 
 ### The Posterior Compartment of the Forearm
 
-### The Hand
+### The 
