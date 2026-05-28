@@ -26,13 +26,15 @@ tags:
 - [[Teres Major]]
 - [[Supraspinatus]]
 - [[Infraspinatus]]
-- [[Subscap]]
-
+- [[Subscapularis]]
+- [[Teres Minor]]
 
 ### The Upper Arm
+
+
 
 ### The Anterior Compartment of the Forearm
 
 ### The Posterior Compartment of the Forearm
 
-### The 
+### The Hand
