@@ -11,6 +11,9 @@ The [[Nerve]] supply of the upper limb underpins all sensory and motor function.
 ### Cutaneous Innervation
 
 - [[Supraclavicular Nerves]]
+- [[Axillary Nerve]]
+- [[Intercostobrachial Nerve]]
+- [[Lower Lateral Cutaneous Nerve Of t]]
 
 ### The brachial Plexus
 
