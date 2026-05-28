@@ -24,8 +24,6 @@ The [[Nerve]] supply of the upper limb underpins all sensory and motor function.
 
 ### The [[Brachial Plexus]]
 
-- [[]]
-
 ### The Axillary Nerve
 
 ### The Musculocutaneous Nerve
