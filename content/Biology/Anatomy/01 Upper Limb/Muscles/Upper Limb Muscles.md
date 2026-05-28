@@ -34,8 +34,11 @@ tags:
 - [[Biceps Brachii]]
 - [[Coracobrachialis]]
 - [[Brachialis]]
+- [[Triceps Brachii]]
 
 ### The Anterior Compartment of the Forearm
+
+- [[Flexor Carpi U]]
 
 ### The Posterior Compartment of the Forearm
 
