@@ -16,7 +16,7 @@ The body may also be divided using [[Anatomical Planes]]. The sagittal plane sep
 
 The body is composed of specialized [[Tissue]] types organized into organs and systems. The four primary tissue classes are epithelial tissue, connective tissue, muscle tissue, and nervous tissue. These tissues combine to produce structures with highly specialized functions.
 
-The skeletal framework of the body is formed by [[Bone]], a rigid connective tissue responsible for support, protection, mineral storage, and movement leverage. Bones articulate at joints and provide attachment sites for muscles and connective tissues.
+The skeletal framework of the body is formed by [[Bone]], a rigid connective tissue responsible for support, protection, mineral storage, and movement leverage. Bones articulate at [[Joint|Joints]] and provide attachment sites for muscles and connective tissues.
 
 [[Movement]] of the body is produced primarily by [[Muscle]], a contractile tissue capable of generating [[Force]]. Skeletal muscles act on bones through tendons to create voluntary movement. Common anatomical movements include flexion, extension, abduction, adduction, and rotation.
 
