@@ -75,4 +75,4 @@ tags:
 - [[Dorsal Interossei]]
 - [[Palmar Interossei]]
 - [[Palmaris Brevis]]
-- [[Adductor ]]
+- [[Adductor Pollicis]]
