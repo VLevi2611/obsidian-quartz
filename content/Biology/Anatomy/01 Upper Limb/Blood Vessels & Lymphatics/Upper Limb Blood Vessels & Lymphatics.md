@@ -16,4 +16,6 @@ The [[Cardiovascular System]] and [[Lymphatic System]] of the upper limb ensure 
 - [[Ulnar Artery]]
 - [[Arterial Supply]]
 - [[Venous Drainage]]
+- [[Basilic Vein]]
+- [[Cephalic Vein]]
 - [[Lymphatic Drainage]]
