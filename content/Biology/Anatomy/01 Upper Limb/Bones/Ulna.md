@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The **ulna** is a long [[Bone]] in the forearm stretching from the [[Elbow Joint]] to the [[Wrist Joint]]
+The **ulna** is a long [[Bone]] in the forearm stretching from the [[Elbow Joint]] to the [[Wrist Joint]]. It is running parallel to the [[Radius]].
 
-![[Humerus.png]]
+![[Ulna.png]]
