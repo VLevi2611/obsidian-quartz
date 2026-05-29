@@ -15,4 +15,7 @@ tags:
 - [[Radioulnar Joints]]
 - [[Proximal Radioulnar Joint]]
 - [[Distal Radioulnar Joint]]
-- [[Inteross]]
+- [[Interosseous Membrane]]
+- [[Wrist Joint]]
+- [[Metacarpophalangeal Joint]]
+- [[Proximal Interphalangeal Joint]]
