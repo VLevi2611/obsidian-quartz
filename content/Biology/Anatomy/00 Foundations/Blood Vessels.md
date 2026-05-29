@@ -25,7 +25,6 @@ The smallest and most microscopic blood vessels, forming intricate networks (cap
 
 - **Venules:** Small vessels that collect blood from capillaries and drain into larger veins.
 - **Veins:** Low-pressure vessels that return deoxygenated blood back _toward_ the heart (with the exception of pulmonary veins). They act as a major blood reservoir, holding roughly 60% of the body's total blood volume at any given time.
-    
 
 ## Structure of a Blood Vessel Wall
 
