@@ -6,11 +6,8 @@ tags:
 ---
 ## Definition
 
-The **scapula** is also known as the shoulder blade. It articulates with the [[Humerus]] at the [[Glenohumeral Joint]], and with the [[Clavicle]] at the [[Acromioclavicular Joint]]. In doing so, the scapula connects the upper limb to the trunk. It is a triangular **flat** [[Bone]], which serves as a site for 17 [[Muscle|Muscles]].
+The **scapula**, also known as the **shoulder blade**, is the [[Bone]] that connects the [[Humerus]] (upper arm bone) with the [clavicle](https://en.wikipedia.org/wiki/Clavicle "Clavicle") (collar bone). Like their connected bones, the scapulae are paired, with each scapula on either side of the body being roughly a mirror image of the other. The name derives from the [Classical Latin](https://en.wikipedia.org/wiki/Classical_Latin "Classical Latin") word for [trowel](https://en.wikipedia.org/wiki/Trowel "Trowel") or small [shovel](https://en.wikipedia.org/wiki/Shovel "Shovel"), which it was thought to resemble.
 
-The [[Anatomical Directions|Anterior]] surface of the scapula faces the [[Ribcage]]. It contains a large concave depression over most of its surface, known as the **subscapular fossa**. The [[Subscapularis]] originates from this fossa.
-Originating from the superolateral surface of the anterior scapula is the **coracoid process**. 3 muscles attach to the coracoid process: the [[Pectoralis Minor]], [[Coracobrachialis]], and the short head of the [[Biceps Brachii]].
+In compound terms, the prefix **omo-** is used for the shoulder blade in medical terminology. This prefix is derived from ὦμος (ōmos), the Ancient Greek word for shoulder, and is cognate with the Latin _(h)umerus_, which in Latin signifies either the shoulder or the upper arm bone.
 
-![[Anterior Scapula.png]]
-
-The lateral surface of the scapula faces the humerus. It is the site of the glenohumeral joint, and various muscle attachments. The **glenoid fossa** is a shallow cavity, located superiorly on the lateral border. It articulates with the head of the humerus to form the glenohumeral joint.
+The scapula forms the back of the [shoulder girdle](https://en.wikipedia.org/wiki/Shoulder_girdle "Shoulder girdle"). In humans, it is a [flat bone](https://en.wikipedia.org/wiki/Flat_bone "Flat bone"), roughly triangular in shape, placed on a posterolateral aspect of the [thoracic cage](https://en.wikipedia.org/wiki/Thoracic_cage "Thoracic cage").[[2]](https://en.wikipedia.org/wiki/Scapula#cite_note-2)
