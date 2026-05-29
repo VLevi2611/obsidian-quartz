@@ -13,4 +13,4 @@ Originating from the superolateral surface of the anterior scapula is the **cora
 
 ![[Anterior Scapula.png]]
 
-The lateral surface of the scapula faces the humerus. It is the site of the glenohumeral joint, and 
+The lateral surface of the scapula faces the humerus. It is the site of the glenohumeral joint, and various muscle attachments. The **glenoid fossa** is a shallow cavity, located superiorly on the lateral border.
