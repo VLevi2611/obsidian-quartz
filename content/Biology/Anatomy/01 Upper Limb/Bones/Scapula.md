@@ -11,4 +11,6 @@ The **scapula** is also known as the shoulder blade. It articulates with the 
 The [[Anatomical Directions|Anterior]] surface of the scapula faces the [[Ribcage]]. It contains a large concave depression over most of its surface, known as the **subscapular fossa**. The [[Subscapularis]] originates from this fossa.
 Originating from the superolateral surface of the anterior scapula is the **coracoid process**. 3 muscles attach to the coracoid process: the [[Pectoralis Minor]], [[Coracobrachialis]], and the short head of the [[Biceps Brachii]].
 
+![[Anterior Scapula.png]]
+
 The lateral surface of the scapula faces the humerus. It is the site of the glenohumeral joint, and 
