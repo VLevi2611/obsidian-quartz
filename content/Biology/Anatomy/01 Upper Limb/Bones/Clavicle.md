@@ -6,4 +6,6 @@ tags:
 ---
 ## Definition
 
-The **clavicle**, or the **collarbone** is a slender, S-shape long [[Bone]], placed between the [[Scapula]] and the [[sternum]]
+The **clavicle**, or the **collarbone** is a slender, S-shape long [[Bone]], placed between the [[Scapula]] and the [[Sternum]] (breastbone). There are 2 clavicles, one on each side of the body. 
+
+![[Clavicle.png]]
