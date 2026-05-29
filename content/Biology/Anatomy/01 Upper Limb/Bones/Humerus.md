@@ -6,4 +6,6 @@ tags:
 ---
 ## Definition
 
-The **humerus** is a long [[Bone]] in the arm that runs from the [[Shoulder Joint]] to the [[Elbow Joint]]. It connects th
+The **humerus** is a long [[Bone]] in the arm that runs from the [[Shoulder Joint]] to the [[Elbow Joint]]. It connects the [[Scapula]] and the to bones of the lower arm, the [[Radius]] and [[Ulna]].
+
+![[Humerus.png]]
