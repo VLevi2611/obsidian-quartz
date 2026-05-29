@@ -8,26 +8,9 @@ tags:
 
 The [[Nerve]] supply of the upper limb underpins all sensory and motor function. This section explains the formation and branching of the brachial plexus and the pathways of its major terminal nerves.
 
-### Cutaneous Innervation
-
-- [[Supraclavicular Nerves]]
-- [[Axillary Nerve]]
-- [[Intercostobrachial Nerve]]
-- [[Lower Lateral Cutaneous Nerve of the Arm]]
-- [[Posterior Cutaneous Nerve of the Arm]]
-- [[Lateral Cutaneous Nerve of the Forearm]]
-- [[Medial Cutaneous Nerve of the Forearm]]
-- [[Posterior Cutaneous Nerve of the Forearm]]
-- [[Median Nerve]]
-- [[Common Palmar Digital Nerve]]
-- [[Proper Palmar Digital Nerve]]
-
-### The [[Brachial Plexus]]
-
-### The Axillary Nerve
-
-### The Musculocutaneous Nerve
-
+- [[]]
+- [[Axilla Nerve]]
+- [[Musculocutaneous Nerve]]
 - [[Median Nerve]]
 - [[Radial Nerve]]
 - [[Ulnar Nerve]]
