@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/01 Upper Limb/Bones/Upper Limb Bones.md",
+                "file": "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upper Limb Bones"
+              "title": "01 Upper Limb"
             }
           }
         ]
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/01 Upper Limb/Bones/Upper Limb Bones.md",
+                "file": "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Upper Limb Bones"
+              "title": "Graph of 01 Upper Limb"
             }
           }
         ]
@@ -303,8 +303,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8b09fff2244572c",
+  "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/01 Upper Limb/Bones/Upper Limb Bones.md",
+    "content/Biology/Anatomy/01 Upper Limb/Bones/Phalanges.md",
+    "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Anatomical Areas of the Upper Limb.md",
     "content/Resources/Images/Upper Limb Nerves.png",
     "content/Resources/Images/Ulna.png",
     "content/Resources/Images/Scapula.png",
@@ -321,7 +324,6 @@
     "content/Biology/Anatomy/01 Upper Limb/Bones/Ulna.md",
     "content/Biology/Anatomy/01 Upper Limb/Bones/Scapula.md",
     "content/Biology/Anatomy/01 Upper Limb/Bones/Radius.md",
-    "content/Biology/Anatomy/01 Upper Limb/Bones/Phalanges.md",
     "content/Biology/Anatomy/01 Upper Limb/Bones/Metacarpals.md",
     "content/Biology/Anatomy/01 Upper Limb/Bones/Humerus.md",
     "content/Biology/Anatomy/01 Upper Limb/Bones/Clavicle.md",
@@ -334,9 +336,7 @@
     "content/Biology/Anatomy/01 Upper Limb/Nerves",
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Upper Limb Muscles.md",
     "content/Biology/Anatomy/01 Upper Limb/Muscles",
-    "content/Biology/Anatomy/01 Upper Limb/Bones/Upper Limb Bones.md",
     "content/Biology/Anatomy/01 Upper Limb/Bones",
-    "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Anatomical Areas of the Upper Limb.md",
     "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas",
     "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/Anatomy/00 Foundations/Muscle.md",
@@ -346,7 +346,6 @@
     "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
     "content/Biology/Anatomy/00 Foundations/Cartilage.md",
     "content/Biology/Anatomy/00 Foundations/Nerve.md",
-    "content/Resources/Images/Skeletal System.png",
     "content/Biology/Anatomy/05 Head and Neck",
     "content/Biology/Anatomy/04 Abdomen",
     "content/Biology/Anatomy/03 Thorax",

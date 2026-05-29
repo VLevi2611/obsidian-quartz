@@ -10,8 +10,7 @@
         "package-lock.json",
         "quartz.config.ts",
         "quartz.layout.ts",
-        "tsconfig.json",
-        "Dorsiflexion and Plantarflexion.png"
+        "tsconfig.json"
       ],
       "sortOrder": "custom"
     },
@@ -44,6 +43,109 @@
         "content/Biology/Anatomy/03 Thorax",
         "content/Biology/Anatomy/04 Abdomen",
         "content/Biology/Anatomy/05 Head and Neck"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/00 Foundations": {
+      "children": [
+        "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+        "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
+        "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
+        "content/Biology/Anatomy/00 Foundations/Anatomical Planes.md",
+        "content/Biology/Anatomy/00 Foundations/Imaging.md",
+        "content/Biology/Anatomy/00 Foundations/Bone.md",
+        "content/Biology/Anatomy/00 Foundations/Movement.md",
+        "content/Biology/Anatomy/00 Foundations/Muscle.md",
+        "content/Biology/Anatomy/00 Foundations/Nerve.md",
+        "content/Biology/Anatomy/00 Foundations/Tissue.md",
+        "content/Biology/Anatomy/00 Foundations/Blood Vessels.md",
+        "content/Biology/Anatomy/00 Foundations/Organ Systems.md",
+        "content/Biology/Anatomy/00 Foundations/Joint.md",
+        "content/Biology/Anatomy/00 Foundations/Homeostasis.md",
+        "content/Biology/Anatomy/00 Foundations/Cartilage.md",
+        "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
+        "content/Biology/Anatomy/00 Foundations/Skeletal System.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
+        "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics",
+        "content/Biology/Anatomy/01 Upper Limb/Bones",
+        "content/Biology/Anatomy/01 Upper Limb/Joints",
+        "content/Biology/Anatomy/01 Upper Limb/Muscles",
+        "content/Biology/Anatomy/01 Upper Limb/Nerves"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Anatomical Areas of the Upper Limb.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Upper Limb Blood Vessels & Lymphatics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb/Bones": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Upper Limb Bones.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Carpals.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Clavicle.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Humerus.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Metacarpals.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Phalanges.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Radius.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Scapula.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Ulna.md",
+        "content/Biology/Anatomy/01 Upper Limb/Bones/Bones of the Hand.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb/Joints": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/Joints/Upper Limb Joints.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb/Muscles": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/Muscles/Upper Limb Muscles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/01 Upper Limb/Nerves": {
+      "children": [
+        "content/Biology/Anatomy/01 Upper Limb/Nerves/Upper Limb Nerves.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/03 Thorax.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/04 Abdomen": {
+      "children": [
+        "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/05 Head and Neck": {
+      "children": [
+        "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md"
       ],
       "sortOrder": "custom"
     },
@@ -601,6 +703,23 @@
       ],
       "sortOrder": "custom"
     },
+    "content/Daily Notes": {
+      "children": [
+        "content/Daily Notes/2026-05-14.md",
+        "content/Daily Notes/2026-05-15.md",
+        "content/Daily Notes/2026-05-16.md",
+        "content/Daily Notes/2026-05-17.md",
+        "content/Daily Notes/2026-05-18.md",
+        "content/Daily Notes/2026-05-19.md",
+        "content/Daily Notes/2026-05-20.md",
+        "content/Daily Notes/2026-05-29.md",
+        "content/Daily Notes/2026-05-28.md",
+        "content/Daily Notes/2026-05-26.md",
+        "content/Daily Notes/2026-05-25.md",
+        "content/Daily Notes/2026-05-23.md"
+      ],
+      "sortOrder": "custom"
+    },
     "content/Math": {
       "children": [
         "content/Math/Math.md",
@@ -1079,7 +1198,19 @@
         "content/Resources/Images/Anatomical Position and Planes.png",
         "content/Resources/Images/X-ray.png",
         "content/Resources/Images/Abdction, Adduction and Rotation.png",
-        "content/Resources/Images/Flexion and Extension.png"
+        "content/Resources/Images/Flexion and Extension.png",
+        "content/Resources/Images/Ulna.png",
+        "content/Resources/Images/Upper Limb Nerves.png",
+        "content/Resources/Images/Scapula.png",
+        "content/Resources/Images/Phalanges.png",
+        "content/Resources/Images/Radius.png",
+        "content/Resources/Images/Clavicle.png",
+        "content/Resources/Images/Humerus.png",
+        "content/Resources/Images/Metacarpals.png",
+        "content/Resources/Images/Bones of the Hand.png",
+        "content/Resources/Images/Carpals.png",
+        "content/Resources/Images/Skeletal System.png",
+        "content/Resources/Images/Dorsiflexion and Plantarflexion.png"
       ],
       "sortOrder": "custom"
     },
@@ -1107,144 +1238,6 @@
         "Templates/Symbol Template.md",
         "Templates/Problem Template.md",
         "Templates/Daily Note Template.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Daily Notes": {
-      "children": [
-        "content/Daily Notes/2026-05-14.md",
-        "content/Daily Notes/2026-05-15.md",
-        "content/Daily Notes/2026-05-16.md",
-        "content/Daily Notes/2026-05-17.md",
-        "content/Daily Notes/2026-05-18.md",
-        "content/Daily Notes/2026-05-19.md",
-        "content/Daily Notes/2026-05-20.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "public/Daily-Notes": {
-      "children": [
-        "public/Daily-Notes/2026-05-14-og-image.webp",
-        "public/Daily-Notes/2026-05-14.html",
-        "public/Daily-Notes/2026-05-15-og-image.webp",
-        "public/Daily-Notes/2026-05-15.html",
-        "public/Daily-Notes/index.html"
-      ],
-      "sortOrder": "custom"
-    },
-    "public/Resources": {
-      "children": [
-        "public/Resources/Books",
-        "public/Resources/Excalidraw",
-        "public/Resources/Images",
-        "public/Resources/index.html"
-      ],
-      "sortOrder": "custom"
-    },
-    "public/Resources/Books": {
-      "children": [
-        "public/Resources/Books/A-Short-History-Of-Nearly-Everything.pdf",
-        "public/Resources/Books/Harry-Potter-And-The-Philosophers-Stone.pdf",
-        "public/Resources/Books/The-Runaway-Species.pdf",
-        "public/Resources/Books/index.html",
-        "public/Resources/Books/General-Chemistry-Principles-and-Modern-Applications.pdf",
-        "public/Resources/Books/Thumbnails"
-      ],
-      "sortOrder": "custom"
-    },
-    "public/Resources/Excalidraw": {
-      "children": [
-        "public/Resources/Excalidraw/Activated-Complex.ecalidraw-og-image.webp",
-        "public/Resources/Excalidraw/Activated-Complex.ecalidraw.html",
-        "public/Resources/Excalidraw/Lewis-acid-base-reaction.excalidraw-og-image.webp",
-        "public/Resources/Excalidraw/Lewis-acid-base-reaction.excalidraw.html",
-        "public/Resources/Excalidraw/Skeletal-Structure.excalidraw-og-image.webp",
-        "public/Resources/Excalidraw/Skeletal-Structure.excalidraw.html",
-        "public/Resources/Excalidraw/index.html"
-      ],
-      "sortOrder": "custom"
-    },
-    "public/Resources/Images": {
-      "children": [
-        "public/Resources/Images/Acid-Base_Indicator.png",
-        "public/Resources/Images/Action_Potential_Diagram.png",
-        "public/Resources/Images/Biomedical_Engineering_Map.png",
-        "public/Resources/Images/Cell_Diagram.png",
-        "public/Resources/Images/Chemical_Formula_of_Water.png",
-        "public/Resources/Images/Electron_Configuration.png",
-        "public/Resources/Images/Electronegativity.png",
-        "public/Resources/Images/Enthalpy_of_Solution.png",
-        "public/Resources/Images/Filling_of_Electronic_Subshells.png",
-        "public/Resources/Images/Periodic_Table.png",
-        "public/Resources/Images/Pressure_Units.png",
-        "public/Resources/Images/Reaction_Intermediate.png",
-        "public/Resources/Images/Reaction_Profile.png",
-        "public/Resources/Images/Self_Ionization_of_water.png",
-        "public/Resources/Images/Solute_Types.png",
-        "public/Resources/Images/Subshell_Orbitals.png",
-        "public/Resources/Images/Substrate.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "public/Resources/Books/Thumbnails": {
-      "children": [
-        "public/Resources/Books/Thumbnails/A-Short-History-of-Nearly-Everything-Special-Illustrated-Edition---Bill-Bryson.html",
-        "public/Resources/Books/Thumbnails/A-Short-History-of-Nearly-Everything-Special-Illustrated-Edition---Bill-Bryson-og-image.webp",
-        "public/Resources/Books/Thumbnails/Applied-Minds---Guru-Madhavan.html",
-        "public/Resources/Books/Thumbnails/General-Chemistry-Principles-and-Modern-Applications-og-image.webp",
-        "public/Resources/Books/Thumbnails/General-Chemistry-Principles-and-Modern-Applications.html",
-        "public/Resources/Books/Thumbnails/Applied-Minds---Guru-Madhavan-og-image.webp",
-        "public/Resources/Books/Thumbnails/Harry-Potter-and-the-Philosopher's-Stone---J-K-Rowling-og-image.webp",
-        "public/Resources/Books/Thumbnails/Harry-Potter-and-the-Philosopher's-Stone---J-K-Rowling.html",
-        "public/Resources/Books/Thumbnails/The-Runaway-Species---David-Eagleman-Anthony-Brandt.html",
-        "public/Resources/Books/Thumbnails/The-Runaway-Species---David-Eagleman-Anthony-Brandt-og-image.webp",
-        "public/Resources/Books/Thumbnails/index.html"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/00 Foundations": {
-      "children": [
-        "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
-        "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
-        "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
-        "content/Biology/Anatomy/00 Foundations/Anatomical Planes.md",
-        "content/Biology/Anatomy/00 Foundations/Imaging.md",
-        "content/Biology/Anatomy/00 Foundations/Bone.md",
-        "content/Biology/Anatomy/00 Foundations/Movement.md",
-        "content/Biology/Anatomy/00 Foundations/Muscle.md",
-        "content/Biology/Anatomy/00 Foundations/Nerve.md",
-        "content/Biology/Anatomy/00 Foundations/Tissue.md",
-        "content/Biology/Anatomy/00 Foundations/Vessels.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/01 Upper Limb": {
-      "children": [
-        "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/02 Lower Limb": {
-      "children": [
-        "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/03 Thorax": {
-      "children": [
-        "content/Biology/Anatomy/03 Thorax/03 Thorax.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/04 Abdomen": {
-      "children": [
-        "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "content/Biology/Anatomy/05 Head and Neck": {
-      "children": [
-        "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md"
       ],
       "sortOrder": "custom"
     }
