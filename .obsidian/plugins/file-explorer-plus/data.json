@@ -450,6 +450,34 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Anatomical Areas of the Upper Limb.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/01 Upper Limb/Bones/Upper Limb Bones.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/01 Upper Limb/Muscles/Upper Limb Muscles.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
