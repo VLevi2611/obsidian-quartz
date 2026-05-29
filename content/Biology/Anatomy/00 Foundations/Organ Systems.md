@@ -38,7 +38,7 @@ A **system** consists of related organs that work together to perform a common
 - **Components:** Blood, heart, and blood vessels.
 - **Functions:** The heart pumps blood through [[Blood Vessels|Vessels]] to carry oxygen and nutrients to cells and carbon dioxide and wastes away from them. It also helps regulate [[Acid]]-[[Base]] balance, temperature, and [[Water]] content of body fluids.
 
-## 7. [[Lymphatic System and Immunity]]
+## 7. [[Lymphatic System]]
 
 - **Components:** Lymphatic fluid and vessels, spleen, thymus, lymph nodes, and tonsils.
 - **Functions:** Returns [[Proteins]] and fluid to the blood and carries lipids from the gastrointestinal tract to the blood. It includes structures where lymphocytes (B cells and T cells) mature and proliferate to protect against disease-causing microbes.
