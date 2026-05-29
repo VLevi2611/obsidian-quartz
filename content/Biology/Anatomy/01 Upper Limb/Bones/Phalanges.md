@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The **phalanges** are digital [[Bone|Bones]] of the hands and feet. The thumb has 2 phalanges, whilst the 
+The **phalanges** are digital [[Bone|Bones]] of the hands and feet. The thumb has 2 phalanges, whilst the rest of the fingers have 3.
 
-![[Metacarpals.png]]
+![[Phalanges.png]]
