@@ -12,4 +12,7 @@ tags:
 - [[sternoclavicular Joint]]
 - [[Shoulder Joint]]
 - [[Elbow Joint]]
-- [[RadioUlnar]]
+- [[Radioulnar Joints]]
+- [[Proximal Radioulnar Joint]]
+- [[Distal Radioulnar Joint]]
+- [[Inteross]]
