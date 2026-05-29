@@ -478,6 +478,13 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/01 Upper Limb/Muscles/Upper Limb Muscles.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/01 Upper Limb/Nerves/Upper Limb Nerves.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
