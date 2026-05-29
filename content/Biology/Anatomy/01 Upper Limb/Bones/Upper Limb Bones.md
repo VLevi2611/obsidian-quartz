@@ -13,3 +13,6 @@ The [[Bone|Bony]] framework of the upper limb provides strength, support and lev
 - [[Ulna]]
 - [[Radius]]
 - [[Bones of the Hand]]
+- [[Carpals]]
+- [[Metacarpals]]
+- [[Phalanges]]
