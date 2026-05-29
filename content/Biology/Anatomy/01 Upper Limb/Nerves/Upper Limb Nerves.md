@@ -28,12 +28,6 @@ The [[Nerve]] supply of the upper limb underpins all sensory and motor function.
 
 ### The Musculocutaneous Nerve
 
-### The Median Nerve
-
-### The Radial Nerve
-
+- [[Median Nerve]]
 - [[Radial Nerve]]
-
-### The Ulnar Nerve
-
 - [[Ulnar Nerve]]
