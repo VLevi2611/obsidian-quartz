@@ -485,6 +485,20 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/01 Upper Limb/Nerves/Upper Limb Nerves.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/01 Upper Limb/Joints/Upper Limb Joints.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Upper Limb Blood Vessels & Lymphatics.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
