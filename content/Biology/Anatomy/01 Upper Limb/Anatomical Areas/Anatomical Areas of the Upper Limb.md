@@ -6,7 +6,7 @@ tags:
 ---
 ## Major Regions of the Upper Limb
 
-The upper limb is divided into 5 main regions based on the position of its major [[Joint|Joints]] and component [[Bone|Bones]]: the shoulder, arm, forearm, wrist and hand. Unlike the lower limb, which is designed for stability and locomotion, these regions are structurally optimized for high mobility to position the hand as a precise mechanical and sensory tool.
+The upper limb is a complex part of the body designed for high mobility and the precise positioning of the hand. It is divided into several major regions based on its [[Joint|Joints]] and bones: the [[Bone|Bones]], arm, forearm, wrist, and hand. Unlike the lower limb, which focuses on stability and weight-bearing, the upper limb is structurally optimized to serve as a versatile mechanical and sensory tool.
 
 - **[[Shoulder]] (Pectoral Region):** The area of upper limb attachment to the trunk. It includes the **clavicle** and **scapula**, which form the pectoral girdle, and the proximal end of the **humerus**.
 - **[[Arm]] (Brachial Region):** The portion of the upper limb between the shoulder and the elbow joint. Its primary skeletal support is the shaft of the humerus.
