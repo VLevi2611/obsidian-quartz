@@ -32,7 +32,7 @@ The [[Skeletal System]] consists of bones, cartilage, ligaments, and joints that
 
 Body movement is produced primarily by [[Muscle]], a contractile tissue capable of generating force through contraction. Skeletal muscles act on bones through [[Tendon|Tendons]] to produce voluntary [[Movement]]. Common anatomical movements include flexion, extension, abduction, adduction, and rotation.
 
-Control and coordination of bodily activity are mediated by [[Nerve]] structures. The nervous system transmits electrical signals responsible for sensory perception, motor control, reflexes, and autonomic regulation. Peripheral nerves connect the central nervous system to muscles, organs, glands, and skin.
+Control and coordination of bodily activity are mediated by [[Nerve]] structures. The [[Nervous System]] transmits electrical signals responsible for sensory perception, motor control, reflexes, and autonomic regulation. Peripheral nerves connect the central nervous system to muscles, organs, glands, and skin.
 
 Transport throughout the body occurs through [[Blood Vessels]], including arteries, veins, and capillaries. Blood vessels distribute oxygen, nutrients, hormones, immune cells, and metabolic waste products throughout tissues and organs.
 
