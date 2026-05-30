@@ -30,7 +30,7 @@ Specialized connective tissues such as [[Cartilage]] provide flexibility, shock 
 
 The [[Skeletal System]] consists of bones, cartilage, ligaments, and joints that together provide structural support and permit movement. The skeleton also protects vital organs including the brain, spinal cord, heart, and lungs.
 
-Body movement is produced primarily by [[Muscle]], a contractile tissue capable of generating force through contraction. Skeletal muscles act on bones through tendons to produce voluntary [[Movement]]. Common anatomical movements include flexion, extension, abduction, adduction, and rotation.
+Body movement is produced primarily by [[Muscle]], a contractile tissue capable of generating force through contraction. Skeletal muscles act on bones through [[Tendon|Tendons]] to produce voluntary [[Movement]]. Common anatomical movements include flexion, extension, abduction, adduction, and rotation.
 
 Control and coordination of bodily activity are mediated by [[Nerve]] structures. The nervous system transmits electrical signals responsible for sensory perception, motor control, reflexes, and autonomic regulation. Peripheral nerves connect the central nervous system to muscles, organs, glands, and skin.
 
