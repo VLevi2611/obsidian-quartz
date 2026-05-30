@@ -9,7 +9,7 @@ tags:
 The [[Shoulder]] is the area of upper limb attachment to the trunk. It consists of the [[Clavicle]] and [[Scapula]], which form the pectoral girdle, and the proximal end of the [[Humerus]].
 
 - **Key Features:** It is suspended from the trunk primarily by [[Muscle|Muscles]], which allows for significant [[Movement]] of the scapula on the thoracic wall.
-- [[Joint|Joints]] Includes the sternoclavicular, acromioclavicular, and **glenohumeral (shoulder) joints**.
+- [[Joint|Joints]]: Includes the [[sternoclavicular Joint|Sternoclavicular]], [[Acromioclavicular Joint|Acromioclavicular]], and [[glenohumeral ]] (shoulder) joints.
 - **Muscles:** Superficial muscles like the **trapezius** and **deltoid** provide the shoulder’s contour, while the deep **rotator cuff** muscles stabilize the joint.
 
 ### **2. The Axilla (Armpit)**
