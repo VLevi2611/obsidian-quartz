@@ -7,7 +7,8 @@ tags:
 ## Overview 
 
 The sites where 2 skeletal elements come together are termed **Joints**. There are 2 general categories of joints:
-- The skeletal elements are separated by a 
+- The skeletal elements are separated by a cavity- [[Synovial Joint]].
+- There is no cavity and the components are held together by [[Tissue|Connective Tissue]]- [[Solid Joint]]
 
 
 
