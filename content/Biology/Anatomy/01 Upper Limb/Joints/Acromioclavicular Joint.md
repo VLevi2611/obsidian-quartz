@@ -10,4 +10,6 @@ The **acromioclavicular joint** is a small synovial [[Joint]] between the [[Anat
 
 ![[Acromioclavicular Joint.png]]
 
-The joint is stabilized by 3 [[Ligament|Ligaments]]
+The joint is stabilized by 3 [[Ligament|Ligaments]]:
+- The [[acromioclavicular Ligament]], which attaches the clavicle to the scapula.
+- The [[Coracoacromial Ligament]]
