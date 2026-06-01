@@ -13,10 +13,10 @@ The sites where 2 [[Bone|Bones]] come together are termed **Joints**. There are 
 ![[Synovial and Solid Joints.png]]
 ### **1. Shoulder Complex**
 
-These joints link the upper limb to the trunk and allow for a massive range of motion.
+These [[Joint|Joints]] link the upper limb to the trunk and allow for a massive range of motion.
 
-- **[[Sternoclavicular Joint]]:** A synovial, saddle-shaped joint that connects the medial end of the clavicle to the manubrium of the sternum. It is the only skeletal attachment between the trunk and the upper limb.
-- **[[Acromioclavicular Joint]]:** A small synovial joint between the lateral end of the clavicle and the acromion of the scapula. It allows for sliding movements that help the scapula move on the thoracic wall.
+- **[[Sternoclavicular Joint]]:** A synovial, saddle-shaped joint that connects the medial end of the [[Clavicle]] to the manubrium of the [[Sternum]]. It is the only skeletal attachment between the trunk and the upper limb.
+- **[[Acromioclavicular Joint]]:** A small synovial joint between the lateral end of the clavicle and the acromion of the [[Scapula]]. It allows for sliding [[Movement]] that help the scapula move on the thoracic wall.
 - **[[Glenohumeral Joint]] (Shoulder Joint):** A multiaxial ball-and-socket joint between the head of the humerus and the glenoid cavity of the scapula. It is the most mobile joint in the body but lacks skeletal stability, relying instead on the **rotator cuff muscles** for support.
 
 ### **2. Elbow and Forearm**
