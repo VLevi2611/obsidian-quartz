@@ -6,8 +6,6 @@ tags:
 ---
 ## Definition
 
-The **elbow joint** is a hinge [[Synovial Joint]] that connects the [[Humerus]] in the [[Arm]] with the [[Radius]] and [[Ulna]] in the [[Forearm]] which allows the forearm and [[Hand]] to be moved towards and away from the body.
+The **Proximal Radio-ulnar Joint** is a pivot [[Synovial Joint]] between the [[Radius]] and the [[Ulna]].
 
-![[Elbow Joint.png]]
 
- There are 3 main [[Anatomical Directions|Flexor]] [[Muscle|Muscles]] at the elbow: [[Brachialis]], [[Brachioradialis]], [[Biceps Brachii]] and one extension muscle, the [[Triceps Brachii]].
