@@ -12,4 +12,5 @@ The **acromioclavicular joint** is a small synovial [[Joint]] between the [[Anat
 
 The joint is stabilized by 3 [[Ligament|Ligaments]]:
 - The [[acromioclavicular Ligament]], which attaches the clavicle to the scapula.
-- The [[Coracoacromial Ligament]]
+- The [[Coracoacromial Ligament]], which runs from the coracoid process to the acromion.
+- The [[Coracoclavicular Ligament]], which consists of 
