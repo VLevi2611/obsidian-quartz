@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **ligament** is a short band of tough
+A **ligament** is a short band of tough, flexible [[Tissue|Connective Tissue]] that bind 2 [[Bone|Bones]] or [[Cartilage|Cartilages]] together and hold [[Joint|Joints]] together. Their 
 
