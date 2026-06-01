@@ -30,7 +30,7 @@ These joints facilitate the length of the limb and the rotation of the hand.
 
 These joints provide the precision movements needed for the hand to act as a mechanical and sensory tool.
 
-- **[[Wrist Joint]] :** A condylar (ellipsoid) synovial joint between the distal radius and the proximal row of carpal bones (scaphoid, lunate, and triquetrum). It permits flexion, extension, abduction, and adduction.
+- **[[Wrist Joint]]:** A condylar (ellipsoid) synovial joint between the distal radius and the proximal row of carpal bones (scaphoid, lunate, and triquetrum). It permits flexion, extension, abduction, and adduction.
 - **[[Intercarpal Joints]]:** Synovial joints between the individual carpal bones that share a common cavity and contribute to overall hand positioning.
 - **[[Carpometacarpal Joints]]:** The joints between the carpal bones and metacarpals. Notably, the **thumb (metacarpal I)** has a specialized **saddle joint** that allows for opposition, while the others allow only limited gliding.
 - **[[Metacarpophalangeal Joints]]:** Often called the "knuckles," these are condylar joints between the metacarpal heads and proximal phalanges that allow for finger spreading (abduction/adduction) and bending.
