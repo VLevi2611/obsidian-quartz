@@ -11,5 +11,6 @@ The **elbow joint** is a hinge [[Synovial Joint]] that connects the [[Humerus]] 
 ![[Elbow Joint.png]]
 
  There are 3 main [[Anatomical Directions|Flexor]] [[Muscle|Muscles]] at the elbow:
- - [[Brachialis]] acts exclusively as an elbow flexor.
- - [[Brachioradialis]] acts essentially as an elbow flexor but also supinat
+ - [[Brachialis]] 
+ - [[Brachioradialis]] 
+ - [[Biceps Brachii]]
