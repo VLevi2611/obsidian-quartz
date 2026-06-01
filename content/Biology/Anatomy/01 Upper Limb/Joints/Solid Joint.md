@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-**Solid Joints** are connections between [[Bone|Bones]] where the adjacent surfaces are linked together either by fibrous connective [[Tissue]] or by [[Cartilage]]. [[mo]]
+**Solid Joints** are connections between [[Bone|Bones]] where the adjacent surfaces are linked together either by fibrous connective [[Tissue]] or by [[Cartilage]]. [[Movement]] at these [[Joint|Joints]] are more restricted than at [[Synovial Joint|Synovial Joints]].
