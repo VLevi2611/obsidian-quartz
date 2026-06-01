@@ -1,8 +1,6 @@
 ---
 title: Sagiv's Knowledge Base
 ---
-
-
 # Sagiv's Knowledge Base
 
 This is an ongoing collection of all my notes on various topics, documenting my journey to become a Biomedical Engineer.
