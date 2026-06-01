@@ -7,33 +7,10 @@ tags:
 ## Overview 
 
 The sites where 2 [[Bone|Bones]] come together are termed **Joints**. There are 2 general categories of joints:
-- The skeletal elements are separated by a cavity- [[Synovial Joint]].
+- The bones are separated by a cavity- [[Synovial Joint]].
 - There is no cavity and the components are held together by [[Tissue|Connective Tissue]]- [[Solid Joint]].
 
 ![[Synovial and Solid Joints.png]]
-
-
-
-
-
-
-
-[[Joint|Joints]] of the upper limb provide a wide range of motion, allowing strength and precision in [[Movement]]. This section introduces the articulations that connect the [[Bone|Bones]] of the shoulder girdle, arm, forearm and hand.
-- [[Acromioclavicular Joint]]
-- [[sternoclavicular Joint]]
-- [[Shoulder Joint]]
-- [[Elbow Joint]]
-- [[Radioulnar Joints]]
-- [[Proximal Radioulnar Joint]]
-- [[Distal Radioulnar Joint]]
-- [[Interosseous Membrane]]
-- [[Wrist Joint]]
-- [[Metacarpophalangeal Joint]]
-- [[Proximal Interphalangeal Joint]]
-
-
-The joints of the upper limb are primarily **synovial joints**, designed to provide the high degree of mobility required to position the hand. Following the regional approach used in your notes, here is a list of the major joints from the shoulder to the fingers:
-
 ### **1. Shoulder Complex**
 
 These joints link the upper limb to the trunk and allow for a massive range of motion.
