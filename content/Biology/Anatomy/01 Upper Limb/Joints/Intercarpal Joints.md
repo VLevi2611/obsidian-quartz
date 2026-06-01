@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-The **Intercarpal Joints**
+The **Intercarpal Joints** can be subdivided into 3 sets of [[]]
