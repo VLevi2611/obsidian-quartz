@@ -6,6 +6,4 @@ tags:
 ---
 ## Definition
 
-The **Wrist Joint**
-
-![[Distal Radio-ulnar Joint.png]]
+The **Wrist Joint** is a complex, biaxial [[Synovial Joint]] where the [[Forearm]] meats the [[Hand]]
