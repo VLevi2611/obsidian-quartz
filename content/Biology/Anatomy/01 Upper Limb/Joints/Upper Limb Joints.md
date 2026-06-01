@@ -6,7 +6,8 @@ tags:
 ---
 ## Overview 
 
-The sites where 2 s
+The sites where 2 skeletal elements come together are termed **Joints**. There are 2 general categories of joints:
+- The skeletal elements are separated by a 
 
 
 
