@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-The **elbow joint** is a 
+The **elbow joint** is a hinge [[Synovial Joint]] that connects the [[Humerus]] with the [[Radius]] and [[Ulna]]
