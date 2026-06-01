@@ -10,4 +10,4 @@ The **Glenohumeral Joint** is a [[Synovial Joint|Synovial Ball and socket Joint]
 
 ![[Shoulder Joint.png]]
 
-[[bracial ]]
+The [[Nerve|Nerves]] supplying the shoulder joint all arise in the [[Brachial Plexus]]. They are the [[Suprascapular Nerve]], the [[Axilla Nerve]] and the 
