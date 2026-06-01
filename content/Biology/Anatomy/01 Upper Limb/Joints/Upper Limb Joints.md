@@ -11,14 +11,14 @@ The sites where 2 [[Bone|Bones]] come together are termed **Joints**. There are 
 - There is no cavity and the components are held together by [[Tissue|Connective Tissue]]- [[Solid Joint]].
 
 ![[Synovial and Solid Joints.png]]
-### 1. [[Shoulder]]**
+### 1. [[Shoulder]]
 
 These [[Joint|Joints]] link the upper limb to the trunk and allow for a massive range of motion.
 
 - **[[Sternoclavicular Joint]]:** A synovial, saddle-shaped joint that connects the medial end of the [[Clavicle]] to the manubrium of the [[Sternum]]. It is the only skeletal attachment between the trunk and the upper limb.
 - **[[Acromioclavicular Joint]]:** A small synovial joint between the lateral end of the clavicle and the acromion of the [[Scapula]]. It allows for sliding [[Movement]] that help the scapula move on the thoracic wall.
 - **[[Glenohumeral Joint]] (Shoulder Joint):** A multiaxial ball-and-socket joint between the head of the [[Humerus]] and the glenoid cavity of the scapula. It is the most mobile joint in the body but lacks skeletal stability, relying instead on the **rotator cuff muscles** for support.
-### **2. Elbow and Forearm**
+### 2. Elbow and [[Forearm]]
 
 These joints facilitate the length of the limb and the rotation of the hand.
 
@@ -26,7 +26,7 @@ These joints facilitate the length of the limb and the rotation of the hand.
 - **[[Proximal Radio-ulnar Joint]]:** Located at the elbow, this pivot joint allows the head of the radius to rotate against the ulna during **pronation and supination**.
 - **[[Distal Radio-ulnar Joint]]:** Located at the wrist, this joint allows the distal end of the radius to swing over the ulna, which is the primary movement involved in flipping the palm.
 
-### **3. Wrist and Hand**
+### 3. [[Wrist]] and [[Hand]]
 
 These joints provide the precision movements needed for the hand to act as a mechanical and sensory tool.
 
