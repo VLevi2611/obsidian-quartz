@@ -10,4 +10,4 @@ The **acromioclavicular joint** is a small synovial [[Joint]] between the [[Anat
 
 ![[Acromioclavicular Joint.png]]
 
-The jio
+The joint is stabilized by 3 [[Ligament|Ligaments]]
