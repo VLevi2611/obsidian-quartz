@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **Triceps Brachii**
+The **triceps brachii**
 
