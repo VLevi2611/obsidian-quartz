@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-The **teres minor** 
+The **teres minor** is a narrow, elongated [[Muscle]] of the rotator cuff. The m
