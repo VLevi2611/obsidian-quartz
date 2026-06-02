@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-[[Muscle|Muscles]] of the upper limb enable precise [[Movement]] and coordination for daily activity and fine motor control. This section examines the muscular anatomy from the shoulder to the hand, highlighting how muscle groups work together to achieve motion.
+[[Muscle|Muscles]] of the upper limb enable precise [[Movement]] and coordination for daily activity and fine motor control. This section examines the muscular anatomy from the [[Shoulder]] to the [[Hand]], highlighting how muscle groups work together to achieve motion.
 
 ### The Pectoral Region
 
