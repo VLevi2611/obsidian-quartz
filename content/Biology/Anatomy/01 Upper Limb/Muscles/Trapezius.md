@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-The **trapezius**
+The **trapezius** is a large paire
