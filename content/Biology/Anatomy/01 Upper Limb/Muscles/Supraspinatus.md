@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-The **supraspinatus** is a relatively small [[Muscle]] of the upper back that runs from the [[Scapula]]
+The **supraspinatus** is a relatively small [[Muscle]] of the upper back that runs from the [[Scapula]] to the [[Humerus]]. It is one of the four rotator cuff muscles and also 
