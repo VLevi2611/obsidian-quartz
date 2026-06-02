@@ -1,5 +1,8 @@
 ---
-tags: [concept]
+tags:
+  - concept
+  - biology
+  - anatomy
 ---
 ## Definition
 
