@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **Rhomboid major**
+The **rhomboid major** is a skeletal [[Muscle]]
 

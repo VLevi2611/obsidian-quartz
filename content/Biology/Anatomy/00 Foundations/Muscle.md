@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-**Muscle** is a specialized contractile [[Tissue]] responsible for [[Movement]], posture, stabilization, and [[Heat]] production. Muscles work together with the [[Skeletal System]] and n[[Nervous System]] to produce both voluntary and involuntary body functions.
+**Muscle** is a specialized contractile [[Tissue]] responsible for [[Movement]], posture, stabilization, and [[Heat]] production. Muscles work together with the [[Skeletal System]] and [[Nervous System]] to produce both voluntary and involuntary body functions.
 The **muscular system** contains more than 600 muscles and contributes significantly to total body [[Mass]]. Muscles are composed of elongated cells called **muscle fibers** that are capable of contraction in response to nervous stimulation. 
 Muscles function as part of the [[Muscular System]], interacting with [[Bone]], [[Nerve]], connective tissues, tendons, and [[Joint|Joints]] to generate movement and maintain structural support. 
 
