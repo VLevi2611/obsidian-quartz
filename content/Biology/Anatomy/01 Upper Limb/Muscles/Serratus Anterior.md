@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The **serratus anterior** is a [[Muscle]] of the [[Chest]]
+The **serratus anterior** is a [[Muscle]] of the [[Chest]]. I
 
 
