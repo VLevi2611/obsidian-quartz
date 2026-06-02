@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **Flexor digitorum profundus**
+The **flexor digitorum profundus** is a [[Muscle]] in the [[Forearm]] that [[Movement|Flexes]] the [[Phalanges]]. It originates from the [[Ulna]] and inserts onto the distal phalanges
 
