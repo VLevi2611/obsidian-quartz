@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **Flexor Carpi Radialis**
+The **Flexor Carpi Radialis** is a [[Muscle]] of the [[Forearm]] that acts to [[Movement|Flex]] and abduct the [[Wrist]]
 
