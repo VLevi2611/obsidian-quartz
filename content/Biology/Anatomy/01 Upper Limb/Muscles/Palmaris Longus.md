@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The **palmaris Longus**
+The **palmaris longus** is a [[Muscle]] visible as a small [[Tendon]] located bet
 
 
