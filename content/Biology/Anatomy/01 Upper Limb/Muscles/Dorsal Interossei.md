@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **dorsal interossei** are 4 [[Muscle|Muscles]] in the back of the [[Hand]] that acts to [[Movement|Abduct]] the index, middle and ring [[Phalanges|Fingers]] away from the hand'w
+The **dorsal interossei** are 4 [[Muscle|Muscles]] in the back of the [[Hand]] that acts to [[Movement|Abduct]] the index, middle and ring fingers away from the hand's midline. they originate from the [[Metacarpals]] and insert to the proximal [[Phalanges]]. They assist in flexion of the [[me]]
 
