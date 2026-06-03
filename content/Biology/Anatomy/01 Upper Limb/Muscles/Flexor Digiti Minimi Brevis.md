@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **flexor digit**
+The **flexor digiti minimi brevis** is a short [[Muscle]] in the [[Hand]] that [[Movement|Flexes]] the little finger at the [[Metacarpophalangeal Joints]]
 
