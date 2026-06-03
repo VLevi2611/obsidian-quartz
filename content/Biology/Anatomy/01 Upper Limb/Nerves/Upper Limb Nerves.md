@@ -13,7 +13,7 @@ The [[Nerve]] supply of the upper limb underpins all sensory and motor function.
 - [[Brachial Plexus]]
 - [[Supraclavicular Nerves]]
 - [[Intercostobrachial Nerve]]
-- [[Axilla Nerve]]
+- [[Axillary Nerve]]
 - [[Musculocutaneous Nerve]]
 - [[Median Nerve]]
 - [[Radial Nerve]]
