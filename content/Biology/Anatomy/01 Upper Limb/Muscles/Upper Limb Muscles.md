@@ -72,4 +72,3 @@ tags:
 - [[Palmar Interossei]]
 - [[Palmaris Brevis]]
 - [[Adductor Pollicis]]
-- [[Hypothenar]]
