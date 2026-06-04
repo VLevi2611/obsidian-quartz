@@ -11,6 +11,6 @@ The **brachial plexus** is a network of [[Nerve|Nerves]] formed by the anterior 
 2. [[Axillary Nerve]]  **C5-C6**
 3. [[Radial Nerve]] **C5-T1**
 4. [[Median Nerve]] **C5-T1**
-5. [[Ulnar Nerve]] **C7-T1**
+5. [[Ulnar Nerve]] **C8-T1**
 
 ![[Brachial Plexus.png]]
