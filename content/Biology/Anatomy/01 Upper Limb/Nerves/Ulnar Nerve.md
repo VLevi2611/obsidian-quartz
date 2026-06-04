@@ -10,4 +10,10 @@ The **ulnar nerve** is a [[Nerve]] that runs near the [[Ulna]]. It innervates th
 - [[Flexor Carpi Ulnaris]]
 - [[Flexor Digitorum Profundus]]
 - [[Hypothenar]]
+- [[Abductor Digiti Minimi]]
+- [[Flexor Digiti Minimi Brevis]]
+- [[Opponens Digiti Minimi]]
+- [[Dorsal Interossei]]
+- [[Palmar Interossei]]
+- [[lumbrical]]
 
