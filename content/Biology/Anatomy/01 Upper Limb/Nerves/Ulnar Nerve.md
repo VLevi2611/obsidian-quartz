@@ -7,5 +7,7 @@ tags:
 ## Definition
 
 The **ulnar nerve** is a [[Nerve]] that runs near the [[Ulna]]. It innervates the [[Muscle]] of the [[Forearm]] and [[Hand]].
-- [[fle]]
+- [[Flexor Carpi Ulnaris]]
+- [[Flexor Digitorum Profundus]]
+- [[Hypothenar]]
 
