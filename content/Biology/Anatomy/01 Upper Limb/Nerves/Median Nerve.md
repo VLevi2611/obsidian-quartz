@@ -14,5 +14,8 @@ The **median nerve** is a [[Nerve]] originating from the [[Brachial Plexus]]. It
 - [[Flexor Pollicis Longus]]
 - [[Pronator Quadratus]]
 - [[Flexor Digitorum Profundus]] (lateral half)
-- []
+- [[Abductor Pollicis Brevis]]
+- [[Flexor Pollicis Brevis]]
+- [[Opponens Pollicis]]
+
 ![[Median Nerve.png]]
