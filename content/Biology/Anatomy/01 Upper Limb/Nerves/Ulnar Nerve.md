@@ -6,7 +6,7 @@ tags:
 ---
 ## Definition
 
-The **ulnar nerve** is a [[Nerve]] that runs near the [[Ulna]]. It innervates the [[Muscle]] of the [[Forearm]] and [[Hand]]. It originates from the [[Brachial Plexus]].
+The **ulnar nerve** is a [[Nerve]] that runs near the [[Ulna]]. It innervates the [[Muscle]] of the [[Forearm]] and [[Hand]]. It originates from the [[Brachial Plexus]] from the **C7,C8,T1** roots.
 - [[Flexor Carpi Ulnaris]]
 - [[Flexor Digitorum Profundus]]
 - [[Hypothenar]]
