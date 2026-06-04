@@ -15,4 +15,9 @@ The **radial nerve** is a [[Nerve]] that supplies the posterior portion of the u
 - [[Supinator]]
 - [[Extensor Digitorum]]
 - [[Extensor Digiti Minimi]]
-- [[excarp]]
+- [[Extensor Carpi Ulnaris]]
+- [[Abductor Pollicis Longus]]
+- [[Extensor Pollicis Longus and Brevis]]
+- [[Extensor Indicis]]
+
+![[Radial Nerve.png]]
