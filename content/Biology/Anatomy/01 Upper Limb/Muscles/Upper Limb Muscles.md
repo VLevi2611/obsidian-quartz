@@ -73,4 +73,3 @@ tags:
 - [[Palmaris Brevis]]
 - [[Adductor Pollicis]]
 - [[Lumbricals]]
-- [[dors]]
