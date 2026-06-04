@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **brachial plexus** is a network of [[Nerve|Nerves]] that extends from the [[Spinal Chord]]
+The **brachial plexus** is a network of [[Nerve|Nerves]] formed by the anterior rami of spinal nerves **C5-T1**, anatomically structured into 
 
