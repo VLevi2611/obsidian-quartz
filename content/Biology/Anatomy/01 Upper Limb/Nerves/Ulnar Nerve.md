@@ -20,3 +20,4 @@ The **ulnar nerve** is a [[Nerve]] that runs near the [[Ulna]]. It innervates th
 - [[Flexor Pollicis Brevis]]
 - [[Palmaris Brevis]]
 
+![[Ulnar Nerve.png]]
