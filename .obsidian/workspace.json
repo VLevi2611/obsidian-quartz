@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/01 Upper Limb/Joints/Upper Limb Joints.md",
+                "file": "content/Daily Notes/2026-05-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Upper Limb Joints"
+              "title": "2026-05-16"
             }
           }
         ]
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/01 Upper Limb/Joints/Upper Limb Joints.md",
+                "file": "content/Daily Notes/2026-05-16.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Upper Limb Joints"
+              "title": "Graph of 2026-05-16"
             }
           }
         ]
@@ -303,8 +303,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8b09fff2244572c",
+  "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Daily Notes/2026-05-18.md",
+    "content/Daily Notes/2026-05-17.md",
+    "content/Daily Notes/2026-05-20.md",
+    "content/Daily Notes/2026-05-23.md",
+    "content/Daily Notes/2026-05-25.md",
+    "content/Daily Notes/2026-05-30.md",
+    "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Upper Limb Blood Vessels & Lymphatics.md",
+    "content/Biology/Anatomy/01 Upper Limb/Nerves/Upper Limb Nerves.md",
+    "content/Biology/Anatomy/01 Upper Limb/Nerves/Musculocutaneous Nerve.md",
+    "content/Biology/Anatomy/01 Upper Limb/Joints/Upper Limb Joints.md",
     "content/Resources/Images/Ulnar Nerve.png",
     "content/Resources/Images/Radial Nerve.png",
     "content/Resources/Images/Musculocutaneous Nerve.png",
@@ -317,13 +327,11 @@
     "content/Daily Notes/2026-06-05.md",
     "content/Biology/Anatomy/01 Upper Limb/Nerves/Ulnar Nerve.md",
     "content/Biology/Anatomy/01 Upper Limb/Nerves/Radial Nerve.md",
-    "content/Biology/Anatomy/01 Upper Limb/Nerves/Musculocutaneous Nerve.md",
     "content/Biology/Anatomy/01 Upper Limb/Nerves/Median Nerve.md",
     "content/Biology/Anatomy/01 Upper Limb/Nerves/Brachial Plexus.md",
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Lumbricals.md",
     "content/Resources/Images/Supinator.png",
     "content/Resources/Images/Palmaris Brevis.png",
-    "content/Resources/Images/Palmar Interossei.png",
     "content/Daily Notes/2026-06-03.md",
     "content/Biology/Anatomy/01 Upper Limb/Nerves/Axillary Nerve.md",
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Supinator.md",
@@ -333,14 +341,6 @@
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Opponens Digiti Minimi.md",
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Flexor Pollicis Brevis.md",
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Flexor Digiti Minimi Brevis.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Extensor Pollicis Longus and Brevis.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Extensor Indicis.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Extensor Digitorum.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Extensor Digiti Minimi.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Extensor Carpi Ulnaris.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Extensor Carpi Radialis Longus and Brevis.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Dorsal Interossei.md",
-    "content/Biology/Anatomy/01 Upper Limb/Muscles/Brachioradialis.md",
     "content/Biology/Anatomy/01 Upper Limb/Joints",
     "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics",
     "content/Biology/Anatomy/01 Upper Limb/Nerves",
