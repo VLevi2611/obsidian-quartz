@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **vein** is a [[Blood Vessels|Blood Vessel]] in the circulatory syste
+A **vein** is a [[Blood Vessels|Blood Vessel]] in the circulatory system that carries [[Blood]] towards the [[Heart]]. Most veins carry deoxygenated blood from the [[Tissue|Tissues]] back to the heart. There are 3 sizes of veins: large
 
