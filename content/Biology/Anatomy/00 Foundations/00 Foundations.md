@@ -34,6 +34,6 @@ Body movement is produced primarily by [[Muscle]], a contractile tissue capable 
 
 Control and coordination of bodily activity are mediated by [[Nerve]] structures. The [[Nervous System]] transmits electrical signals responsible for sensory perception, motor control, reflexes, and autonomic regulation. Peripheral nerves connect the central nervous system to muscles, organs, glands, and skin.
 
-Transport throughout the body occurs through [[Blood Vessels]], including [[Artery|Arteries]], veins, and capillaries. Blood vessels distribute oxygen, nutrients, hormones, immune cells, and metabolic waste products throughout tissues and organs.
+Transport throughout the body occurs through [[Blood Vessels]], including [[Artery|Arteries]], [[Vein|Veins]], and [[capillaries]]. Blood vessels distribute oxygen, nutrients, hormones, immune cells, and metabolic waste products throughout tissues and organs.
 
 Modern anatomy is closely integrated with [[Imaging]] techniques that allow visualization of internal structures in living patients. Common imaging modalities include X-ray, CT, MRI, and ultrasound. Imaging provides both anatomical and diagnostic information and plays a central role in modern clinical medicine.
