@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **radial artery** is an 
+The **radial artery** is a major [[Artery]] that supplies oxygenated [[Blood]] to the [[Forearm]], [[Wrist]] and [[Hand]]. 
 
