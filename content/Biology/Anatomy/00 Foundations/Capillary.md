@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-A **capillary** is a small [[Blood Vessels|Blood ve]]
+A **capillary** is a small [[Blood Vessels|Blood Vessel]], and is part of the **microcirculation system**. They are the smallest blood vessel and are composed only 
 
