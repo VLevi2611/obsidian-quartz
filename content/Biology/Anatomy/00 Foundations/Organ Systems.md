@@ -35,8 +35,8 @@ A **system** consists of related organs that work together to perform a common
 
 ## 6. [[Cardiovascular System]]
 
-- **Components:** Blood, heart, and blood vessels.
-- **Functions:** The heart pumps blood through [[Blood Vessels|Vessels]] to carry oxygen and nutrients to cells and carbon dioxide and wastes away from them. It also helps regulate [[Acid]]-[[Base]] balance, temperature, and [[Water]] content of body fluids.
+- **Components:** [[Blood]], [[Heart]], and [[Blood Vessels]].
+- **Functions:** The heart pumps blood through vessels to carry oxygen and nutrients to cells and carbon dioxide and wastes away from them. It also helps regulate [[Acid]]-[[Base]] balance, temperature, and [[Water]] content of body fluids.
 
 ## 7. [[Lymphatic System]]
 
