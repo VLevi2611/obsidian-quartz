@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-The **brachial artery** is a major [[Artery]] supplying oxygen-rich [[Blood]] to the upper [[Arm]], [[Elbow Joint|Elbow]], [[Forearm]] and [[Hand]]. The brachial artery begins as a continuation of the [[Axillary Artery]] and runs down the inner [[Biceps Brachii|Bicep]], and divides into the [[Radial Artery]] and [[Ulnar Artery]].
+The **brachial artery** is a major [[Artery]] supplying oxygen-rich [[Blood]] to the upper [[Arm]], [[Elbow Joint|Elbow]], [[Forearm]] and [[Hand]]. The brachial artery begins as a continuation of the [[Axillary Artery]] and runs down the inner [[Biceps Brachii|Bicep]], and divides into the [[Radial Artery]] and [[Ulnar Artery]]. It lies close to the [[Humerus]].
