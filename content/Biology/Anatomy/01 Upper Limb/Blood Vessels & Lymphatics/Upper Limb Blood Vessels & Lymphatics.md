@@ -25,4 +25,5 @@ The [[Cardiovascular System]] and [[Lymphatic System]] of the upper limb ensure 
 - [[Median Cubital Vein]]
 - [[Lymph]]
 - [[Lymphatic Drainage]]
-- [[Axill]]
+- [[Axillary Lymph Nodes]]
+- [[Supratrochlear Lymph Nodes]]
