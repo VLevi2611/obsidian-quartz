@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **scapular anastomosis** is a [[System]] connecting certain [[Subclavian Artery]] and their corresponding [[Axillary Artery]], forming a circulatory anastomi
+The **scapular anastomosis** is a [[System]] connecting the [[Subclavian Artery]] and to the [[Axillary Artery]], forming a circulatory anastomosis (connection between 2 [[Blood Vessels]]) around the [[Scapula]]. It allows [[Blood]] to flow past the 
 
