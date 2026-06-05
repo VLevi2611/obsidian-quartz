@@ -66,7 +66,10 @@
         "content/Biology/Anatomy/00 Foundations/Extracellular Matrix.md",
         "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
         "content/Biology/Anatomy/00 Foundations/Ligament.md",
-        "content/Biology/Anatomy/00 Foundations/Tendon.md"
+        "content/Biology/Anatomy/00 Foundations/Tendon.md",
+        "content/Biology/Anatomy/00 Foundations/Vein.md",
+        "content/Biology/Anatomy/00 Foundations/Artery.md",
+        "content/Biology/Anatomy/00 Foundations/Capillary.md"
       ],
       "sortOrder": "custom"
     },
@@ -95,7 +98,13 @@
     },
     "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics": {
       "children": [
-        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Upper Limb Blood Vessels & Lymphatics.md"
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Upper Limb Blood Vessels & Lymphatics.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Axillary Artery.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Brachial Artery.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Cubital Fossa.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Radial Artery.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Scapular Anastomosis.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Subclavian Artery.md"
       ],
       "sortOrder": "custom"
     },
@@ -1359,7 +1368,16 @@
         "content/Resources/Images/Shoulder Joint Nerves.png",
         "content/Resources/Images/Elbow Joint.png",
         "content/Resources/Images/Acromioclavicular Joint.png",
-        "content/Resources/Images/Distal Radio-ulnar Joint.png"
+        "content/Resources/Images/Distal Radio-ulnar Joint.png",
+        "content/Resources/Images/Scapular Anastomosis.png",
+        "content/Resources/Images/Subclavian Artery.png",
+        "content/Resources/Images/Vein.png",
+        "content/Resources/Images/Radial Artery.png",
+        "content/Resources/Images/Cubital Fossa.png",
+        "content/Resources/Images/Capillary.png",
+        "content/Resources/Images/Brachial Artery.png",
+        "content/Resources/Images/Artery.png",
+        "content/Resources/Images/Axillary Artery.png"
       ],
       "sortOrder": "custom"
     },
