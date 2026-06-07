@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **ulnar artery** is the [[Artery]], with oxygenated [[Blood]], in the medial aspects of the [[Forearm]]
+The **ulnar artery** is the [[Artery]], with oxygenated [[Blood]], in the medial aspects of the [[Forearm]]. It arises from the [[Brachial Artery]] and terminates in the [[Superficial Palmar Arch]], which joins with the superficial branch of the [[Radial Artery]]. It begins 
 
