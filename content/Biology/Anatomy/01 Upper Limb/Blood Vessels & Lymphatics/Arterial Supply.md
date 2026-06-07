@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **arterial supply** refers to the network of [[Artery|Arteries]] that deliver oxygenated
+The **arterial supply** refers to the network of [[Artery|Arteries]] that deliver oxygenated [[Blood]], nutrients and vital [[Substance|Substances]] from the [[]]
 
