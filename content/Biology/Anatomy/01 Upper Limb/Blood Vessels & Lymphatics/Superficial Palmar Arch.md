@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **superficial palmar arch** is formed by th
+The **superficial palmar arch** is a major [[Artery|Arterial]] network in the [[Hand]] that primarily supplies [[Blood]]
 
