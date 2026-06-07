@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The 
+The **deep palmar arch** is a [[Artery|Arterial]] network
 
