@@ -27,7 +27,7 @@ Muscles of the anterior thoracic wall that anchor the upper limb to the trunk.
 - **[[Pectoralis minor]]:** A small triangular muscle deep to the pectoralis major that depresses the shoulder and protracts the scapula.
 - **[[Subclavius]]:** A small muscle that pulls the [[Clavicle]] medially and the shoulder down.
 
-### **Rotator Cuff (Shoulder Stabilization)
+### Rotator Cuff
 
 The four rotator cuff muscles stabilize the glenohumeral joint by holding the head of the humerus in the glenoid cavity.
 
@@ -37,18 +37,18 @@ The four rotator cuff muscles stabilize the glenohumeral joint by holding the he
 - **[[Subscapularis]]:** The largest component of the posterior axillary wall; it medially rotates the arm.
 - **[[Teres major]]:** Though not a rotator cuff muscle, it medially rotates and extends the humerus.
 
-### **Muscles of the Arm**
+### [[Arm]]
 
 Divided into anterior (flexor) and posterior (extensor) compartments by intermuscular septa.
 
 - **Anterior Compartment:**
     - **[[Biceps brachii]]:** A two-headed muscle that is a powerful flexor of the forearm and the most powerful supinator.
     - **[[Brachialis]]:** Located deep to the biceps, it is the primary flexor of the forearm at the elbow.
-    - **[[Coracobrachialis]]:** Flexes the arm at the glenohumeral joint and adducts it.
+    - **[[Coracobrachialis]]:** Flexes the arm at the shoulder joint and adducts it.
 - **Posterior Compartment:**
-    - **[[Triceps brachii]]:** The primary extensor of the forearm at the elbow joint.
+    - **[[Triceps brachii]]:** The primary extensor of the forearm at the [[Elbow Joint]].
 
-### **Muscles of the Forearm**
+### [[Forearm]]
 
 Divided into flexor and extensor compartments; these muscles move the wrist and digits.
 
