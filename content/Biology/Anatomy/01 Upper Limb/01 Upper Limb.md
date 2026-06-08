@@ -14,10 +14,10 @@ The **upper limb** is a highly mobile multijointed appendage associated with the
 
 The upper limb is divided into four main regions defined by its major joints and bones. Between these regions are critical "gateways" or **areas of transition** through which neurovascular structures pass.
 
-- **[[Shoulder]] (Pectoral Region):** The area of attachment to the trunk, including the **clavicle** and **scapula**.
-- **[[Arm]] (Brachial Region):** The portion between the shoulder and elbow, supported by the **humerus**.
-- **[[Forearm]] (Antebrachial Region):** The portion between the elbow and wrist, containing the **radius** and **ulna**.
-- **[[Wrist]] and [[Hand]]:** The distal extremity, containing the **carpus** (8 bones), **metacarpus** (5 bones), and **digits** (14 phalanges).
+- [[Shoulder]]:The area of attachment to the trunk, including the **clavicle** and **scapula**.
+- [[Arm]]: The portion between the shoulder and elbow, supported by the **humerus**.
+- [[Forearm]]: The portion between the elbow and wrist, containing the **radius** and **ulna**.
+- [[Wrist]] and [[Hand]]: The distal extremity, containing the **carpus** (8 [[Bone]]), **metacarpus** (5 bones), and **digits** (14 phalanges).
 - **Key Transitions:**
     - **[[Axilla]] (Armpit):** The pyramidal gateway between the neck and the arm.
     - **[[Cubital Fossa]]:** The triangular depression anterior to the elbow.
@@ -29,7 +29,7 @@ The upper limb is divided into four main regions defined by its major joints and
 
 The skeletal framework provides attachment points for muscles and acts as a lever system for [[Movement]].
 
-- **Shoulder Girdle:** The **[[Clavicle]]** and **[[Scapula]]**.
+- **Shoulder Girdle:** The [[Clavicle]] and [[Scapula]].
 - **Arm:** The **[[Humerus]]**.
 - **Forearm:** The **[[Radius]]** (lateral) and **[[Ulna]]** (medial).
 - **Hand:** Eight **[[Carpals]]**, five **[[Metacarpals]]**, and fourteen **[[Phalanges]]**.
