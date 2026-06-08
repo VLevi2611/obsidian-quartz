@@ -62,15 +62,15 @@ Divided into flexor and extensor compartments; these muscles move the [[Wrist]] 
     - [[Flexor pollicis longus]]: A deep, powerful muscle that flexes the thumb.
     - [[Pronator quadratus]]: Pulls the distal end of the radius over the ulna for pronation.
 - **Posterior Compartment (Extensors and Supinators):**
-    - [[Brachioradialis]]:** Forms the lateral boundary of the [[Cubital Fossa]]; it is an accessory flexor of the elbow.
+    - [[Brachioradialis]]: Forms the lateral boundary of the [[Cubital Fossa]]; it is an accessory flexor of the elbow.
     - [[Extensor Carpi Radialis Longus and Brevis]]:  These muscles extend and abduct the wrist.
-    - **[[Extensor digitorum]]:** The major extensor of the index, middle, ring, and little fingers.
-    - **[[Extensor digiti minimi]]:** An accessory extensor of the little finger.
-    - **[[Extensor carpi ulnaris]]:** Extends and adducts the wrist.
-    - **[[Anconeus]]:** A triangular muscle that abducts the ulna during pronation and assists in elbow extension.
-    - **[[Supinator]]:** Wraps around the radius to produce supination of the forearm.
-    - **[[Abductor pollicis longus]]:** Abducts and extends the thumb at the carpometacarpal joint.
-    - **[[Extensor pollicis longus]] & [[Extensor pollicis brevis]]:** These muscles extend the joints of the thumb.
+    - [[Extensor digitorum]]: The major extensor of the index, middle, ring, and little fingers.
+    - [[Extensor digiti minimi]]: An accessory extensor of the little finger.
+    - [[Extensor carpi ulnaris]]: Extends and adducts the wrist.
+    - [[Anconeus]]: A triangular muscle that abducts the ulna during pronation and assists in elbow extension.
+    - [[Supinator]]: Wraps around the radius to produce supination of the forearm.
+    - [[Abductor pollicis longus]]: Abducts and extends the thumb at the carpometacarpal joint.
+    - [[exten]] These muscles extend the joints of the thumb.
     - **[[Extensor indicis]]:** An accessory extensor of the index finger.
 
 ### **Intrinsic Muscles of the Hand**
@@ -90,4 +90,4 @@ Located entirely in the hand, these muscles execute precision movements with the
     - **[[Dorsal interossei]]:** Four muscles that abduct the digits and assist in complex flexion and extension.
     - **[[Palmar interossei]]:** Three or four muscles that adduct the digits toward the middle finger.
     - **[[Lumbricals]]:** Four worm-like muscles that link flexor and extensor tendons to flex metacarpophalangeal joints and extend interphalangeal joints.
-    - **[[Palmaris brevis]]:** A small, subcutaneous muscle that deepens the cup of the palm to improve grip.
+    - **[[Palmaris brevis]]:** A small, subcutaneous muscle that deepens the cup of the palm to improve 
