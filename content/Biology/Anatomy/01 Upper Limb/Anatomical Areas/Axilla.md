@@ -6,5 +6,4 @@ tags:
 ---
 ## Definition
 
-The **axilla** (armpit) is the anatomical region directly under the [[Shoulder Joint]] where the [[Arm]] connects to the torso
-
+The **axilla** (armpit) is the anatomical region directly under the [[Shoulder Joint]] where the [[Arm]] connects to the torso. It acts as an essential passageway for [[Nerve|Nerves]], [[Blood Vessels]] and [[Lymph|Lymphs]] traveling between the neck, chest and upper limbs.
