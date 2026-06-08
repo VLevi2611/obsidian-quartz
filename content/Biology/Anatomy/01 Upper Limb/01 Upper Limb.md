@@ -17,11 +17,11 @@ The upper limb is divided into four main regions defined by its major joints and
 - [[Shoulder]]:The area of attachment to the trunk, including the **clavicle** and **scapula**.
 - [[Arm]]: The portion between the shoulder and elbow, supported by the **humerus**.
 - [[Forearm]]: The portion between the elbow and wrist, containing the **radius** and **ulna**.
-- [[Wrist]] and [[Hand]]: The distal extremity, containing the **carpus** (8 [[Bone]]), **metacarpus** (5 bones), and **digits** (14 phalanges).
+- [[Wrist]] and [[Hand]]: The distal extremity, containing the **carpus** (8 [[Bone|Bones]]), **metacarpus** (5 bones), and **digits** (14 phalanges).
 - **Key Transitions:**
-    - **[[Axilla]] (Armpit):** The pyramidal gateway between the neck and the arm.
-    - **[[Cubital Fossa]]:** The triangular depression anterior to the elbow.
-    - **[[Carpal Tunnel]]:** The osteofascial gateway to the palm of the hand.
+    - [[Axilla]] (Armpit): The pyramidal gateway between the neck and the arm.
+    - [[Cubital Fossa]]: The triangular depression anterior to the elbow.
+    - [[Carpal Tunnel]]: The osteofascial gateway to the palm of the hand.
 
 ---
 
@@ -30,15 +30,15 @@ The upper limb is divided into four main regions defined by its major joints and
 The skeletal framework provides attachment points for muscles and acts as a lever system for [[Movement]].
 
 - **Shoulder Girdle:** The [[Clavicle]] and [[Scapula]].
-- **Arm:** The **[[Humerus]]**.
-- **Forearm:** The **[[Radius]]** (lateral) and **[[Ulna]]** (medial).
-- **Hand:** Eight **[[Carpals]]**, five **[[Metacarpals]]**, and fourteen **[[Phalanges]]**.
+- **Arm:** The [[Humerus]].
+- **Forearm:** The [[Radius]] (lateral) and [[Ulna]] (medial).
+- **Hand:** Eight [[Carpals]], five [[Metacarpals]], and fourteen [[Phalanges]].
 
 ---
 
-### **3. Joints of the Upper Limb**
+### [[Upper Limb Joints]]
 
-The upper limb contains almost exclusively **synovial joints** to facilitate extensive ranges of motion.
+The upper limb contains almost exclusively [[Synovial Joint|Synovial Joints]] to facilitate extensive ranges of motion.
 
 - **Shoulder Complex:** **[[Glenohumeral Joint]]** (highly mobile ball-and-socket), **[[Sternoclavicular Joint]]**, and **[[Acromioclavicular Joint]]**.
 - **Elbow & Forearm:** **[[Elbow Joint]]** (hinge for flexion/extension) and **[[Radio-ulnar Joints]]** (pivot for pronation/supination).
