@@ -59,19 +59,19 @@ The upper limb contains almost exclusively [[Synovial Joint|Synovial Joints]] to
 
 ### [[Upper Limb Nerves]]
 
-The limb is [[Nerve|Innervated]] by the **[[Brachial Plexus]]**, formed by the anterior rami of **C5 to T1**.
+The limb is [[Nerve|Innervated]] by the [[Brachial Plexus]], formed by the anterior rami of **C5 to T1**.
 
-- **[[Musculocutaneous Nerve]]:** Anterior arm muscles and lateral forearm skin.
-- **[[Axillary Nerve]]:** Deltoid and Teres minor; sensation over the shoulder.
-- **[[Median Nerve]]:** Most anterior forearm flexors and thenar muscles; sensation to the lateral 3.5 digits.
-- **[[Radial Nerve]]:** All posterior compartment muscles (arm and forearm) and dorsolateral hand sensation.
-- **[[Ulnar Nerve]]:** Most intrinsic hand muscles and 1.5 forearm muscles; sensation to the medial 1.5 digits.
+- [[Musculocutaneous Nerve]]: Anterior arm muscles and lateral forearm skin.
+- [[Axillary Nerve]]: Deltoid and Teres minor; sensation over the shoulder.
+- [[Median Nerve]]: Most anterior forearm flexors and thenar muscles; sensation to the lateral 3.5 digits.
+- [[Radial Nerve]]: All posterior compartment muscles (arm and forearm) and dorsolateral hand sensation.
+- [[Ulnar Nerve]]: Most intrinsic hand muscles and 1.5 forearm muscles; sensation to the medial 1.5 digits.
 
 ---
 
 ### [[Upper Limb Blood Vessels & Lymphatics]]
 
-- [[Arterial Supply]]: Continuous flow from the **[[Subclavian Artery]]** $\rightarrow$ **[[Axillary Artery]]** $\rightarrow$ **[[Brachial Artery]]** $\rightarrow$ **[[Radial Artery]]** & **[[Ulnar Artery]]** $\rightarrow$ **[[Superficial Palmar Arch]] & [[Deep Palmar Arch]]
+- [[Arterial Supply]]: Continuous flow from the [[Subclavian Artery]] $\rightarrow$ [[Axillary Artery]] $\rightarrow$ [[Brachial Artery]] $\rightarrow$ [[Radial Artery]]** & **[[Ulnar Artery]]** $\rightarrow$ **[[Superficial Palmar Arch]] & [[Deep Palmar Arch]]
 - **Venous Drainage:**
     - **Superficial:** **[[Cephalic Vein]]** (lateral), **[[Basilic Vein]]** (medial), and **[[Median Cubital Vein]]** (connection at the elbow).
     - **Deep:** Paired veins that accompany the major arteries.
