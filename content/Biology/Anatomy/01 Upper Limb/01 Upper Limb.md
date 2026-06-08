@@ -53,11 +53,11 @@ The upper limb contains almost exclusively [[Synovial Joint|Synovial Joints]] to
 - **Shoulder/Back:** Muscles like the [[Trapezius]], [[Latissimus dorsi]], and the four [[Upper Limb Muscles#Rotator Cuff|Rotator Cuff]] muscles ([[Supraspinatus]], [[Infraspinatus]], [[Teres Minor]], [[Subscapularis]]).
 - **Arm Compartments:** **Anterior (flexor)** compartment ([[Biceps Brachii]], [[Brachialis]], [[Coracobrachialis]]) and **Posterior (extensor)** compartment ([[Triceps Brachii]]).
 - **Forearm Compartments:** **Anterior (flexor/pronator)** and **Posterior (extensor/supinator)** groups.
-- **[[muslces ]]: Small muscles entirely within the hand (thenar, hypothenar, interossei, and lumbricals) for precision tasks.
+- [[Upper Limb Muscles#Arm|Arm]]: Small muscles entirely within the hand (thenar, hypothenar, interossei, and lumbricals) for precision tasks.
 
 ---
 
-### **5. Nerves of the Upper Limb**
+### [[Upper Limb Nerves]]
 
 The limb is innervated by the **[[Brachial Plexus]]**, formed by the anterior rami of **C5 to T1**.
 
