@@ -71,8 +71,8 @@ The limb is [[Nerve|Innervated]] by the [[Brachial Plexus]], formed by the anter
 
 ### [[Upper Limb Blood Vessels & Lymphatics]]
 
-- [[Arterial Supply]]: Continuous flow from the [[Subclavian Artery]] $\rightarrow$ [[Axillary Artery]] $\rightarrow$ [[Brachial Artery]] $\rightarrow$ [[Radial Artery]]** & **[[Ulnar Artery]]** $\rightarrow$ **[[Superficial Palmar Arch]] & [[Deep Palmar Arch]]
-- **Venous Drainage:**
-    - **Superficial:** **[[Cephalic Vein]]** (lateral), **[[Basilic Vein]]** (medial), and **[[Median Cubital Vein]]** (connection at the elbow).
+- [[Arterial Supply]]: Continuous flow from the [[Subclavian Artery]] $\rightarrow$ [[Axillary Artery]] $\rightarrow$ [[Brachial Artery]] $\rightarrow$ [[Radial Artery]] & [[Ulnar Artery]] $\rightarrow$ [[Superficial Palmar Arch]] & [[Deep Palmar Arch]]
+- [[Venous Drainage]]:
+    - **Superficial:** [[Cephalic Vein]] (lateral), [[Basilic Vein]] (medial), and [[Median Cubital Vein]] (connection at the elbow).
     - **Deep:** Paired veins that accompany the major arteries.
-- **Lymphatics:** Excess fluid is filtered primarily through the **[[Axillary Lymph Nodes]]** (20–30 nodes) and regional nodes like the **[[Supratrochlear Lymph Nodes]]**.
+- [[Lymph]]: Excess fluid is filtered primarily through the [[Axillary Lymph Nodes]]** (20–30 nodes) and regional nodes like the **[[Supratrochlear Lymph Nodes]]**.
