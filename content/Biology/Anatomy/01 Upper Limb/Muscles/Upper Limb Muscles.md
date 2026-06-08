@@ -12,8 +12,8 @@ tags:
 
 These extrinsic and intrinsic shoulder muscles attach the appendicular skeleton to the trunk and position the scapula.
 
-- **[[Trapezius]]:** A flat, triangular muscle that elevates, rotates, and retracts the scapula to extend the arm's reach.
-- **[[Latissimus dorsi]]:** A large, flat muscle that extends, adducts, and medially rotates the humerus.
+- **[[Trapezius]]:** A flat, triangular muscle that elevates, rotates, and retracts the [[Scapula]] to extend the arm's reach.
+- **[[Latissimus dorsi]]:** A large, flat muscle that extends, adducts, and medially rotates the [[Humerus]].
 - **[[Levator scapulae]]:** A slender muscle that elevates the scapula and assists in positioning it.
 - **[[Rhomboid major]] & [[Rhomboid minor]]:** Muscles located deep to the trapezius that retract and elevate the scapula.
 - **[[Deltoid]]:** A large triangular muscle that serves as the major abductor of the arm and provides the shoulder's contour.
