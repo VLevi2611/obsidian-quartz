@@ -10,7 +10,7 @@ The [[Arterial Supply]] and [[Venous Drainage]] of the upper limb are organized 
 
 ### **Arterial Supply: From Heart to Hand**
 
-The oxygenated blood travels through a series of continuous [[Blood Vessels]] that change names based on anatomical landmarks:
+The oxygenated blood travels through a series of continuous [[Artery|Arteries]]:
 
 - **[[Subclavian Artery]]:** Originates from the brachiocephalic trunk (right) or the aortic arch (left) and passes over the first rib.
 - **[[Axillary Artery]]:** The continuation of the subclavian artery after it crosses the lateral margin of rib I. It is divided into three parts by the pectoralis minor muscle and supplies the walls of the axilla and shoulder.
@@ -22,7 +22,7 @@ The oxygenated blood travels through a series of continuous [[Blood Vessels]] th
 
 ### **Venous Drainage: Superficial and Deep**
 
-The venous system returns deoxygenated blood to the heart through deep veins (which follow the arteries) and superficial veins (located in the fascia):
+The venous system returns deoxygenated blood to the [[Heart]] through deep [[Vein|Veins]] (which follow the arteries) and superficial veins (located in the fascia):
 
 - **Superficial Veins:**
     - **[[Cephalic Vein]]:** Drains the lateral aspect of the limb and pierces the clavipectoral fascia to join the axillary vein.
