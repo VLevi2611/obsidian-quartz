@@ -23,27 +23,27 @@ These extrinsic and intrinsic shoulder muscles attach the appendicular skeleton 
 
 Muscles of the anterior thoracic wall that anchor the upper limb to the trunk.
 
-- **[[Pectoralis major]]: The largest and most superficial muscle of the region; it adducts, flexes, and medially rotates the arm.
-- **[[Pectoralis minor]]:** A small triangular muscle deep to the pectoralis major that depresses the shoulder and protracts the scapula.
-- **[[Subclavius]]:** A small muscle that pulls the [[Clavicle]] medially and the shoulder down.
+- [[Pectoralis major]]: The largest and most superficial muscle of the region; it adducts, flexes, and medially rotates the arm.
+- [[Pectoralis minor]]: A small triangular muscle deep to the pectoralis major that depresses the shoulder and protracts the scapula.
+- [[Subclavius]]: A small muscle that pulls the [[Clavicle]] medially and the shoulder down.
 
 ### Rotator Cuff
 
 The four rotator cuff muscles stabilize the glenohumeral joint by holding the head of the humerus in the glenoid cavity.
 
-- **[[Supraspinatus]]:** Abducts the arm and stabilizes the [[Shoulder Joint]].
-- **[[Infraspinatus]]:** Laterally rotates the arm.
-- **[[Teres minor]]:** A cord-like muscle that laterally rotates the arm.
-- **[[Subscapularis]]:** The largest component of the posterior axillary wall; it medially rotates the arm.
-- **[[Teres major]]:** Though not a rotator cuff muscle, it medially rotates and extends the humerus.
+- [[Supraspinatus]]: Abducts the arm and stabilizes the [[Shoulder Joint]].
+- [[Infraspinatus]]: Laterally rotates the arm.
+- [[Teres minor]]: A cord-like muscle that laterally rotates the arm.
+- [[Subscapularis]]: The largest component of the posterior axillary wall; it medially rotates the arm.
+- [[Teres major]]: Though not a rotator cuff muscle, it medially rotates and extends the humerus.
 
 ### [[Arm]]
 
 Divided into anterior (flexor) and posterior (extensor) compartments by intermuscular septa.
 
 - **Anterior Compartment:**
-    - **[[Biceps brachii]]:** A two-headed muscle that is a powerful flexor of the forearm and the most powerful supinator.
-    - **[[Brachialis]]:** Located deep to the biceps, it is the primary flexor of the forearm at the elbow.
+    - [[Biceps brachii]]: A two-headed muscle that is a powerful flexor of the forearm and the most powerful supinator.
+    - [[Brachialis]]: Located deep to the biceps, it is the primary flexor of the forearm at the elbow.
     - **[[Coracobrachialis]]:** Flexes the arm at the shoulder joint and adducts it.
 - **Posterior Compartment:**
     - **[[Triceps brachii]]:** The primary extensor of the forearm at the [[Elbow Joint]].
