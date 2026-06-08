@@ -11,8 +11,8 @@ The upper limb is innervated by the **[[Brachial Plexus]]**, a complex network o
 ### Major Peripheral Nerves
 
 - [[Musculocutaneous Nerve]]: Originates from the lateral cord.
-    - **Motor:** Innervates all muscles in the **anterior compartment of the arm** (biceps brachii, brachialis, and coracobrachialis).
-    - **Sensory:** Supplies the skin on the lateral side of the forearm.
+    - **Motor:** Innervates all [[Muscle|Muscles]] in the **anterior compartment of the [[Arm]]** (biceps brachii, brachialis, and coracobrachialis).
+    - **Sensory:** Supplies the skin on the lateral side of the [[Forearm]].
     - **Landmark:** It is identified by its characteristic **piercing of the coracobrachialis muscle** to enter the arm.
 - [[Axillary Nerve]]: Originates from the posterior cord.
     - **Motor:** Supplies the **deltoid** and **teres minor** muscles.
@@ -26,8 +26,7 @@ The upper limb is innervated by the **[[Brachial Plexus]]**, a complex network o
     - **Motor:** Innervates **all muscles in the posterior compartments** of both the arm and forearm.
     - **Sensory:** Supplies skin on the posterior arm and forearm, and the **dorsolateral surface of the hand**.
     - **Landmark:** It travels in the **radial groove** of the humerus and is highly susceptible to injury during midshaft humeral fractures.
-- **[[Ulnar Nerve]]:** The large terminal branch of the medial cord.
-    
+- [[Ulnar Nerve]]: The large terminal branch of the medial cord.
     - **Motor:** Innervates the flexor carpi ulnaris and the medial half of the flexor digitorum profundus in the forearm, and **most intrinsic muscles of the hand** (including the hypothenar eminence and interossei).
     - **Sensory:** Supplies the skin over the **medial one and one-half digits** (little finger and half of ring finger) on both palmar and dorsal sides.
     - **Landmark:** It passes posteriorly to the **medial epicondyle** of the humerus, where it can be palpated ("the funny bone").
