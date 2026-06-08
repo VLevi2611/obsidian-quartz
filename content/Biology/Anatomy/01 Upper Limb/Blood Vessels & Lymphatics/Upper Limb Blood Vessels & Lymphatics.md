@@ -38,7 +38,7 @@ The venous system returns deoxygenated blood to the [[Heart]] through deep [[Vei
 
 The lymphatic system maintains fluid balance by collecting **[[Lymph]]** (interstitial fluid) and filtering it through nodes:
 
-- **[[Axillary Lymph Nodes]]:** A cluster of 20–30 nodes that receive nearly all lymphatic drainage from the upper limb, as well as 75% of the drainage from the mammary gland. They are organized into humeral, pectoral, subscapular, central, and apical groups.
+- **[[Axillary Lymph Nodes]]:** A cluster of 20–40 nodes that receive nearly all lymphatic drainage from the upper limb, as well as 75% of the drainage from the mammary gland. They are organized into humeral, pectoral, subscapular, central, and apical groups.
 - **[[Supratrochlear Lymph Nodes]]:** These are regional nodes located proximal to the medial epicondyle of the humerus that filter lymph from the medial side of the hand and forearm before it reaches the axilla (note: while commonly included in medical curricula, specific functional details for these nodes are limited in the provided excerpts).
 
 ### **Key Transition Areas**
