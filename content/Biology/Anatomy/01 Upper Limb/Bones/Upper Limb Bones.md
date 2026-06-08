@@ -17,10 +17,10 @@ The skeletal framework of the upper limb consists of the **appendicular skeleton
 
 - **[[Humerus]]:** The longest and largest bone of the upper limb, providing the primary skeletal support for the arm. Its proximal head articulates with the scapula, while its distal end articulates with the radius and ulna at the **[[Elbow Joint]]**.
 
-### **The Forearm**
+### [[Forearm]]
 
-- **[[Ulna]]:** The medial bone of the forearm. It is larger proximally, where the **olecranon** forms the prominent "tip of the elbow," and tapers distally toward the wrist.
-- **[[Radius]]:** The lateral bone of the forearm. Unlike the ulna, it is small proximally and broadens distally to form the major portion of the **[[Wrist Joint]]**. Its ability to flip over the ulna allows for **pronation and supination** of the hand.
+- **[[Ulna]]:** The medial bone of the forearm. It is larger proximally, where the **olecranon** forms the prominent "tip of the elbow," and tapers distally toward the [[Wrist]].
+- **[[Radius]]:** The lateral bone of the forearm. Unlike the ulna, it is small proximally and broadens distally to form the major portion of the **[[Wrist Joint]]**. Its ability to flip over the ulna allows for [[Movement|Pronation and Supination]]pronation and supination of the hand.
 
 ### **Bones of the Hand**
 
