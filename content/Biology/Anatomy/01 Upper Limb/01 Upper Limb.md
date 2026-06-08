@@ -75,4 +75,4 @@ The limb is [[Nerve|Innervated]] by the [[Brachial Plexus]], formed by the anter
 - [[Venous Drainage]]:
     - **Superficial:** [[Cephalic Vein]] (lateral), [[Basilic Vein]] (medial), and [[Median Cubital Vein]] (connection at the elbow).
     - **Deep:** Paired veins that accompany the major arteries.
-- [[Lymph]]: Excess fluid is filtered primarily through the [[Axillary Lymph Nodes]]** (20–30 nodes) and regional nodes like the **[[Supratrochlear Lymph Nodes]]**.
+- [[Lymph]]: Excess fluid is filtered primarily through the [[Axillary Lymph Nodes]] (20–40 nodes) and regional nodes like the [[Supratrochlear Lymph Nodes]].
