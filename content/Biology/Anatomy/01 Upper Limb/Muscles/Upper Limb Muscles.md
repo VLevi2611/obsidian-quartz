@@ -19,19 +19,19 @@ These extrinsic and intrinsic shoulder muscles attach the appendicular skeleton 
 - **[[Deltoid]]:** A large triangular muscle that serves as the major abductor of the arm and provides the shoulder's contour.
 - **[[Serratus anterior]]:** Pulls the scapula forward over the thoracic wall and facilitates its rotation.
 
-### **Pectoral Region**
+### Pectoral Region
 
 Muscles of the anterior thoracic wall that anchor the upper limb to the trunk.
 
 - **[[Pectoralis major]]:** The largest and most superficial muscle of the region; it adducts, flexes, and medially rotates the arm.
 - **[[Pectoralis minor]]:** A small triangular muscle deep to the pectoralis major that depresses the shoulder and protracts the scapula.
-- **[[Subclavius]]:** A small muscle that pulls the clavicle medially and the shoulder down.
+- **[[Subclavius]]:** A small muscle that pulls the [[Clavicle]] medially and the shoulder down.
 
-### **Rotator Cuff (Shoulder Stabilization)**
+### **Rotator Cuff (Shoulder Stabilization)
 
 The four rotator cuff muscles stabilize the glenohumeral joint by holding the head of the humerus in the glenoid cavity.
 
-- **[[Supraspinatus]]:** Abducts the arm and stabilizes the shoulder joint.
+- **[[Supraspinatus]]:** Abducts the arm and stabilizes the [[Shoulder Joint]].
 - **[[Infraspinatus]]:** Laterally rotates the arm.
 - **[[Teres minor]]:** A cord-like muscle that laterally rotates the arm.
 - **[[Subscapularis]]:** The largest component of the posterior axillary wall; it medially rotates the arm.
