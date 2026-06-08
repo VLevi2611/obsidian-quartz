@@ -8,14 +8,14 @@ tags:
 
 The skeletal framework of the upper limb consists of the **appendicular skeleton**, which is structurally designed to provide a highly mobile base for the [[Hand]]. These [[Bone|Bones]] serve as supportive structures and levers upon which [[Muscle|Muscles]] act to produce a wide range of motion.
 
-### **Shoulder Girdle**
+### [[Shoulder]]
 
 - [[Clavicle]]: An S-shaped bone that serves as the **only skeletal attachment** between the trunk and the upper limb. It articulates medially with the manubrium of the sternum and laterally with the acromion of the scapula.
-- **[[Scapula]] (Shoulder Blade):** A large, flat triangular bone located on the posterior thoracic wall. It features the **glenoid cavity**, which articulates with the humerus, and processes like the **acromion** and **coracoid process** for muscle and ligament attachment.
+- [[Scapula]]: A large, flat triangular bone located on the posterior thoracic wall. It features the **glenoid cavity**, which articulates with the humerus, and processes like the **acromion** and **coracoid process** for muscle and ligament attachment.
 
-### **The Arm**
+### [[Arm]]
 
-- **[[Humerus]]:** The longest and largest bone of the upper limb, providing the primary skeletal support for the [[Arm]]. Its proximal head articulates with the scapula, while its distal end (the condyle) articulates with the radius and ulna at the **[[Elbow Joint]]**.
+- **[[Humerus]]:** The longest and largest bone of the upper limb, providing the primary skeletal support for the arm. Its proximal head articulates with the scapula, while its distal end articulates with the radius and ulna at the **[[Elbow Joint]]**.
 
 ### **The Forearm**
 
