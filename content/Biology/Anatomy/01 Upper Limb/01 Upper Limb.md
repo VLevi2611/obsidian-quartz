@@ -50,10 +50,10 @@ The upper limb contains almost exclusively [[Synovial Joint|Synovial Joints]] to
 
 [[Muscle|Muscles]] are organized into functional groups and compartments separated by deep fascia.
 
-- **Shoulder/Back:** Muscles like the [[Trapezius]], [[Latissimus dorsi]], and the four [[Upper Limb Muscles#Rotator Cuff|Rotator Cuff]] muscles ([[Supraspinatus]], [[Infraspinatus]], [[Teres Minor]], Subscapularis).
-- **Arm Compartments:** **Anterior (flexor)** compartment (Biceps brachii, Brachialis, Coracobrachialis) and **Posterior (extensor)** compartment (Triceps brachii).
+- **Shoulder/Back:** Muscles like the [[Trapezius]], [[Latissimus dorsi]], and the four [[Upper Limb Muscles#Rotator Cuff|Rotator Cuff]] muscles ([[Supraspinatus]], [[Infraspinatus]], [[Teres Minor]], [[Subscapularis]]).
+- **Arm Compartments:** **Anterior (flexor)** compartment ([[Biceps Brachii]], [[Brachialis]], [[Coracobrachialis]]) and **Posterior (extensor)** compartment ([[Triceps Brachii]]).
 - **Forearm Compartments:** **Anterior (flexor/pronator)** and **Posterior (extensor/supinator)** groups.
-- **[[Intrinsic Hand Muscles]]:** Small muscles entirely within the hand (thenar, hypothenar, interossei, and lumbricals) for precision tasks.
+- **[[muslces ]]: Small muscles entirely within the hand (thenar, hypothenar, interossei, and lumbricals) for precision tasks.
 
 ---
 
