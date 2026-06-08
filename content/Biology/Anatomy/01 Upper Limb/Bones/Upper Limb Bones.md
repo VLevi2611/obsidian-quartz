@@ -20,12 +20,12 @@ The skeletal framework of the upper limb consists of the **appendicular skeleton
 ### [[Forearm]]
 
 - **[[Ulna]]:** The medial bone of the forearm. It is larger proximally, where the **olecranon** forms the prominent "tip of the elbow," and tapers distally toward the [[Wrist]].
-- **[[Radius]]:** The lateral bone of the forearm. Unlike the ulna, it is small proximally and broadens distally to form the major portion of the **[[Wrist Joint]]**. Its ability to flip over the ulna allows for [[Movement|Pronation and Supination]]pronation and supination of the hand.
+- **[[Radius]]:** The lateral bone of the forearm. Unlike the ulna, it is small proximally and broadens distally to form the major portion of the **[[Wrist Joint]]**. Its ability to flip over the ulna allows for [[Movement|Pronation and Supination]] of the hand.
 
-### **Bones of the Hand**
+### [[Bones of the Hand]]
 
 The hand is subdivided into three groups of bones that provide both a mechanical tool for gripping and a sensory tool for touch.
 
-- **[[Carpals]] (Wrist Bones):** A group of **eight small bones** arranged in proximal and distal rows. They form the **carpal arch**, which serves as the foundation for the [[Carpal Tunnel]].
-- **[[Metacarpals]] (Palm Bones):** Five bones that form the skeletal foundation of the palm. **Metacarpal I** (related to the thumb) is the most mobile, allowing for the essential movement of opposition.
-- **[[Phalanges]] (Fingers):** The 14 bones of the digits. Each finger contains three phalanges (proximal, middle, and distal), while the **thumb** contains only two.
+- [[Carpals]]: A group of **eight small bones** arranged in proximal and distal rows. They form the **carpal arch**, which serves as the foundation for the [[Carpal Tunnel]].
+- [[Metacarpals]]: Five bones that form the skeletal foundation of the palm. **Metacarpal I** (related to the thumb) is the most mobile, allowing for the essential movement of opposition.
+- [[Phalanges]]: The 14 bones of the digits. Each finger contains three phalanges (proximal, middle, and distal), while the **thumb** contains only two.
