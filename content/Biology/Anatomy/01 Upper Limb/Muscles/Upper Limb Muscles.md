@@ -84,10 +84,10 @@ Located entirely in the hand, these muscles execute precision movements with the
 - **Hypothenar Muscles (Little Finger Movement):**
     - [[Abductor digiti minimi]]: The principal abductor of the little finger.
     - [[Flexor digiti minimi brevis]]: Flexes the little finger at the metacarpophalangeal joint.
-    - [[Opponens digiti minimi]]:** Rotates the little finger toward the palm for opposition.
+    - [[Opponens digiti minimi]]: Rotates the little finger toward the palm for opposition.
 - **Deep Intrinsic Muscles:**
-    - **[[Adductor pollicis]]:** A large triangular muscle that adducts the thumb to the palm for gripping.
-    - **[[Dorsal interossei]]:** Four muscles that abduct the digits and assist in complex flexion and extension.
-    - **[[Palmar interossei]]:** Three or four muscles that adduct the digits toward the middle finger.
-    - **[[Lumbricals]]:** Four worm-like muscles that link flexor and extensor tendons to flex metacarpophalangeal joints and extend interphalangeal joints.
-    - **[[Palmaris brevis]]:** A small, subcutaneous muscle that deepens the cup of the palm to improve grip.
+    - [[Adductor pollicis]]: A large triangular muscle that adducts the thumb to the palm for gripping.
+    - [[Dorsal interossei]]: Four muscles that abduct the digits and assist in complex flexion and extension.
+    - [[Palmar interossei]]: Three or four muscles that adduct the digits toward the middle finger.
+    - [[Lumbricals]]: Four worm-like muscles that link flexor and extensor tendons to flex metacarpophalangeal joints and extend interphalangeal joints.
+    - [[Palmaris brevis]]: A small, subcutaneous muscle that deepens the cup of the palm to improve grip.
