@@ -44,25 +44,25 @@ Divided into anterior (flexor) and posterior (extensor) compartments by intermus
 - **Anterior Compartment:**
     - [[Biceps brachii]]: A two-headed muscle that is a powerful flexor of the forearm and the most powerful supinator.
     - [[Brachialis]]: Located deep to the biceps, it is the primary flexor of the forearm at the elbow.
-    - **[[Coracobrachialis]]:** Flexes the arm at the shoulder joint and adducts it.
+    - [[Coracobrachialis]]: Flexes the arm at the shoulder joint and adducts it.
 - **Posterior Compartment:**
-    - **[[Triceps brachii]]:** The primary extensor of the forearm at the [[Elbow Joint]].
+    - [[Triceps brachii]]: The primary extensor of the forearm at the [[Elbow Joint]].
 
 ### [[Forearm]]
 
 Divided into flexor and extensor compartments; these muscles move the [[Wrist]] and digits.
 
 - **Anterior Compartment (Flexors and Pronators):**
-    - **[[Pronator teres]]:** Rotates the [[Radius]] over the [[Ulna]] during pronation.
-    - **[[Flexor carpi radialis]]:** Powerful flexor and abductor of the wrist.
-    - **[[Palmaris longus]]:** Accessory flexor of the wrist that resists shearing forces on the palm.
-    - **[[Flexor carpi ulnaris]]:** Powerful flexor and adductor of the wrist.
-    - **[[Flexor digitorum superficialis]]:** Intermediate muscle that flexes the proximal [[Interphalangeal Joints]] and the wrist.
-    - **[[Flexor digitorum profundus]]:** Deep muscle that flexes the distal interphalangeal joints of the fingers.
-    - **[[Flexor pollicis longus]]:** A deep, powerful muscle that flexes the thumb.
-    - **[[Pronator quadratus]]:** Pulls the distal end of the radius over the ulna for pronation.
+    - [[Pronator teres]]: Rotates the [[Radius]] over the [[Ulna]] during pronation.
+    - [[Flexor carpi radialis]]: Powerful flexor and abductor of the wrist.
+    - [[Palmaris longus]]: Accessory flexor of the wrist that resists shearing forces on the palm.
+    - [[Flexor carpi ulnaris]]: Powerful flexor and adductor of the wrist.
+    - [[Flexor digitorum superficialis]]: Intermediate muscle that flexes the proximal [[Interphalangeal Joints]] and the wrist.
+    - [[Flexor digitorum profundus]]: Deep muscle that flexes the distal interphalangeal joints of the fingers.
+    - [[Flexor pollicis longus]]: A deep, powerful muscle that flexes the thumb.
+    - [[Pronator quadratus]]: Pulls the distal end of the radius over the ulna for pronation.
 - **Posterior Compartment (Extensors and Supinators):**
-    - **[[Brachioradialis]]:** Forms the lateral boundary of the [[Cubital Fossa]]; it is an accessory flexor of the elbow.
+    - [[Brachioradialis]]:** Forms the lateral boundary of the [[Cubital Fossa]]; it is an accessory flexor of the elbow.
     - [[Extensor Carpi Radialis Longus and Brevis]]:  These muscles extend and abduct the wrist.
     - **[[Extensor digitorum]]:** The major extensor of the index, middle, ring, and little fingers.
     - **[[Extensor digiti minimi]]:** An accessory extensor of the little finger.
