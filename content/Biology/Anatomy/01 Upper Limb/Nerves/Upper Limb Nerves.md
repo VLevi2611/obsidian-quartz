@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-The upper limb is innervated by the **[[Brachial Plexus]]**, a complex network of [[Nerve|Nerves]] formed by the anterior rami of spinal nerves **C5 to C8 and T1**. Originating in the neck and passing through the axilla, the plexus organizes into roots, trunks, divisions, and cords to provide motor and sensory supply to the entire limb.
+The upper limb is innervated by the **[[Brachial Plexus]]**, a complex network of [[Nerve|Nerves]] formed by the anterior rami of spinal nerves **C5 to C8 and T1**. Originating in the neck and passing through the [[Axilla]], the plexus organizes into roots, trunks, divisions, and cords to provide motor and sensory supply to the entire limb.
 
 ### Major Peripheral Nerves
 
