@@ -12,18 +12,18 @@ tags:
 
 These extrinsic and intrinsic shoulder muscles attach the appendicular skeleton to the trunk and position the scapula.
 
-- **[[Trapezius]]:** A flat, triangular muscle that elevates, rotates, and retracts the [[Scapula]] to extend the arm's reach.
-- **[[Latissimus dorsi]]:** A large, flat muscle that extends, adducts, and medially rotates the [[Humerus]].
-- **[[Levator scapulae]]:** A slender muscle that elevates the scapula and assists in positioning it.
-- **[[Rhomboid major]] & [[Rhomboid minor]]:** Muscles located deep to the trapezius that retract and elevate the scapula.
-- **[[Deltoid]]:** A large triangular muscle that serves as the major abductor of the arm and provides the shoulder's contour.
-- **[[Serratus anterior]]:** Pulls the scapula forward over the thoracic wall and facilitates its rotation.
+- [[Trapezius]]: A flat, triangular muscle that elevates, rotates, and retracts the [[Scapula]] to extend the arm's reach.
+- [[Latissimus dorsi]]: A large, flat muscle that extends, adducts, and medially rotates the [[Humerus]].
+- [[Levator scapulae]]: A slender muscle that elevates the scapula and assists in positioning it.
+- [[Rhomboid major]] & [[Rhomboid minor]]: Muscles located deep to the trapezius that retract and elevate the scapula.
+- [[Deltoid]]: A large triangular muscle that serves as the major abductor of the arm and provides the shoulder's contour.
+- [[Serratus anterior]]: Pulls the scapula forward over the thoracic wall and facilitates its rotation.
 
 ### Pectoral Region
 
 Muscles of the anterior thoracic wall that anchor the upper limb to the trunk.
 
-- **[[Pectoralis major]]:** The largest and most superficial muscle of the region; it adducts, flexes, and medially rotates the arm.
+- **[[Pectoralis major]]: The largest and most superficial muscle of the region; it adducts, flexes, and medially rotates the arm.
 - **[[Pectoralis minor]]:** A small triangular muscle deep to the pectoralis major that depresses the shoulder and protracts the scapula.
 - **[[Subclavius]]:** A small muscle that pulls the [[Clavicle]] medially and the shoulder down.
 
@@ -63,7 +63,7 @@ Divided into flexor and extensor compartments; these muscles move the [[Wrist]] 
     - **[[Pronator quadratus]]:** Pulls the distal end of the radius over the ulna for pronation.
 - **Posterior Compartment (Extensors and Supinators):**
     - **[[Brachioradialis]]:** Forms the lateral boundary of the [[Cubital Fossa]]; it is an accessory flexor of the elbow.
-    - **[[Extensor Carpi Radialis Longus and Brevis]] [[Extensor carpi radialis brevis]]:** These muscles extend and abduct the wrist.
+    - [[Extensor Carpi Radialis Longus and Brevis]]:  These muscles extend and abduct the wrist.
     - **[[Extensor digitorum]]:** The major extensor of the index, middle, ring, and little fingers.
     - **[[Extensor digiti minimi]]:** An accessory extensor of the little finger.
     - **[[Extensor carpi ulnaris]]:** Extends and adducts the wrist.
@@ -90,4 +90,4 @@ Located entirely in the hand, these muscles execute precision movements with the
     - **[[Dorsal interossei]]:** Four muscles that abduct the digits and assist in complex flexion and extension.
     - **[[Palmar interossei]]:** Three or four muscles that adduct the digits toward the middle finger.
     - **[[Lumbricals]]:** Four worm-like muscles that link flexor and extensor tendons to flex metacarpophalangeal joints and extend interphalangeal joints.
-    - **[[Palmaris brevis]]:** A small, subcutaneous muscle that deepens the cup of the palm to 
+    - **[[Palmaris brevis]]:** A small, subcutaneous muscle that deepens the cup of the palm to improve grip.
