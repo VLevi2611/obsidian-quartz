@@ -41,8 +41,8 @@ The skeletal framework provides attachment points for muscles and acts as a leve
 The upper limb contains almost exclusively [[Synovial Joint|Synovial Joints]] to facilitate extensive ranges of motion.
 
 - **Shoulder Complex:** [[Shoulder Joint]] (highly mobile ball-and-socket), [[Sternoclavicular Joint]], and [[Acromioclavicular Joint]].
-- **Elbow & Forearm:** [[Elbow Joint]] (hinge for flexion/extension),  [[Distal Radio-ulnar Joint]] & [[]] (pivot for pronation/supination).
-- **Wrist & Hand:** **[[Wrist Joint]]** (condylar), **[[Carpometacarpal Joint of the Thumb]]** (saddle joint for opposition), **Metacarpophalangeal**, and **Interphalangeal** joints.
+- **Elbow & Forearm:** [[Elbow Joint]] (hinge for flexion/extension), [[Distal Radio-ulnar Joint]] & [[Proximal Radio-ulnar Joint]] (pivot for pronation/supination).
+- **Wrist & Hand:** [[Wrist Joint]], [[Intercarpal Joints]] (saddle joint for opposition), **Metacarpophalangeal**, and **Interphalangeal** joints.
 
 ---
 
