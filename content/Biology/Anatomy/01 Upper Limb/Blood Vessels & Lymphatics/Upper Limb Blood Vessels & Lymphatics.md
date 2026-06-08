@@ -6,11 +6,11 @@ tags:
 ---
 ## **Upper Limb Blood Vessels and Lymphatics**
 
-The [[Arterial Supply]] and [[Venous Drainage]] of the upper limb are organized to ensure a continuous flow of [[Blood]] to the highly mobile regions of the [[Shoulder]], [[Arm]], [[Forearm]], [[Wrist]], and [[Hand]]. This vascular network is supported by the **lymphatic system**, which returns excess fluid and defends against pathogens.
+The [[Arterial Supply]] and [[Venous Drainage]] of the upper limb are organized to ensure a continuous flow of [[Blood]] to the highly mobile regions of the [[Shoulder]], [[Arm]], [[Forearm]], [[Wrist]], and [[Hand]]. This vascular network is supported by the [[Lymphatic System]], which returns excess fluid and defends against pathogens.
 
 ### **Arterial Supply: From Heart to Hand**
 
-The oxygenated blood travels through a series of continuous vessels that change names based on anatomical landmarks:
+The oxygenated blood travels through a series of continuous [[Blood Vessels]] that change names based on anatomical landmarks:
 
 - **[[Subclavian Artery]]:** Originates from the brachiocephalic trunk (right) or the aortic arch (left) and passes over the first rib.
 - **[[Axillary Artery]]:** The continuation of the subclavian artery after it crosses the lateral margin of rib I. It is divided into three parts by the pectoralis minor muscle and supplies the walls of the axilla and shoulder.
