@@ -13,7 +13,7 @@ The [[Arterial Supply]] and [[Venous Drainage]] of the upper limb are organized 
 The oxygenated blood travels through a series of continuous [[Artery|Arteries]]:
 
 - **[[Subclavian Artery]]:** Originates from the brachiocephalic trunk (right) or the aortic arch (left) and passes over the first rib.
-- **[[Axillary Artery]]:** The continuation of the subclavian artery after it crosses the lateral margin of rib I. It is divided into three parts by the pectoralis minor muscle and supplies the walls of the axilla and shoulder.
+- **[[Axillary Artery]]:** The continuation of the subclavian artery after it crosses the lateral margin of rib I. It is divided into three parts by the pectoralis minor muscle and supplies the walls of the [[Axilla]] and shoulder.
 - **[[Scapular Anastomosis]]:** An interconnected vascular network around the scapula that provides collateral circulation, ensuring blood flow to the limb even if the subclavian or axillary arteries are compromised.
 - **[[Brachial Artery]]:** The continuation of the axillary artery starting at the inferior margin of the teres major muscle. It is the major artery of the arm and is used clinically to measure blood pressure in the **[[Cubital Fossa]]**.
 - **[[Radial Artery]] & [[Ulnar Artery]]:** The terminal branches of the brachial artery that arise in the cubital fossa. The radial artery supplies the lateral forearm and contributes to the **[[Deep Palmar Arch]]**, while the ulnar artery supplies the medial forearm and forms the superficial palmar arch.
