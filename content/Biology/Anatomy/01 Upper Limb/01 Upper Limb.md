@@ -59,7 +59,7 @@ The upper limb contains almost exclusively [[Synovial Joint|Synovial Joints]] to
 
 ### [[Upper Limb Nerves]]
 
-The limb is innervated by the **[[Brachial Plexus]]**, formed by the anterior rami of **C5 to T1**.
+The limb is [[Nerve|Innervated]] by the **[[Brachial Plexus]]**, formed by the anterior rami of **C5 to T1**.
 
 - **[[Musculocutaneous Nerve]]:** Anterior arm muscles and lateral forearm skin.
 - **[[Axillary Nerve]]:** Deltoid and Teres minor; sensation over the shoulder.
@@ -69,9 +69,9 @@ The limb is innervated by the **[[Brachial Plexus]]**, formed by the anterior ra
 
 ---
 
-### **6. Blood Vessels and Lymphatics**
+### [[Upper Limb Blood Vessels & Lymphatics]]
 
-- **Arterial Supply:** Continuous flow from the **[[Subclavian Artery]]** $\rightarrow$ **[[Axillary Artery]]** $\rightarrow$ **[[Brachial Artery]]** $\rightarrow$ **[[Radial Artery]]** & **[[Ulnar Artery]]** $\rightarrow$ **[[Palmar Arches]]**.
+- [[Arterial Supply]]: Continuous flow from the **[[Subclavian Artery]]** $\rightarrow$ **[[Axillary Artery]]** $\rightarrow$ **[[Brachial Artery]]** $\rightarrow$ **[[Radial Artery]]** & **[[Ulnar Artery]]** $\rightarrow$ **[[Superficial Palmar Arch]] & [[Deep Palmar Arch]]
 - **Venous Drainage:**
     - **Superficial:** **[[Cephalic Vein]]** (lateral), **[[Basilic Vein]]** (medial), and **[[Median Cubital Vein]]** (connection at the elbow).
     - **Deep:** Paired veins that accompany the major arteries.
