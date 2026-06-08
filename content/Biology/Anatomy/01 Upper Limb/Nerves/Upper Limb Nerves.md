@@ -11,13 +11,13 @@ The upper limb is innervated by the **[[Brachial Plexus]]**, a complex network o
 ### Major Peripheral Nerves
 
 - [[Musculocutaneous Nerve]]: Originates from the lateral cord.
-    - **Motor:** Innervates all [[Muscle|Muscles]] in the **anterior compartment of the [[Arm]]** (biceps brachii, brachialis, and coracobrachialis).
+    - **Motor:** Innervates all [[Muscle|Muscles]] in the **anterior compartment of the [[Arm]]** ([[Biceps Brachii]], [[Brachialis]], and [[Coracobrachialis]]).
     - **Sensory:** Supplies the skin on the lateral side of the [[Forearm]].
     - **Landmark:** It is identified by its characteristic **piercing of the coracobrachialis muscle** to enter the arm.
 - [[Axillary Nerve]]: Originates from the posterior cord.
-    - **Motor:** Supplies the **deltoid** and **teres minor** muscles.
+    - **Motor:** Supplies the [[Deltoid]] and [[Teres Minor]] muscles.
     - **Sensory:** Carries sensation from the skin over the inferior part of the deltoid (upper lateral arm).
-    - **Landmark:** It exits the axilla through the **quadrangular space** and travels around the surgical neck of the humerus.
+    - **Landmark:** It exits the axilla through the **quadrangular space** and travels around the surgical neck of the [[Humerus]].
 - [[Median Nerve]]: Formed by the union of roots from both the lateral and medial cords.
     - **Motor:** Innervates most muscles in the **anterior compartment of the forearm** (except for 1.5 muscles), the three **thenar muscles** of the thumb, and the lateral two lumbricals.
     - **Sensory:** Supplies the palmar surface of the **lateral three and one-half digits** (thumb, index, middle, and half of ring finger).
