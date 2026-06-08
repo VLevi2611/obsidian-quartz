@@ -42,13 +42,13 @@ The upper limb contains almost exclusively [[Synovial Joint|Synovial Joints]] to
 
 - **Shoulder Complex:** [[Shoulder Joint]] (highly mobile ball-and-socket), [[Sternoclavicular Joint]], and [[Acromioclavicular Joint]].
 - **Elbow & Forearm:** [[Elbow Joint]] (hinge for flexion/extension), [[Distal Radio-ulnar Joint]] & [[Proximal Radio-ulnar Joint]] (pivot for pronation/supination).
-- **Wrist & Hand:** [[Wrist Joint]], [[Intercarpal Joints]] (saddle joint for opposition), **Metacarpophalangeal**, and **Interphalangeal** joints.
+- **Wrist & Hand:** [[Wrist Joint]], [[Intercarpal Joints]] (saddle joint for opposition), [[Metacarpophalangeal Joints]], [[Interphalangeal Joints]], and [[Carpometacarpal Joints]].
 
 ---
 
-### **4. Muscles of the Upper Limb**
+### [[Upper Limb Muscles]]
 
-Muscles are organized into functional groups and compartments separated by deep fascia.
+[[Muscle|Muscles]] are organized into functional groups and compartments separated by deep fascia.
 
 - **Shoulder/Back:** Muscles like the **[[Trapezius]]**, **[[Latissimus dorsi]]**, and the four **[[Rotator Cuff]]** muscles (Supraspinatus, Infraspinatus, Teres minor, Subscapularis).
 - **Arm Compartments:** **Anterior (flexor)** compartment (Biceps brachii, Brachialis, Coracobrachialis) and **Posterior (extensor)** compartment (Triceps brachii).
