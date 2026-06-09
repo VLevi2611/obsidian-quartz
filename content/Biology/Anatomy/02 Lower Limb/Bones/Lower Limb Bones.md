@@ -25,11 +25,6 @@ The hip bone is a single flat bone formed by the fusion of three separate bones 
 - **Pubis:** The anterior portion.
     
     - _Key Landmarks:_ **Pubic Symphysis** (the fibrocartilage joint connecting left and right hip bones), **Pubic Crest**.
-        
-- **Acetabulum:** The deep, cup-shaped socket formed by all three bones. It receives the head of the femur.
-    
-- **Obturator Foramen:** The large opening surrounded by the ischium and pubis, mostly closed off by a membrane.
-    
 
 ## 2. The Thigh & Knee
 
