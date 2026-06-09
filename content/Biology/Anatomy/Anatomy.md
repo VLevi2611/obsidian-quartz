@@ -14,7 +14,7 @@ We will be studying anatomy with a **regional approach**, each region of the bod
 
 ### [[01 Upper Limb]]
 
-### [[02 Lower Limb]]
+### [[toolbox file/content/Biology/Anatomy/02 Lower Limb/02 Lower Limb]]
 
 ### [[03 Thorax]]
 
