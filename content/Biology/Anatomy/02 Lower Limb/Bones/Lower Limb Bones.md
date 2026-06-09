@@ -18,7 +18,7 @@ The hip bone is a single flat bone formed by the fusion of three separate bones 
 - [[Ischium]]: The posteroinferior part of the bone.
 - [[Pubis]]: The anterior portion.
 
-## 2. The [[Thigh]] & [[Knee]]
+## The [[Thigh]] & [[Knee]]
 
 ### [[Femur]]
 
@@ -38,7 +38,7 @@ The shin bone. It is the medial, massive, **weight-bearing** bone of the lower l
 
 The slender, lateral bone of the lower leg. **It bears no body weight.** Its main job is [[Muscle]] attachment and stabilizing the ankle joint.
 
-## 4. The [[Foot]]
+## The [[Foot]]
 
 ### [[Tarsals]] (7 Total)
 
