@@ -9,4 +9,5 @@ tags:
 [[Hip Joint]]
 [[Knee Joint]]
 [[Tibiofibular Joints]]
-[[Ankle ]]
+[[Ankle Joint]]
+[[Subtalar Joint]]
