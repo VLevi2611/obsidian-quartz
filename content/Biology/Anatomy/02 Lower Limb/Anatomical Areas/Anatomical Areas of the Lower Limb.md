@@ -6,7 +6,6 @@ tags:
 ---
 ## Overview
 
-[[Hip]]
 [[Pelvis]]
 [[Thigh]]
 [[Knee]]

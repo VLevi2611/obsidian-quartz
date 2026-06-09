@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The **hip bone** is a large flat [[Bone]]. It is composed of 3 parts: The [[Ilium]], [[Ischium]] and the [[Pubis]] in the 
+The **hip bone** is a large flat [[Bone]]. It is composed of 3 parts: The [[Ilium]], [[Ischium]] and the [[Pubis]] in the [[]]
 
 ![[Hip Bone.png]]
