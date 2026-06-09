@@ -54,13 +54,8 @@ The ankle and proximal foot bones.
 
 The bones forming the sole of the foot. Numbered 1 to 5 starting from the big toe.
 
-- _High-Yield Landmark:_ The base of the **5th metatarsal** has a prominent tuberosity on the lateral edge of the foot where the _fibularis brevis_ muscle attaches (a common site for avulsion fractures).
-    
-
 ### [[Phalanges]] (14 Total)
 
 The toe bones.
-
-- **Digit 1 (Hallux / Big Toe):** Has only 2 phalanges (Proximal, Distal).
-    
+- **Digit 1 (Big Toe):** Has only 2 phalanges (Proximal, Distal).
 - **Digits 2–5:** Have 3 phalanges each (Proximal, Middle, Distal).
