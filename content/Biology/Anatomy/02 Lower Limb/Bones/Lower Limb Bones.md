@@ -83,7 +83,7 @@ The slender, lateral bone of the lower leg. **It bears no body weight.** Its mai
 
 ## 4. The Foot (Pes)
 
-### [[Tarsal Bones]] (7 Total)
+### [[Tarsals]] (7 Total)
 
 The ankle and proximal foot bones.
 
