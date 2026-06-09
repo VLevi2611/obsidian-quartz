@@ -15,9 +15,6 @@ The [[Bone|Bony]] scaffolding of the lower limb is engineered for weight-bearing
 The hip bone is a single flat bone formed by the fusion of three separate bones during development. They meet at the socket [[Joint]].
 
 - [[Ilium]]: The superior, flared wing.
-    
-    - _Key Landmarks:_ **ASIS** (Anterior Superior Iliac Spine—the hip bone point you can feel), **AIIS**, **Iliac Crest** (where you rest your hands on your hips), **Greater Sciatic Notch** (where the massive sciatic nerve exits the pelvis).
-        
 - [[Ischium]]: The posteroinferior part of the bone.
 - [[Pubis]]: The anterior portion.
 
@@ -27,18 +24,6 @@ The hip bone is a single flat bone formed by the fusion of three separate bones 
 
 The longest, heaviest, and strongest bone in the human body.
 
-- **Proximal End:** * **Head:** Smooth, spherical portion that fits into the acetabulum. Features the _fovea capitis_ (pit for the ligamentum teres).
-    
-    - **Neck:** The angled bridge connecting the head to the shaft. A common site for fractures ("broken hip").
-        
-    - **Greater & Lesser Trochanters:** Massive bony projections serving as major leverage points for powerful hip muscles.
-        
-- **Shaft:** * **Linea Aspera:** A prominent, rough ridge running down the posterior side. It is the primary insertion/origin line for the adductor and hamstring muscles.
-    
-- **Distal End:** * **Medial & Lateral Condyles:** Smooth articular surfaces that form the knee joint with the tibia.
-    
-    - **Medial & Lateral Epicondyles:** Roughened bumps _above_ the condyles for ligament attachments.
-        
 
 ### [[Patella]]
 
