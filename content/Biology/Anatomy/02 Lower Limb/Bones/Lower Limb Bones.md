@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-The [[Bone|Bony]] scaffolding of the lower limb is engineered for weight-bearing, stability, and locomotion. It transitions from the rigid, protective bowl of the [[Pelvis]] girdle down to the highly articulated, shock-absorbing arches of the foot.
+The [[Bone|Bony]] scaffolding of the lower limb is engineered for weight-bearing, stability, and locomotion. It transitions from the rigid, protective bowl of the [[Pelvis|Pelvic]] girdle down to the highly articulated, shock-absorbing arches of the [[Foot]].
 
 ## 1. The Pelvic Girdle (The Anchor)
 
