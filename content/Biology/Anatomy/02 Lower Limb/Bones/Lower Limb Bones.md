@@ -8,4 +8,7 @@ tags:
 
 [[Femur]]
 [[Patella]]
+[[Tibia]]
+[[Fibula]]
+[[Bones of the Foot]]
 
