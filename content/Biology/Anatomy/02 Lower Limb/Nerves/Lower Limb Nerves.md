@@ -12,4 +12,7 @@ tags:
 [[Femoral Nerve]]
 [[Obturator Nerve]]
 [[Sciatic Nerve]]
-[[Tibial ]]
+[[Tibial Nerve]]
+[[Common Fibular Nerve]]
+[[Superficial Fibular Nerve]]
+[[Deep Fibular Nerve]]
