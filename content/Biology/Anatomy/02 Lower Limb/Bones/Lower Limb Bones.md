@@ -28,44 +28,27 @@ The longest, heaviest, and strongest bone in the human body.
 
 The kneecap. A large, triangular **sesamoid bone** (a bone embedded inside a tendon). Functions as a fulcrum to increase the mechanical advantage of the thigh muscles extending the knee.
 
-## The Leg
+## The [[Leg]]
 
 ### [[Tibia]]
 
 The shin bone. It is the medial, massive, **weight-bearing** bone of the lower leg.
 
-- **Proximal End:** **Medial & Lateral Condyles** (flat plateaus that articulate with the femur), **Tibial Tuberosity** (the rough bump right below your kneecap where the patellar ligament inserts).
-    
-- **Shaft:** The sharp anterior border (the exposed ridge you bruise when you kick a coffee table).
-    
-- **Distal End:** **Medial Malleolus** (the large bony bump on the inner side of your ankle).
-    
-
 ### [[Fibula]]
 
-The slender, lateral bone of the lower leg. **It bears no body weight.** Its main job is muscle attachment and stabilizing the ankle joint.
+The slender, lateral bone of the lower leg. **It bears no body weight.** Its main job is [[Muscle]] attachment and stabilizing the ankle joint.
 
-- **Proximal End:** **Head of the Fibula** (articulates with the side of the tibia, not the knee joint).
-    
-- **Distal End:** **Lateral Malleolus** (the bony bump on the outer side of your ankle; it extends lower down than the medial side).
-    
-
-## 4. The Foot (Pes)
+## 4. The [[Foot]]
 
 ### [[Tarsals]] (7 Total)
 
 The ankle and proximal foot bones.
 
 - **Talus:** The highest bone. It articulates directly with the tibia and fibula to form the true ankle joint.
-    
 - **Calcaneus:** The massive heel bone. The largest tarsal, built to absorb the impact of walking.
-    
 - **Navicular:** Boat-shaped bone sitting anterior to the talus.
-    
 - **Cuboid:** Cube-shaped bone sitting laterally.
-    
-- **Cuneiforms (Medial, Intermediate, Lateral):** Three wedge-shaped bones acting as the base for the inner toes.
-    
+- **Cuneiforms (Medial, Intermediate, Lateral):** Three wedge-shaped bones acting as the base for the inner toes
 
 ### [[Metatarsals]] (5 Total)
 
