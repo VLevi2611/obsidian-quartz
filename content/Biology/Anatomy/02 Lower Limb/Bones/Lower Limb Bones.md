@@ -6,9 +6,9 @@ tags:
 ---
 ## Overview
 
-The [[Bone|Bony]] scaffolding of the lower limb is engineered for weight-bearing, stability, and locomotion. It transitions from the rigid, protective bowl of the [[Pelvis|Pelvic]] girdle down to the highly articulated, shock-absorbing arches of the [[Foot]].
+The [[Bone|Bony]] scaffolding of the lower limb is engineered for weight-bearing, stability, and locomotion. It transitions from the rigid, protective bowl of the pelvic girdle down to the highly articulated, shock-absorbing arches of the foot.
 
-## 1. The [[Pelvis|Pelvic]] Gridle
+## The [[Pelvis|Pelvic]] Gridle
 
 ### [[Hip Bone]]
 
@@ -28,7 +28,7 @@ The longest, heaviest, and strongest bone in the human body.
 
 The kneecap. A large, triangular **sesamoid bone** (a bone embedded inside a tendon). Functions as a fulcrum to increase the mechanical advantage of the thigh muscles extending the knee.
 
-## 3. The Leg (Crus)
+## The Leg
 
 ### [[Tibia]]
 
