@@ -10,9 +10,9 @@ The [[Bone|Bony]] scaffolding of the lower limb is engineered for weight-bearing
 
 ## 1. The Pelvic Girdle (The Anchor)
 
-### [[Hip Bone (Os Coxae)]]
+### [[Hip Bone]]
 
-The hip bone is a single flat bone formed by the fusion of three separate bones during development. They meet at the socket joint.
+The hip bone is a single flat bone formed by the fusion of three separate bones during development. They meet at the socket [[Joint]].
 
 - **Ilium:** The superior, flared wing.
     
