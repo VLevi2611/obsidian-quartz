@@ -14,17 +14,12 @@ The [[Bone|Bony]] scaffolding of the lower limb is engineered for weight-bearing
 
 The hip bone is a single flat bone formed by the fusion of three separate bones during development. They meet at the socket [[Joint]].
 
-- **Ilium:** The superior, flared wing.
+- [[Ilium]]: The superior, flared wing.
     
     - _Key Landmarks:_ **ASIS** (Anterior Superior Iliac Spine—the hip bone point you can feel), **AIIS**, **Iliac Crest** (where you rest your hands on your hips), **Greater Sciatic Notch** (where the massive sciatic nerve exits the pelvis).
         
-- **Ischium:** The posteroinferior part of the bone.
-    
-    - _Key Landmarks:_ **Ischial Tuberosity** (your literal "sitting bone" that bears weight when you sit), **Ischial Spine**.
-        
-- **Pubis:** The anterior portion.
-    
-    - _Key Landmarks:_ **Pubic Symphysis** (the fibrocartilage joint connecting left and right hip bones), **Pubic Crest**.
+- [[Ischium]]: The posteroinferior part of the bone.
+- [[Pubis]]: The anterior portion.
 
 ## 2. The Thigh & Knee
 
