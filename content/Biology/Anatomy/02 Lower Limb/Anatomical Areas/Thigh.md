@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **thigh** 
+The **thigh** is the area between the [[Pelvis]] and the [[Knee]]. The only [[Bone]] in the thigh is the [[Femur]]. It forms a 
 
