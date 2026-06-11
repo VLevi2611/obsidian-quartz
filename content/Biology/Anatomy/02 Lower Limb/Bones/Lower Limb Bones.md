@@ -44,7 +44,7 @@ The slender, lateral bone of the lower leg. **It bears no body weight.** Its mai
 
 The ankle and proximal foot bones.
 
-- **Talus:** The highest bone. It articulates directly with the tibia and fibula to form the true ankle joint.
+- **Talus:** The highest bone. It articulates directly with the tibia and fibula to form the ankle joint.
 - **Calcaneus:** The massive heel bone. The largest tarsal, built to absorb the impact of walking.
 - **Navicular:** Boat-shaped bone sitting anterior to the talus.
 - **Cuboid:** Cube-shaped bone sitting laterally.
