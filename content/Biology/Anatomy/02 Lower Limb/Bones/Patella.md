@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The ****
+The **patella** (kneecap) is a flat, rounder, triangular [[Bone]] which articulates with the [[Femur]] and covers and protects the anterior articular surface of the [[Knee Joint]].
 
 
