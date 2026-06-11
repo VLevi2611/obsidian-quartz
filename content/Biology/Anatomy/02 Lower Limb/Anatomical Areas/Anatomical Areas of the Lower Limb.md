@@ -1,6 +1,6 @@
 ---
 tags:
-  - subject
+  - summary
   - biology
   - anatomy
 ---
