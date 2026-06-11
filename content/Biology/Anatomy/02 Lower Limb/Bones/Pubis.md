@@ -6,5 +6,6 @@ tags:
 ---
 ## Definition
 
-The **pubis** is the [[Bone]] that forms the lower and anterior part of each side of the [[Hip Bone]]. It is made up of a **body**
+The **pubis** is the [[Bone]] that forms the lower and anterior part of each side of the [[Hip Bone]]. It is made up of a *body*, *superior ramus*, and *inferior ramus*.
 
+![[Pubis.png]]
