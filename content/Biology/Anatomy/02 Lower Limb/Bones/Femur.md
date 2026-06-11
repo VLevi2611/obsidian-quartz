@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **femur** is the only [[Bone]] in the [[Thigh]]
+The **femur** is the only [[Bone]] in the [[Thigh]]. The top of the femur fits into a socket in the [[Pelvis]] called the [[Hip Joint]], and the bottom is connected to the [[Tibia]] and [[Patella]] to form the [[Knee]]. It is the largest and thi
 
