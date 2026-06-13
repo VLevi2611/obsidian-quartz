@@ -14,7 +14,7 @@ The thigh constitutes the region between the pelvis and the knee, centered aroun
 
 ### [[Knee]] Region
 
-The knee region is a critical transitional and highly mobile area, primarily involving articulation between the distal [[Femur]], proximal [[Tibia]], and the [[Patella]]. This complex [[Knee joint]] is stabilized by a intricate network of ligaments, including the crucial collateral (MCL, LCL) and cruciate (ACL, PCL) ligaments, alongside dynamic stabilizers like the iliotibial band. The **popliteal fossa**, located posteriorly, is a significant anatomical landmark housing the [[Popliteal artery]], [[Popliteal vein]], [[Tibial nerve]], and [[Common fibular (peroneal) nerve]], facilitating vascular supply and nervous control distal to the thigh.
+The knee region is a critical transitional and highly mobile area, primarily involving articulation between the distal [[Femur]], proximal [[Tibia]], and the [[Patella]]. This complex [[Knee joint]] is stabilized by a intricate network of [[Ligament|Ligaments]], including the crucial collateral (MCL, LCL) and cruciate (ACL, PCL) ligaments, alongside dynamic stabilizers like the iliotibial band. The **popliteal fossa**, located posteriorly, is a significant anatomical landmark housing the [[Popliteal artery]], [[Popliteal vein]], [[Tibial nerve]], and [[Common fibular (peroneal) nerve]], facilitating vascular supply and nervous control distal to the thigh.
 
 ### [[Leg]] (Crural Region)
 
