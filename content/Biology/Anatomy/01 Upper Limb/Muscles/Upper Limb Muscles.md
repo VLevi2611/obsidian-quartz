@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-[[Muscle|Mucles]] of the upper limb are organized into functional groups and compartments separated by deep fascia. They are structurally optimized for high mobility, allowing for powerful [[Movement|Movements]] at the shoulder and elbow, as well as precise manipulation of objects with the hand.
+[[Muscle|Muscles]] of the upper limb are organized into functional groups and compartments separated by deep fascia. They are structurally optimized for high mobility, allowing for powerful [[Movement|Movements]] at the shoulder and elbow, as well as precise manipulation of objects with the hand.
 
 ### [[Shoulder]] and back
 
