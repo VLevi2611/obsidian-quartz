@@ -6,9 +6,7 @@ tags:
 ---
 ## Overview 
 
-[[Fascia Lata]]
-[[Gluteal Region]]
-[[Thigh]]
-[[Leg]]
-[[Foot]]
+## The Fascia Lata
+
+## The 
 
