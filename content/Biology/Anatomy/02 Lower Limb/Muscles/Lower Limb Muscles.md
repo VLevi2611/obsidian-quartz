@@ -49,5 +49,14 @@ The thigh is divided into 3 compartments by intermuscular septa.
 
 ## The [[Leg]]
 
-The leg (the region between the [[Knee]] and )
+The leg (the region between the [[Knee]] and [[Ankle]]) is divided into 3 compartments.
+
+#### Anterior Compartment
+
+- [[Tibialis Anterior]]
+- [[Extensor Digitorum Longus]]
+- [[Extensor Hallucis Longus]]
+- [[Fibularis Tertius]]
+
+
 ## The [[Foot]]
