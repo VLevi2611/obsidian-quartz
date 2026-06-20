@@ -10,4 +10,6 @@ The **tibiofibular joints** are the 2 [[Joint|Joints]] (proximal and distal) con
 
 The **proximal tibiofibular joint** is a plane type [[Synovial Joint]], where the [[Bone|Bones]] glide over one another to create [[Movement]].
 
-The **distal tibiofibular joint** is a [[joint]]
+The **distal tibiofibular joint** is a [[Solid Joint]], where the joint surfaces are bound by tough fibrous [[Tissue]].
+
+![[Tibiofibular Joints.png]]
