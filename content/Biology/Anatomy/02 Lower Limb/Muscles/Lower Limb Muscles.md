@@ -75,3 +75,7 @@ The leg (the region between the [[Knee]] and [[Ankle]]) is divided into 3 compar
 - [[Flexor Hallucis Longus]]
 
 ## The [[Foot]]
+
+These intrinsic muscles stabilize the arches of the foot and facilitate fine movements of the toes.
+
+[[extensor digitorum Brevis]]
