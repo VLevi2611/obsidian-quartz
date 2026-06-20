@@ -8,5 +8,10 @@ tags:
 
 ## The Fascia Lata
 
-## The 
+## The Gluteal Region
 
+## The [[Thigh]]
+
+## The [[Leg]]
+
+## The [[Foot]]
