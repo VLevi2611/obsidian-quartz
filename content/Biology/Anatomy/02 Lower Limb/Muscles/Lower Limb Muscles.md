@@ -21,7 +21,12 @@ These muscles connect the lower limb to the [[Pelvis]], primarily driving hip [[
 
 ### The [[Thigh]]
 
-The thigh is divided into 3 
+The thigh is divided into 3 compartments by intermuscular septa.
+
+#### Anterior Compartment (Hip Flexors & Knee Extensors)
+
+- [[Rectus Femoris]]
+- [[Vastus Fe]]
 
 ## The [[Leg]]
 
