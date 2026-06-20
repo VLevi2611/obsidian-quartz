@@ -68,5 +68,10 @@ The leg (the region between the [[Knee]] and [[Ankle]]) is divided into 3 compar
 
 - [[Gastrocnemius]]
 - [[Soleus]]
-- [[Pla]]
-## The [
+- [[Plantaris]]
+- [[Popliteus]]
+- [[Tibialis Posterior]]
+- [[Flexor Digitorum Longus]]
+- [[Flexor Hallucis Longus]]
+
+## The [[Foot]]
