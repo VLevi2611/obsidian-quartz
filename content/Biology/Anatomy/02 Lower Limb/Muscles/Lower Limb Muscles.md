@@ -12,7 +12,11 @@ The [[Muscle|Muscles]] of the lower limb enable posture, balance and locomotion.
 
 These muscles connect the lower limb to the [[Pelvis]], primarily driving hip [[Movement|Extension]], abduction and rotation.
 
-- [[Glut]]
+- [[Gluteus Maximus]]
+- [[Gluteus Medius]]
+- [[Gluteus Minimus]]
+- [[Piriformis]]
+- 
 
 ## The [[Thigh]]
 
