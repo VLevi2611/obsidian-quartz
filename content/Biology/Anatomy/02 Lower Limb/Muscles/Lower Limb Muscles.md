@@ -58,5 +58,15 @@ The leg (the region between the [[Knee]] and [[Ankle]]) is divided into 3 compar
 - [[Extensor Hallucis Longus]]
 - [[Fibularis Tertius]]
 
+#### Lateral compartment
 
-## The [[Foot]]
+- [[Fibularis Longus]]
+- [[Fibularis Brevis]]
+
+
+#### Posterior Compartment
+
+- [[Gastrocnemius]]
+- [[Soleus]]
+- [[Pla]]
+## The [
