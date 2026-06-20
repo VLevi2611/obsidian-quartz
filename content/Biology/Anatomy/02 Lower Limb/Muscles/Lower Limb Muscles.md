@@ -16,9 +16,12 @@ These muscles connect the lower limb to the [[Pelvis]], primarily driving hip [[
 - [[Gluteus Medius]]
 - [[Gluteus Minimus]]
 - [[Piriformis]]
-- 
+- [[Quadratus Femoris]]
+- [[Tensor Fasciae Latae]]
 
-## The [[Thigh]]
+### The [[Thigh]]
+
+The thigh is divided into 3 
 
 ## The [[Leg]]
 
