@@ -39,8 +39,15 @@ The thigh is divided into 3 compartments by intermuscular septa.
 - [[Semimembranosus]]
 
 
-#### Medial Compartment (Thigh a)
+#### Medial Compartment (Thigh adductors)
+
+- [[Adductor Longus]]
+- [[Adductor Brevis]]
+- [[Adductor Magnus]]
+- [[Gracilis]]
+
 
 ## The [[Leg]]
 
+The leg (the region between the [[Knee]] and )
 ## The [[Foot]]
