@@ -32,7 +32,14 @@ The thigh is divided into 3 compartments by intermuscular septa.
 - [[Iliopsoas]]
 - [[Sartorius]]
 
-#### Posterior Comparte
+#### Posterior Compartment (The Hamstrings)
+
+- [[Biceps Femoris]]
+- [[Semitendinosus]]
+- [[Semimembranosus]]
+
+
+#### Medial Compartment (Thigh a)
 
 ## The [[Leg]]
 
