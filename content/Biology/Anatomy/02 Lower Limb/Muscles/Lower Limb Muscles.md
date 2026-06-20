@@ -26,7 +26,13 @@ The thigh is divided into 3 compartments by intermuscular septa.
 #### Anterior Compartment (Hip Flexors & Knee Extensors)
 
 - [[Rectus Femoris]]
-- [[Vastus Fe]]
+- [[Vastus Lateralis]]
+- [[Vastus Medialis]]
+- [[Vastus Intermedius]]
+- [[Iliopsoas]]
+- [[Sartorius]]
+
+#### Posterior Comparte
 
 ## The [[Leg]]
 
