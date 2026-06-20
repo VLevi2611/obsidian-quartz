@@ -6,7 +6,9 @@ tags:
 ---
 ## Overview 
 
-## The Fascia Lata
+## The Fascia Lata 
+
+The **fascia** is a sheet of fibrous [[Tissue]] lying deep to the skin. The **fac**
 
 ## The Gluteal Region
 
