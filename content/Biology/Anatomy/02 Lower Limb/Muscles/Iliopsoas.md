@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **iliopsoas** is a [[Muscle]] 
+The **iliopsoas** is a [[Muscle]] in the [[Thigh]], merging the **psoas major** 
 
