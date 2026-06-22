@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **rectus femoris** is a large superficial [[Muscle]]
+The **rectus femoris** is a large superficial [[Muscle]] 
 
