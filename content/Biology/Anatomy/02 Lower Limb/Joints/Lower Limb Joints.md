@@ -11,3 +11,5 @@ tags:
 [[Tibiofibular Joints]]
 [[Ankle Joint]]
 [[Subtalar Joint]]
+[[Metatarsophalangeal Joints]]
+[[Interphalangeal Joints]]
