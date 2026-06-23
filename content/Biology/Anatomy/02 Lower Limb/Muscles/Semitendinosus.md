@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **semitendinosus** is one of three hamstring [[Muscle|Muscles]] located in the posterior compartment of the [[Thigh]
+The **semitendinosus** is one of three hamstring [[Muscle|Muscles]] located in the posterior compartment of the [[Thigh]]. It originates on the [[Pelvis]], runs down the bac
 
