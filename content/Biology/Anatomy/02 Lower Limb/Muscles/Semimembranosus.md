@@ -6,5 +6,6 @@ tags:
 ---
 ## Definition
 
-The **semimembranosus** 
+The **semimembranosus** is the most medial and deep of the hamstring [[Muscle||Muscles]] ([[semi]])
+
 
