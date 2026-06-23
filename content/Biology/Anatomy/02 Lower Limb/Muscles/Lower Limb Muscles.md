@@ -64,7 +64,7 @@ The leg (the region between the [[Knee]] and [[Ankle]]) is divided into 3 compar
 - [[Fibularis Brevis]]
 
 
-#### Posterior Compartment
+#### Posterior Compartment (Calves)
 
 - [[Gastrocnemius]]
 - [[Soleus]]
