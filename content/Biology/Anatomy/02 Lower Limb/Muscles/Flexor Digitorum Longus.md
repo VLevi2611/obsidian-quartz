@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-
+The **flexor digitorum longus** is a long, thin [[Muscle]] in the deep posterior compartment of the [[Leg]].. Its Primary functi
 
