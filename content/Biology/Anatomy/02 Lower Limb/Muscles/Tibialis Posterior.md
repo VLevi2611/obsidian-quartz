@@ -6,4 +6,4 @@ tags:
 ---
 ## Definition
 
-The **tibialis posterior** is the deepest [[Muscle]] in the posterior compartment of the [[Leg]]. It runs behind the [[Tibia]] and its [[Tendon]] wraps around the inside of the [[an]]
+The **tibialis posterior** is the deepest [[Muscle]] in the posterior compartment of the [[Leg]]. It runs behind the [[Tibia]] and its [[Tendon]] wraps around the inside of the [[Ankle]] and attaches to the [[Tarsals| Navicular]] and medial cuneiform.
