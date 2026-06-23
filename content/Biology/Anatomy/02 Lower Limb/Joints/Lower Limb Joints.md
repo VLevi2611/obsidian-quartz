@@ -34,4 +34,4 @@ The metatarsophalangeal joints are hinge-like joints in the foot, located betwee
 
 ### [[Interphalangeal Joints]]
 
-The interphalangeal joints are synovial joints that connect the phalanges of the fingers and toes. They are specialized to permit onlyy flexion and extension, providing the fine motor movements and grip strength necessary for da
+The interphalangeal joints are synovial joints that connect the phalanges of the fingers and toes. They are specialized to permit only flexion and extension, providing the fine motor movements.
