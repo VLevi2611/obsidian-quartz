@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **tibialis anterior** is a longe
+The **tibialis anterior** is a long [[Muscle]] in the anterior compartment of the [[Leg]], situated on the lateral side of the [[Tibia]]. It is responsible for [[Movement|Dorsiflexion]] the [[Ankle]]
 
