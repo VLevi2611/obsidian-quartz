@@ -6,9 +6,8 @@ tags:
 ---
 ## Overview
 
-The joints of the lower limb are crucial for mobility, stability, and weight-bearing. They connect the bones of the pelvis, thigh, leg, and foot, facilitating movement and enabling locomotion.
+The [[Joint|Joints]] of the lower limb are crucial for mobility, stability, and weight-bearing. They connect the [[Bone|Bones]] of the [[Pelvis]], [[Thigh]], [[Leg]], and [[Foot]], facilitating [[Movement]] and enabling locomotion.
 
-### Major Joints
 
 - [[Hip Joint]]
 The hip joint is a ball and socket joint between the pelvis and the femur. Its primary function is to support the weight of the torso during both static (standing) and dynamic (walking or running) postures.
