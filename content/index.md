@@ -78,7 +78,7 @@ Have fun!
 
 - [[00 Foundations]]
 - [[01 Upper Limb]]
-- [[toolbox file/content/Biology/Anatomy/02 Lower Limb/02 Lower Limb]]
+- [[02 Lower Limbs]]
 - [[03 Thorax]]
 - [[04 Abdomen]]
 - [[05 Head and Neck]]
