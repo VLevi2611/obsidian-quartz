@@ -8,15 +8,17 @@ tags:
 
 The [[Joint|Joints]] of the lower limb are crucial for mobility, stability, and weight-bearing. They connect the [[Bone|Bones]] of the [[Pelvis]], [[Thigh]], [[Leg]], and [[Foot]], facilitating [[Movement]] and enabling locomotion.
 
+### [[Hip Joint]]
 
-- [[Hip Joint]]
-The hip joint is a ball and socket joint between the pelvis and the femur. Its primary function is to support the weight of the torso during both static (standing) and dynamic (walking or running) postures.
+The hip joint is a ball and socket joint between the pelvis and the [[Femur]]. Its primary function is to support the weight of the torso during both static (standing) and dynamic (walking or running) postures.
 
-- [[Knee Joint]]
-The knee joint is the largest and most complex modified hinge joint in the human body, connecting the femur, tibia, and patella. Its primary functions are to facilitate mobility, support body weight, and absorb impact.
+### [[Knee Joint]]
 
-- [[Tibiofibular Joints]]
-The tibiofibular joints are two joints (proximal and distal) connecting the tibia and fibula in the leg, which stabilize the leg and bear weight. The proximal joint is a plane synovial joint allowing gliding movement, while the distal joint is a solid joint with surfaces bound by tough fibrous tissue.
+The knee joint is the largest and most complex modified hinge joint in the human body, connecting the femur, [[Tibia]], and [[Patella]]. Its primary functions are to facilitate mobility, support body weight, and absorb impact.
+
+### [[Tibiofibular Joints]]
+
+The tibiofibular joints are two joints (proximal and distal) connecting the tibia and [[Fibula]] in the leg, which stabilize the leg and bear weight. The proximal joint is a plane synovial joint allowing gliding movement, while the distal joint is a solid joint with surfaces bound by tough fibrous tissue.
 
 - [[Ankle Joint]]
 The ankle joint is a hinge joint that connects the leg to the foot. It facilitates movements like walking, running, and balancing, and is formed by three bones: the Tibia, Fibula, and Talus.
