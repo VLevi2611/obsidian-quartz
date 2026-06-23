@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-The **plantaris** is a small [[Muscle]]
+The **plantaris** is a small [[Muscle]] in the posterior compartment of the [[Leg]] (calf). Originates above the lateral head of the [[Gastrocnemius]]
 
