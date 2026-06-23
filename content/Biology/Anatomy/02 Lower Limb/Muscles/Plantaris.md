@@ -6,5 +6,5 @@ tags:
 ---
 ## Definition
 
-
+The **plantaris** is a small [[Muscle]]
 
