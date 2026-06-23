@@ -28,5 +28,10 @@ The ankle joint is a hinge joint that connects the leg to the foot. It facilitat
 
 The subtalar joint is a joint in the foot, located between the talus and calcaneus. Its primary function is to facilitate side-to-side movement, enabling smooth walking on uneven terrain and shock absorption.
 
-- [[Metatarsophalangeal Joints]]
-The metatarsophalangeal joints are hinge-like joints in the foot, located between the metatarsals and phalanges. They are crucial for weight bearing, balance, and providing the flexibility needed to push off the ground during walking or running.
+### [[Metatarsophalangeal Joints]]
+
+The metatarsophalangeal joints are hinge-like joints in the foot, located between the [[Metatarsals]] and [[Phalanges]]. They are crucial for weight bearing, balance, and providing the flexibility needed to push off the ground during walking or running.
+
+### [[Interphalangeal Joints]]
+
+The interphalangeal joints are 
