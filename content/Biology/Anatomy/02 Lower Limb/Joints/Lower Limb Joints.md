@@ -18,12 +18,14 @@ The knee joint is the largest and most complex modified hinge joint in the human
 
 ### [[Tibiofibular Joints]]
 
-The tibiofibular joints are two joints (proximal and distal) connecting the tibia and [[Fibula]] in the leg, which stabilize the leg and bear weight. The proximal joint is a plane synovial joint allowing gliding movement, while the distal joint is a solid joint with surfaces bound by tough fibrous tissue.
+The tibiofibular joints are two joints (proximal and distal) connecting the tibia and [[Fibula]] in the leg, which stabilize the leg and bear weight. The proximal joint is a plane [[Synovial Joint]] allowing gliding movement, while the distal joint is a [[Solid Joint]] with surfaces bound by tough fibrous tissue.
 
-- [[Ankle Joint]]
-The ankle joint is a hinge joint that connects the leg to the foot. It facilitates movements like walking, running, and balancing, and is formed by three bones: the Tibia, Fibula, and Talus.
+### [[Ankle Joint]]
 
-- [[Subtalar Joint]]
+The ankle joint is a hinge joint that connects the leg to the foot. It facilitates movements like walking, running, and balancing, and is formed by three bones: the Tibia, Fibula, and [[Tarsals|Talus]].
+
+### [[Subtalar Joint]]
+
 The subtalar joint is a joint in the foot, located between the talus and calcaneus. Its primary function is to facilitate side-to-side movement, enabling smooth walking on uneven terrain and shock absorption.
 
 - [[Metatarsophalangeal Joints]]
