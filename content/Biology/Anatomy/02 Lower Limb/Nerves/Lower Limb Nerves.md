@@ -8,16 +8,14 @@ tags:
 
 The nerves of the **lower limb** originate from the **lumbosacral plexus**, a complex network of [[Nerve|Nerves]] located on the posterior abdominal and [[Pelvis|Pelvic]] walls. These nerves provide somatic motor control to the [[Muscle|Muscles]] and general sensory innervation (touch, pain, [[Temperature]]) to the skin of the gluteal region, thigh, leg, and foot.
 
-### **1. The Lumbosacral Plexus**
+### The Lumbosacral Plexus
 
 The innervation of the lower limb is divided into two primary plexuses:
 
 - **[[Lumbar Plexus]]:** Formed by the anterior rami of spinal nerves **L1 to L3** and part of **L4**. Its major terminal branches to the limb are the **femoral** and **obturator** nerves.
 - **[[Sacral Plexus]]:** Formed by the anterior rami of **S1 to S4** and the **lumbosacral trunk** (the remaining part of L4 and all of L5). Its most significant branch is the **sciatic nerve**, the largest nerve in the human body.
 
----
-
-### **2. Major Peripheral Nerves**
+### Major Peripheral Nerves
 
 Each major muscle compartment of the lower limb is primarily supplied by one or more specific nerves:
 
@@ -34,37 +32,11 @@ Each major muscle compartment of the lower limb is primarily supplied by one or 
     - **Superior Gluteal (L4–S1):** Innervates the **gluteus medius, minimus**, and **tensor fasciae latae** (major abductors of the hip).
     - **Inferior Gluteal (L5–S2):** Innervates the **gluteus maximus** (major extensor of the hip).
 
----
 
-### **3. Nerves in Transition Areas**
+### Nerves in Transition Areas
 
 Specific anatomical "gateways" house these nerves as they pass between regions:
 
-- **[[Femoral Triangle]]:** Contains the **femoral nerve**, positioned lateral to the femoral artery.
+- **[[Femoral Triangle]]: Contains the **femoral nerve**, positioned lateral to the femoral artery.
 - **[[Popliteal Fossa]]:** The site behind the knee where the **tibial** and **common fibular** nerves are the most superficial structures.
 - **[[Tarsal Tunnel]]:** A canal on the medial side of the ankle through which the **tibial nerve** passes to enter the sole of the foot.
-
----
-
-### **4. Clinical and Functional Testing**
-
-Clinicians use knowledge of lower limb innervation to assess spinal cord health:
-
-- **Dermatomes:** Specific skin areas correspond to single spinal levels, such as **L1 over the inguinal ligament** and **S1 on the little toe**.
-- **Myotomes:** Movements are tied to specific levels, such as **hip flexion (L1, L2)**, **knee extension (L3, L4)**, and **plantarflexion (S1, S2)**.
-- **Reflexes:** The **patellar reflex** (knee-jerk) tests **L3–L4**, while the **calcaneal tendon reflex** (ankle-jerk) tests **S1–S2**.
-
-**Would you like to start by going deeper into the nerves of the Lumbar Plexus or the Sacral Plexus first?**
-
-
-
-[[Cutaneous Innervation]]
-[[Lumbar Plexus]]
-[[Sacral Plexus]]
-[[Femoral Nerve]]
-[[Obturator Nerve]]
-[[Sciatic Nerve]]
-[[Tibial Nerve]]
-[[Common Fibular Nerve]]
-[[Superficial Fibular Nerve]]
-[[Deep Fibular Nerve]]
