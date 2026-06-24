@@ -41,7 +41,7 @@ This organization protects nerve fibers and supports signal transmission.
 - Touch
 - Pain
 - [[Temperature]]
-- Proprioception
+- Proprioception (the body's ability to unconsciously sense its own position)
 
 ### Motor Nerves
 
