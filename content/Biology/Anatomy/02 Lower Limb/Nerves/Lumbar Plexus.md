@@ -10,4 +10,6 @@ The **lumbar plexus** is a web of [[Nerve|Nerves]] in the lower back, deep withi
 
 ### Major Nerves
 
-- [[Femoral Nerve]] (L2-L4): The largest branch; controls [[Muscle|Muscles]] that extend the [[Knee]] and provide 
+- [[Femoral Nerve]] (L2-L4): The largest branch; controls [[Muscle|Muscles]] that extend the [[Knee]] and provide sensation to the from of the [[Thigh]] and inner [[Leg]].
+- [[Obturator Nerve]] (L2-L4): Innervates the adductor muscles of the hip and supplies sensory fibers to the medial thigh
+- [[Genitofemoral]]
