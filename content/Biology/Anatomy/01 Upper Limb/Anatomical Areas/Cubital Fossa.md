@@ -30,11 +30,5 @@ The major structures within the cubital fossa are organized in a specific order:
 ### Superficial Structures and Protection
 
 - [[Median Cubital Vein]]: Located in the roof of the fossa, it diagonally connects the **cephalic** and **basilic** veins and is a frequent site for venipuncture.
-- [[Cutaneous Nerves: The medial and lateral cutaneous nerves of the forearm are also found within the roof.
-- **Bicipital Aponeurosis:** A flat band of connective tissue that passes from the biceps tendon to deep fascia, providing a protective cover for the brachial artery and median nerve.
-
-### **Clinical Significance**
-
-- **Blood Pressure:** Clinicians place a stethoscope over the brachial artery in the cubital fossa to take blood pressure readings.
-- **Venipuncture:** The veins in the superficial fascia of the cubital fossa, particularly the median cubital vein, are ideal sites for drawing blood or administering intravenous drugs.
-- **Brachial Pulse:** The pulse of the brachial artery can be felt at the anterior medial part of the elbow.
+- [[Cutaneous Nerves]]: The medial and lateral cutaneous nerves of the forearm are also found within the roof.
+- Bicipital Aponeurosis: A flat band of connective [[Tissue]] that passes from the biceps tendon to deep fascia, providing a protective cover for the brachial artery and median nerve.
