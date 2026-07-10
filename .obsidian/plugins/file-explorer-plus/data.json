@@ -483,13 +483,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "content/Biology/Anatomy/01 Upper Limb/Nerves/Upper Limb Nerves.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "content/Biology/Anatomy/01 Upper Limb/Joints/Upper Limb Joints.md",
         "patternType": "STRICT"
       },
@@ -497,7 +490,28 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Upper Limb Blood Vessels & Lymphatics.md",
+        "pattern": "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md",
         "patternType": "STRICT"
       }
     ],
