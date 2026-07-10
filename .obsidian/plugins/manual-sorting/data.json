@@ -10,7 +10,8 @@
         "package-lock.json",
         "quartz.config.ts",
         "quartz.layout.ts",
-        "tsconfig.json"
+        "tsconfig.json",
+        "toolbox file"
       ],
       "sortOrder": "custom"
     },
@@ -92,7 +93,9 @@
         "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Hand.md",
         "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Wrist.md",
         "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Forearm.md",
-        "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Shoulder.md"
+        "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Shoulder.md",
+        "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Axilla.md",
+        "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Carpal Tunnel.md"
       ],
       "sortOrder": "custom"
     },
@@ -104,7 +107,20 @@
         "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Cubital Fossa.md",
         "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Radial Artery.md",
         "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Scapular Anastomosis.md",
-        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Subclavian Artery.md"
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Subclavian Artery.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Subclavian Vein.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Superficial Palmar Arch.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Supratrochlear Lymph Nodes.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Ulnar Artery.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Venous Drainage.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Arterial Supply.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Axillary Lymph Nodes.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Axillary Vein.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Basilic Vein.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Deep Palmar Arch.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Cephalic Vein.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Median Cubital Vein.md",
+        "content/Biology/Anatomy/01 Upper Limb/Blood Vessels & Lymphatics/Lymph.md"
       ],
       "sortOrder": "custom"
     },
@@ -210,13 +226,120 @@
     },
     "content/Biology/Anatomy/02 Lower Limb": {
       "children": [
-        "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md"
+        "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas",
+        "content/Biology/Anatomy/02 Lower Limb/Blood vessels & Lympatics",
+        "content/Biology/Anatomy/02 Lower Limb/Bones",
+        "content/Biology/Anatomy/02 Lower Limb/Joints",
+        "content/Biology/Anatomy/02 Lower Limb/Muscles",
+        "content/Biology/Anatomy/02 Lower Limb/Nerves"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb_summarize.txt",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb_summarize_custom.txt",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Ankle.md",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Knee.md",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Foot.md",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Thigh.md",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Leg.md",
+        "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Pelvis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb/Blood vessels & Lympatics": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/Blood vessels & Lympatics/Lower Limb Blood Vessels & Lymphatics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb/Bones": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Ischium.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Lower Limb Bones.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Metatarsals.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Pubis.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Tibia.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Tarsals.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Patella.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Femur.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Fibula.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Hip Bone.md",
+        "content/Biology/Anatomy/02 Lower Limb/Bones/Ilium.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb/Joints": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/Joints/Subtalar Joint.md",
+        "content/Biology/Anatomy/02 Lower Limb/Joints/Tibiofibular Joints.md",
+        "content/Biology/Anatomy/02 Lower Limb/Joints/Hip Joint.md",
+        "content/Biology/Anatomy/02 Lower Limb/Joints/Knee Joint.md",
+        "content/Biology/Anatomy/02 Lower Limb/Joints/Ankle Joint.md",
+        "content/Biology/Anatomy/02 Lower Limb/Joints/Lower Limb Joints.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb/Muscles": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/Muscles/Lower Limb Muscles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/02 Lower Limb/Nerves": {
+      "children": [
+        "content/Biology/Anatomy/02 Lower Limb/Nerves/Lower Limb Nerves.md"
       ],
       "sortOrder": "custom"
     },
     "content/Biology/Anatomy/03 Thorax": {
       "children": [
-        "content/Biology/Anatomy/03 Thorax/03 Thorax.md"
+        "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
+        "content/Biology/Anatomy/03 Thorax/Anatomical Areas",
+        "content/Biology/Anatomy/03 Thorax/Blood vessels & Lympatics",
+        "content/Biology/Anatomy/03 Thorax/Bones",
+        "content/Biology/Anatomy/03 Thorax/Joints",
+        "content/Biology/Anatomy/03 Thorax/Muscles",
+        "content/Biology/Anatomy/03 Thorax/Nerves"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax/Anatomical Areas": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax/Blood vessels & Lympatics": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/Blood vessels & Lympatics/Thorax Blood Vessels & Lymphatics.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax/Bones": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/Bones/Thorax Bones.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax/Joints": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/Joints/Thorax Joints.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax/Muscles": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/Muscles/Thorax Muscles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "content/Biology/Anatomy/03 Thorax/Nerves": {
+      "children": [
+        "content/Biology/Anatomy/03 Thorax/Nerves/Thorax Nerves.md"
       ],
       "sortOrder": "custom"
     },
@@ -804,7 +927,11 @@
         "content/Daily Notes/2026-06-03.md",
         "content/Daily Notes/2026-06-02.md",
         "content/Daily Notes/2026-06-01.md",
-        "content/Daily Notes/2026-05-30.md"
+        "content/Daily Notes/2026-05-30.md",
+        "content/Daily Notes/2026-06-21.md",
+        "content/Daily Notes/2026-06-11.md",
+        "content/Daily Notes/2026-06-13.md",
+        "content/Daily Notes/2026-06-08.md"
       ],
       "sortOrder": "custom"
     },
@@ -1291,7 +1418,6 @@
         "content/Resources/Images/Flexion and Extension.png",
         "content/Resources/Images/Ulna.png",
         "content/Resources/Images/Scapula.png",
-        "content/Resources/Images/Phalanges.png",
         "content/Resources/Images/Radius.png",
         "content/Resources/Images/Clavicle.png",
         "content/Resources/Images/Humerus.png",
@@ -1377,7 +1503,41 @@
         "content/Resources/Images/Capillary.png",
         "content/Resources/Images/Brachial Artery.png",
         "content/Resources/Images/Artery.png",
-        "content/Resources/Images/Axillary Artery.png"
+        "content/Resources/Images/Axillary Artery.png",
+        "content/Resources/Images/Knee Joint.png",
+        "content/Resources/Images/Tibiofibular Joints.png",
+        "content/Resources/Images/Hip Joint.png",
+        "content/Resources/Images/Ankle Joint.png",
+        "content/Resources/Images/Ulnar Artery.png",
+        "content/Resources/Images/Tibia.png",
+        "content/Resources/Images/Thigh.png",
+        "content/Resources/Images/Tarsals.png",
+        "content/Resources/Images/Superficial Palmar Arch.png",
+        "content/Resources/Images/Supratrochlear Lymph Nodes.png",
+        "content/Resources/Images/Subclavian Vein.png",
+        "content/Resources/Images/Pubis.png",
+        "content/Resources/Images/Phalanges of the foot.png",
+        "content/Resources/Images/Phalanges of the Hand.png",
+        "content/Resources/Images/Metatarsals.png",
+        "content/Resources/Images/Patella.png",
+        "content/Resources/Images/Median Cubital Vein.png",
+        "content/Resources/Images/Male Pelvis.png",
+        "content/Resources/Images/Leg.png",
+        "content/Resources/Images/Knee.png",
+        "content/Resources/Images/Ischium.png",
+        "content/Resources/Images/Ilium.png",
+        "content/Resources/Images/Hip Bone.png",
+        "content/Resources/Images/Foot.png",
+        "content/Resources/Images/Fibula.png",
+        "content/Resources/Images/Femur.png",
+        "content/Resources/Images/Female Pelvis.png",
+        "content/Resources/Images/Deep Palmar Arch.png",
+        "content/Resources/Images/Basilic Vein.png",
+        "content/Resources/Images/Cephalic Vein.png",
+        "content/Resources/Images/Axillary Vein.png",
+        "content/Resources/Images/Axillary Lymph Nodes.png",
+        "content/Resources/Images/Arterial Supply.png",
+        "content/Resources/Images/Ankle.png"
       ],
       "sortOrder": "custom"
     },
@@ -1405,6 +1565,36 @@
         "Templates/Symbol Template.md",
         "Templates/Problem Template.md",
         "Templates/Daily Note Template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "toolbox file": {
+      "children": [
+        "toolbox file/content"
+      ],
+      "sortOrder": "custom"
+    },
+    "toolbox file/content": {
+      "children": [
+        "toolbox file/content/Biology"
+      ],
+      "sortOrder": "custom"
+    },
+    "toolbox file/content/Biology": {
+      "children": [
+        "toolbox file/content/Biology/Anatomy"
+      ],
+      "sortOrder": "custom"
+    },
+    "toolbox file/content/Biology/Anatomy": {
+      "children": [
+        "toolbox file/content/Biology/Anatomy/02 Lower Limb"
+      ],
+      "sortOrder": "custom"
+    },
+    "toolbox file/content/Biology/Anatomy/02 Lower Limb": {
+      "children": [
+        "toolbox file/content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md"
       ],
       "sortOrder": "custom"
     }
