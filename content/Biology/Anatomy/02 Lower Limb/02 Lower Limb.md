@@ -43,8 +43,8 @@ The [[Joint|Joints]] of the lower limb include several highly stable [[Synovial 
 
 - **Hip Complex:** The [[Hip Joint]] is a stable ball-and-socket joint between the pelvic acetabulum and the femoral head. The [[Sacro-iliac Joint]] transmits forces from the limb to the vertebral column.
 - **[[Knee Joint]]:** The largest synovial joint in the body; a complex hinge joint between the femur, tibia, and patella.
-- **Leg & Ankle:** The **[[Ankle Joint]]** is a hinge joint between the tibia, fibula, and talus. The **[[Tibiofibular Joints]]**(proximal and distal) link the two leg bones.
-- **Foot Joints:** Include the **[[Subtalar Joint]]** (for inversion/eversion), [[Metatarsophalangeal Joints]], and [[Interphalangeal Joints]].
+- **Leg & Ankle:** The [[Ankle Joint]] is a hinge joint between the tibia, fibula, and talus. The [[Tibiofibular Joints]](proximal and distal) link the two leg bones.
+- **Foot Joints:** Include the [[Subtalar Joint]] (for inversion/eversion), [[Metatarsophalangeal Joints]], and [[Interphalangeal Joints]].
 
 ---
 
