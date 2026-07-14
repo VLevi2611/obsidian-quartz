@@ -513,6 +513,27 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/05 Head and Neck/05 Head and Neck.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/02 Lower Limb/Joints/Lower Limb Joints.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/02 Lower Limb/Bones/Lower Limb Bones.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
