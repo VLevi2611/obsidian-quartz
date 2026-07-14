@@ -59,6 +59,6 @@ The [[Joint|Joints]] of the lower limb include several highly stable [[Synovial 
     - **Posterior:** The **hamstrings** ([[Biceps Femoris]], [[Semitendinosus]], [[Semimembranosus]]) which extend the hip and flex the knee.
 - **Leg Compartments:**
     - **Anterior:** Muscles that **dorsiflex** the foot and extend the digits (e.g., [[Tibialis Anterior]]).
-    - **Lateral:** Muscles that **evert** the foot (Fibularis longus and brevis).
-    - **Posterior:** Powerful **plantarflexors** (Gastrocnemius, Soleus) and digit flexors.
+    - **Lateral:** Muscles that **evert** the foot ([[Fibularis Longus]] and [[Fibularis Brevis]]).
+    - **Posterior:** Powerful **plantarflexors** ([[Gastrocnemius]], [[Soleus]]) and digit flexors.
 - **Foot:** **Intrinsic muscles** located entirely within the foot that provide dynamic support for the arches.
