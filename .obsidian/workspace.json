@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
+                "file": "content/Biology/Anatomy/Anatomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anatomical Areas of the Lower Limb"
+              "title": "Anatomy"
             }
           }
         ]
@@ -187,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
+                "file": "content/Biology/Anatomy/Anatomy.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -279,7 +279,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Anatomical Areas of the Lower Limb"
+              "title": "Graph of Anatomy"
             }
           }
         ]
@@ -305,13 +305,17 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
+    "content/Biology/Anatomy/06 Body Systems/06 Body Systems.md",
+    "content/Biology/Anatomy/00 Foundations/Organ Systems.md",
+    "content/Biology/Anatomy/06 Body Systems",
+    "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
     "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md",
     "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Tarsal Tunnel.md",
     "content/Resources/Images/Tarsal Tunnel.png",
     "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Popliteal Fossa.md",
     "content/Resources/Images/Popliteal Fossa.png",
     "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Femoral Triangle.md",
-    "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
     "content/Resources/Images/Femoral Triangle.png",
     "content/Biology/Anatomy/02 Lower Limb/Joints/Lower Limb Joints.md",
     "content/Biology/Anatomy/02 Lower Limb/Joints/Sacro-Iliac Joint.md",
@@ -338,8 +342,6 @@
     "content/Biology/Anatomy/02 Lower Limb/Muscles/Tibialis Posterior.md",
     "content/Biology/Anatomy/02 Lower Limb/Muscles/Tibialis Anterior.md",
     "content/Biology/Anatomy/02 Lower Limb/Muscles/Tensor Fasciae Latae.md",
-    "content/Biology/Anatomy/02 Lower Limb/Muscles/Soleus.md",
-    "content/Biology/Anatomy/02 Lower Limb/Muscles/Semitendinosus.md",
     "toolbox file/content/Biology/Anatomy/02 Lower Limb",
     "toolbox file/content/Biology/Anatomy",
     "toolbox file/content/Biology",
@@ -348,7 +350,6 @@
     "content/Biology/Anatomy/03 Thorax/Nerves",
     "content/Biology/Anatomy/03 Thorax/Muscles",
     "content/Biology/Anatomy/03 Thorax/Joints",
-    "content/Biology/Anatomy/03 Thorax/Bones",
-    "content/Biology/Anatomy/03 Thorax/Blood vessels & Lympatics"
+    "content/Biology/Anatomy/03 Thorax/Bones"
   ]
 }

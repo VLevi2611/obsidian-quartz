@@ -41,4 +41,4 @@ Critical transition zones allow neurovascular structures to pass safely between 
     - **Contents:** All major vessels and nerves pass between the thigh and leg through this space, including the **popliteal artery and vein**, and the **tibial and common fibular nerves**.
 - **[[Tarsal Tunnel]]:** A critical gateway located on the posteromedial side of the ankle.
     - **Structure:** Formed by a bony depression (medial malleolus, talus, and calcaneus) and the overlying **flexor retinaculum**.
-    - **Contents:** Serves as the passage for the **posterior tibial artery**, **tibial nerve**, and the [[Tendon|Tendons]] of the **tibialis posterior**, **flexor digitorum longus**, and **flexor hallucis longus** as they enter the sole of the foot.
+    - **Contents:** Serves as the passage for the **posterior tibial artery**, **tibial nerve**, and the [[Tendon|Tendons]] of the [[Tibialis Posterior]], [[Flexor Digitorum Longus]], and [[Flexor Hallucis Longus]] as they enter the sole of the foot.
