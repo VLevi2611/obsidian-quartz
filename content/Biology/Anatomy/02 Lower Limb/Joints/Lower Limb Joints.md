@@ -8,6 +8,9 @@ tags:
 
 The [[Joint|Joints]] of the lower limb are crucial for mobility, stability, and weight-bearing. They connect the [[Bone|Bones]] of the [[Pelvis]], [[Thigh]], [[Leg]], and [[Foot]], facilitating [[Movement]] and enabling locomotion.
 
+### [[Sacro-Iliac Joint]]
+
+The sacro-iliac joint connects the [[Sacrum]] and the [[Ilium]]. It is a weight-bearing joint.
 ### [[Hip Joint]]
 
 The hip joint is a ball and socket joint between the pelvis and the [[Femur]]. Its primary function is to support the weight of the torso during both static (standing) and dynamic (walking or running) postures.
