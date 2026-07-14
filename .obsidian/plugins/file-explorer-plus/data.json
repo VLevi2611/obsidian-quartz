@@ -541,6 +541,13 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/03 Thorax/Muscles/Thorax Muscles.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
