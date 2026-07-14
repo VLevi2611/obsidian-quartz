@@ -52,13 +52,13 @@ The [[Joint|Joints]] of the lower limb include several highly stable [[Synovial 
 
 [[Muscle|Muscles]] are organized into functional compartments separated by deep fascia (such as the **fascia latta** in the thigh).
 
-- **Gluteal Region:** Large muscles like the **[[Gluteus Maximus]]** (extensor) and [[Gluteus Medius]],[[Gluteus Minimus]](abductors) that control the hip and stabilize the pelvis during walking.
+- **Gluteal Region:** Large muscles like the [[Gluteus Maximus]] (extensor) and [[Gluteus Medius]],[[Gluteus Minimus]](abductors) that control the hip and stabilize the pelvis during walking.
 - **Thigh Compartments:**
-    - **Anterior:** Predominantly knee extensors like the **[[Quadriceps Femoris]]** and the **Sartorius**.
-    - **Medial:** Adductor group (e.g., **Adductor Longus**, **Gracilis**) that acts mainly on the hip joint.
-    - **Posterior:** The **[[Hamstrings]]** (Biceps femoris, Semitendinosus, Semimembranosus) which extend the hip and flex the knee.
+    - **Anterior:** Predominantly knee extensors like the [[Rectus Femoris]] and the [[Sartorius]].
+    - **Medial:** Adductor group (e.g., [[Adductor Magnus]], [[Gracilis]]) that acts mainly on the hip joint.
+    - **Posterior:** The **hamstrings** ([[Biceps Femoris]], [[Semitendinosus]], [[Semimembranosus]]) which extend the hip and flex the knee.
 - **Leg Compartments:**
-    - **Anterior:** Muscles that **dorsiflex** the foot and extend the digits (e.g., Tibialis anterior).
+    - **Anterior:** Muscles that **dorsiflex** the foot and extend the digits (e.g., [[Tibialis Anterior]]).
     - **Lateral:** Muscles that **evert** the foot (Fibularis longus and brevis).
     - **Posterior:** Powerful **plantarflexors** (Gastrocnemius, Soleus) and digit flexors.
 - **Foot:** **Intrinsic muscles** located entirely within the foot that provide dynamic support for the arches.
