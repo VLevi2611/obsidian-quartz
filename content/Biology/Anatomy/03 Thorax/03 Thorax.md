@@ -49,3 +49,52 @@ The [[Muscle|Muscles]] of the thorax primarily function to alter thoracic volume
 - [[Diaphragm]]: The primary muscle of inspiration; a large, dome-shaped muscle that separates the thoracic and abdominal cavities.
 - [[Intercostal Muscles]]: Three layers of flat muscles—**external** (most active during inspiration), **internal** (active during expiration), and **innermost**—that span the spaces between ribs.
 - **Accessory Muscles of Respiration:** These include muscles that can engage to assist in forced breathing, such as the **pectoralis major/minor**, **serratus anterior**, **trapezius**, **latissimus dorsi**, and **levator costarum**.
+
+
+
+
+
+Based on the sources, many anatomical terms used to describe the **thorax** (the chest region) are derived from Latin or Greek roots that describe the location, size, or shape of a structure.
+
+Here is a list of terms used in the thorax and their English meanings:
+
+### **Regional and Directional Terms**
+
+- **Thorac / Thoracic:** From the Latin root for **chest**.
+- **Mediastinum:** From _media-_ meaning **middle** and _-stinum_ meaning **partition**.
+- **Pleura / Pleural:** Derived from the root for **rib or side**.
+- **Axilla:** The Latin word for **armpit**.
+- **Pectoralis / Pectoral:** Refers to the **chest** or pectoral region.
+- **Superior:** Refers to **higher** or toward the head (often used as _cephalic_).
+- **Inferior:** Refers to **lower** or toward the feet (often used as _caudal_).
+- **Anterior / Ventral:** Refers to the **front** of the body.
+- **Posterior / Dorsal:** Refers to the **back** of the body.
+- **Medial:** Nearer to the **midline** or axis.
+- **Lateral:** Away from the **midline** or axis.
+- **Internal:** Means **deep** or inside.
+- **External:** Means **superficial** or outside.
+- **Viscera:** A collective term for **organs** located inside body cavities.
+
+### **Organs and Bone Structures**
+
+- **Cardial:** Derived from the root for **heart** (e.g., the _pericardial_ cavity is the space "around the heart").
+- **Costa / Costal:** The Latin term for **rib**.
+- **Corpus:** The Latin term for **body** (e.g., _corpus sterni_ is the body of the breastbone).
+- **Xiphoid / Ensiform:** Both terms translate to **sword-like** or "point of a sword," referring to the bottom of the sternum.
+- **Manubrium:** Latin for **handle** (specifically the "handle" of the sternum).
+- **Cisterna chyli:** Translates to **chyle cistern**, a sac-like dilation for lymphatic fluid.
+
+### **Muscles and Their Characteristics**
+
+- **Diaphragm:** From roots meaning **partition or wall**.
+- **Intercostal:** Literally means **between the ribs** (_inter_ = between; _costa_ = rib).
+- **Levator:** Means **lifter** or to elevate (e.g., _levator costarum_ are the rib lifters).
+- **Longis / Longus:** Means **long**.
+- **Brevis:** Means **short** or brief.
+- **Serratus:** Means **sawtooth-like**, describing the physical appearance of the muscle attachments.
+- **Major:** Means **larger** or greater.
+- **Minor:** Means **smaller** or lesser.
+- **Transversus:** Refers to the **direction** of muscle fibers lying across or horizontally.
+- **Rectus:** Means **straight**, referring to the orientation of the fibers.
+- **Oblique:** Refers to fibers that run at an **angle**.
+- **Crus (plural: Crura):** Latin for **leg**, describing the musculotendinous attachments of the diaphragm.
