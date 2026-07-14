@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-The **thorax** is an irregularly shaped cylinder with a narrow opening superiorly (superior thoracic aperture) and a large opening inferiorly (inferior thoracic aperture) that is closed by the diaphragm. It serves as the region of the chest extending from the neck to the abdomen and is structurally designed to **house and protect vital organs** like the heart and lungs while providing the necessary machinery for **breathing**.
+The **thorax** is an irregularly shaped cylinder with a narrow opening superiorly (superior thoracic aperture) and a large opening inferiorly (inferior thoracic aperture) that is closed by the diaphragm. It serves as the region of the chest extending from the [[Neck]] to the [[Abdomen]] and is structurally designed to **house and protect vital organs** like the heart and lungs while providing the necessary machinery for **breathing**.
 
 ---
 
