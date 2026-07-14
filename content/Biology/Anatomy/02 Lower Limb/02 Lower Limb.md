@@ -62,3 +62,47 @@ The [[Joint|Joints]] of the lower limb include several highly stable [[Synovial 
     - **Lateral:** Muscles that **evert** the foot ([[Fibularis Longus]] and [[Fibularis Brevis]]).
     - **Posterior:** Powerful **plantarflexors** ([[Gastrocnemius]], [[Soleus]]) and digit flexors.
 - **Foot:** **Intrinsic muscles** located entirely within the foot that provide dynamic support for the arches.
+
+---
+## Anatomy Terms
+### **Regional and Directional Terms**
+
+- **Gluteal / Gluteus:** From the Latin root for **buttock**.
+- **Femoral / Femur:** Refers to the **thigh**.
+- **Coxal:** Refers to the **hip**.
+- **Inguinal:** Refers to the **groin**.
+- **Popliteal:** Refers to the **hollow behind the knee**.
+- **Patellar:** Refers to the **kneecap**.
+- **Crural:** Refers to the **leg** (specifically the region between the knee and ankle).
+- **Sural:** Refers to the **calf**.
+- **Tarsal:** Refers to the **ankle**.
+- **Plantar:** Refers to the **sole** of the foot.
+- **Dorsum:** Refers to the **top** of the foot (or the back of the hand).
+- **Hallux:** The **great toe**.
+
+### **Muscle and Bone Characteristics**
+
+- **Maximus:** Means **largest**.
+- **Medius:** Means **middle-sized**.
+- **Minimus:** Means **smallest**.
+- **Longus:** Means **long**.
+- **Brevis:** Means **short** or brief.
+- **Magnus:** Means **great** or large.
+- **Vastus:** Means **vast** or enormous.
+- **Gracilis:** Means **slender** or delicate.
+- **Piriformis:** Means **pear-shaped**.
+- **Sartorius:** Derived from the Latin for **tailor**, referring to the leg position used by tailors.
+- **Biceps:** Means **two-headed** (_Bi_ = two; _Ceps_ = heads).
+- **Quadriceps:** Means **four-headed** (_Quad_ = four).
+- **Rectus:** Means **straight**.
+- **Oblique:** Means at an **angle**.
+- **Transversus:** Means **across** or horizontal.
+
+### **Functional Terms**
+
+- **Adduction:** Moving **toward the midline** of the body.
+- **Abduction:** Moving **away from the midline** of the body.
+- **Flexion:** The act of **bending** a body part.
+- **Extension:** The act of **straightening** a body part.
+- **Agonist:** A muscle that causes movement through its own **contraction**.
+- **Antagonist:** A muscle that **opposes** a particular movement.

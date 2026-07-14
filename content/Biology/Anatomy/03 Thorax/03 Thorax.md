@@ -50,8 +50,7 @@ The [[Muscle|Muscles]] of the thorax primarily function to alter thoracic volume
 - [[Intercostal Muscles]]: Three layers of flat muscles—**external** (most active during inspiration), **internal** (active during expiration), and **innermost**—that span the spaces between ribs.
 - **Accessory Muscles of Respiration:** These include muscles that can engage to assist in forced breathing, such as the **pectoralis major/minor**, **serratus anterior**, **trapezius**, **latissimus dorsi**, and **levator costarum**.
 
-
-
+---
 ## Anatomy Terms
 ### Regional and Directional Terms
 
