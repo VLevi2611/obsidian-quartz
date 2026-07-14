@@ -23,25 +23,25 @@ These three layers of flat muscles span the spaces between the ribs and provide 
 
 - [[External Intercostals]]: Eleven pairs forming the most superficial layer; they move the ribs superiorly and are most active during **inspiration**.
 - [[Internal Intercostals]]: Located deep to the external layer; they move the ribs inferiorly and are most active during **expiration**.
-- **[[Innermost Intercostals]]:** The deepest layer, separated from the internal intercostals by the neurovascular bundle (intercostal nerve and vessels).
+- [[Innermost Intercostals]]: The deepest layer, separated from the internal intercostals by the neurovascular bundle (intercostal nerve and vessels).
 
 ---
 
-### **3. Deep and Accessory Thoracic Muscles**
+### Deep and Accessory Thoracic Muscles
 
-- **[[Transversus Thoracis]]:** Found on the internal surface of the anterior thoracic wall; these muscles depress the costal cartilages.
-- **[[Subcostales]]:** Located on the internal posterior wall, they span multiple ribs and assist in depressing them.
-- **[[Levator Costarum]]:** Twelve pairs of deep back muscles that originate from the vertebrae and insert into the ribs to elevate them during forced inspiration.
-- **[[Serratus Posterior Superior]] & [[Serratus Posterior Inferior]]:** Intermediate back muscles that respectively elevate and depress the ribs to assist in respiration.
+- [[Transversus Thoracis]]: Found on the internal surface of the anterior thoracic wall; these muscles depress the costal cartilages.
+- [[Subcostales]]: Located on the internal posterior wall, they span multiple ribs and assist in depressing them.
+- [[Levator Costarum]]: Twelve pairs of deep back muscles that originate from the vertebrae and insert into the ribs to elevate them during forced inspiration.
+- [[Serratus Posterior Superior]] & [[Serratus Posterior Inferior]]: Intermediate back muscles that respectively elevate and depress the ribs to assist in respiration.
 
 ---
 
-### **4. Extrinsic Muscles (Pectoral and Back Groups)**
+### Extrinsic Muscles (Pectoral and Back Groups)
 
 While primarily involved in moving the upper limb and trunk, these muscles can act as **accessory muscles of respiration**during physical exertion or forced breathing.
 
-- **Pectoral Region:** Includes the **[[Pectoralis Major]]**, **[[Pectoralis Minor]]**, and **[[Subclavius]]**, which can help elevate the rib cage if the limb/scapula is fixed.
-- **Back and Lateral Region:** Includes the **[[Trapezius]]**, **[[Latissimus dorsi]]**, and **[[Serratus anterior]]**, all of which provide a stable base or assist in thoracic expansion.
+- **Pectoral Region:** Includes the [[Pectoralis Major]], [[Pectoralis Minor]], and [[Subclavius]], which can help elevate the rib cage if the limb/scapula is fixed.
+- **Back and Lateral Region:** Includes the [[Trapezius]], [[Latissimus dorsi]], and [[Serratus anterior]], all of which provide a stable base or assist in thoracic expansion.
 
 ---
 
@@ -49,5 +49,5 @@ While primarily involved in moving the upper limb and trunk, these muscles can a
 
 During quiet breathing, expiration is a passive process. However, for **forced expiration** (e.g., coughing), specific muscles are recruited.
 
-- **[[Abdominal Muscles]]:** The **Rectus abdominis**, **External oblique**, **Internal oblique**, and **Transversus abdominis** contract to push abdominal viscera upward against the diaphragm and pull the ribs downward.
-- **[[Quadratus Lumborum]]:** A posterior muscle that pulls the last rib inferiorly to assist in retracting the rib cage.
+- **Abdominal muscles:** The [[Rectus Abdominis]], [[External Oblique]], [[Internal Oblique]], and [[Transversus Abdominis]] contract to push abdominal viscera upward against the diaphragm and pull the ribs downward.
+- [[Quadratus Lumborum]]: A posterior muscle that pulls the last rib inferiorly to assist in retracting the rib cage.
