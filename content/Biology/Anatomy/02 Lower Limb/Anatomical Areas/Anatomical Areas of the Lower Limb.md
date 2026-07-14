@@ -28,3 +28,17 @@ The tarsal region includes key bones like the **Calcaneus (heel bone),** **Navic
 ### [[Foot]]
 
 The foot is a sophisticated structure composed of the hindfoot, midfoot (including the [[Tarsals]]), and forefoot (comprising [[Metatarsals]] and [[Phalanges]]). Beyond essential weight-bearing, the foot's architecture, supported by intrinsic muscles organized into four layers, forms critical arches for shock absorption. Neurovascular supply via the [[Dorsalis pedis artery]] and [[Plantar arteries]], along with innervation from the [[Medial and lateral plantar nerves]] and [[Deep fibular nerve]], ensures fine motor control and sensory feedback, crucial for complex functions like walking and balance.
+
+## Key Areas of Transition
+
+Critical transition zones allow neurovascular structures to pass safely between the major regions of the lower limb.
+
+- **[[Femoral Triangle]]:** A wedge-shaped depression in the proximal thigh at the junction with the anterior abdominal wall.
+    - **Boundaries:** Formed by the **inguinal ligament** (base), [[Sartorius]] muscle (lateral), and [[Adductor Longus]] muscle (medial).
+    - **Contents:** From lateral to medial, it contains the **femoral nerve**, **femoral artery**, **femoral vein**, and **lymphatic vessels**.
+- **[[Popliteal Fossa]]:** A diamond-shaped space posterior to the knee joint.
+    - **Boundaries:** Formed by the distal ends of the **hamstrings** (superiorly) and the heads of the [[Gastrocnemius]] (inferiorly).
+    - **Contents:** All major vessels and nerves pass between the thigh and leg through this space, including the **popliteal artery and vein**, and the **tibial and common fibular nerves**.
+- **[[Tarsal Tunnel]]:** A critical gateway located on the posteromedial side of the ankle.
+    - **Structure:** Formed by a bony depression (medial malleolus, talus, and calcaneus) and the overlying **flexor retinaculum**.
+    - **Contents:** Serves as the passage for the **posterior tibial artery**, **tibial nerve**, and the [[Tendon|Tendons]] of the **tibialis posterior**, **flexor digitorum longus**, and **flexor hallucis longus** as they enter the sole of the foot.
