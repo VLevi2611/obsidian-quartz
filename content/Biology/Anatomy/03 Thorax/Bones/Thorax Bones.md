@@ -38,4 +38,4 @@ There are **12 thoracic vertebrae** (T1–T12) situated between the cervical a
 While often studied with the [[01 Upper Limb|Upper Limb]], the pectoral girdle is part of the bony thorax and anchors the upper extremities to the trunk.
 
 - [[Clavicle]]: An S-shaped bone that provides the only skeletal connection between the trunk and the upper limb.
-- **[[Scapula]] (Shoulder Blade):** A flat, triangular bone on the posterior aspect of the thorax that articulates with the clavicle and humerus. It has no posterior bony attachment to the trunk and is instead supported by muscles.
+- [[Scapula]]: A flat, triangular bone on the posterior aspect of the thorax that articulates with the clavicle and humerus. It has no posterior bony attachment to the trunk and is instead supported by muscles.
