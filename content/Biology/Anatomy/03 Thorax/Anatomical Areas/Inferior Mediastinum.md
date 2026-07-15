@@ -6,6 +6,9 @@ tags:
 ---
 ## Definition
 
-The **inferior mediastinum** is the lower portion of the [[Thoracic Cavity]], located between the [[Lung|Lungs]]. It extends from the [[Thoracic Plane]] down to the 
+The **inferior mediastinum** is the lower portion of the [[Thoracic Cavity]], located between the [[Lung|Lungs]]. It extends from the [[Thoracic Plane]] down to the [[Diaphragm]]. It is divided into 3 compartments:
+- [[Anterior Mediastinum]]
+- [[Middle Mediastinum]]
+- [[Posterior Mediastinum]]
 
 
