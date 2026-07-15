@@ -8,16 +8,16 @@ tags:
 
 The **bony thorax** (or thoracic cage) is a resilient musculoskeletal framework designed to provide structure to the [[Chest]], protect vital organs like the [[Heart]] and [[Lung|Lungs]], and serve as the mechanical machinery for respiration. It is comprised of the **vertebral column**, the **rib cage**, and the **pectoral girdle**.
 
-### **1. The Sternum (Breastbone)**
+### [[Sternum]]
 
 The **sternum** is a flat, prominent midline bone on the anterior thoracic wall that serves as a primary attachment point for the clavicles and ribs. It consists of three distinct parts:
 
 - **Manubrium sterni:** The superior-most portion that articulates with the clavicles (forming the **sternoclavicular joint**) and the first two pairs of ribs.
 - **Body (Corpus):** The long, central part of the sternum that provides direct attachment for ribs 3 through 7 and indirect attachment for ribs 8 through 10.
 - **Xiphoid Process:** A small, delicate bony projection at the inferior end of the sternum. Its name is derived from Greek for "sword-like".
-- **[[Sternal Angle]]:** A clinically significant landmark formed by the junction of the manubrium and the body; it marks the level of the second rib and the TIV/TV vertebral level.
+- **[[Sternal Angle]]:** A clinically significant landmark formed by the junction of the manubrium and the body; it marks the level of the second rib and the T4-T5 vertebral level.
 
-### **2. The Rib Cage**
+### The Rib Cage
 
 The rib cage is composed of **12 pairs of ribs** that give the thorax its characteristic barrel-like shape. All ribs articulate posteriorly with the thoracic vertebrae. They are classified into three types based on their anterior attachments:
 
@@ -26,14 +26,14 @@ The rib cage is composed of **12 pairs of ribs** that give the thorax its char
 - **Floating Ribs (XI–XII):** These ribs have no anterior attachment to the sternum or other ribs, ending instead in the soft tissue of the abdominal wall.
 - **Anatomy of a Typical Rib:** Includes a **head** (posterior end), **neck**, **tubercle** (for articulation with vertebral transverse processes), and a curved **shaft** containing a **costal groove** for nerves and vessels.
 
-### **3. Thoracic Vertebrae**
+### Thoracic Vertebrae
 
 There are **12 thoracic vertebrae** (T1–T12) situated between the cervical and lumbar regions of the spine. They provide the posterior attachment points for the rib cage.
 
 - **Distinguishing Features:** They possess **costal facets** (superior, inferior, and transverse) on their bodies and transverse processes specifically for rib articulation.
 - **Typical Structure:** Each consists of a heart-shaped weight-bearing **body (corpus)** and a **vertebral arch** (pedicles and laminae) that encloses the **vertebral foramen** to protect the spinal cord.
 
-### **4. Pectoral (Shoulder) Girdle**
+### Pectoral (Shoulder) Girdle
 
 While often studied with the [[01 Upper Limb|Upper Limb]], the pectoral girdle is part of the bony thorax and anchors the upper extremities to the trunk.
 
