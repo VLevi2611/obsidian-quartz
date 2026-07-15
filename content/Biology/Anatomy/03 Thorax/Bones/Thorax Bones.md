@@ -12,18 +12,18 @@ The **bony thorax** (or thoracic cage) is a resilient musculoskeletal framewor
 
 The **sternum** is a flat, prominent midline bone on the anterior thoracic wall that serves as a primary attachment point for the clavicles and ribs. It consists of three distinct parts:
 
-- **Manubrium sterni:** The superior-most portion that articulates with the clavicles (forming the **sternoclavicular joint**) and the first two pairs of ribs.
+- [[Manubrium]]: The superior-most portion that articulates with the clavicles (forming the **sternoclavicular joint**) and the first two pairs of ribs.
 - **Body (Corpus):** The long, central part of the sternum that provides direct attachment for ribs 3 through 7 and indirect attachment for ribs 8 through 10.
 - **Xiphoid Process:** A small, delicate bony projection at the inferior end of the sternum. Its name is derived from Greek for "sword-like".
-- **[[Sternal Angle]]:** A clinically significant landmark formed by the junction of the manubrium and the body; it marks the level of the second rib and the T4-T5 vertebral level.
+- [[Sternal Angle]]: A clinically significant landmark formed by the junction of the manubrium and the body; it marks the level of the second rib and the T4-T5 vertebral level.
 
-### The Rib Cage
+### [[Rib Cage]]
 
-The rib cage is composed of **12 pairs of ribs** that give the thorax its characteristic barrel-like shape. All ribs articulate posteriorly with the thoracic vertebrae. They are classified into three types based on their anterior attachments:
+The [[Ribs|Rib]] cage is composed of **12 pairs of ribs** that give the thorax its characteristic barrel-like shape. All ribs articulate posteriorly with the thoracic vertebrae. They are classified into three types based on their anterior attachments:
 
-- **True Ribs (I–VII):** Also known as vertebrosternal ribs, they articulate directly with the sternum via their own **costal cartilages**.
-- **False Ribs (VIII–X):** Also known as vertebrochondral ribs, they attach indirectly to the sternum by connecting to the costal cartilage of the rib above (rib 7).
-- **Floating Ribs (XI–XII):** These ribs have no anterior attachment to the sternum or other ribs, ending instead in the soft tissue of the abdominal wall.
+- **True Ribs (1–7):** Also known as vertebrosternal ribs, they articulate directly with the sternum via their own **costal cartilages**.
+- **False Ribs (8-10):** Also known as vertebrochondral ribs, they attach indirectly to the sternum by connecting to the costal cartilage of the rib above (rib 7).
+- **Floating Ribs (11-12):** These ribs have no anterior attachment to the sternum or other ribs, ending instead in the soft tissue of the abdominal wall.
 - **Anatomy of a Typical Rib:** Includes a **head** (posterior end), **neck**, **tubercle** (for articulation with vertebral transverse processes), and a curved **shaft** containing a **costal groove** for nerves and vessels.
 
 ### Thoracic Vertebrae
