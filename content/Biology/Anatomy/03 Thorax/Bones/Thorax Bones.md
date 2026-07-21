@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-The **bony thorax** (or thoracic cage) is a resilient musculoskeletal framework designed to provide structure to the [[Chest]], protect vital organs like the [[Heart]] and [[Lung|Lungs]], and serve as the mechanical machinery for [[Respiratory System|]]. It is comprised of the **vertebral column**, the **rib cage**, and the **pectoral girdle**.
+The **bony thorax** (or thoracic cage) is a resilient musculoskeletal framework designed to provide structure to the [[Chest]], protect vital organs like the [[Heart]] and [[Lung|Lungs]], and serve as the mechanical machinery for [[Respiratory System|Respiration]]. It is comprised of the **vertebral column**, the **rib cage**, and the **pectoral girdle**.
 
 ### [[Sternum]]
 
@@ -35,7 +35,7 @@ There are **12 thoracic vertebrae** (T1–T12) situated between the cervical a
 
 **Typical Structure:** Each consists of a heart-shaped weight-bearing **body (corpus)** and a **vertebral arch** (pedicles and laminae) that encloses the **vertebral foramen** to protect the spinal cord.
 
-### Pectoral (Shoulder) Girdle
+### [[Pectoral Gridle]]
 
 While often studied with the [[01 Upper Limb|Upper Limb]], the pectoral girdle is part of the bony thorax and anchors the upper extremities to the trunk.
 
