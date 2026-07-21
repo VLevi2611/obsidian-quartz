@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/03 Thorax/Bones/Thorax Bones.md",
+                "file": "content/Biology/Anatomy/03 Thorax/Joints/Thorax Joints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thorax Bones"
-            }
-          },
-          {
-            "id": "025a24a8a5516284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "probability question.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "probability question"
+              "title": "Thorax Joints"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "probability question.md",
+                "file": "content/Biology/Anatomy/03 Thorax/Joints/Thorax Joints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from probability question"
+              "title": "Outgoing links from Thorax Joints"
             }
           },
           {
@@ -203,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "probability question.md",
+                "file": "content/Biology/Anatomy/03 Thorax/Joints/Thorax Joints.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of probability question"
+              "title": "Graph of Thorax Joints"
             }
           }
         ]
@@ -319,12 +304,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "025a24a8a5516284",
+  "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
-    "content/Resources/Images/probability question.png",
+    "content/Biology/Anatomy/03 Thorax/Muscles/Thorax Muscles.md",
+    "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md",
     "content/Biology/Anatomy/03 Thorax/Bones/Thorax Bones.md",
     "probability question.md",
-    "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md",
+    "content/Resources/Images/probability question.png",
     "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Posterior Mediastinum.md",
     "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Middle Mediastinum.md",
     "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Anterior Mediastinum.md",
@@ -335,7 +321,6 @@
     "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
     "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
     "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md",
-    "content/Biology/Anatomy/03 Thorax/Muscles/Thorax Muscles.md",
     "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/Anatomy/Anatomy.md",
     "content/Biology/Anatomy/06 Body Systems/06 Body Systems.md",
@@ -357,7 +342,6 @@
     "content/Resources/Images/Vastus Lateralis.png",
     "content/Resources/Images/Vastus Intermedius.png",
     "content/Resources/Images/Tibialis Posterior.png",
-    "content/Resources/Images/Tibialis Anterior.png",
     "toolbox file/content/Biology/Anatomy/02 Lower Limb",
     "toolbox file/content/Biology/Anatomy",
     "toolbox file/content/Biology",
