@@ -14,7 +14,7 @@ The **sternum** is a flat, prominent midline bone on the anterior thoracic wal
 
 - [[Manubrium]]: The superior-most portion that articulates with the clavicles (forming the [[Sternoclavicular Joint]]) and the first two pairs of ribs.
 - [[Sternum Body]]: The long, central part of the sternum that provides direct attachment for ribs 3-7 and indirect attachment for ribs 8-10.
-- **Xiphoid Process:** A small, delicate bony projection at the inferior end of the sternum. Its name is derived from Greek for "sword-like".
+- [[Xiphoid Process]]: A small, delicate bony projection at the inferior end of the sternum. Its name is derived from Greek for "sword-like".
 - [[Sternal Angle]]: A clinically significant landmark formed by the junction of the manubrium and the body; it marks the level of the second rib and the T4-T5 vertebral level.
 
 ### [[Rib Cage]]
@@ -27,9 +27,9 @@ The rib cage is composed of **12 pairs of [[Ribs]]** that give the thorax its 
  
 **Anatomy of a Typical Rib:** Includes a **head** (posterior end), **neck**, **tubercle** (for articulation with vertebral transverse processes), and a curved **shaft** containing a **costal groove** for nerves and vessels.
 
-### Thoracic [[Vertebrae]]
+### [[Vertebral Column]]
 
-There are **12 thoracic vertebrae** (T1–T12) situated between the cervical and lumbar regions of the spine. They provide the posterior attachment points for the rib cage.
+There are **12 thoracic [[Vertebrae]]** (T1–T12) situated between the cervical and lumbar regions of the spine. They provide the posterior attachment points for the rib cage.
 
 **Distinguishing Features:** They possess **costal facets** (superior, inferior, and transverse) on their bodies and transverse processes specifically for rib articulation.
 
