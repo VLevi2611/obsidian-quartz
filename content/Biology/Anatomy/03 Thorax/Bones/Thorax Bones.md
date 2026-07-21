@@ -19,7 +19,7 @@ The **sternum** is a flat, prominent midline bone on the anterior thoracic wal
 
 ### [[Rib Cage]]
 
-The [[Ribs|Rib]] cage is composed of **12 pairs of ribs** that give the thorax its characteristic barrel-like shape. All ribs articulate posteriorly with the thoracic vertebrae. They are classified into three types based on their anterior attachments:
+The rib cage is composed of **12 pairs of [[Ribs]]** that give the thorax its characteristic barrel-like shape. All ribs articulate posteriorly with the thoracic vertebrae. They are classified into three types based on their anterior attachments:
 
 - **True Ribs (1–7):** Also known as vertebrosternal ribs, they articulate directly with the sternum via their own **costal cartilages**.
 - **False Ribs (8-10):** Also known as vertebrochondral ribs, they attach indirectly to the sternum by connecting to the costal cartilage of the rib above (rib 7).
