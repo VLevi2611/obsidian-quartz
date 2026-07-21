@@ -35,6 +35,6 @@ The pectoral region is external to the anterior thoracic wall and functions to a
 ### Thoracic Apertures
 
 - **Superior Thoracic Aperture:** This narrow superior opening is surrounded by skeletal elements and remains open to allow continuity between the thorax and the **neck**.
-- **Inferior Thoracic Aperture:** This large opening is formed by bone, cartilage, and ligaments and is completely closed by the **diaphragm**, which serves as the floor of the thorax and separates it from the **abdomen**.
+- **Inferior Thoracic Aperture:** This large opening is formed by [[Bone]], [[Cartilage]], and [[Ligament|Ligaments]] and is completely closed by the [[Diaphragm]], which serves as the floor of the thorax and separates it from the [[Abdomen]].
 
 

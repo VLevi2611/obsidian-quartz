@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-The **bony thorax** (or thoracic cage) is a resilient musculoskeletal framework designed to provide structure to the [[Chest]], protect vital organs like the [[Heart]] and [[Lung|Lungs]], and serve as the mechanical machinery for respiration. It is comprised of the **vertebral column**, the **rib cage**, and the **pectoral girdle**.
+The **bony thorax** (or thoracic cage) is a resilient musculoskeletal framework designed to provide structure to the [[Chest]], protect vital organs like the [[Heart]] and [[Lung|Lungs]], and serve as the mechanical machinery for [[Respiratory System|]]. It is comprised of the **vertebral column**, the **rib cage**, and the **pectoral girdle**.
 
 ### [[Sternum]]
 
