@@ -18,14 +18,14 @@ The **mediastinum** is a thick midline partition that extends from the [[Sternum
     - [[Middle Mediastinum]]: Centrally located, containing the **heart** and the **pericardium**.
     - [[Posterior Mediastinum]]: Positioned between the pericardial sac/diaphragm and the thoracic vertebrae. It contains the esophagus, thoracic aorta, azygos system of veins, and thoracic splanchnic nerves.
 
-### Pleural Cavities and Recesses
+### [[Pleural Cavities]] and Recesses
 
-Two independent pleural cavities are situated on either side of the mediastinum, each surrounding a single **lung**.
+Two independent pleural cavities are situated on either side of the mediastinum, each surrounding a single [[Lung]].
 
 - **Pleura:** Each cavity is lined by a serous membrane called pleura, with a **visceral layer** covering the lung and a **parietal layer** lining the thoracic wall.
 - **Pleural Recesses:** Because the lungs do not completely fill the pleural cavities, potential spaces called recesses exist. The **costodiaphragmatic recess** is the largest and most clinically significant, located inferiorly between the thoracic wall and the diaphragm. The **costomediastinal recess** occurs anteriorly where the costal pleura meets the mediastinal pleura.
 
-### Pectoral Region
+### [[Pectoral Region]]
 
 The pectoral region is external to the anterior thoracic wall and functions to anchor the upper limb to the trunk.
 
