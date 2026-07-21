@@ -45,7 +45,7 @@ While primarily involved in moving the upper limb and trunk, these muscles can a
 
 ---
 
-### **5. Muscles of Forced Expiration**
+### Muscles of Forced Expiration
 
 During quiet breathing, expiration is a passive process. However, for **forced expiration** (e.g., coughing), specific muscles are recruited.
 
