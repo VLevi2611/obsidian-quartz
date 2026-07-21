@@ -13,7 +13,7 @@ The **bony thorax** (or thoracic cage) is a resilient musculoskeletal framewor
 The **sternum** is a flat, prominent midline bone on the anterior thoracic wall that serves as a primary attachment point for the clavicles and ribs. It consists of three distinct parts:
 
 - [[Manubrium]]: The superior-most portion that articulates with the clavicles (forming the [[Sternoclavicular Joint]]) and the first two pairs of ribs.
-- **Body (Corpus):** The long, central part of the sternum that provides direct attachment for ribs 3 through 7 and indirect attachment for ribs 8 through 10.
+- [[Sternum Body]]: The long, central part of the sternum that provides direct attachment for ribs 3-7 and indirect attachment for ribs 8-10.
 - **Xiphoid Process:** A small, delicate bony projection at the inferior end of the sternum. Its name is derived from Greek for "sword-like".
 - [[Sternal Angle]]: A clinically significant landmark formed by the junction of the manubrium and the body; it marks the level of the second rib and the T4-T5 vertebral level.
 
