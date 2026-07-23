@@ -11,7 +11,7 @@ The skeletal framework of the upper limb consists of the **appendicular skeleton
 ### [[Shoulder]]
 
 - [[Clavicle]]: An S-shaped bone that serves as the **only skeletal attachment** between the trunk and the upper limb. It articulates medially with the manubrium of the sternum and laterally with the acromion of the scapula.
-- [[Scapula]]: A large, flat triangular bone located on the posterior thoracic wall. It features the **glenoid cavity**, which articulates with the humerus, and processes like the **acromion** and **coracoid process** for muscle and ligament attachment.
+- [[Scapula]]: A large, flat triangular bone located on the posterior [[Thoracic Bones|Thoracic Wall]]. It features the **glenoid cavity**, which articulates with the humerus, and processes like the **acromion** and **coracoid process** for muscle and ligament attachment.
 
 ### [[Arm]]
 

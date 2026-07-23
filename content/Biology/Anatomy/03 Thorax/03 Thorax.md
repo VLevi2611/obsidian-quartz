@@ -16,7 +16,7 @@ The thorax is organized into distinct compartments and regions that allow for th
 
 - [[Mediastinum]]: A thick midline partition that extends from the [[Sternum]] to the vertebral column and acts as a conduit for structures passing through the thorax. It is subdivided into **superior** and **inferior** parts, with the latter further partitioned into the **anterior**, **middle** (containing the heart), and **posterior** mediastinum.
 - [[Pleural Cavities]]: Two independent, fluid-filled spaces situated on either side of the mediastinum, each containing and protecting a single **lung**.
-- [[Pectoral Region]]: The area external to the anterior thoracic wall that contains the **breasts** and muscles that anchor the upper limb to the trunk.
+- [[Pectoral Region]]: The area external to the anterior thoracic bones that contains the **breasts** and muscles that anchor the upper limb to the trunk.
 - **Thoracic Apertures:** The **superior thoracic aperture** provides continuity with the neck, while the **inferior thoracic aperture** is closed by the diaphragm and separates the thorax from the abdomen.
 
 ---

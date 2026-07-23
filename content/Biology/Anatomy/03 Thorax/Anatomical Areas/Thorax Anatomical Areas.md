@@ -22,7 +22,7 @@ The **mediastinum** is a thick midline partition that extends from the [[Sternum
 
 Two independent pleural cavities are situated on either side of the mediastinum, each surrounding a single [[Lung]].
 
-- **Pleura:** Each cavity is lined by a serous membrane called pleura, with a **visceral layer** covering the lung and a **parietal layer** lining the thoracic wall.
+- **Pleura:** Each cavity is lined by a serous membrane called pleura, with a **visceral layer** covering the lung and a **parietal layer** lining the [[Thoracic Bones]].
 - **Pleural Recesses:** Because the lungs do not completely fill the pleural cavities, potential spaces called recesses exist. The **costodiaphragmatic recess** is the largest and most clinically significant, located inferiorly between the thoracic wall and the diaphragm. The **costomediastinal recess** occurs anteriorly where the costal pleura meets the mediastinal pleura.
 
 ### [[Pectoral Region]]

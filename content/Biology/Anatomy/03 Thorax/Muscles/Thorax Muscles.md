@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-The [[Muscle|Muscles]] of the thorax are primarily responsible for the machinery of **breathing** (respiration) by altering the [[Volume]] of the thoracic cavity. They also reinforce the [[Thoracic Wall]] and provide attachment points for the [[Neck]], [[Back]], and [[01 Upper Limb|Upper Limbs]].
+The [[Muscle|Muscles]] of the thorax are primarily responsible for the machinery of **breathing** (respiration) by altering the [[Volume]] of the thoracic cavity. They also reinforce the [[Thoracic Bones]] and provide attachment points for the [[Neck]], [[Back]], and [[01 Upper Limb|Upper Limbs]].
 
 ### The Primary Muscle of Inspiration
 

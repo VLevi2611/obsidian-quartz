@@ -24,7 +24,7 @@ Abduction and adduction are 2 terms that are used to describe movements towards 
 
 **Abduction** is a movement away from the midline - just as abducting someone is to take them away. For example, abduction of the shoulder raises the arms out to the sides of the body.
 
-**Adduction** is a movement towards the midline. Adduction of the [[hi]] squeezes the legs together
+**Adduction** is a movement towards the midline. Adduction of the hip squeezes the legs together
 
 ### Medial and Lateral Rotation
 
@@ -52,7 +52,7 @@ These terms also apply to the whole body - when lying flat on the back, the body
 
 Dorsiflexion and plantarflexion are terms used to describe movements at the ankle. They refer to the 2 surfaces of the foot; the dorsum (superior surface) and the plantar surface (the sole).
 
-**Dorsiflexion** refers to [[Movement#Flexion and Extension|Flexion]] at the ankle, so that the foot points more superiorly. Dorsiflexion of the wrist is the same as extension.
+**Dorsiflexion** refers to [[Movement#Flexion and Extension|Flexion]] at the ankle, so that the foot points more superiorly. Dorsiflexion of the [[Wrist]] is the same as extension.
 
 **Plantarflexion** refers extension at the ankle, so that the foot points inferiorly. Similarly, there is a term for the hand, which is palmarflexion.
 

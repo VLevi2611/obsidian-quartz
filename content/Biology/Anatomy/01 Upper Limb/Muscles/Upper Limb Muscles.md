@@ -17,7 +17,7 @@ These extrinsic and intrinsic shoulder muscles attach the appendicular skeleton 
 - [[Levator scapulae]]: A slender muscle that elevates the scapula and assists in positioning it.
 - [[Rhomboid major]] & [[Rhomboid minor]]: Muscles located deep to the trapezius that retract and elevate the scapula.
 - [[Deltoid]]: A large triangular muscle that serves as the major abductor of the arm and provides the shoulder's contour.
-- [[Serratus anterior]]: Pulls the scapula forward over the thoracic wall and facilitates its rotation.
+- [[Serratus anterior]]: Pulls the scapula forward over the [[Thoracic Bones]] and facilitates its rotation.
 
 ### Pectoral Region
 
