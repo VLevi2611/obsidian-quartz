@@ -29,7 +29,7 @@ The upper limb is divided into four main regions defined by its major joints and
 
 The skeletal framework provides attachment points for muscles and acts as a lever system for [[Movement]].
 
-- **Shoulder Girdle:** The [[Clavicle]] and [[Scapula]].
+- **[[Pectoral Girdle]]:** The [[Clavicle]] and [[Scapula]].
 - **Arm:** The [[Humerus]].
 - **Forearm:** The [[Radius]] (lateral) and [[Ulna]] (medial).
 - **Hand:** Eight [[Carpals]], five [[Metacarpals]], and fourteen [[Phalanges]].

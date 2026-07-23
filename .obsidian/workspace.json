@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
+                "file": "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Anatomical Areas of the Upper Limb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thoracic Joints"
+              "title": "Anatomical Areas of the Upper Limb"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glenohu",
+                "query": "girdle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
+                "file": "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Anatomical Areas of the Upper Limb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thoracic Joints"
+              "title": "Outgoing links from Anatomical Areas of the Upper Limb"
             }
           },
           {
@@ -188,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
+                "file": "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Anatomical Areas of the Upper Limb.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -280,7 +281,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Thoracic Joints"
+              "title": "Graph of Anatomical Areas of the Upper Limb"
             }
           }
         ]
@@ -306,7 +307,10 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/01 Upper Limb/01 Upper Limb.md",
     "content/Biology/Anatomy/03 Thorax/Bones/Pectoral Girdle.md",
+    "content/Resources/Images/Pectoral Girdle.png",
+    "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
     "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Bones.md",
     "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Vertebrae.md",
     "content/Resources/Images/Thoracic Vertebrae.png",
@@ -315,7 +319,6 @@
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Trapezius.md",
     "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
-    "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
     "content/Biology/Anatomy/03 Thorax/Bones/Sternal Angle.md",
     "content/Biology/Anatomy/03 Thorax/Bones/Spinal Column.md",
     "content/Biology/Anatomy/00 Foundations/Skeletal System.md",
@@ -333,7 +336,6 @@
     "content/Biology/Anatomy/01 Upper Limb/Bones/Upper Limb Bones.md",
     "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Shoulder.md",
     "content/Biology/Anatomy/00 Foundations/Movement.md",
-    "content/Biology/Anatomy/01 Upper Limb/Bones/Scapula.md",
     "content/Resources/Images/Ribs.png",
     "content/Resources/Images/Rib Cage.png",
     "content/Resources/Images/Sternal Angle.png",
@@ -341,7 +343,6 @@
     "content/Resources/Images/Sternum Body.png",
     "content/Resources/Images/Manubrium.png",
     "content/Resources/Images/Sternum.png",
-    "content/Resources/Images/Pectoral Region.png",
     "content/Biology/Anatomy/06 Body Systems",
     "toolbox file/content/Biology/Anatomy/02 Lower Limb",
     "toolbox file/content/Biology/Anatomy",
