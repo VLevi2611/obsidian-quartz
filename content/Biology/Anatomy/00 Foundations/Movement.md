@@ -12,7 +12,7 @@ Anatomical terms of **movement** are used to describe the actions of [[Muscle|Mu
 
 Flexion and extension are movements that occur in the [[Anatomical Planes|Sagittal Plane]]. They refer to increasing and decreasing the angle between 2 body parts.
 
-**Flexion** refers to a movement that decreases the angle between 2 body parts. Flexion at the elbow is decreasing the angle between the [[Ulna]] and the [[Humerus]]. When the knee flexes, the ankle moves closer to the buttock, and the angle between the [[Femur]] and [[Tibia]] gets smaller.
+**Flexion** refers to a movement that decreases the angle between 2 body parts. Flexion at the elbow is decreasing the angle between the [[Ulna]] and the [[Humerus]]. When the [[Knee]] flexes, the [[Ankle]] moves closer to the buttock, and the angle between the [[Femur]] and [[Tibia]] gets smaller.
 
 **Extension** refers to a movement that increases the angle between 2 body parts. Extension at the elbow is increasing the angle between the ulna and the humerus. Extension of the knee straightens the lower limb.
 
@@ -20,11 +20,11 @@ Flexion and extension are movements that occur in the [[Anatomical Planes|Sagitt
 
 ### Abduction and Adduction
 
-Abduction and adduction are 2 terms that are used to describe movements towards or away from the midline of the body. In fingers and toes, the midline used is not the midline of the body, but of the hand and foot respectively.
+Abduction and adduction are 2 terms that are used to describe movements towards or away from the midline of the body. In fingers and toes, the midline used is not the midline of the body, but of the [[Hand]] and [[Foot]] respectively.
 
 **Abduction** is a movement away from the midline - just as abducting someone is to take them away. For example, abduction of the shoulder raises the arms out to the sides of the body.
 
-**Adduction** is a movement towards the midline. Adduction of the hip squeezes the legs together
+**Adduction** is a movement towards the midline. Adduction of the [[hi]] squeezes the legs together
 
 ### Medial and Lateral Rotation
 
@@ -81,6 +81,6 @@ A pair of movements that are limited to humans and some great apes, these terms 
 It is sometimes talked about as a circular motion, but it more accurately conical due to the cone formed by a moving limb.
 
 ### Protraction and Retraction
-**Protraction** describes the anterolateral movement of the scapula on the thoracic wall that allows the shoulder to move anteriorly. In practice, this is the movement of reaching out to something.
+**Protraction** describes the anterolateral movement of the scapula on the thoracic wall that allows the [[Shoulder]] to move anteriorly. In practice, this is the movement of reaching out to something.
 
-**Retraction** refers to the postermedial movement of the scapula on the thoracic wall, which causes the shoulder region to move posteriorly, picking up something.
+**Retraction** refers to the postermedial movement of the [[Scapula]] on the [[Thoracic Bones]], which causes the shoulder region to move posteriorly, picking up something.

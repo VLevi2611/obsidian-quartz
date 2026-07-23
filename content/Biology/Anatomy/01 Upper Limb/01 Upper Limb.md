@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview
 
-The **upper limb** is a highly mobile multijointed appendage associated with the lateral aspect of the neck and the thoracic wall. Unlike the lower limb, which is optimized for stability and locomotion, the upper limb is structurally designed for **high mobility** to position the **hand** as a precise mechanical and sensory tool.
+The **upper limb** is a highly mobile multijointed appendage associated with the lateral aspect of the neck and the [[Thoracic Bones]]. Unlike the lower limb, which is optimized for stability and locomotion, the upper limb is structurally designed for **high mobility** to position the **hand** as a precise mechanical and sensory tool.
 
 ---
 
