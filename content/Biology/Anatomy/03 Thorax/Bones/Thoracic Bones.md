@@ -29,7 +29,7 @@ The rib cage is composed of **12 pairs of [[Ribs]]** that give the thorax its 
 
 ### [[Spinal Column]]
 
-There are **12 thoracic [[Vertebrae]]** (T1–T12) situated between the cervical and lumbar regions of the spine. They provide the posterior attachment points for the rib cage.
+There are **12 thoracic [[Vertebra]]** (T1–T12) situated between the cervical and lumbar regions of the spine. They provide the posterior attachment points for the rib cage.
 
 **Distinguishing Features:** They possess **costal facets** (superior, inferior, and transverse) on their bodies and transverse processes specifically for rib articulation.
 

@@ -27,7 +27,7 @@ The skeletal framework of the thoracic wall is flexible and provides extensive a
 
 - [[Sternum]]: The prominent midline [[Bone]] consisting of the **manubrium**, **body**, and **xiphoid process**.
 - [[Ribs]]: There are **12 pairs** of ribs that provide a barrel-like structure of the thoracic [[Rib Cage]]. They are classified as **true ribs** (I–VII), **false ribs** (VIII–X), and **floating ribs** (XI–XII) based on their attachment to the sternum.
-- [[Thoracic Vertebrae]]: The 12 vertebrae (T1–T12) that provide the posterior skeletal support and points of attachment for the ribs.
+- [[Thoracic Vertebrae]]: The 12 [[Vertebra|Vertebrae]] (T1–T12) that provide the posterior skeletal support and points of attachment for the ribs.
 
 ---
 

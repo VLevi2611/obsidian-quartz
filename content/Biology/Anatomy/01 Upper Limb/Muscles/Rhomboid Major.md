@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The **rhomboid major** is a skeletal [[Muscle]] of the back that connects the [[Scapula]] with the vertebrae of the spinal column. It acts together with the [[Rhomboid Minor]] to keep the scapula pressed against the [[Thoracic Bones]] and to retract the scapula toward the vertebral column. 
+The **rhomboid major** is a skeletal [[Muscle]] of the back that connects the [[Scapula]] with the [[verte]] of the spinal column. It acts together with the [[Rhomboid Minor]] to keep the scapula pressed against the [[Thoracic Bones]] and to retract the scapula toward the vertebral column. 
 
 ![[Rhomboid Major.png]]
