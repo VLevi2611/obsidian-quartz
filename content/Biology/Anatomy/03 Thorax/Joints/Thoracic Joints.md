@@ -10,9 +10,9 @@ The [[Joint|Joints]] of the thorax are essential for the mechanical process of 
 
 ---
 
-### Posterior Articulations (Vertebral Column)
+### [[Spinal Column]]
 
-These joints connect the ribs to the thoracic [[Vertebra]] and facilitate the movement of the [[Rib Cage]] during respiration.
+These joints connect the [[Ribs]] to the [[Thoracic Vertebrae]] and facilitate the movement of the [[Rib Cage]] during respiration.
 
 - [[Costovertebral Joints]]: Synovial joints between the **head of a rib** and the bodies of thoracic vertebrae.
     - For **ribs 2-9**, the head articulates with the superior costal facet of its own vertebra and the inferior costal facet of the vertebra above.
