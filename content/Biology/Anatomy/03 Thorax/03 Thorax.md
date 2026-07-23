@@ -10,7 +10,7 @@ The **thorax** is an irregularly shaped cylinder with a narrow opening superio
 
 ---
 
-### [[Anatomical Areas of the Thorax]]
+### [[Thorax Anatomical Areas]]
 
 The thorax is organized into distinct compartments and regions that allow for the passage of neurovascular structures and the housing of viscera.
 
