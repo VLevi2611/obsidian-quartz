@@ -38,4 +38,4 @@ These joints connect the ribs and cartilages to the [[Sternum]], forming the ant
 ### Regional and Accessory Joints
 
 - [[Interchondral Joints]]: Synovial joints that occur between the costal cartilages of adjacent ribs (primarily ribs 7-10). They provide indirect anchorage to the sternum and contribute to the formation of a smooth **costal margin**.
-- [[Sternoclavicular Joint]]: A saddle-shaped synovial joint between the manubrium and the [[Clavicle]]. It is the **only skeletal connection** between the upper limb (pectoral girdle) and the trunk.
+- [[Sternoclavicular Joint]]: A saddle-shaped synovial joint between the manubrium and the [[Clavicle]]. It is the **only skeletal connection** between the upper limb ([[Pectoral Girdle]]) and the trunk.
