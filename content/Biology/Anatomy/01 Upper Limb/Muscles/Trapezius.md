@@ -6,6 +6,6 @@ tags:
 ---
 ## Definition
 
-The **trapezius** is a large paired trapezoid shaped surface [[Muscle]] that extends from the [[Occipital Bone]] to the thoracic vertebrae of the spine and laterally to the spine of the [[Scapula]]. It [[Movement|Moves]] the scapula and supports the [[Arm]].
+The **trapezius** is a large paired trapezoid shaped surface [[Muscle]] that extends from the [[Occipital Bone]] to the [[Thoracic Vertebrae]] of the [[Spinal Column]] and laterally to the spine of the [[Scapula]]. It [[Movement|Moves]] the scapula and supports the [[Arm]].
 
 ![[Trapezius.png]]

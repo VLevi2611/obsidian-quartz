@@ -10,7 +10,7 @@ The **thorax** is an irregularly shaped cylinder extending from the superior t
 
 ### [[Mediastinum]]
 
-The **mediastinum** is a thick midline partition that extends from the [[Sternum]] anteriorly to the thoracic vertebrae posteriorly. It is divided into superior and inferior parts by a [[Anatomical Planes|Horizontal Plane]] passing through the [[Sternal Angle]] and the intervertebral disc between vertebrae **TIV and TV**.
+The **mediastinum** is a thick midline partition that extends from the [[Sternum]] anteriorly to the [[Thoracic Vertebrae]] posteriorly. It is divided into superior and inferior parts by a [[Anatomical Planes|Horizontal Plane]] passing through the [[Sternal Angle]] and the intervertebral disc between [[Vertebra|Vertebrae]] **TIV and TV**.
 
 - [[Superior Mediastinum]]: Located posterior to the [[Manubrium]] of the sternum and anterior to the first four thoracic vertebrae. It contains the [[Thymus]], great vessels (such as the arch of the aorta), [[Trachea]], [[Esophagus]], phrenic and vagus nerves, and the thoracic duct.
 - [[Inferior Mediastinum]]: Further subdivided by the pericardium into three parts:
