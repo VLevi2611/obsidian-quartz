@@ -18,7 +18,7 @@ These joints connect the [[Ribs]] to the [[Thoracic Vertebrae]] and facilitate t
     - For **ribs 2-9**, the head articulates with the superior costal facet of its own [[Vertebra]] and the inferior costal facet of the vertebra above.
     - **Ribs 1, 10, 11, and 12** typically articulate with only a single corresponding thoracic vertebra.
 - [[Costotransverse Joints]]: Synovial joints between the **tubercle of a rib** and the transverse process of its related vertebra. They allow for slight gliding movements and are stabilized by strong extracapsular ligaments.
-- [[Thoracic Zygapophysial Joints]]: Synovial joints between the superior and inferior articular processes of adjacent vertebrae. In the thoracic region, these are **oriented vertically**, which limits flexion and extension but facilitates **rotation**.
+- [[Thoracic Zygapophyseal Joints]]: Synovial joints between the superior and inferior articular processes of adjacent vertebrae. In the thoracic region, these are **oriented vertically**, which limits flexion and extension but facilitates **rotation**.
 - [[Intervertebral Discs]]: Symphyses that connect adjacent vertebral bodies via fibrocartilage, providing cushioning and flexibility to the spine.
 
 ---
