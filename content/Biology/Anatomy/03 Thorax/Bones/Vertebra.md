@@ -6,7 +6,28 @@ tags:
 ---
 ## Definition
 
-Each **vertebra** is an irregular [[Bone]] that make up the [[Spinal Column]]. The proportions of the vertebrae differ according to their spinal segment. They articulate with each other to give strength and flexibility to the spinal column 
+Each **vertebra** is an irregular [[Bone]] that make up the [[Spinal Column]]. The proportions of the vertebrae differ according to their spinal segment. They articulate with each other to give strength and flexibility to the spinal column , and in between them there are shock absorbing [[Intervertebral Discs]].
+
+A typical vertebra consists of 2 parts:
+- **Vertebral Body**: The large, weight bearing anterior portion.
+- **Vertebral Arch**: A bony ring at the back that, when stacked, creates a continuous hollow tube called the **vertebral canal**, which houses and protects the [[Spinal Cord]].
+
+The human spine features 5 distinct regions, each made up of vertebrae adapted for specific [[Movement|Movements]] and functions:
+
+- [[Cervical Vertebrae]]: 7
+
+
+The human spine features five distinct regions, each made up of vertebrae adapted for specific movements and functions:
+
+- **Cervical Spine:** 7 small vertebrae at the top that allow for head movement and neck flexibility.
+
+- **Thoracic Spine:** 12 larger vertebrae in the middle back that connect to the rib cage.
+
+- **Lumbar Spine:** 5 massive, thick, and block-like vertebrae in the lower back that provide stability and support most of the body's weight.
+
+- **Sacrum:** 5 fused vertebrae at the base of the spine that connect to the pelvis.
+
+- **Coccyx:** 4 small, fused rudimentary vertebrae at the very bottom, commonly known as the tailbone
 
 
 
