@@ -11,13 +11,13 @@ The [[Muscle|Muscles]] of the thorax are primarily responsible for the machinery
 ### The Primary Muscle of Inspiration
 
 - [[Diaphragm]]: A large, dome-shaped musculotendinous sheet that separates the thoracic and abdominal cavities.
-    - **Attachments:** It originates from the xiphoid process, the lower six ribs, and the lumbar [[Vertebra|Vertebrae]] (via the right and left **crura**) and inserts into a Leaf-shaped **central tendon**.
+    - **Attachments:** It originates from the xiphoid process, the lower six [[Ribs]], and the lumbar [[Vertebra|Vertebrae]] (via the right and left **crura**) and inserts into a Leaf-shaped **central tendon**.
     - **Function:** Upon contraction, the diaphragm flattens, increasing the vertical dimension of the thorax and pulling air into the lungs (**quiet inspiration**).
     - **Innervation:** Exclusively supplied by the **phrenic nerves** (C3, C4, and C5).
 
 ---
 
-### Muscles of the Thoracic Wall (Intercostals)
+### Muscles of the [[Thoracic Bones|Thoracic Wall]] (Intercostals)
 
 These three layers of flat muscles span the spaces between the ribs and provide structural support during breathing.
 
