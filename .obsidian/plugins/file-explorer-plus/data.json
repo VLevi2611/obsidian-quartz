@@ -546,7 +546,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "content/Biology/Anatomy/03 Thorax/Muscles/Thorax Muscles.md",
+        "pattern": "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
         "patternType": "STRICT"
       },
       {
@@ -554,6 +554,13 @@
         "active": true,
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Bones.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
         "patternType": "STRICT"
       }
     ],

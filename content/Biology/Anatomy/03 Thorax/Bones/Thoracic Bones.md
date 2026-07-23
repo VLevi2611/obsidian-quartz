@@ -27,7 +27,7 @@ The rib cage is composed of **12 pairs of [[Ribs]]** that give the thorax its 
  
 **Anatomy of a Typical Rib:** Includes a **head** (posterior end), **neck**, **tubercle** (for articulation with vertebral transverse processes), and a curved **shaft** containing a **costal groove** for nerves and vessels.
 
-### [[Vertebral Column]]
+### [[Spinal Column]]
 
 There are **12 thoracic [[Vertebrae]]** (T1–T12) situated between the cervical and lumbar regions of the spine. They provide the posterior attachment points for the rib cage.
 

@@ -26,7 +26,7 @@ The thorax is organized into distinct compartments and regions that allow for th
 The skeletal framework of the thoracic wall is flexible and provides extensive attachment sites for muscles of the neck, back, and limbs.
 
 - [[Sternum]]: The prominent midline [[Bone]] consisting of the **manubrium**, **body**, and **xiphoid process**.
-- [[Ribs]]: There are **12 pairs** of ribs that provide the barrel-like structure of the thoracic cage. They are classified as **true ribs** (I–VII), **false ribs** (VIII–X), and **floating ribs** (XI–XII) based on their attachment to the sternum.
+- [[Ribs]]: There are **12 pairs** of ribs that provide a barrel-like structure of the thoracic [[Rib Cage]]. They are classified as **true ribs** (I–VII), **false ribs** (VIII–X), and **floating ribs** (XI–XII) based on their attachment to the sternum.
 - [[Thoracic Vertebrae]]: The 12 vertebrae (T1–T12) that provide the posterior skeletal support and points of attachment for the ribs.
 
 ---
@@ -42,13 +42,13 @@ The skeletal framework of the thoracic wall is flexible and provides extensive a
 
 ---
 
-### [[Muscles of the Thorax]]
+### [[Thoracic Muscles]]
 
 The [[Muscle|Muscles]] of the thorax primarily function to alter thoracic volume during breathing and to reinforce the thoracic wall.
 
 - [[Diaphragm]]: The primary muscle of inspiration; a large, dome-shaped muscle that separates the thoracic and abdominal cavities.
 - [[Intercostal Muscles]]: Three layers of flat muscles—**external** (most active during inspiration), **internal** (active during expiration), and **innermost**—that span the spaces between ribs.
-- **Accessory Muscles of Respiration:** These include muscles that can engage to assist in forced breathing, such as the **pectoralis major/minor**, **serratus anterior**, **trapezius**, **latissimus dorsi**, and **levator costarum**.
+- **Accessory Muscles of Respiration:** These include muscles that can engage to assist in forced breathing, such as the **[[Pectoralis Major]], [[Pectoralis Minor]] **, **[[Serratus Anterior]]**, **[[Trapezius]]**, **[[Latissimus Dorsi]]**, and **[[Levator Costarum]]**.
 
 ---
 ## Anatomy Terms
