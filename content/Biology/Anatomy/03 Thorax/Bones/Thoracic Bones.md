@@ -35,7 +35,7 @@ There are **12 thoracic [[Vertebra|Vertebrae]]** (T1–T12) situated between t
 
 **Typical Structure:** Each consists of a heart-shaped weight-bearing **body (corpus)** and a **vertebral arch** (pedicles and laminae) that encloses the **vertebral foramen** to protect the spinal cord.
 
-### [[Pectoral Gridle]]
+### [[Pectoral Girdle]]
 
 While often studied with the [[01 Upper Limb|Upper Limb]], the pectoral girdle is part of the bony thorax and anchors the upper extremities to the trunk.
 

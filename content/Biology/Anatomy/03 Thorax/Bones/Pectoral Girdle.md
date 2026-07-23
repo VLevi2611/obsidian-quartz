@@ -6,17 +6,7 @@ tags:
 ---
 ## Definition
 
-The **pectoral gridle** is the [[Bone|Bony]] ring that
-
-
-
-The **pectoral girdle** (shoulder girdle) is ==the bony ring that attaches the upper limbs to the axial skeleton==. In humans, it consists of two bones on each side: the **clavicle** (collarbone) and the **scapula** (shoulder blade). It provides a critical anchor point for muscles and allows for a wide range of arm movements. [[1](https://www.britannica.com/science/pectoral-girdle), [2](https://en.wikipedia.org/wiki/Shoulder_girdle), [3](https://courses.lumenlearning.com/suny-ap1/chapter/muscles-of-the-pectoral-girdle-and-upper-limbs/), [4](https://study.com/academy/lesson/pectoral-girdle-bones-functions.html)]
-
-Anatomy and Bones
-
-- **Clavicle:** An S-shaped bone that lies horizontally across the top of the rib cage. It connects the sternum (breastbone) to the scapula.
-
-- **Scapula:** A flat, triangular bone situated on the posterior (back) side of the rib cage. It features the glenoid cavity, which is the socket for the ball-and-socket shoulder joint. [[1](https://www.youtube.com/watch?v=KSTkgjzL1KE), [2](https://www.healthline.com/health/pectoral-girdle), [3](https://bio.libretexts.org/Courses/West_Hills_College_-_Lemoore/Human_Anatomy_Laboratory_Manual_\(Hartline\)/09%3A_Appendicular_Skeleton/9.02%3A_Shoulder_Girdle_Pectoral_Girdle), [4](https://www.britannica.com/science/pectoral-girdle), [5](https://study.com/academy/lesson/pectoral-girdle-bones-functions.html)]
+The **pectoral girdle** is the bony ring that attaches the [[01 Upper Limb|Upper Limbs]] to the [[Skeletal System|Axial Skeleton]]. It consists of 2 [[Bone|Bones]] on each side: the [[Clavicle]] and the [[Scapula]]. It provides a critical anchor point for [[Muscle|Muscles]] and allow for a wide range of [[Movement]]. The pectoral girdle facilitates movement through 4 [[Joint|Joints]]: [[Sternoclavicular Joint]], [[Acromioclavicular Joint]], [[Shoulder Joint]] and the [[scapulothracg]]
 
 Key Joints
 
