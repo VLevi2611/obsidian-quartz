@@ -198,7 +198,7 @@
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
-                  "hideUnresolved": true,
+                  "hideUnresolved": false,
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
@@ -304,10 +304,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8ca95b5a0de55ea7",
+  "active": "fcd8690ca003c918",
   "lastOpenFiles": [
-    "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Zygapophyseal Joints.md",
+    "content/Biology/Anatomy/03 Thorax/Joints/Intervertebral Discs.md",
+    "content/Resources/Images/Intervertebral Discs.png",
     "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
+    "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Zygapophyseal Joints.md",
     "content/Resources/Images/Thoracic Zygapophyseal Joints.png",
     "content/Biology/Anatomy/03 Thorax/Joints/Costotransverse Joints.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Costovertebral Joints.md",
@@ -334,13 +336,11 @@
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Rhomboid Minor.md",
     "content/Biology/Anatomy/01 Upper Limb/Muscles/Rhomboid Major.md",
     "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Posterior Mediastinum.md",
-    "content/Biology/Anatomy/02 Lower Limb/02 Lower Limb.md",
     "content/Resources/Images/Spinal Column.png",
     "content/Resources/Images/Ribs.png",
     "content/Resources/Images/Rib Cage.png",
     "content/Resources/Images/Sternal Angle.png",
     "content/Resources/Images/Xiphoid Process.png",
-    "content/Resources/Images/Sternum Body.png",
     "content/Biology/Anatomy/06 Body Systems",
     "toolbox file/content/Biology/Anatomy/02 Lower Limb",
     "toolbox file/content/Biology/Anatomy",
