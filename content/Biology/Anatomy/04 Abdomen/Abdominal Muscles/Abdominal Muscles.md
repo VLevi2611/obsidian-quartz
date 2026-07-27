@@ -45,6 +45,5 @@ These muscles fill the framework of the posterior abdominal region and are often
 Continuity and strength in the abdominal wall are provided by complex fascial arrangements.
 
 - **[[Rectus Sheath]]:** A tendinous "envelope" formed by the aponeuroses of the flat muscles that encloses the rectus abdominis.
-- **[[Arcuate Line]]:** A landmark midway between the umbilicus and [[Pubis]] marking where the posterior wall of the rectus sheath ends; below this line, the rectus abdominis is in direct contact with the **transversalis fascia**.
 - **[[Linea Alba]]:** A midline tendinous raphe formed by the interlacing of aponeuroses from both sides, extending from the xiphoid process to the pubic symphysis.
 
