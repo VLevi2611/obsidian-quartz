@@ -35,7 +35,7 @@ These muscles fill the framework of the posterior abdominal region and are often
 
 - [[Psoas Major]]: Located medially against the [[Lumbar Vertebrae]]. It originates from the T12-L5 [[Vertebra|Vertebra]] and inserts into the lesser trochanter of the [[Femur]]. It is a powerful **hip flexor**.
 - [[Iliacus]]: Fills the iliac fossa and joins the psoas major to form the **[[Iliopsoas]]** muscle as they enter the thigh.
-- **[[Quadratus Lumborum]]:** A flat, quadrilateral muscle filling the space between rib 12 and the iliac crest. It stabilizes the twelfth rib and assists in lateral bending of the trunk.
+- [[Quadratus Lumborum]]: A flat, quadrilateral muscle filling the space between rib 12 and the iliac crest. It stabilizes the twelfth rib and assists in lateral bending of the trunk.
 - [[Psoas Minor]]: A slender muscle (absent in about 40% of people) that sits on the surface of the psoas major and acts as a weak flexor of the lumbar spine.
 
 ---
