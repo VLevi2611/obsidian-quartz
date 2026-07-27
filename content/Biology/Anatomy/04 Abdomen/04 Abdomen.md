@@ -50,10 +50,10 @@ The [[Bone|Skeletal]] framework of the abdomen is primarily posterior, providing
 Abdominal [[Muscle|Muscles]] form a flexible wall that maintains intra-abdominal pressure, protects viscera, and assists in breathing and posture.
 
 - [[Anterolateral Abdominal Wall]]:
-    - **Flat Muscles:** Three layers: **External oblique** (superficial), **Internal oblique** (middle), and **Transversus abdominis** (deep).
-    - **Vertical Muscles:** The **Rectus abdominis** (the "six-pack" muscle) and the small **Pyramidalis**.
+    - **Flat Muscles:** Three layers: [[External Oblique]] (superficial), [[Internal Oblique]] (middle), and [[Transversus Abdominis]] (deep).
+    - **Vertical Muscles:** The [[Rectus Abdominis]] (the "six-pack" muscle) and the small [[Pyramidalis]].
 - [[Posterior Abdominal Wall]]:
-    - Includes the **Quadratus lumborum** (lateral bending), **Psoas major** and **minor** (hip flexion), and the **Iliacus**.
+    - Includes the [[Quadratus Lumborum]] (lateral bending), [[Psoas Major]] and [[Psoas Minor]] (hip flexion), and the [[Iliacus]].
 - [[Diaphragm]]: The primary muscle of inspiration that separates the abdomen from the thorax.
 
 ---
