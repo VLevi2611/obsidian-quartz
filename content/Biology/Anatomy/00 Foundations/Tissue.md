@@ -12,10 +12,10 @@ Tissues allow the body to compartmentalize functions, provide mechanical support
 ## Organization of Tissue Types
 
 The human body is composed of 4 primary tissue types:
--  **Epithelial Tissue** – Covers surfaces, lines cavities, and forms glands.
-- **Connective Tissue** – Supports, protects, and binds other tissues together.
-- **Muscle Tissue** – Produces [[Movement]] through active contraction.
-- **Nervous Tissue** – Receives, processes, and transmits electrochemical signals.
+- **Epithelial Tissue** - Covers surfaces, lines cavities, and forms glands.
+- **Connective Tissue** - Supports, protects, and binds other tissues together.
+- **Muscle Tissue** - Produces [[Movement]] through active contraction.
+- **Nervous Tissue** - Receives, processes, and transmits electrochemical signals.
 
 ## Structure and Classification of Tissues
 

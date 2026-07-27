@@ -11,10 +11,14 @@
             "id": "8ca95b5a0de55ea7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tissue"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "girdle",
+                "query": "–",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Tissue"
             }
           },
           {
@@ -183,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/Biology/Anatomy/00 Foundations/Tissue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +281,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Tissue"
             }
           }
         ]
@@ -300,19 +307,22 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Vertebrae.md",
+    "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Bones.md",
+    "content/Resources/Books/Thumbnails/The Runaway Species - David Eagleman Anthony Brandt.md",
+    "content/Biology/Anatomy/02 Lower Limb/Bones/Lower Limb Bones.md",
+    "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
+    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
     "content/Chemistry/General Chemistry/12 Intermolecular Forces/Vapor.md",
     "Upper Limb Nerves.md",
     "content/Chemistry/General Chemistry/09 Periodic Trends/Paramagnetic.md",
     "content/index.md",
-    "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
     "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Pelvis.md",
     "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
-    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
     "content/Biology/Anatomy/Anatomy.md",
     "content/Biology/Biology.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
-    "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Bones.md",
     "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Quadratus Lumborum.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Serratus Posterior Inferior.md",
@@ -331,11 +341,8 @@
     "content/Resources/Images/Internal Intercostals.png",
     "content/Biology/Anatomy/03 Thorax/Muscles/External Intercostals.md",
     "content/Resources/Images/External Intercostals.png",
-    "content/Biology/Anatomy/03 Thorax/Muscles/Diaphragm.md",
     "content/Resources/Images/Diaphragm.png",
-    "content/Biology/Anatomy/03 Thorax/Joints/Interchondral Joints.md",
     "content/Resources/Images/Interchondral Joints.png",
-    "content/Biology/Anatomy/03 Thorax/Joints/Xiphisternal Joint.md",
     "content/Biology/Anatomy/06 Body Systems",
     "toolbox file/content/Biology/Anatomy/02 Lower Limb",
     "toolbox file/content/Biology/Anatomy",

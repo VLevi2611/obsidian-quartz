@@ -58,4 +58,4 @@ The bones forming the sole of the foot. Numbered 1 to 5 starting from the big to
 
 The toe bones.
 - **Digit 1 (Big Toe):** Has only 2 phalanges (Proximal, Distal).
-- **Digits 2–5:** Have 3 phalanges each (Proximal, Middle, Distal).
+- **Digits 2-5:** Have 3 phalanges each (Proximal, Middle, Distal).

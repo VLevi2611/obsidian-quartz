@@ -10,7 +10,7 @@ The **abdomen** is a roughly cylindrical chamber extending from the inferior m
 
 ---
 
-### [[Anatomical Areas of the Abdomen]]
+### [[Abdominal Anatomical Areas]]
 
 To describe the location of internal viscera and clinical symptoms, the abdomen is divided into specific compartments and regions.
 
@@ -28,7 +28,7 @@ To describe the location of internal viscera and clinical symptoms, the abdomen 
 
 The skeletal framework of the abdomen is primarily posterior, providing support and protection for the wall and viscera.
 
-- [[Lumbar Vertebrae]]: The five large vertebrae (**LI–LV**) that form the central skeletal support for the posterior abdominal wall.
+- [[Lumbar Vertebrae]]: The five large vertebrae (**LI-LV**) that form the central skeletal support for the posterior abdominal wall.
 - [[Pelvic Girdle]] (Superior Parts): The **iliac crest** and **iliac fossa** of the ilium provide major attachment points for abdominal muscles.
 - **Inferior Thoracic Elements:** The **costal margin**, **ribs XI and XII**, and the **xiphoid process** form the superior bony boundary.
 
@@ -50,7 +50,7 @@ Joints in this region provide stability to the trunk and transmit weight to the 
 Abdominal muscles form a flexible wall that maintains intra-abdominal pressure, protects viscera, and assists in breathing and posture.
 
 - [[Anterolateral Abdominal Wall]]:
-    - **Flat Muscles:** Three layers—**External oblique** (superficial), **Internal oblique** (middle), and **Transversus abdominis** (deep).
+    - **Flat Muscles:** Three layers: **External oblique** (superficial), **Internal oblique** (middle), and **Transversus abdominis** (deep).
     - **Vertical Muscles:** The **Rectus abdominis** (the "six-pack" muscle) and the small **Pyramidalis**.
 - [[Posterior Abdominal Wall]]:
     - Includes the **Quadratus lumborum** (lateral bending), **Psoas major** and **minor** (hip flexion), and the **Iliacus**.
