@@ -36,7 +36,7 @@ The skeletal framework of the abdomen is primarily posterior, providing support 
 
 ### [[Abdominal Joints]]
 
-Joints in this region provide stability to the trunk and transmit weight to the lower limbs.
+[[Joint|Joints]] in this region provide stability to the trunk and transmit weight to the lower limbs.
 
 - [[Sacro-iliac Joints]]: Synovial joints between the sacrum and the ilium that transmit forces from the lower limbs to the vertebral column.
 - [[Pubic Symphysis]]: A midline cartilaginous joint (symphysis) connecting the two pubic bones anteriorly.
