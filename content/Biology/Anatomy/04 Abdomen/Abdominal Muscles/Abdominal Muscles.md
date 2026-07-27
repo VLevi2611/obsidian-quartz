@@ -52,14 +52,7 @@ Continuity and strength in the abdominal wall are provided by complex fascial ar
 
 ### **4. Functional Significance**
 
-- **Breathing:** These muscles are the **primary muscles of expiration**. They relax during inspiration to allow the diaphragm to descend and contract during forced expiration to push the viscera upward against the diaphragm.
+- **Breathing:** These muscles are the **primary muscles of expiration**. They relax during inspiration to allow the [[Diaphragm]] to descend and contract during forced expiration to push the viscera upward against the diaphragm.
 - **Protection:** They form a firm, flexible wall that protects internal organs from injury.
 - **Increased Intra-abdominal Pressure:** Contraction facilitates biological functions such as coughing, vomiting, defecation, urination, and childbirth.
-- **[[Mole]]:** They facilitate trunk flexion, lateral bending, and rotation.
-
----
-
-### **5. Innervation Summary**
-
-- **Anterolateral Wall:** Primarily supplied by the anterior rami of **T7 to T12** (intercostal and subcostal nerves) and the **L1** spinal nerve (iliohypogastric and ilio-inguinal nerves).
-- **Posterior Wall:** Supplied by the **lumbar plexus** (L1 to L4).
+- [[Movement]]: They facilitate trunk flexion, lateral bending, and rotation.
