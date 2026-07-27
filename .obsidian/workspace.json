@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
+                "file": "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Thorax"
+              "title": "Thoracic Muscles"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
+                "file": "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 Thorax"
+              "title": "Outgoing links from Thoracic Muscles"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
+                "file": "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 03 Thorax"
+              "title": "Graph of Thoracic Muscles"
             }
           }
         ]
@@ -306,6 +306,10 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
+    "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Bones.md",
+    "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md",
+    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Quadratus Lumborum.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Serratus Posterior Inferior.md",
@@ -326,7 +330,6 @@
     "content/Resources/Images/External Intercostals.png",
     "content/Biology/Anatomy/03 Thorax/Muscles/Diaphragm.md",
     "content/Resources/Images/Diaphragm.png",
-    "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Interchondral Joints.md",
     "content/Resources/Images/Interchondral Joints.png",
     "content/Biology/Anatomy/03 Thorax/Joints/Xiphisternal Joint.md",
@@ -339,9 +342,6 @@
     "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Zygapophyseal Joints.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Costotransverse Joints.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Costovertebral Joints.md",
-    "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Bones.md",
-    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
-    "content/Biology/Anatomy/01 Upper Limb/Anatomical Areas/Shoulder.md",
     "content/Biology/Anatomy/06 Body Systems",
     "toolbox file/content/Biology/Anatomy/02 Lower Limb",
     "toolbox file/content/Biology/Anatomy",
