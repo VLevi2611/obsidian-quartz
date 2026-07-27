@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
+                "file": "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Pelvis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 Abdomen"
+              "title": "Pelvis"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
+                "file": "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Pelvis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04 Abdomen"
+              "title": "Outgoing links from Pelvis"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
+                "file": "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Pelvis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 04 Abdomen"
+              "title": "Graph of Pelvis"
             }
           }
         ]
@@ -306,14 +306,15 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Anatomical Areas of the Lower Limb.md",
+    "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
+    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
     "content/Biology/Anatomy/Anatomy.md",
     "content/Biology/Biology.md",
-    "content/Biology/Anatomy/04 Abdomen/04 Abdomen.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
     "content/Biology/Anatomy/03 Thorax/Bones/Thoracic Bones.md",
     "content/Biology/Anatomy/03 Thorax/Anatomical Areas/Thorax Anatomical Areas.md",
-    "content/Biology/Anatomy/03 Thorax/03 Thorax.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Quadratus Lumborum.md",
     "content/Biology/Anatomy/03 Thorax/Muscles/Serratus Posterior Inferior.md",
     "content/Resources/Images/Serratus Posterior Inferior.png",
@@ -341,7 +342,6 @@
     "content/Biology/Anatomy/03 Thorax/Bones/Sternal Angle.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Sternocostal Joints.md",
     "content/Biology/Anatomy/03 Thorax/Joints/Intervertebral Discs.md",
-    "content/Biology/Anatomy/00 Foundations/Ligament.md",
     "content/Biology/Anatomy/06 Body Systems",
     "toolbox file/content/Biology/Anatomy/02 Lower Limb",
     "toolbox file/content/Biology/Anatomy",
