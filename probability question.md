@@ -1,1 +1,0 @@
-![[probability question.png]]
