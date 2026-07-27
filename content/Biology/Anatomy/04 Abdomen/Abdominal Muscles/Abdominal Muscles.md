@@ -6,7 +6,7 @@ tags:
 ---
 ## Overview 
 
-The [[Muscle|Muscles]] of the abdomen form a firm but flexible wall that houses and protects the abdominal viscera, maintains intra-abdominal [[Pressure]], and assists in vital functions such as breathing and posture. These muscles are organized into two primary groups: the **anterolateral wall** and the **posterior wall**.
+The [[Muscle|Muscles]] of the abdomen form a firm but [[Movement|Flexible]] wall that houses and protects the abdominal viscera, maintains intra-abdominal [[Pressure]], and assists in vital functions such as breathing and posture. These muscles are organized into two primary groups: the **anterolateral wall** and the **posterior wall**.
 
 ---
 
@@ -48,11 +48,3 @@ Continuity and strength in the abdominal wall are provided by complex fascial ar
 - **[[Arcuate Line]]:** A landmark midway between the umbilicus and [[Pubis]] marking where the posterior wall of the rectus sheath ends; below this line, the rectus abdominis is in direct contact with the **transversalis fascia**.
 - **[[Linea Alba]]:** A midline tendinous raphe formed by the interlacing of aponeuroses from both sides, extending from the xiphoid process to the pubic symphysis.
 
----
-
-### **4. Functional Significance**
-
-- **Breathing:** These muscles are the **primary muscles of expiration**. They relax during inspiration to allow the [[Diaphragm]] to descend and contract during forced expiration to push the viscera upward against the diaphragm.
-- **Protection:** They form a firm, flexible wall that protects internal organs from injury.
-- **Increased Intra-abdominal Pressure:** Contraction facilitates biological functions such as coughing, vomiting, defecation, urination, and childbirth.
-- [[Movement]]: They facilitate trunk flexion, lateral bending, and rotation.

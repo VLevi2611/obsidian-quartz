@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Abdominal Muscles.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abdominal Muscles"
+              "title": "Anatomical Directions"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Abdominal Muscles.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Abdominal Muscles"
+              "title": "Outgoing links from Anatomical Directions"
             }
           },
           {
@@ -188,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Abdominal Muscles.md",
+                "file": "content/Biology/Anatomy/00 Foundations/Anatomical Directions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Abdominal Muscles"
+              "title": "Graph of Anatomical Directions"
             }
           }
         ]
@@ -306,11 +306,13 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/Anatomical Position.md",
+    "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Rectus Abdominis.md",
+    "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Abdominal Muscles.md",
     "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Transversus Abdominis.md",
     "content/Resources/Images/Transversus Abdominis.png",
     "Organ.md",
     "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Internal Oblique.md",
-    "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Abdominal Muscles.md",
     "content/Resources/Images/Internal Oblique.png",
     "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/External Oblique.md",
     "content/Resources/Images/External Oblique.png",
@@ -337,7 +339,6 @@
     "content/Biology/Anatomy/02 Lower Limb/Anatomical Areas/Pelvis.md",
     "content/Biology/Anatomy/Anatomy.md",
     "content/Biology/Biology.md",
-    "content/Biology/Anatomy/03 Thorax/Muscles/Thoracic Muscles.md",
     "content/Resources/Images/Serratus Posterior Inferior.png",
     "content/Resources/Images/Serratus Posterior Superior.png",
     "content/Resources/Images/Levator Costarum.png",
