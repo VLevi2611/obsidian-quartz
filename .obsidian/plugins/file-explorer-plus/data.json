@@ -562,13 +562,6 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
         "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "content/Biology/Anatomy/06 Body Systems/06 Body Systems.md",
-        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
