@@ -562,6 +562,34 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/03 Thorax/Joints/Thoracic Joints.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/04 Abdomen/Abdominal Anatomical Areas/Abdominal Anatomical Areas.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/04 Abdomen/Abdominal Bones/Abdominal Bones.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/04 Abdomen/Abdominal Joints/Abdominal Joints.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/04 Abdomen/Abdominal Muscles/Abdominal Muscles.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
