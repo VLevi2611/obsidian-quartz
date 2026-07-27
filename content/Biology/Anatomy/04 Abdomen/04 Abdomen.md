@@ -52,7 +52,7 @@ Abdominal [[Muscle|Muscles]] form a flexible wall that maintains intra-abdominal
 - **Anterolateral abdominal wall**:
     - **Flat Muscles:** Three layers: [[External Oblique]] (superficial), [[Internal Oblique]] (middle), and [[Transversus Abdominis]] (deep).
     - **Vertical Muscles:** The [[Rectus Abdominis]] (the "six-pack" muscle) and the small [[Pyramidalis]].
-- Posterior Abdominal Wall:
+- **Posterior Abdominal Wall**:
     - Includes the [[Quadratus Lumborum]] (lateral bending), [[Psoas Major]] and [[Psoas Minor]] (hip flexion), and the [[Iliacus]].
 - [[Diaphragm]]: The primary muscle of inspiration that separates the abdomen from the thorax.
 
