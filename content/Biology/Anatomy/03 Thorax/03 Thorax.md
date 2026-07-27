@@ -47,7 +47,7 @@ The skeletal framework of the thoracic wall is flexible and provides extensive a
 The [[Muscle|Muscles]] of the thorax primarily function to alter thoracic volume during breathing and to reinforce the thoracic wall.
 
 - [[Diaphragm]]: The primary muscle of inspiration; a large, dome-shaped muscle that separates the thoracic and abdominal cavities.
-- [[Intercostal Muscles]]: Three layers of flat muscles—**external** (most active during inspiration), **internal** (active during expiration), and **innermost**—that span the spaces between ribs.
+- **Intercostal Muscles**: Three layers of flat muscles— [[External Intercostals|External]] (most active during inspiration), [[Internal Intercostals|Internal]] (active during expiration), and **innermost**—that span the spaces between ribs.
 - **Accessory Muscles of Respiration:** These include muscles that can engage to assist in forced breathing, such as the **[[Pectoralis Major]], [[Pectoralis Minor]] **, **[[Serratus Anterior]]**, **[[Trapezius]]**, **[[Latissimus Dorsi]]**, and **[[Levator Costarum]]**.
 
 ---
