@@ -10,57 +10,57 @@ The **abdomen** is a roughly cylindrical chamber extending from the inferior m
 
 ---
 
-### **[[Anatomical Areas of the Abdomen]]**
+### [[Anatomical Areas of the Abdomen]]
 
 To describe the location of internal viscera and clinical symptoms, the abdomen is divided into specific compartments and regions.
 
-- **[[Abdominal Cavity]]:** Bounded superiorly by the diaphragm and inferiorly by the pelvic inlet; it contains the **peritoneal cavity** and the abdominal viscera.
+- [[Abdominal Cavity]]: Bounded superiorly by the diaphragm and inferiorly by the pelvic inlet; it contains the **peritoneal cavity** and the abdominal viscera.
 - **Topographical Divisions:**
-    - **[[Four-Quadrant Pattern]]:** Formed by a vertical median plane and a horizontal transumbilical plane. Quadrants include **RUQ** (liver, gallbladder), **LUQ** (stomach, spleen), **RLQ** (appendix, cecum), and **LLQ**(sigmoid colon).
-    - **[[Nine-Region Pattern]]:** Uses midclavicular, subcostal, and intertubercular planes to create a grid. Central regions are **epigastric, umbilical, and pubic**; lateral regions are **hypochondriac, flank (lumbar), and groin (inguinal)**.
+    - [[Four-Quadrant Pattern]]: Formed by a vertical median plane and a horizontal transumbilical plane. Quadrants include **RUQ** (liver, gallbladder), **LUQ** (stomach, spleen), **RLQ** (appendix, cecum), and **LLQ**(sigmoid colon).
+    - [[Nine-Region Pattern]]: Uses midclavicular, subcostal, and intertubercular planes to create a grid. Central regions are **epigastric, umbilical, and pubic**; lateral regions are **hypochondriac, flank (lumbar), and groin (inguinal)**.
 - **Key Transitions:**
-    - **[[Inguinal Canal]]:** A passage in the groin area through which the spermatic cord (men) or round ligament (women) passes.
-    - **[[Peritoneal Cavity]]:** A potential space between the parietal and visceral peritoneum, divided into the **greater sac** (main space) and the **omental bursa** (lesser sac, posterior to the stomach).
+    - [[Inguinal Canal]]: A passage in the groin area through which the spermatic cord (men) or round ligament (women) passes.
+    - [[Peritoneal Cavity]]: A potential space between the parietal and visceral peritoneum, divided into the **greater sac** (main space) and the **omental bursa** (lesser sac, posterior to the stomach).
 
 ---
 
-### **[[Abdominal Bones]]**
+### [[Abdominal Bones]]
 
 The skeletal framework of the abdomen is primarily posterior, providing support and protection for the wall and viscera.
 
-- **[[Lumbar Vertebrae]]:** The five large vertebrae (**LI–LV**) that form the central skeletal support for the posterior abdominal wall.
-- **[[Pelvic Girdle]] (Superior Parts):** The **iliac crest** and **iliac fossa** of the ilium provide major attachment points for abdominal muscles.
+- [[Lumbar Vertebrae]]: The five large vertebrae (**LI–LV**) that form the central skeletal support for the posterior abdominal wall.
+- [[Pelvic Girdle]] (Superior Parts): The **iliac crest** and **iliac fossa** of the ilium provide major attachment points for abdominal muscles.
 - **Inferior Thoracic Elements:** The **costal margin**, **ribs XI and XII**, and the **xiphoid process** form the superior bony boundary.
 
 ---
 
-### **[[Abdominal Joints]]**
+### [[Abdominal Joints]]
 
 Joints in this region provide stability to the trunk and transmit weight to the lower limbs.
 
-- **[[Sacro-iliac Joints]]:** Synovial joints between the sacrum and the ilium that transmit forces from the lower limbs to the vertebral column.
-- **[[Pubic Symphysis]]:** A midline cartilaginous joint (symphysis) connecting the two pubic bones anteriorly.
-- **[[Lumbosacral Joint]]:** The articulation between the fifth lumbar vertebra (LV) and the base of the sacrum.
-- **[[Intervertebral Discs]]:** Fibrocartilaginous pads between the lumbar vertebrae that provide flexibility to the spine.
+- [[Sacro-iliac Joints]]: Synovial joints between the sacrum and the ilium that transmit forces from the lower limbs to the vertebral column.
+- [[Pubic Symphysis]]: A midline cartilaginous joint (symphysis) connecting the two pubic bones anteriorly.
+- [[Lumbosacral Joint]]: The articulation between the fifth lumbar vertebra (LV) and the base of the sacrum.
+- [[Intervertebral Discs]]: Fibrocartilaginous pads between the lumbar vertebrae that provide flexibility to the spine.
 
 ---
 
-### **[[Muscles of the Abdomen]]**
+### [[Muscles of the Abdomen]]
 
 Abdominal muscles form a flexible wall that maintains intra-abdominal pressure, protects viscera, and assists in breathing and posture.
 
-- **[[Anterolateral Abdominal Wall]]:**
+- [[Anterolateral Abdominal Wall]]:
     - **Flat Muscles:** Three layers—**External oblique** (superficial), **Internal oblique** (middle), and **Transversus abdominis** (deep).
     - **Vertical Muscles:** The **Rectus abdominis** (the "six-pack" muscle) and the small **Pyramidalis**.
-- **[[Posterior Abdominal Wall]]:**
+- [[Posterior Abdominal Wall]]:
     - Includes the **Quadratus lumborum** (lateral bending), **Psoas major** and **minor** (hip flexion), and the **Iliacus**.
-- **[[Diaphragm]]:** The primary muscle of inspiration that separates the abdomen from the thorax.
+- [[Diaphragm]]: The primary muscle of inspiration that separates the abdomen from the thorax.
 
 ---
 
-### **Anatomy Dictionary: Abdomen**
+### Anatomy Dictionary: Abdomen
 
-#### **Regional and Directional Terms**
+#### Regional and Directional Terms
 
 - **Abdomen:** Derived from Latin for **belly**.
 - **Inguinal:** Refers to the **groin** region.
@@ -71,7 +71,7 @@ Abdominal muscles form a flexible wall that maintains intra-abdominal pressure, 
 - **Hypogastric:** Refers to the area **"below the stomach"** (also called the pubic region).
 - **Flank:** The **lateral** region of the abdomen between the ribs and the iliac crest.
 
-#### **Organ and Structure Terms**
+#### Organ and Structure Terms
 
 - **Viscera:** Collective term for **internal organs**.
 - **Gastric:** Relating to the **stomach**.
@@ -83,7 +83,7 @@ Abdominal muscles form a flexible wall that maintains intra-abdominal pressure, 
 - **Mesentery:** A double-layered fold of peritoneum that **suspends** the intestines from the wall.
 - **Celiac:** Relating to the **abdominal cavity** (e.g., celiac trunk).
 
-#### **Bone and Landmark Terms**
+#### Bone and Landmark Terms
 
 - **Iliac / Ilium:** Relating to the **upper wing** of the pelvic bone.
 - **Pubic / Pubis:** Relating to the **anterior** part of the pelvis.
