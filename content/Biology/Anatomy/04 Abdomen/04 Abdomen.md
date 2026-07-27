@@ -30,7 +30,7 @@ The [[Bone|Skeletal]] framework of the abdomen is primarily posterior, providing
 
 - [[Lumbar Vertebrae]]: The five large [[Vertebra|Vertebrae]] (**LI-LV**) that form the central skeletal support for the posterior abdominal wall.
 - [[Pelvic Girdle]] (Superior Parts): The **iliac crest** and **iliac fossa** of the ilium provide major attachment points for abdominal muscles.
-- **Inferior Thoracic Elements:** The **costal margin**, **ribs XI and XII**, and the **xiphoid process** form the superior bony boundary.
+- **Inferior Thoracic Elements:** The **costal margin**, **[[Ribs]] XI and XII**, and the **[[Xiphoid Process]]** form the superior bony boundary.
 
 ---
 
@@ -38,7 +38,7 @@ The [[Bone|Skeletal]] framework of the abdomen is primarily posterior, providing
 
 [[Joint|Joints]] in this region provide stability to the trunk and transmit weight to the lower limbs.
 
-- [[Sacro-iliac Joints]]: Synovial joints between the sacrum and the ilium that transmit forces from the lower limbs to the vertebral column.
+- [[Sacro-iliac Joints]]: [[Synovial Joint|Synovial Joints]] between the [[Sacrum]] and the [[Ilium]] that transmit forces from the lower limbs to the [[Spinal Column]].
 - [[Pubic Symphysis]]: A midline cartilaginous joint (symphysis) connecting the two pubic bones anteriorly.
 - [[Lumbosacral Joint]]: The articulation between the fifth lumbar vertebra (LV) and the base of the sacrum.
 - [[Intervertebral Discs]]: Fibrocartilaginous pads between the lumbar vertebrae that provide flexibility to the spine.
@@ -49,10 +49,10 @@ The [[Bone|Skeletal]] framework of the abdomen is primarily posterior, providing
 
 Abdominal [[Muscle|Muscles]] form a flexible wall that maintains intra-abdominal pressure, protects viscera, and assists in breathing and posture.
 
-- [[Anterolateral Abdominal Wall]]:
+- **Anterolateral abdominal wall**:
     - **Flat Muscles:** Three layers: [[External Oblique]] (superficial), [[Internal Oblique]] (middle), and [[Transversus Abdominis]] (deep).
     - **Vertical Muscles:** The [[Rectus Abdominis]] (the "six-pack" muscle) and the small [[Pyramidalis]].
-- [[Posterior Abdominal Wall]]:
+- Posterior Abdominal Wall:
     - Includes the [[Quadratus Lumborum]] (lateral bending), [[Psoas Major]] and [[Psoas Minor]] (hip flexion), and the [[Iliacus]].
 - [[Diaphragm]]: The primary muscle of inspiration that separates the abdomen from the thorax.
 
