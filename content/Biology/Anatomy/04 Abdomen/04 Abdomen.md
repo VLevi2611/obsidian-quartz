@@ -29,7 +29,7 @@ To describe the location of internal viscera and clinical symptoms, the abdomen 
 The [[Bone|Skeletal]] framework of the abdomen is primarily posterior, providing support and protection for the wall and viscera.
 
 - [[Lumbar Vertebrae]]: The five large [[Vertebra|Vertebrae]] (**LI-LV**) that form the central skeletal support for the posterior abdominal wall.
-- [[Pelvic Girdle]] (Superior Parts): The **iliac crest** and **iliac fossa** of the ilium provide major attachment points for abdominal muscles.
+- Pelvis (Superior Parts): The **iliac crest** and **iliac fossa** of the ilium provide major attachment points for abdominal muscles.
 - **Inferior Thoracic Elements:** The **costal margin**, **[[Ribs]] XI and XII**, and the **[[Xiphoid Process]]** form the superior bony boundary.
 
 ---

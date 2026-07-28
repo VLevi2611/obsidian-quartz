@@ -18,7 +18,7 @@ The 5 [[Lumbar Vertebrae]] form the central skeletal support for the posterior
 - **Structure:** Each lumbar vertebra features a large cylindrical **body (corpus)**, short stocky pedicles, and long slender transverse processes.
 - **Curvature:** The lumbar region has a **secondary curvature** (forward convexity) that helps balance the [[Center Of Mass]] over the vertebral column for an upright stance.
 
-### [[Pelvic Girdle]] (Superior Parts)
+### Pelvis (Superior Parts)
 
 The upper regions of the pelvic bones define the inferior boundary of the abdominal wall.
 

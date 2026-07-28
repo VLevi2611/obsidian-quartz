@@ -29,7 +29,7 @@ The lower limb is divided into four major regions based on its joints, bones, an
 
 The skeletal framework provides a stable base for standing and acts as a powerful lever system for movement.
 
-- **Pelvic Girdle:** Formed by the **pelvic bone**, which is a fusion of the [[Ilium]], [[Ischium]], and [[Pubis]].
+- **Pelvic Girdle:** Formed by the **[[Pelvis]] bone**, which is a fusion of the [[Ilium]], [[Ischium]], and [[Pubis]].
 - **Thigh:** Supported by the [[Femur]], the longest and largest [[Bone]] in the body.
 - **Knee:** Includes the [[Patella]] (kneecap), the largest **sesamoid bone** in the body.
 - **Leg:** Contains the medial [[Tibia]], which is the primary weight-bearing bone, and the lateral [[Fibula]], which is smaller and primarily for muscle attachment.

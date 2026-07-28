@@ -19,7 +19,7 @@ The [[Lumbar Vertebrae]] (L1-L5) form the central skeletal support for the poste
 
 ---
 
-### [[Pelvic Girdle]]
+### Pelvic Girdle
 
 Because the superior parts of the [[Pelvis]] form the lower boundary of the abdominal wall, their joints are critical to abdominal structure.
 
