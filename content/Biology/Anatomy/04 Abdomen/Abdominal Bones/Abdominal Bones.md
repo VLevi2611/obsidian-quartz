@@ -24,7 +24,8 @@ The upper regions of the pelvic bones define the inferior boundary of the abdomi
 
 - [[Ilium]]: The large, fan-shaped "wing" of the [[Hip Bone]]. The **iliac fossa** (its concave inner surface) and the **iliac crest** (its superior margin) provide major attachment points for abdominal muscles.
 - [[Pelvis]]: The upper portion of the pelvis located above the **linea terminalis** is considered part of the abdominal cavity.
-- [[Sacrum]]: A triangular bone formed by **five fused sacral [[Vertebra|Vertebrae]]**. It articulates with the lumbar spine at the [[Lumbosacral Joint]] and with the ilia at the **[[Sacro-Iliac Joint]]
+- [[Sacrum]]: A triangular bone formed by **five fused sacral [[Vertebra|Vertebrae]]**. It articulates with the lumbar spine at the [[Lumbosacral Joint]] and with the ilia at the **[[Sacro-Iliac Joint]].
+- **[[Coccyx]]:** The small, terminal triangular bone of the vertebral column, formed by the fusion of **three to four (sometimes five) rudimentary vertebrae**. It articulates superiorly with the apex of the sacrum and serves as an anchor for various muscles and ligaments of the pelvic floor.
 
 ### Superior Boundaries ([[03 Thorax|Thorax]])
 
