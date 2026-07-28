@@ -14,13 +14,13 @@ The **abdomen** is a roughly cylindrical chamber extending from the inferior m
 
 To describe the location of internal viscera and clinical symptoms, the abdomen is divided into specific compartments and regions.
 
-- [[Abdominal Cavity]]: Bounded superiorly by the diaphragm and inferiorly by the pelvic inlet; it contains the **peritoneal cavity** and the abdominal viscera.
+- [[Abdominal Cavity]]: Bounded superiorly by the [[Diaphragm]] and inferiorly by the pelvic inlet; it contains the **peritoneal cavity** and the abdominal viscera.
 - **Topographical Divisions:**
-    - [[Four-Quadrant Pattern]]: Formed by a vertical median plane and a horizontal transumbilical plane. Quadrants include **RUQ** (liver, gallbladder), **LUQ** (stomach, spleen), **RLQ** (appendix, cecum), and **LLQ**(sigmoid colon).
-    - [[Nine-Region Pattern]]: Uses midclavicular, subcostal, and intertubercular planes to create a grid. Central regions are **epigastric, umbilical, and pubic**; lateral regions are **hypochondriac, flank (lumbar), and groin (inguinal)**.
+    - **Four quadrant pattern**: Formed by a vertical median plane and a horizontal transumbilical plane. Quadrants include **RUQ** (liver, gallbladder), **LUQ** (stomach, spleen), **RLQ** (appendix, cecum), and **LLQ**(sigmoid colon).
+    - **Nine region pattern**: Uses midclavicular, subcostal, and intertubercular planes to create a grid. Central regions are **epigastric, umbilical, and pubic**; lateral regions are **hypochondriac, flank (lumbar), and groin (inguinal)**.
 - **Key Transitions:**
-    - [[Inguinal Canal]]: A passage in the groin area through which the spermatic cord (men) or round ligament (women) passes.
-    - [[Peritoneal Cavity]]: A potential space between the parietal and visceral peritoneum, divided into the **greater sac** (main space) and the **omental bursa** (lesser sac, posterior to the stomach).
+    - **Inguinal Canal**: A passage in the groin area through which the spermatic cord (men) or round ligament (women) passes.
+    - **Peritoneal Cavity**: A potential space between the parietal and visceral peritoneum, divided into the **greater sac** (main space) and the **omental bursa** (lesser sac, posterior to the stomach).
 
 ---
 
