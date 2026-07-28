@@ -46,8 +46,8 @@ This pattern uses a "tic-tac-toe" grid formed by two vertical **midclavicular p
 
 Critical zones allow for the passage of structures or the isolation of fluids within the cavity.
 
-- [[Inguinal Canal]]: A slit-like passage through the anterior abdominal wall in the groin, roughly 4 cm long. In men, it transmits the **spermatic cord**, and in women, the **round ligament of the uterus**.
-- [[Peritoneal Cavity]]: A potential space lined by the **peritoneum** (serous membrane). It is subdivided into:
+- **Inguinal canal**: A slit-like passage through the anterior abdominal wall in the groin, roughly 4 cm long. In men, it transmits the **spermatic cord**, and in women, the **round ligament of the uterus**.
+- **Peritoneal cavity*: A potential space lined by the **peritoneum** (serous membrane). It is subdivided into:
     - **Greater Sac:** Accounts for most of the space, extending from the diaphragm to the pelvic cavity.
     - **Omental Bursa (Lesser Sac):** A smaller subdivision located posterior to the stomach and liver, communicating with the greater sac via the **omental (epiploic) foramen**.
 - **Peritoneal Recesses:** Specific clinical spaces where fluids can collect.
