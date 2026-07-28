@@ -6,11 +6,11 @@ tags:
 ---
 ## Overview 
 
-The **abdomen** is a roughly cylindrical chamber and a major body region that extends from the inferior margin of the [[03 Thorax|Thorax]] to the superior margin of the [[Pelvis]] and lower limb**. It is bounded superiorly by the **diaphragm** and inferiorly by the **pelvic inlet**.
+The **abdomen** is a roughly cylindrical chamber and a major body region that extends from the inferior margin of the [[03 Thorax|Thorax]] to the superior margin of the [[Pelvis]] and [[02 Lower Limb]]. It is bounded superiorly by the [[Diaphragm]] and inferiorly by the **pelvic inlet**.
 
 ---
 
-### **1. The Abdominopelvic Cavity**
+### The Abdominopelvic Cavity
 
 The internal space of the abdomen is the **abdominopelvic cavity**, which is continuous and lacks a physical wall between its two major portions.
 
@@ -19,11 +19,11 @@ The internal space of the abdomen is the **abdominopelvic cavity**, which is co
 
 ---
 
-### **2. Topographical Divisions**
+### Topographical Divisions
 
 Clinicians and anatomists use two primary schemes to map the abdomen for describing the location of organs and clinical symptoms like pain or masses.
 
-#### **A. Four-Quadrant Pattern**
+#### A. Four-Quadrant Pattern
 
 Formed by the intersection of the **vertical median plane** and the **horizontal transumbilical plane** (passing through the umbilicus at the LIII/LIV level).
 
@@ -32,7 +32,7 @@ Formed by the intersection of the **vertical median plane** and the **horizon
 - **Right Lower Quadrant (RLQ):** Contains the cecum and appendix.
 - **Left Lower Quadrant (LLQ):** Contains the end of the descending colon and the sigmoid colon.
 
-#### **B. Nine-Region Pattern**
+#### B. Nine-Region Pattern
 
 This pattern uses a "tic-tac-toe" grid formed by two vertical **midclavicular planes** and two horizontal planes (**subcostal**and **intertubercular**).
 
@@ -42,12 +42,12 @@ This pattern uses a "tic-tac-toe" grid formed by two vertical **midclavicular p
 
 ---
 
-### **3. Areas of Transition and Internal Spaces**
+### Areas of Transition and Internal Spaces
 
 Critical zones allow for the passage of structures or the isolation of fluids within the cavity.
 
-- **[[Inguinal Canal]]:** A slit-like passage through the anterior abdominal wall in the groin, roughly 4 cm long. In men, it transmits the **spermatic cord**, and in women, the **round ligament of the uterus**.
-- **[[Peritoneal Cavity]]:** A potential space lined by the **peritoneum** (serous membrane). It is subdivided into:
+- [[Inguinal Canal]]: A slit-like passage through the anterior abdominal wall in the groin, roughly 4 cm long. In men, it transmits the **spermatic cord**, and in women, the **round ligament of the uterus**.
+- [[Peritoneal Cavity]]: A potential space lined by the **peritoneum** (serous membrane). It is subdivided into:
     - **Greater Sac:** Accounts for most of the space, extending from the diaphragm to the pelvic cavity.
     - **Omental Bursa (Lesser Sac):** A smaller subdivision located posterior to the stomach and liver, communicating with the greater sac via the **omental (epiploic) foramen**.
 - **Peritoneal Recesses:** Specific clinical spaces where fluids can collect.
