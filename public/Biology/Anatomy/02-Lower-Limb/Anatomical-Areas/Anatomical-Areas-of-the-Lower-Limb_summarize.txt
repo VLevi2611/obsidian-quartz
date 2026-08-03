@@ -1,0 +1,7 @@
+This document describes the lower limb's anatomy, highlighting its role in weight-bearing, locomotion, and balance, and systematically detailing its main regions:
+
+1.  **Thigh (Femoral Region):** Centered on the Femur, it contains anterior (quadriceps for knee extension), medial (adductors), and posterior (hamstrings for knee flexion/hip extension) muscle compartments, with major neurovascular supply from the Femoral artery and Sciatic nerve.
+2.  **Knee Region:** A mobile joint involving the Femur, Tibia, and Patella, stabilized by ligaments. The posterior popliteal fossa houses the Popliteal artery and key nerves.
+3.  **Leg (Crural Region):** Composed of the Tibia and Fibula, it features four muscle compartments (anterior, lateral, deep posterior, superficial posterior) responsible for movements like dorsiflexion and plantarflexion, supported by dedicated tibial and fibular neurovascular structures.
+4.  **Ankle (Tarsal Region):** The talocrural joint, where the leg articulates with the foot (Tibia, Fibula, Talus), incorporating other tarsal bones. Tendons from leg muscles provide stability and allow movements like plantar/dorsiflexion.
+5.  **Foot (Pedal Region):** A complex structure of tarsals, metatarsals, and phalanges, essential for weight-bearing and shock absorption via intrinsic muscles and arches, receiving precise neurovascular supply for fine motor control and balance.
