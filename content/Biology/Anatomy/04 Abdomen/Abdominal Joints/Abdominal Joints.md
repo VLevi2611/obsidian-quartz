@@ -23,7 +23,7 @@ The [[Lumbar Vertebrae]] (L1-L5) form the central skeletal support for the poste
 
 Because the superior parts of the [[Pelvis]] form the lower boundary of the abdominal wall, their joints are critical to abdominal structure.
 
-- [[Sacro-iliac Joints]]: Large **synovial joints** between the L-shaped articular facets of the [[Sacrum]] and the [[Ilium]]. They are essential for transmitting [[Force|Forces]] from the lower limbs to the [[Spinal Column]] and are stabilized by strong anterior, posterior, and interosseous [[Ligament|Ligaments]].
+- [[Sacroiliac Joint]]: Large **synovial joints** between the L-shaped articular facets of the [[Sacrum]] and the [[Ilium]]. They are essential for transmitting [[Force|Forces]] from the lower limbs to the [[Spinal Column]] and are stabilized by strong anterior, posterior, and interosseous [[Ligament|Ligaments]].
 - [[Pubic Symphysis]]: A midline cartilaginous joint (symphysis) connecting the [[Pubis]] and ilium anteriorly. It consists of a fibrocartilaginous disc and is linked by the superior and inferior pubic ligaments. In women, this joint becomes more flexible during pregnancy to facilitate childbirth.
 
 ---
