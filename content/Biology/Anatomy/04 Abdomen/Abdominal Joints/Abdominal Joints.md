@@ -15,7 +15,7 @@ The [[Joint|Joints]] of the abdominal region primarily serve to provide a stable
 The [[Lumbar Vertebrae]] (L1-L5) form the central skeletal support for the posterior abdominal wall and are linked by two main types of joints.
 
 - [[Intervertebral Discs]]: These are **symphyses** (solid joints) that connect adjacent vertebral bodies via fibrocartilage. Each disc contains a gelatinous **nucleus pulposus** that acts as a shock absorber for compression forces.
-- [[Lumbar Zygapophysial Joints]]: These are **synovial joints** between the superior and inferior articular processes of adjacent [[Vertebra|Vertebrae]]. In the lumbar region, these joints are "wrapped" or oriented to facilitate flexion and extension while limiting rotation, providing stability to the lower back.
+- [[Facet Joints]]: These are **synovial joints** between the superior and inferior articular processes of adjacent [[Vertebra|Vertebrae]]. In the lumbar region, these joints are "wrapped" or oriented to facilitate flexion and extension while limiting rotation, providing stability to the lower back.
 
 ---
 
