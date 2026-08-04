@@ -38,7 +38,7 @@ The [[Bone|Skeletal]] framework of the abdomen is primarily posterior, providing
 
 [[Joint|Joints]] in this region provide stability to the trunk and transmit weight to the lower limbs.
 
-- [[Sacroiliac Joint]]: [[Synovial Joint|Synovial Joints]] between the [[Sacrum]] and the [[Ilium]] that transmit forces from the lower limbs to the [[Spinal Column]].
+- [[Sacroiliac Joints]]: [[Synovial Joint|Synovial Joints]] between the [[Sacrum]] and the [[Ilium]] that transmit forces from the lower limbs to the [[Spinal Column]].
 - [[Pubic Symphysis]]: A midline cartilaginous joint (symphysis) connecting the two pubic bones anteriorly.
 - [[Lumbosacral Joint]]: The articulation between the fifth lumbar vertebra (LV) and the base of the sacrum.
 - [[Intervertebral Discs]]: Fibrocartilaginous pads between the lumbar vertebrae that provide flexibility to the spine.
