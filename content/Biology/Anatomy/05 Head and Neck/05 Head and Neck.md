@@ -15,14 +15,14 @@ The **head** and **neck** are anatomically complex regions that serve as the
 These regions are divided into specific compartments and topographical areas to facilitate the study of their dense neurovascular and visceral content.
 
 - **Major Compartments of the Head:**
-    - **[[Cranial Cavity]]:** The largest compartment, containing the brain and its protective meninges.
-    - **[[Orbits]]:** Cone-shaped chambers housing the eyes and associated muscles.
-    - **[[Nasal Cavities]] & [[Oral Cavity]]:** The superior parts of the respiratory and digestive tracts, respectively.
-    - **[[Ears]]:** Containing the apparatus for hearing and balance.
+    - [[Cranial Cavity]]: The largest compartment, containing the brain and its protective meninges.
+    - [[Orbits]]: Cone-shaped chambers housing the eyes and associated muscles.
+    - [[Nasal Cavities]] & [[Oral Cavity]]: The superior parts of the respiratory and digestive tracts, respectively.
+    - [[Ears]]: Containing the apparatus for hearing and balance.
 - **Major Compartments of the Neck:**
-    - **[[Vertebral Compartment]]:** Contains the cervical vertebrae and postural muscles.
-    - **[[Visceral Compartment]]:** Contains glands (thyroid, parathyroid, thymus) and parts of the digestive and respiratory tracts (pharynx, larynx, esophagus, trachea).
-    - **[[Vascular Compartments]] (2):** One on each side, containing the major blood vessels (carotid arteries, jugular veins) and the vagus nerve.
+    - [[Vertebral Compartment]]: Contains the cervical vertebrae and postural muscles.
+    - [[Visceral Compartment]]: Contains glands (thyroid, parathyroid, thymus) and parts of the digestive and respiratory tracts (pharynx, larynx, esophagus, trachea).
+    - [[Vascular Compartments]] (2): One on each side, containing the major blood vessels (carotid arteries, jugular veins) and the vagus nerve.
 - **Triangles of the Neck:** For clinical localization, the neck is divided by the **sternocleidomastoid muscle** into the **Anterior Triangle** (medial) and the **Posterior Triangle** (lateral).
 
 ---
@@ -31,14 +31,14 @@ These regions are divided into specific compartments and topographical areas to 
 
 The skeletal framework provides rigid protection for the brain and special senses while allowing for the high mobility of the jaw and neck.
 
-- **The [[Skull]]:** Composed of 22 bones (excluding the ear ossicles).
-    - **[[Cranium]] (Neurocranium):** Protects the brain. Key bones include the **frontal**, **parietal**, **temporal**, **occipital**, **sphenoid**, and **ethmoid**.
-    - **[[Facial Skeleton]] (Viscerocranium):** Forms the framework of the face. Includes the **maxillae** (upper jaw), **zygomatic** (cheekbones), **nasal**, **palatine**, **lacrimal**, **inferior nasal conchae**, and the **vomer**.
-    - **[[Mandible]]:** The lower jawbone; the only mobile bone of the skull.
-- **The [[Cervical Spine]]:** Consists of **seven vertebrae (C1–C7)**.
-    - **[[Atlas]] (C1):** Lacks a body and supports the skull.
-    - **[[Axis]] (C2):** Features the **dens** (odontoid process) around which the atlas rotates.
-- **[[Hyoid Bone]]:** A U-shaped bone in the anterior neck that does not articulate with any other bone; it serves as a movable anchor for the tongue and larynx.
+- The [[Skull]]: Composed of 22 [[Bone|Bones]] (excluding the ear ossicles).
+    - [[Cranium]] (Neurocranium): Protects the brain. Key bones include the **frontal**, **parietal**, **temporal**, **occipital**, **sphenoid**, and **ethmoid**.
+    - [[Facial Skeleton]] (Viscerocranium): Forms the framework of the face. Includes the **maxillae** (upper jaw), **zygomatic** (cheekbones), **nasal**, **palatine**, **lacrimal**, **inferior nasal conchae**, and the **vomer**.
+    - [[Mandible]]: The lower jawbone; the only mobile bone of the skull.
+- The [[Cervical Vertebrae]]: Consists of **seven vertebrae (C1–C7)**.
+    - [[Atlas]] (C1): Lacks a body and supports the skull.
+    - [[Axis]] (C2): Features the **dens** (odontoid process) around which the atlas rotates.
+- [[Hyoid Bone]]: A U-shaped bone in the anterior neck that does not articulate with any other bone; it serves as a movable anchor for the tongue and larynx.
 
 ---
 
@@ -46,10 +46,10 @@ The skeletal framework provides rigid protection for the brain and special sense
 
 Joints in this region range from completely immovable to highly specialized mobile articulations.
 
-- **[[Sutures]]:** Immovable fibrous joints that interconnect most skull bones.
-- **[[Temporomandibular Joints]] (TMJ):** The largest synovial joints in the head, located between the mandible and the temporal bone, allowing for chewing and speech.
-- **[[Atlanto-occipital Joints]]:** Articulations between the atlas (C1) and the occipital bone that allow for the "nodding" motion (flexion/extension).
-- **[[Atlanto-axial Joints]]:** Articulations between the atlas and axis (C2) that facilitate head rotation.
+- [[Sutures]]: Immovable fibrous joints that interconnect most skull bones.
+- [[Temporomandibular Joints]] (TMJ): The largest synovial joints in the head, located between the mandible and the temporal bone, allowing for chewing and speech.
+- [[Atlanto-occipital Joints]]: Articulations between the atlas (C1) and the occipital bone that allow for the "nodding" motion (flexion/extension).
+- [[Atlanto-axial Joints]]: Articulations between the atlas and axis (C2) that facilitate head rotation.
 - **Ear Ossicle Joints:** Tiny synovial joints between the malleus, incus, and stapes in the middle ear.
 
 ---
@@ -58,8 +58,8 @@ Joints in this region range from completely immovable to highly specialized mobi
 
 Muscles here are specialized for facial expression, mastication (chewing), and complex [[Movement|Movements]] of the head and airway.
 
-- **[[Muscles of Facial Expression]]:** Located in the superficial fascia and innervated by the **facial nerve (CN VII)**. Examples include the **orbicularis oculi** (closes eyes), **orbicularis oris** (closes lips), and the **buccinator** (presses cheeks).
-- **[[Muscles of Mastication]]: Act on the TMJ to move the lower jaw and are innervated by the **trigeminal nerve (CN V)**. Includes the **masseter**, **temporalis**, and **medial/lateral pterygoids**.
+- [[Muscles of Facial Expression]]: Located in the superficial fascia and innervated by the **facial nerve (CN VII)**. Examples include the **orbicularis oculi** (closes eyes), **orbicularis oris** (closes lips), and the **buccinator** (presses cheeks).
+- [[Muscles of Mastication]]: Act on the TMJ to move the lower jaw and are innervated by the **trigeminal nerve (CN V)**. Includes the **masseter**, **temporalis**, and **medial/lateral pterygoids**.
 - **Neck Muscles:**
     - [[Sternocleidomastoid]]: Rotates and flexes the head.
     - [[Scalenes]]: Group of three muscles (anterior, middle, posterior) that stabilize the head and can elevate the ribs during forced inspiration.
@@ -93,7 +93,7 @@ Muscles here are specialized for facial expression, mastication (chewing), and c
 #### **Bone and Landmark Terms**
 
 - **Calvaria:** The upper, domed **skullcap**.
-- **Foramen Magnum:** The large hole at the base of the skull for the **passage of the spinal cord**.
+- **Foramen Magnum:** The large hole at the base of the skull in  **passage of the [[Spinal Cord]].
 - **Suture:** A **fibrous joint** where skull bones meet.
 - **Process:** A prominent **bony projection** (e.g., mastoid process, styloid process).
 - **Fossa:** A **depression** or hollow in a bone (e.g., cranial fossae, mandibular fossa).
