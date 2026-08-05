@@ -51,6 +51,20 @@ The [[Muscle|Muscles]] of the thorax primarily function to alter thoracic volume
 - **Accessory Muscles of Respiration:** These include muscles that can engage to assist in forced breathing, such as the **[[Pectoralis Major]], [[Pectoralis Minor]] **, **[[Serratus Anterior]]**, **[[Trapezius]]**, **[[Latissimus Dorsi]]**, and **[[Levator Costarum]]**.
 
 ---
+
+### [[Thoracic Organs]]
+
+The [[Organ|Organs]] of the thorax perform life-sustaining functions and are protected by the flexible framework of the rib cage and the serous [[Membrane|Membranes]] that line the thoracic cavities.
+
+- [[Heart]]: Centrally located within the **middle mediastinum** and enclosed in a double-layered fibroserous sac called the **pericardium**. It functions as a dual pump, sending deoxygenated blood to the lungs and oxygenated blood to the rest of the body.
+- [[Lung|Lungs]]: The primary organs of respiration, situated within the **pleural cavities**. The **right lung** is larger and consists of **three lobes** (superior, middle, inferior), while the **left lung** is smaller, to accommodate the heart, and has **two lobes** (superior, inferior).
+- [[Trachea]] (Windpipe): A flexible tube held open by C-shaped cartilaginous rings that conducts air from the larynx into the thorax. It descends through the superior mediastinum and **bifurcates** into the right and left main bronchi at the **TIV/TV vertebral level**.
+- [[Esophagus]]: A muscular tube that conducts food and liquids from the pharynx to the stomach. In the thorax, it descends through the superior and posterior mediastinum, situated immediately **posterior to the trachea and the heart**.
+- [[Thymus Gland]]: An organ involved in the early development of the immune system, located in the **superior and anterior mediastinum**. It is a large structure in children but significantly atrophies and is replaced by fatty tissue after puberty.
+- [[Mammary Glands]] (Breasts): Located in the superficial fascia of the **pectoral region**, external to the anterior thoracic wall. Though functionally part of the reproductive system, they are anatomically landmarks of the thoracic region.
+
+---
+
 ## Anatomy Terms
 ### Regional and Directional Terms
 
