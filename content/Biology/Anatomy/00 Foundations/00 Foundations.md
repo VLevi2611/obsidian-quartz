@@ -16,7 +16,7 @@ Relationships between body structures are described using [[Anatomical Direction
 
 The body may also be divided conceptually using [[Anatomical Planes]]. The sagittal plane divides left and right portions, the coronal plane divides anterior and posterior regions, and the transverse plane divides superior and inferior regions. Anatomical planes are especially important in [[Imaging]] modalities such as CT and MRI.
 
-The body is organized hierarchically into cells, tissues, organs, and [[Organ Systems]]. Organ systems consist of multiple organs working together to perform specialized physiological functions. Major systems include the musculoskeletal, nervous, cardiovascular, respiratory, digestive, endocrine, and urinary systems.
+The body is organized hierarchically into cells, tissues, organs, and [[06 Organ Systems]]. Organ systems consist of multiple organs working together to perform specialized physiological functions. Major systems include the musculoskeletal, nervous, cardiovascular, respiratory, digestive, endocrine, and urinary systems.
 
 Normal physiological stability is maintained through [[Homeostasis]], the dynamic process by which the body regulates internal conditions such as [[Temperature]], [[pH]], blood [[Pressure]], and fluid balance. Homeostatic regulation depends heavily on communication between organ systems and the nervous and endocrine systems.
 

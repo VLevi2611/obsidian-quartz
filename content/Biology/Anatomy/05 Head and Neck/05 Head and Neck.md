@@ -93,7 +93,7 @@ Muscles here are specialized for facial expression, mastication (chewing), and c
 #### **Bone and Landmark Terms**
 
 - **Calvaria:** The upper, domed **skullcap**.
-- **Foramen Magnum:** The large hole at the base of the skull in  **passage of the [[Spinal Cord]].
+- **Foramen Magnum:** The large hole at the base of the skull in which the [[Spinal Cord]] passes.
 - **Suture:** A **fibrous joint** where skull bones meet.
 - **Process:** A prominent **bony projection** (e.g., mastoid process, styloid process).
 - **Fossa:** A **depression** or hollow in a bone (e.g., cranial fossae, mandibular fossa).
