@@ -597,6 +597,27 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/06 Organ Systems/06 Organ Systems.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/06 Organ Systems/Skeletal System/Skeletal System.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/06 Organ Systems/Cardiovascular System/Cardiovascular System.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/06 Organ Systems/Digestive System/Digestive System.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
