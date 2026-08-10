@@ -26,21 +26,21 @@ The head is organized into a series of compartments formed by bone and soft tiss
 
 The neck is enclosed by an outer musculofascial collar and is subdivided into four major longitudinal compartments:
 
-- **[[Vertebral Compartment]]:** Contains the [[Cervical Vertebrae]] and the postural muscles that support the head and neck.
-- **[[Visceral Compartment]]:** Contains important glands (thyroid, parathyroid, and thymus) and parts of the respiratory and digestive tracts (pharynx, larynx, esophagus, and trachea).
-- **[[Vascular Compartments]] (2):** One on each side, containing the major blood vessels (carotid arteries, jugular veins) and the **vagus nerve**.
+- [[Vertebral Compartment]]: Contains the [[Cervical Vertebrae]] and the postural muscles that support the head and neck.
+- [[Visceral Compartment]]: Contains important glands (thyroid, parathyroid, and thymus) and parts of the respiratory and digestive tracts (pharynx, larynx, esophagus, and trachea).
+- [[Vascular Compartments]]: One on each side, containing the major [[Blood Vessels]] (carotid arteries, jugular veins) and the **vagus nerve**.
 
 ---
 
-### **3. Topographical Areas and Transitions**
+### Topographical Areas and Transitions
 
 Specific areas facilitate clinical localization and the transition of structures between compartments.
 
-- **Triangles of the Neck:** The **sternocleidomastoid** and **trapezius** muscles divide each side of the neck into an **Anterior Triangle** (medial) and a **Posterior Triangle** (lateral).
-- **[[Infratemporal Fossa]]:** An area deep to the mandible that serves as a conduit for the **mandibular nerve [V3]**passing between the cranial and oral cavities.
-- **[[Pterygopalatine Fossa]]:** A small space posterior to the upper jaw that communicates with the cranial cavity, orbit, nasal cavity, and oral cavity.
-- **[[Superior Thoracic Aperture]]:** The narrow opening at the base of the neck that allows continuity with the **thorax**.
-- **[[Axillary Inlet]]:** The "gateway" to the upper limb located on each side of the base of the neck.
+- **Triangles of the Neck:** The [[Sternocleidomastoid]] and [[Trapezius]] muscles divide each side of the neck into an **Anterior Triangle** (medial) and a **Posterior Triangle** (lateral).
+- [[Infratemporal Fossa]]: An area deep to the [[Mandible]] that serves as a conduit for the **mandibular nerve V3** passing between the cranial and oral cavities.
+- [[Pterygopalatine Fossa]]: A small space posterior to the upper jaw that communicates with the cranial cavity, orbit, nasal cavity, and oral cavity.
+- [[Superior Thoracic Aperture]]: The narrow opening at the base of the neck that allows continuity with the **thorax**.
+- [[Axillary Inlet]]: The "gateway" to the upper limb located on each side of the base of the neck.
 
 ---
 
