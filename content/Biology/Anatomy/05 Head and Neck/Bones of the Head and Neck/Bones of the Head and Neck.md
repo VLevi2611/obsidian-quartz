@@ -6,31 +6,31 @@ tags:
 ---
 ## Overview
 
-The skeletal framework of the head and neck provides rigid protection for the [[Brain]] and special sensory organs while offering a highly mobile axis for the head and supporting the gateways of the respiratory and digestive systems. This region is primarily composed of the **skull**, the **cervical spine**, and the **hyoid bone**.
+The skeletal framework of the head and neck provides rigid protection for the [[Brain]] and special sensory [[Organ|Organs]] while offering a highly mobile axis for the head and supporting the gateways of the [[Respiratory System]] and [[Digestive System]]. This region is primarily composed of the **skull**, the **cervical spine**, and the **hyoid bone**.
 
 ---
 
-### **1. The Skull**
+### [[Skull]]
 
-The skull consists of **22 individual bones** (excluding the ossicles of the middle ear). Except for the mandible, these bones are joined by immovable fibrous joints called **sutures**.
+The skull consists of 22 individual [[Bone|Bones]] (excluding the ossicles of the middle ear). Except for the mandible, these bones are joined by immovable fibrous [[Joint|Joints]] called **sutures**.
 
-#### **A. The Cranium (Neurocranium)**
+#### [[Cranium]]
 
 The cranium houses and protects the brain. It is divided into the **calvaria** (skullcap) and the **cranial base**.
 
-- **[[Frontal Bone]]:** An unpaired bone that forms the forehead and the superior rim of the orbits.
-- **[[Parietal Bones]]:** A pair of bones that form the majority of the roof and sides of the cranium.
-- **[[Temporal Bones]]:** Paired bones on the lateral inferior aspect of the skull; they house the apparatus for hearing and contain the **mastoid** and **styloid processes**.
-- **[[Occipital Bone]]:** Forms the posterior part and the base of the skull. It features the **foramen magnum**, the large opening for the spinal cord.
-- **[[Sphenoid Bone]]:** A complex, unpaired bone at the base of the skull often described as "butterfly-shaped".
-- **[[Ethmoid Bone]]:** A midline bone that forms part of the anterior cranial fossa, the nasal cavity, and the orbits.
+- [[Frontal Bone]]: An unpaired bone that forms the forehead and the superior rim of the orbits.
+- [[Parietal Bones]]: A pair of bones that form the majority of the roof and sides of the cranium.
+- [[Temporal Bones]]: Paired bones on the lateral inferior aspect of the skull; they house the apparatus for hearing and contain the **mastoid** and **styloid processes**.
+- [[Occipital Bone]]: Forms the posterior part and the base of the skull. It features the **foramen magnum**, the large opening for the [[Spinal Cord]].
+- [[Sphenoid Bone]]: A complex, unpaired bone at the base of the skull often described as "butterfly-shaped".
+- [[Ethmoid Bone]]: A midline bone that forms part of the anterior cranial fossa, the nasal cavity, and the orbits.
 
-#### **B. The Facial Skeleton (Viscerocranium)**
+#### The Facial Skeleton
 
 These bones provide the framework for the face and house the teeth.
 
-- **[[Mandible]]:** The lower jaw; it is the only mobile bone of the skull and articulates with the temporal bone at the **temporomandibular joint (TMJ)**.
-- **[[Maxillae]]:** Paired bones that form the upper jaw, the anterior two-thirds of the **hard palate**, and the floor of the orbits.
+- [[Mandible]]: The lower jaw; it is the only mobile bone of the skull and articulates with the temporal bone at the [[Temporomandibular Joints]].
+- [[Maxillae]]: Paired bones that form the upper jaw, the anterior two-thirds of the **hard palate**, and the floor of the orbits.
 - **[[Zygomatic Bones]]:** The "cheekbones" that form the lateral walls and floors of the orbits.
 - **Other Bones:** Includes the **nasal bones** (bridge of nose), **lacrimal bones** (smallest facial bones), **palatine bones**(posterior hard palate), **inferior nasal conchae**, and the **vomer** (nasal septum).
 
