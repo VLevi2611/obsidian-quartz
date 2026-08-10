@@ -31,31 +31,31 @@ These bones provide the framework for the face and house the teeth.
 
 - [[Mandible]]: The lower jaw; it is the only mobile bone of the skull and articulates with the temporal bone at the [[Temporomandibular Joints]].
 - [[Maxillae]]: Paired bones that form the upper jaw, the anterior two-thirds of the **hard palate**, and the floor of the orbits.
-- **[[Zygomatic Bones]]:** The "cheekbones" that form the lateral walls and floors of the orbits.
+- [[Zygomatic Bones]]: The "cheekbones" that form the lateral walls and floors of the orbits.
 - **Other Bones:** Includes the **nasal bones** (bridge of nose), **lacrimal bones** (smallest facial bones), **palatine bones**(posterior hard palate), **inferior nasal conchae**, and the **vomer** (nasal septum).
 
 ---
 
-### **2. The Cervical Spine (C1–C7)**
+### [[Cervical Vertebrae]] (C1–C7)
 
-The seven **cervical vertebrae** form the bony framework of the neck. They are the smallest vertebrae and are characterized by a **foramen transversarium** in each transverse process for the passage of vertebral arteries.
+The seven **cervical vertebrae** form the bony framework of the neck. They are the smallest [[Vertebra|Vertebrae]] and are characterized by a **foramen transversarium** in each transverse process for the passage of vertebral arteries.
 
-- **[[Atlas]] (C1):** A ring-like vertebra that lacks a body; it articulates with the occipital condyles to support the skull.
-- **[[Axis]] (C2):** Features a tooth-like projection called the **dens (odontoid process)**, which serves as a pivot for the rotation of the head.
-
----
-
-### **3. The Hyoid Bone**
-
-The **hyoid** is a unique U-shaped bone in the anterior neck. It is the only bone in the body that **does not articulate with any other bone**. It serves as a movable anchor for the tongue and is suspended by muscles and ligaments from the styloid processes.
+- [[Atlas]] (C1): A ring-like vertebra that lacks a body; it articulates with the occipital condyles to support the skull.
+- [[Axis]] (C2): Features a tooth-like projection called the **dens (odontoid process)**, which serves as a pivot for the [[Movement|Rotation]] of the head.
 
 ---
 
-### **4. Auditory Ossicles**
+### [[Hyoid Bone]]
+
+The **hyoid** is a unique U-shaped bone in the anterior neck. It is the only bone in the body that **does not articulate with any other bone**. It serves as a movable anchor for the [[Tongue]] and is suspended by [[Muscle|Muscles]] and [[Ligament|Ligaments]] from the styloid processes.
+
+---
+
+### [[Ears]]
 
 Located within the middle ear cavity of the temporal bone, these are the **smallest bones in the human body**.
 
-- **[[Malleus]], [[Incus]], and [[Stapes]]:** These three bones form a chain that transmits sound vibrations from the tympanic membrane to the internal ear.
+- [[Malleus]], [[Incus]], and [[Stapes]]: These three bones form a chain that transmits sound vibrations from the tympanic [[Membrane]] to the internal ear.
 
 ---
 
