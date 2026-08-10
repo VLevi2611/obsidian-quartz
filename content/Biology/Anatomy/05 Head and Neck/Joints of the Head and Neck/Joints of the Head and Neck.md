@@ -12,21 +12,21 @@ The [[Joint|Joints]] of the head and neck range from completely immovable [[Soli
 
 ### Joints of the [[Skull]]
 
-Most bones of the skull are linked together to form a rigid protective shell for the brain.
+Most [[Bone|Bones]] of the skull are linked together to form a rigid protective shell for the [[Brain]].
 
-- **[[Sutures]]:** These are **immovable fibrous joints** found only in the skull. They are linked by a thin layer of connective tissue called a sutural ligament.
+- [[Sutures]]: These are **immovable fibrous joints** found only in the skull. They are linked by a thin layer of connective [[Tissue]] called a sutural [[Ligament]].
     - **Major Sutures:** The **coronal** (frontal and parietal), **sagittal** (between parietals), **lambdoid** (parietal and occipital), and **squamosal** (parietal and temporal) sutures.
     - **Types:** Sutures can be classified by their edges, such as _dentata_ (tooth-like), _serrata_ (saw-like), and _limbosa_(beveled/overlapping).
-- **[[Gomphosis]]:** A specialized fibrous joint that anchors the **roots of the teeth** into the alveolar sockets of the mandible and maxillae.
-- **Schindylesis:** A "wedge-and-groove" joint found between the vomer and the perpendicular plate of the ethmoid bone.
+- [[Gomphosis]]: A specialized fibrous joint that anchors the **roots of the teeth** into the alveolar sockets of the mandible and maxillae.
+- [[Schindylesis]]: A "wedge-and-groove" joint found between the vomer and the perpendicular plate of the ethmoid bone.
 
 ---
 
-### **2. The Temporomandibular Joint (TMJ)**
+### [[Temporomandibular Joints]] (TMJ)
 
 The **TMJ** is the largest and most active synovial joint in the head, allowing for the essential processes of mastication (chewing) and speech.
 
-- **Articulating Surfaces:** Formed between the **condylar head of the mandible** and the **mandibular fossa** and **articular tubercle** of the temporal bone.
+- **Articulating Surfaces:** Formed between the **condylar head of the [[Mandible]]** and the **mandibular fossa** and **articular tubercle** of the [[Temporal Bones]].
 - **Articular Disc:** A unique feature of this joint is a fibrous **articular disc** that completely divides the joint cavity into upper and lower compartments.
 - **Functional Movement:**
     - The **lower compartment** acts as a hinge joint for the elevation and depression (opening/closing) of the mouth.
