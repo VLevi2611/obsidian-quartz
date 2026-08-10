@@ -34,13 +34,13 @@ The **TMJ** is the largest and most active synovial joint in the head, allowin
 
 ---
 
-### **3. Cervical Spine Joints**
+### [[Cervical Vertebrae]] Joints
 
 The joints of the neck are specifically modified to support the weight of the head while providing a vast range of motion.
 
-- **[[Atlanto-occipital Joints]]:** Synovial articulations between the **atlas (C1)** and the **occipital condyles** of the skull. These allow for the **"nodding" motion** (flexion/extension).
-- **[[Atlanto-axial Joints]]:** A complex of three joints (one median pivot and two lateral) between the **atlas (C1) and axis (C2)**. The **dens** (odontoid process) of C2 acts as a pivot, allowing the head and atlas to rotate side-to-side (the **"no" motion**).
-- **[[Zygapophysial (Facet) Joints]]:** Synovial joints between the superior and inferior articular processes of adjacent cervical vertebrae. Their sloped orientation in the neck specifically facilitates flexion and extension.
+- [[Atlanto-occipital Joints]]: Synovial articulations between the [[Atlas]] (C1) and the **occipital condyles** of the skull. These allow for the **"nodding" motion** (flexion/extension).
+- [[Atlanto-axial Joints]]: A complex of three joints (one median pivot and two lateral) between the atlas (C1) and [[Axis]] (C2). The **dens** (odontoid process) of C2 acts as a pivot, allowing the head and atlas to rotate side-to-side (the **"no" motion**).
+- [[Facet Joints]]: Synovial joints between the superior and inferior articular processes of adjacent cervical vertebrae. Their sloped orientation in the neck specifically facilitates flexion and extension.
 - **[[Intervertebral Discs]]:** Solid joints (symphyses) that connect the vertebral bodies. Cervical discs are smaller than those in the lower spine but still provide essential flexibility.
 - **Uncovertebral Joints:** Small synovial joints formed between the uncinate processes of C3–C7 and the vertebra above.
 
@@ -52,15 +52,6 @@ The middle ear contains the three smallest synovial joints in the body, which fo
 
 - **Incudomalleolar Joint:** A synovial joint between the head of the **malleus** and the body of the **incus**.
 - **Incudostapedial Joint:** A **ball-and-socket synovial joint** between the lenticular process of the incus and the head of the **stapes**.
-
----
-
-### **Clinical and Functional Significance**
-
-- **TMJ Syndrome:** Disorders of the jaw joint can cause facial pain, clicking noises, and restricted movement.
-- **Nodding Fulcrum:** The atlanto-occipital joint serves as the fulcrum for the head's lever system during nodding.
-- **Stability Ligaments:** Strong ligaments, such as the **alar ligaments**, check excessive rotation of the head to protect the spinal cord at the atlanto-axial level.
-- **Hyoid Bone:** Notably, the hyoid bone **does not articulate with any other bone**; it is suspended by ligaments and muscles to act as a movable base for the tongue and larynx.
 
 ---
 
