@@ -681,6 +681,27 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/05 Head and Neck/Muscles of the Head and Neck/Muscles of the Head and Neck.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/05 Head and Neck/Anatomical Areas of the Head and Neck/Anatomical Areas of the Head and Neck.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/05 Head and Neck/Bones of the Head and Neck/Bones of the Head and Neck.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Biology/Anatomy/05 Head and Neck/Joints of the Head and Neck/Joints of the Head and Neck.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
