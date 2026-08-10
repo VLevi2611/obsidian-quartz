@@ -34,39 +34,31 @@ These muscles act on the **temporomandibular joint (TMJ)** to move the mandibl
 
 The neck muscles support the head, facilitate its [[Movement]], and protect the visceral and vascular structures of the neck.
 
-- **[[Sternocleidomastoid]] (SCM): A prominent landmark originating from the sternum and clavicle and inserting into the **mastoid process**. It rotates the head to the opposite side and flexes the neck. It is innervated by the **accessory nerve (CN XI)**.
-- **[[Trapezius]]:** A large, flat muscle of the back and neck that attaches the scapula to the skull and vertebral column. It elevates the scapula and extends the neck. It is also innervated by **CN XI**.
-- **[[Scalenes]] (Anterior, Middle, Posterior):** These muscles stabilize the head and can elevate the first two ribs to assist in **forced inspiration**.
-- **[[Suprahyoid Group]]:** (Digastric, geniohyoid, mylohyoid, stylohyoid) Located above the hyoid bone, they elevate the larynx and hyoid during swallowing.
-- **[[Infrahyoid Group]] (Strap Muscles):** (Omohyoid, thyrohyoid, sternohyoid, sternothyroid) Located below the hyoid bone, they depress the hyoid and larynx.
+- [[Sternocleidomastoid]] (SCM): A prominent landmark originating from the [[Sternum]] and [[Clavicle]] and inserting into the **mastoid process**. It rotates the head to the opposite side and flexes the neck. 
+- [[Trapezius]]: A large, flat muscle of the back and neck that attaches the scapula to the [[Skull]] and v[[Spinal Column]]. It elevates the [[Scapula]] and extends the neck. 
+- [[Scalenes]] (Anterior, Middle, Posterior): These muscles stabilize the head and can elevate the first two [[Ribs]] to assist in **forced inspiration**.
+- [[Suprahyoid Group]]: (Digastric, geniohyoid, mylohyoid, stylohyoid) Located above the [[Hyoid Bone]], they elevate the larynx and hyoid during swallowing.
+- [[Infrahyoid Group]] (Strap Muscles): (Omohyoid, thyrohyoid, sternohyoid, sternothyroid) Located below the hyoid bone, they depress the hyoid and larynx.
 
 ---
 
-### **4. Muscles of the Tongue, Velum, and Pharynx**
+### Muscles of the Tongue, Velum, and Pharynx
 
 These groups are critical for the mechanical processes of **speech and swallowing**.
 
-- **Tongue Muscles:**
+- [[Tongue]]:
     - **Intrinsic:** (Superior/inferior longitudinal, vertical, transverse) Change the **shape** of the tongue for fine motor movements in speech.
     - **Extrinsic:** (Genioglossus, hyoglossus, styloglossus, palatoglossus) Responsible for **gross movements** like protrusion and retraction. All are innervated by **CN XII** except the palatoglossus (CN X).
-- **[[Muscles of the Velum]] (Soft Palate):** Elevators (levator veli palatini) and depressors (palatoglossus, palatopharyngeus) that seal off the nasal cavity during swallowing and non-nasal speech.
-- **[[Muscles of the Pharynx]]:**
+- [[Muscles of the Velum]] (Soft Palate): Elevators (levator veli palatini) and depressors (palatoglossus, palatopharyngeus) that seal off the nasal cavity during swallowing and non-nasal speech.
+- [[Muscles of the Pharynx]]:
     - **Constrictors:** (Superior, middle, inferior) Form the lateral and posterior walls of the throat and propel food via **peristalsis** into the esophagus.
     - **Longitudinal:** (Stylopharyngeus, salpingopharyngeus, palatopharyngeus) Elevate the pharynx and larynx during swallowing.
 
 ---
 
-### **5. Laryngeal and Extraocular Muscles**
+### Laryngeal and Extraocular Muscles
 
 - **[[Laryngeal Muscles]]:**
     - **Intrinsic muscles** (like the cricoarytenoids and thyroarytenoids) adjust the vocal folds for phonation and breathing.
     - The **posterior cricoarytenoid** is the **only abductor** (opener) of the vocal folds, essential for breathing.
 - **[[Extraocular Muscles]]:** Six muscles (four recti and two obliques) that control the precise movements of the eyeball within the orbit, innervated by CN III, IV, and VI.
-
----
-
-### **Functional and Clinical Significance**
-
-- **Deglutition (Swallowing):** Coordination between the tongue, suprahyoid, laryngeal, and pharyngeal muscles ensures the bolus passes safely over the airway into the esophagus.
-- **Respiration:** The larynx acts as a valve; the **posterior cricoarytenoids** open the vocal folds for air passage, while others close them during swallowing to prevent **aspiration**.
-- **Clinical Signs:** Damage to the **long thoracic nerve** can cause scapular "winging" [previous context], while damage to the **facial nerve** results in facial paralysis and an inability to close the eye tightly.
