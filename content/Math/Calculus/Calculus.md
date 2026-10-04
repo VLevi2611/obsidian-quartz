@@ -12,12 +12,12 @@ tags:
 
 ### [[03 Applications of the Derivative]]
 
-### [[04 Integrals and the Fundamental Theorem]]
+### [[04 Chain Rule]]
 
-### [[05 Transcendental Functions and Differential Equations]]
+### [[05 Integrals]]
 
-### [[06 Techniques and Applications of Integration]]
+### [[06 Exponentials and Logarithms]]
 
-### [[07 Infinite Series and Taylor Series]]
+### [[07 T]]
 
 ### [[08 Multivariable and Vector Calculus]]
