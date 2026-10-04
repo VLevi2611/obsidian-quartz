@@ -33,20 +33,11 @@ $$0 < \vert{}x - c\vert{} < \delta \implies \vert{}f(x) - L\vert{} < \varepsilon
 
 - **$\varepsilon$ (Epsilon):** Represents the _target tolerance_ or allowable error for the output $f(x)$. We want $f(x)$ to be within $\varepsilon$ of $L$ (i.e., $L - \varepsilon < f(x) < L + \varepsilon$).
 - **$\delta$ (Delta):** Represents the _input restriction_ required to achieve that target. It tells us how close $x$ must be to $c$ (i.e., $c - \delta < x < c + \delta$).
-- **$0 < \vert{}x - c\vert{} < \delta$:** The $0 <$ part ensures that $x \neq c$. We are looking at points _around_$c$, not necessarily at $c$ itself.
-## 3. Basic Limit Laws
+- **$0 < \vert{}x - c\vert{} < \delta$:** The $0 <$ part ensures that $x \neq c$. We are looking at points _around_ $c$, not necessarily at $c$ itself.
+## Basic Limit Laws
 
 If $\lim_{x \to c} f(x) = L$ and $\lim_{x \to c} g(x) = M$, then:
-
-  
-
 - **Sum Rule:** $\lim_{x \to c} [f(x) + g(x)] = L + M$
-    
-      
-    
 - **Product Rule:** $\lim_{x \to c} [f(x) \cdot g(x)] = L \cdot M$
-    
-      
-    
 - **Quotient Rule:** $\lim_{x \to c} \left[\frac{f(x)}{g(x)}\right] = \frac{L}{M}$, provided $M \neq 0$
 
