@@ -779,6 +779,34 @@
         "type": "FILES",
         "pattern": "content/Math/Calculus/10 Infinite Series/10 Infinite Series.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/11 Motion Along a Curve/11 Motion Along a Curve.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/12 Partial Derivatives/12 Partial Derivatives.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/13 Multiple Integrals/13 Multiple Integrals.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/14 Vector Calculus/14 Vector Calculus.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
