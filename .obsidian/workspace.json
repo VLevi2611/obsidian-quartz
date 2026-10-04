@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/Calculus/01 Limits/Codomain.md",
+                "file": "content/Math/Calculus/01 Limits/Range.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codomain"
+              "title": "Range"
             }
           }
         ]
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Math/Calculus/01 Limits/Codomain.md",
+                "file": "content/Math/Calculus/01 Limits/Range.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,8 +308,9 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
-    "content/Math/Calculus/01 Limits/Function.md",
     "content/Math/Calculus/01 Limits/Codomain.md",
+    "content/Math/Calculus/01 Limits/Range.md",
+    "content/Math/Calculus/01 Limits/Function.md",
     "content/Math/Calculus/01 Limits/Domain.md",
     "content/Math/Calculus/01 Limits/Limit.md",
     "content/Math/Calculus/01 Limits/01 Limits.md",
@@ -343,7 +344,6 @@
     "content/Biology/Anatomy/Anatomy.md",
     "content/Biology/Biology.md",
     "content/Math/Linear Algebra/Linear Algebra.md",
-    "content/index.md",
     "content/Resources/Images/Sacrococcygeal Joint.png",
     "content/Resources/Images/Lumbosacral Joint.png",
     "content/Resources/Images/Pubic Symphysis.png",
