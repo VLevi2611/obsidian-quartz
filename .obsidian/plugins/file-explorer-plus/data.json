@@ -702,6 +702,20 @@
         "type": "FILES",
         "pattern": "content/Biology/Anatomy/05 Head and Neck/Joints of the Head and Neck/Joints of the Head and Neck.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/01 Limits/01 Limits.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/Calculus.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
