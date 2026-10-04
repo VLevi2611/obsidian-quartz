@@ -18,6 +18,18 @@ tags:
 
 ### [[06 Exponentials and Logarithms]]
 
-### [[07 T]]
+### [[07 Techniques of Integration]]
 
-### [[08 Multivariable and Vector Calculus]]
+### [[08 Applications of the Integral]]
+
+### [[09 Polar Coordinates and Complex Numbers]]
+
+### [[10 Infinite Series]]
+
+### [[11 Motion Along a Curve]]
+
+### [[12 Partial Derivatives]]
+
+### [[13 Multiple Integrals]]
+
+### [[14 Vector Calculus]]
