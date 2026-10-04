@@ -8,7 +8,7 @@ tags:
 
 ### [[01 Limits]]
 
-- **Limits & Approach**: A limit \(\lim_{x \to a} f(x) = L\) describes the value \(f(x)\) approaches as \(x\) gets arbitrarily close to \(a\). Evaluated rigorously using \(\epsilon\)-\(\delta\) (epsilon-delta) criteria \(|f(x) - L| < \epsilon\) for \(0 < |x - a| < \delta\).
+- **Limits & Approach**: A [[Limit]]- $\lim_{x \to a} f(x) = L$ describes the value $f(x)$ approaches as $x$ gets arbitrarily close to $a$. Evaluated rigorously using $\epsilon - \delta$ epsilon-delta criteria $|f(x) - L| < \epsilon$ for $0 < |x - a| < \delta$.
 - **Continuity**: \(f(x)\) is continuous at \(x = a\) if \(\lim_{x \to a} f(x) = f(a)\). Continuous functions on closed intervals \([a,b]\) satisfy the **Extreme Value Theorem** (reaches maximum \(M\) and minimum \(m\)) and the **Intermediate Value Theorem** (takes all intermediate values between \(m\) and \(M\)).
 - **Key Limit Rules**: Standard trigonometric limits include \(\lim_{x \to 0} \frac{\sin x}{x} = 1\) and \(\lim_{x \to 0} \frac{1 - \cos x}{x} = 0\).
 
