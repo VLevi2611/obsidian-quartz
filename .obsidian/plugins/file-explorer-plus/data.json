@@ -716,6 +716,69 @@
         "type": "FILES",
         "pattern": "content/Math/Calculus/Calculus.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/02 Derivatives/02 Derivatives.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/03 Applications of the Derivative/03 Applications of the Derivative.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/04 Chain Rule/04 Chain Rule.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/05 Integrals/05 Integrals.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/06 Exponentials and Logarithms/06 Exponentials and Logarithms.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/07 Techniques of Integration/07 Techniques of Integration.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/08 Applications of the Integral/08 Applications of the Integral.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/09 Polar Coordinates and Complex Numbers/09 Polar Coordinates and Complex Numbers.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/10 Infinite Series/10 Infinite Series.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
