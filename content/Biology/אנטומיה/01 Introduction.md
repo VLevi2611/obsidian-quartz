@@ -6,38 +6,37 @@ tags:
   - university-notes
 ---
 
-[→ קורס: אנטומיה כללית] | [[00_Anatomy_Index|תוכן עניינים]] | [הבא: 02 Osteology ←]
+[→ Course: General Anatomy] | [[00_Anatomy_Index|Table of Contents]] | [Next: 02 Osteology ←]
 
-# 01. מבוא לאנטומיה – מנחים, מישורים ותנועות
-**נושא:** Introduction to Anatomy: Positions, Planes, Directions, and Movements  
-**מקור:** 1 INTRO Bio 2025 (מצגות הקורס)
-
----
-
-&gt; [!tip] דגש מרצה / מיקוד למבחן
-&gt; - כל תיאור כיוון או מיקום בגוף **תמיד** מתייחס ל-**Anatomical Position**, גם אם הנבדק שוכב, יושב או עומד בצורה אחרת.
-&gt; - לשים לב להבדלים המדויקים בין המישורים האנכיים (Midsagittal מול Parasagittal).
-&gt; - לזכור את המשמעות הקלינית וההיסטורית של ה-Lithotomic position.
+# 01. Introduction to Anatomy – Positions, Planes, and Movements
+**Topic:** Anatomical Position, Body Planes, Directional Terms, and Joint Movements  
+**Source:** 1 INTRO Bio 2025 (Course Slides)
 
 ---
 
-## 1. תנוחות גוף (Body Positions)
-
-הגדרת מנחי הגוף השונים המשמשים בבדיקות קליניות ובתיאור אנטומי:
-
-* **[[Anatomical Position]]:** עמידה זקופה, עיניים ופנים מופנות ישר קדימה, גפיים תחתונות צמודות וישרות כשכפות הרגליים פונות קדימה, זרועות לצדי הגוף וכפות הידיים מופנות קדימה (סופינציה מלאה). זהו מנח הייחוס האוניברסלי.
-* **[[Supine Position]]:** שכיבה על הגב כשפני הגוף (החזה והבטן) פונים כלפי מעלה.
-* **[[Prone Position]]:** שכיבה על הבטן כשפני הגוף פונים כלפי מטה (הגב פונה מעלה).
-* **[[Recumbent Position]]:** מונח כללי למצב של שכיבה / מנוחה.
-* **[[Lithotomic Position]] (Lithotomy):** שכיבה על הגב עם ירכיים וברכיים מכופפות ב-90 מעלות, מפוסקות ונתמכות.
-  * *אטימולוגיה:* מיוונית – *lithos* (אבן) + *tomos* (חיתוך/ניתוח). שימשה בעבר להוצאת אבנים בדרכי השתן, וכיום משמשת ללידות ולבדיקות אגן וגינקולוגיה.
+> [!tip] Exam Focus & Key Concepts
+> - Every directional reference in anatomy assumes the body is in the **Anatomical Position**, regardless of the subject's actual posture.
+> - Distinguish clearly between the two sagittal planes: **Midsagittal** (equal halves along the midline) vs. **Parasagittal** (unequal halves).
+> - Remember the clinical and historical context of the **Lithotomic position** (*lithos* = stone, *tomos* = cut).
 
 ---
 
-## 2. מישורי הגוף (Body Planes)
+## 1. Body Positions
 
-מישורים דמיוניים דו-ממדיים החוצים את הגוף במנח האנטומי:
+Standard postures used in anatomical description and clinical examination:
 
+* **[[Anatomical Position]]:** Standing erect, gaze directed forward, lower limbs straight and together with feet facing forward, arms hanging by the sides with palms facing forward (**supinated**). This is the universal baseline reference for all descriptions.
+* **[[Supine Position]]:** Lying on the back with the face and anterior body surface facing upward.
+* **[[Prone Position]]:** Lying on the stomach with the back facing upward and the face directed down.
+* **[[Recumbent Position]]:** General medical term for lying down / resting.
+* **[[Lithotomic Position]] (Lithotomy):** Reclined on the back with hips and knees flexed at roughly 90°, thighs abducted, and feet supported in stirrups.
+  * *Etymology:* From Greek *lithos* (stone) + *tomos* (cutting/incision). Historically used for surgical removal of bladder stones; today standard for gynecological exams, pelvic procedures, and childbirth.
+
+---
+
+## 2. Anatomical Planes
+
+Two-dimensional imaginary flat surfaces passing through the body in anatomical position:
 
 ```
 
@@ -45,61 +44,63 @@ tags:
       [ Superior ]
            │
     ┌──────┴──────┐
+```
+
+Sagittal Coronal (Left / Right) (Ant / Post) └──────┬──────┘ │ [ Horizontal ] (Sup / Inferior) │ [ Inferior ]
 
 ```
 
-Sagittal Coronal (ימין/שמאל) (קדימה/אחורה) └──────┬──────┘ │ [ Horizontal ] (עליון/תחתון) │ [ Inferior ]
-
-```
-
-* **[[Sagittal Plane]] (מישור חציצי):** מישור אנכי המחלק את הגוף לצד ימין ולצד שמאל.
-  * **Midsagittal Plane (Median):** עובר בדיוק בקו האמצע (Midline) ומחלק את הגוף לשני חצאים סימטריים ושווים. נקרא בהתאמה לתפר הסגיטלי בגולגולת (*Sagittal suture*).
-  * **Parasagittal Plane:** כל מישור סגיטלי המקביל לקו האמצע אך אינו עובר בו, ולכן מחלק את הגוף לחלקים ימני ושמאלי שאינם שווים.
-* **[[Coronal Plane]] (Frontal - מישור כתר / חזיתי):** מישור אנכי הניצב למישור הסגיטלי, המחלק את הגוף לחלק קדמי (Anterior / Ventral) ולחלק אחורי (Posterior / Dorsal). קרוי על שם התפר הכתרי בגולגולת (*Coronal suture*).
-* **[[Horizontal Plane]] (Transverse / Axial - מישור אופקי):** מישור אופקי הניצב לשני המישורים האנכיים, המחלק את הגוף לחלק עליון (Superior) ולחלק תחתון (Inferior).
+* **[[Sagittal Plane]]:** Vertical plane dividing the body or an organ into right and left portions.
+  * **Midsagittal Plane (Median):** Passes exactly through the vertical midline, dividing the body into two equal, symmetrical right and left halves. Aligns with the *sagittal suture* of the cranium.
+  * **Parasagittal Plane:** Any vertical plane running parallel to the midline that divides the body into unequal right and left sections.
+* **[[Coronal Plane]] (Frontal Plane):** Vertical plane oriented perpendicular to the sagittal plane; divides the body into **anterior** (front / ventral) and **posterior** (back / dorsal) portions. Named after the *coronal suture*.
+* **[[Horizontal Plane]] (Transverse / Axial Plane):** Horizontal plane running perpendicular to both vertical planes; divides the body into **superior** (upper) and **inferior** (lower) portions.
 
 ---
 
-## 3. מונחי יחס וכיוון מרחבי (Directions &amp; Relationships)
+## 3. Directional Terms & Relationships
 
-מונחים אלה משמשים לתיאור מיקומם של איברים ומבנים ביחס למבנים אחרים:
+Relative spatial terms used to describe the location of one structure with respect to another:
 
-| מונח | משמעות | מונח נגדי | משמעות נגדית |
+| Term | Definition | Antonym | Definition |
 | :--- | :--- | :--- | :--- |
-| **[[Anterior]]** | קדמי (לכיוון חזית הגוף) | **[[Posterior]]** | אחורי (לכיוון גב הגוף) |
-| **[[Ventral]]** | צד הגחון / בטן | **[[Dorsal]]** | צד הגב |
-| **[[Superior]]** | עליון (קרוב יותר לקודקוד הראש) | **[[Inferior]]** | תחתון (לכיוון כפות הרגליים) |
-| **[[Cranial]]** | לכיוון הגולגולת / ראש | **[[Caudal]]** | לכיוון ה"זנב" / מטה |
-| **[[Rostral]]** | לכיוון האף / קדמת הראש | **Caudal** | לכיוון אחורי/תחתון |
-| **[[Medial]]** | קרוב יותר לקו האמצע (Midline) | **[[Lateral]]** | רחוק מקו האמצע (לצדדים) |
-| **[[Proximal]]** | קרוב לנקודת המוצא של הגפה / מבנה | **[[Distal]]** | מרוחק מנקודת המוצא של הגפה |
-| **[[Superficial]]** | שטחי (קרוב לפני השטח / עור) | **[[Deep]]** | עמוק (רחוק מפני השטח) |
+| **[[Anterior]]** | Toward or at the front of the body | **[[Posterior]]** | Toward or at the back of the body |
+| **[[Ventral]]** | Belly-side / front surface | **[[Dorsal]]** | Back-side / rear surface |
+| **[[Superior]]** | Toward the head / upper part of a structure | **[[Inferior]]** | Away from the head / lower part |
+| **[[Cranial]]** | Toward the skull / head end | **[[Caudal]]** | Toward the tail end / inferior tip |
+| **[[Rostral]]** | Toward the nose / anterior head region | **Caudal** | Toward the back of the head or down |
+| **[[Medial]]** | Closer to the midline of the body | **[[Lateral]]** | Farther from the midline (toward sides) |
+| **[[Proximal]]** | Closer to the point of origin / attachment | **[[Distal]]** | Farther from the point of origin / attachment |
+| **[[Superficial]]** | Closer to the external surface / skin | **[[Deep]]** | Farther away from the surface (internal) |
 
 ---
 
-## 4. מונחי תנועה במפרקים (Anatomical Movements)
+## 4. Anatomical Movements
 
-התנועות מוגדרות ביחס למישורים האנטומיים:
+Standardized terms describing joint articulation across cardinal planes:
 
-### תנועות זוויתיות (Angular Movements)
-* **[[Flexion]] (כיפוף):** הקטנת הזווית במפרק בין שתי עצמות (לרוב תנועה קדימה במישור הסגיטלי, למעט במפרק הברך).
-* **[[Extension]] (פשיטה / יישור):** הגדלת הזווית במפרק והחזרת האיבר למנח האנטומי.
-* **[[Hyperextension]] (פשיטת-יתר):** המשך תנועת פשיטה מעבר למנח האנטומי התקין.
-* **[[Lateral Flexion]] (כיפוף צדי):** תנועה של כיפוף עמוד השדרה הצידה (במישור הקורונלי).
-* **[[Abduction]] (הרחקה):** הרחקת איבר או גפה מקו האמצע של הגוף (במישור הקורונלי).
-* **[[Adduction]] (קירוב):** קירוב איבר או גפה בחזרה לכיוון קו האמצע של הגוף.
+### Angular Movements
+* **[[Flexion]]:** Bending movement that **decreases the angle** between articulating bones (typically an anterior movement in the sagittal plane, except at the knee joint).
+* **[[Extension]]:** Straightening movement that **increases the angle** between bones, returning a joint toward the anatomical position.
+* **[[Hyperextension]]:** Continuation of extension beyond the standard anatomical limit.
+* **[[Lateral Flexion]]:** Bending movement of the vertebral column sideways in the coronal plane.
+* **[[Abduction]]:** Movement of a limb or structure **away** from the midline in the coronal plane.
+* **[[Adduction]]:** Movement of a limb or structure **toward** the midline in the coronal plane.
 
-### תנועות סיבוביות ומיוחדות (Rotational &amp; Special Movements)
-* **[[Rotation]] (רוטציה):** סיבוב של עצם סביב צירה האורכי.
-  * **Medial (Internal) Rotation:** סיבוב פנימה לעבר קו האמצע.
-  * **Lateral (External) Rotation:** סיבוב החוצה הרחק מקו האמצע.
-* **[[Pronation]] (פרונציה):** סיבוב האמה כך שכף היד פונה לאחור (או כלפי מטה אם המרפק מכופף).
-* **[[Supination]] (סופינציה):** סיבוב האמה כך שכף היד פונה קדימה (כמו במנח האנטומי) או כלפי מעלה.
-* **[[Inversion]]:** הפניית כף הרגל כך שמשטח כף הרגל (Sole) פונה מדיאלית (פנימה).
-* **[[Eversion]]:** הפניית כף הרגל כך שמשטח כף הרגל פונה לטרלית (החוצה).
+### Rotational & Specialized Movements
+* **[[Rotation]]:** Revolving a bone around its own longitudinal axis.
+  * **Medial (Internal) Rotation:** Anterior surface turns toward the midline.
+  * **Lateral (External) Rotation:** Anterior surface turns away from the midline.
+* **[[Pronation]]:** Rotation of the forearm so the palm faces posteriorly (or downward if the elbow is bent).
+* **[[Supination]]:** Rotation of the forearm restoring the palm to the anterior-facing anatomical position (or upward).
+* **[[Inversion]]:** Tilting of the foot so that the plantar surface (sole) turns inward toward the median plane.
+* **[[Eversion]]:** Tilting of the foot so that the plantar surface (sole) turns outward away from the median plane.
 
 ---
 
-[→ קורס: אנטומיה כללית] | [[00_Anatomy_Index|תוכן עניינים]] | [הבא: 02 Osteology ←]
-
+[→ Course: General Anatomy] | [[00_Anatomy_Index|Table of Contents]] | [Next: 02 Osteology ←]
 ```
+
+---
+
+Ready to move straight into the second presentation, **"2 OSTEOLOGY Bio 2024"**?
