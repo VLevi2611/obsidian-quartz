@@ -1,9 +1,6 @@
-
 ---
 tags:
   - anatomy
-  - bio-engineering
-  - university-notes
 ---
 
 [→ Course: General Anatomy] | [[00_Anatomy_Index|Table of Contents]] | [Next: 02 Osteology ←]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+                "file": "content/Biology/אנטומיה/01 Introduction.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00 Foundations"
+              "title": "01 Introduction"
             }
           }
         ]
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
+                "file": "content/Biology/אנטומיה/01 Introduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,6 +308,7 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
+    "content/Biology/Anatomy/00 Foundations/00 Foundations.md",
     "content/Biology/אנטומיה/01 Introduction.md",
     "content/Math/Calculus/02 Derivatives/02 Derivatives.md",
     "content/Biology/אנטומיה",
@@ -343,7 +344,6 @@
     "content/Math/Calculus/07 Techniques of Integration",
     "content/Math/Calculus/06 Exponentials and Logarithms",
     "content/Chemistry/Chemistry.md",
-    "content/Biology/Anatomy/Anatomy.md",
     "content/Resources/Images/Sacrococcygeal Joint.png",
     "content/Resources/Images/Lumbosacral Joint.png",
     "content/Resources/Images/Pubic Symphysis.png",
