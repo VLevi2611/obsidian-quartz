@@ -7,118 +7,51 @@ tags:
 **Previous Topic:** [[Sets and Functions]]
 **Up Next:** [[Bounds and completeness]]
 
-
+___
 ## 1. Number System Hierarchy & Construction of Rational Numbers ($\mathbb{Q}$)
 
 The real line $\mathbb{R}$ is constructed hierarchically by resolving the structural deficiencies of simpler number systems:
 
-  
-
 $$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}$$
-
-  
-
-```
-  [ Natural Numbers ℕ ]  ──► ( Add additive inverses & 0 )  ──►  [ Integers ℤ ]
-                                                                      │
-  [ Real Numbers ℝ ]     ◄── ( Fill algebraic & metric gaps ) ◄──  [ Rationals ℚ ]
-```
-
 ### The Set of Rational Numbers
 
 Formally, $\mathbb{Q}$ is defined as the set of equivalence classes of ordered pairs $(p, q)$ under the equivalence relation $(p_1, q_1) \sim (p_2, q_2) \iff p_1 q_2 = p_2 q_1$:
 
-  
-
 $$\mathbb{Q} = \left\{ \frac{p}{q} \;\middle\vert{}\; p, q \in \mathbb{Z},\, q \neq 0 \right\}$$
 
-  
 
 - **Arithmetic Closure:** $\mathbb{Q}$ forms an algebraic field; it is closed under addition ($+$), subtraction ($-$), multiplication ($\cdot$), and division ($\div$) by non-zero elements.
-    
-      
-    
 - **Density Property:** $\mathbb{Q}$ is dense in itself. For any $a, b \in \mathbb{Q}$ with $a < b$, there exists $c \in \mathbb{Q}$ such that $a < c < b$ (e.g., $c = \frac{a+b}{2}$).
-    
-      
-    
+---
 
 ## 2. Incompleteness of $\mathbb{Q}$ & Discovery of Irrationals
 
 Despite density, $\mathbb{Q}$ contains "holes" or metric gaps. It lacks the property required to represent continuous geometric lengths (e.g., the diagonal of a unit square).
 
-  
-
 ### Rigorous Proof: Irrationality of $\sqrt{2}$
 
 1. **Assumption (Contradiction Setup):**
-    
-      
-    
     Suppose $\sqrt{2} \in \mathbb{Q}$. Then there exist coprime integers $p, q \in \mathbb{Z}$ with $q \neq 0$ such that:
-    
-      
-    
     $$\sqrt{2} = \frac{p}{q} \quad \text{where } \gcd(p, q) = 1$$
     
-      
-    
-2. **Algebraic Manipulation:**
-    
-      
-    
-    Squaring both sides and multiplying by $q^2$:
-    
-      
-    
+2. Squaring both sides and multiplying by $q^2$:
     $$2 = \frac{p^2}{q^2} \implies p^2 = 2q^2 \quad \text{--- (Equation 1)}$$
     
-3. **Parity Deduction for $p$:**
-    
-      
-    
-    Since $p^2 = 2q^2$, $p^2$ is an even integer.
-    
-      
-    
+3. Since $p^2 = 2q^2$, $p^2$ is an even integer.
     > **Lemma:** If $n^2$ is even for $n \in \mathbb{Z}$, then $n$ must be even.
-    > 
-    >   
-    > 
     > _Proof of Lemma:_ If $n$ were odd, $n = 2k + 1 \implies n^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$, which is odd. By contrapositive, if $n^2$ is even, $n$ is even.
-    > 
-    >   
     
     Applying the lemma, $p$ is even. Thus, write $p = 2k$ for some integer $k \in \mathbb{Z}$.
     
-      
-    
-4. **Parity Deduction for $q$:**
-    
-      
-    
-    Substitute $p = 2k$ into Equation 1:
-    
-      
-    
+4. Substitute $p = 2k$ into Equation 1:
     $$(2k)^2 = 2q^2 \implies 4k^2 = 2q^2 \implies q^2 = 2k^2$$
     
     By the same lemma, since $q^2$ is even, **$q$ must also be even**.
     
-      
-    
-5. **Contradiction:**
-    
-      
-    
+1. **Contradiction:**
     If both $p$ and $q$ are even, $2$ divides both $p$ and $q$ ($\gcd(p, q) \ge 2$), directly contradicting the initial condition that $\gcd(p, q) = 1$.
-    
-      
-    
 
 $$\therefore \sqrt{2} \notin \mathbb{Q} \quad \text{i.e., } \sqrt{2} \text{ is irrational.}$$
-
-  
 
 ### The Metric Gap in $\mathbb{Q}$
 
