@@ -93,121 +93,48 @@ There exists a strict total order relation $<$ on $\mathbb{R}$ satisfying:
 4. **Multiplicative Compatibility:**
     $$\forall a, b, c \in \mathbb{R}, \quad (a < b \land c > 0) \implies a \cdot c < b \cdot c$$
     
-
+___
 ## 4. Absolute Value, Metrics & Fundamental Inequalities
 
 ### Formal Definition of Absolute Value
 
 The absolute value function $\vert{}\cdot\vert{}: \mathbb{R} \to [0, \infty)$ measures distance on the real line:
 
-  
-
 $$\vert{}x\vert{} = \begin{cases} x & \text{if } x \ge 0 \\ -x & \text{if } x < 0 \end{cases}$$
 
 ### Key Operational Properties
 
 1. **Non-negativity:** $\vert{}x\vert{} \ge 0$, and $\vert{}x\vert{} = 0 \iff x = 0$
-    
-      
-    
 2. **Multiplicativity:** $\vert{}x \cdot y\vert{} = \vert{}x\vert{} \cdot \vert{}y\vert{}$
-    
-      
-    
 3. **Symmetry:** $\vert{}x - y\vert{} = \vert{}y - x\vert{}$
-    
-      
-    
 
 ### Triangle Inequalities & Algebraic Proofs
 
 1. **Standard Triangle Inequality:**
-    
-      
-    
     $$\forall a, b \in \mathbb{R}, \quad \vert{}a + b\vert{} \le \vert{}a\vert{} + \vert{}b\vert{}$$
     
     _Proof:_ Since $-\vert{}a\vert{} \le a \le \vert{}a\vert{}$ and $-\vert{}b\vert{} \le b \le \vert{}b\vert{}$, add the inequalities to get:
-    
-      
-    
     $$-(\vert{}a\vert{} + \vert{}b\vert{}) \le a + b \le \vert{}a\vert{} + \vert{}b\vert{} \iff \vert{}a + b\vert{} \le \vert{}a\vert{} + \vert{}b\vert{}$$
     
 2. **Reverse Triangle Inequality:**
-    
-      
-    
     $$\forall a, b \in \mathbb{R}, \quad \vert{}\vert{}a\vert{} - \vert{}b\vert{}\vert{} \le \vert{}a - b\vert{}$$
     
     _Proof:_ Express $\vert{}a\vert{} = \vert{}(a - b) + b\vert{} \le \vert{}a - b\vert{} + \vert{}b\vert{} \implies \vert{}a\vert{} - \vert{}b\vert{} \le \vert{}a - b\vert{}$.
-    
-      
-    
     Similarly, $\vert{}b\vert{} = \vert{}(b - a) + a\vert{} \le \vert{}a - b\vert{} + \vert{}a\vert{} \implies -(\vert{}a\vert{} - \vert{}b\vert{}) \le \vert{}a - b\vert{}$.
-    
-      
-    
     Combining these yields $\vert{}\vert{}a\vert{} - \vert{}b\vert{}\vert{} \le \vert{}a - b\vert{}$.
-    
-      
-    
 
 ### Bernoulli's Inequality (Inductive Proof)
 
 For any real number $x \ge -1$ and any integer $n \in \mathbb{N} \cup \{0\}$:
-
-  
-
 $$(1 + x)^n \ge 1 + nx$$
-
-  
-
 - **Base Case ($n = 0$):** $(1 + x)^0 = 1 \ge 1 + 0(x) = 1$. (Holds true).
-    
-      
     
 - **Inductive Hypothesis:** Assume $(1 + x)^k \ge 1 + kx$ holds for some $k \ge 0$.
     
-      
-    
 - **Inductive Step:** Prove for $n = k + 1$. Since $x \ge -1$, we have $(1 + x) \ge 0$:
-    
-      
-    
     $$(1 + x)^{k+1} = (1 + x)^k (1 + x) \ge (1 + kx)(1 + x)$$
-    
     Expanding the right side:
-    
-      
-    
     $$(1 + kx)(1 + x) = 1 + x + kx + kx^2 = 1 + (k + 1)x + kx^2$$
-    
     Since $k \ge 0$ and $x^2 \ge 0$, the term $kx^2 \ge 0$. Dropping it preserves or weakens the inequality:
-    
-      
-    
-    $$1 + (k + 1)x + kx^2 \ge 1 + (k + 1)x$$
-    
-    $$\therefore (1 + x)^{k+1} \ge 1 + (k + 1)x$$
-    
+    $$1 + (k + 1)x + kx^2 \ge 1 + (k + 1)x$$$$\therefore (1 + x)^{k+1} \ge 1 + (k + 1)x$$
     By induction, Bernoulli's inequality holds for all $n \ge 0$.
-    
-      
-    
-
-## 🔗 Related Notes & Links
-
-- **Previous Topic:** `[[Sets-and-Functions]]`
-    
-      
-    
-- **Next Topic:** `[[Bounds-and-Completeness]]` (Supremum, Infimum, Archimedean Property, and Completeness Axiom)
-    
-      
-    
-- **Folder Location:** `Math/Calculus/00-Foundations/The-Real-Numbers`
-    
-      
-    
-
-Would you like to move on to creating the next note in the sequence—`[[Bounds-and-Completeness]]`—or tweak any section in this expanded template first?
