@@ -57,57 +57,40 @@ $$\therefore \sqrt{2} \notin \mathbb{Q} \quad \text{i.e., } \sqrt{2} \text{ is i
 
 Consider the set $A = \{ x \in \mathbb{Q} \mid x > 0 \text{ and } x^2 < 2 \}$. While $A$ is bounded above in $\mathbb{Q}$ (e.g., by $2$), **there is no rational number $m \in \mathbb{Q}$ that serves as the precise "least upper bound" for $A$**. This deficit necessitates the construction of $\mathbb{R}$.
 
-  
+---
 
 ## 3. The Ordered Field Structure of $\mathbb{R}$
 
 The real numbers $\mathbb{R}$ are defined algebraically as an **Ordered Field** $(\mathbb{R}, +, \cdot, <)$.
-
-  
-
 ### A. Field Axioms
 
 $\mathbb{R}$ possesses two binary operations $+: \mathbb{R} \times \mathbb{R} \to \mathbb{R}$ and $\cdot: \mathbb{R} \times \mathbb{R} \to \mathbb{R}$ satisfying:
 
   
 
-|**Axiom**|**Addition (+)**|**Multiplication (⋅)**|
-|---|---|---|
-|**Closure**|$\forall a, b \in \mathbb{R},\; a + b \in \mathbb{R}$|$\forall a, b \in \mathbb{R},\; a \cdot b \in \mathbb{R}$|
-|**Associativity**|$(a + b) + c = a + (b + c)$|$(a \cdot b) \cdot c = a \cdot (b \cdot c)$|
-|**Commutativity**|$a + b = b + a$|$a \cdot b = b \cdot a$|
-|**Identity**|$\exists 0 \in \mathbb{R} \text{ s.t. } a + 0 = a$|$\exists 1 \in \mathbb{R} \text{ s.t. } 1 \neq 0, \; a \cdot 1 = a$|
-|**Inverses**|$\forall a, \exists (-a) \text{ s.t. } a + (-a) = 0$|$\forall a \neq 0, \exists a^{-1} \text{ s.t. } a \cdot a^{-1} = 1$|
-|**Distributivity**|\multicolumn{2}{c|}{$a \cdot (b + c) = a \cdot b + a \cdot c$}|
+| **Axiom**         | **Addition (+)**                                      | **Multiplication (⋅)**                                              |
+| ----------------- | ----------------------------------------------------- | ------------------------------------------------------------------- |
+| **Closure**       | $\forall a, b \in \mathbb{R},\; a + b \in \mathbb{R}$ | $\forall a, b \in \mathbb{R},\; a \cdot b \in \mathbb{R}$           |
+| **Associativity** | $(a + b) + c = a + (b + c)$                           | $(a \cdot b) \cdot c = a \cdot (b \cdot c)$                         |
+| **Commutativity** | $a + b = b + a$                                       | $a \cdot b = b \cdot a$                                             |
+| **Identity**      | $\exists 0 \in \mathbb{R} \text{ s.t. } a + 0 = a$    | $\exists 1 \in \mathbb{R} \text{ s.t. } 1 \neq 0, \; a \cdot 1 = a$ |
+| **Inverses**      | $\forall a, \exists (-a) \text{ s.t. } a + (-a) = 0$  | $\forall a \neq 0, \exists a^{-1} \text{ s.t. } a \cdot a^{-1} = 1$ |
+**distributivity** $a \cdot (b + c) = a \cdot b + a \cdot c$
 
 ### B. Order Axioms
 
 There exists a strict total order relation $<$ on $\mathbb{R}$ satisfying:
 
-  
-
 1. **Trichotomy:** For any $a, b \in \mathbb{R}$, exactly one of the following holds:
-    
-      
-    
-    $$a < b, \quad a = b, \quad \text{or} \quad a > b$$
+	$$a < b, \quad a = b, \quad \text{or} \quad a > b$$
     
 2. **Transitivity:**
-    
-      
-    
     $$\forall a, b, c \in \mathbb{R}, \quad (a < b \land b < c) \implies a < c$$
     
 3. **Additive Compatibility:**
-    
-      
-    
     $$\forall a, b, c \in \mathbb{R}, \quad a < b \implies a + c < b + c$$
     
 4. **Multiplicative Compatibility:**
-    
-      
-    
     $$\forall a, b, c \in \mathbb{R}, \quad (a < b \land c > 0) \implies a \cdot c < b \cdot c$$
     
 
