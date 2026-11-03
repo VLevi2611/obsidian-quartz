@@ -723,6 +723,20 @@
         "type": "FILES",
         "pattern": "content/Math/Calculus/01 Sequences and Their Limits/01 Sequences and Their Limits.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/02 Infinite Series/02 Infinite Series.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/03 Limits and Continuity of Functions/03 Limits and Continuity of Functions.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
