@@ -4,84 +4,50 @@ tags:
   - math
   - calculus
 ---
-# 📐 Calculus
+# 📐 Calculus 
 
-**Subject:** Mathematics / Engineering Sciences
-**Level:** Undergraduate (Biomedical Engineering)
-**Main Categories:** Single-Variable & Multi-Variable Calculus
-
----
-
-## 🏗️ 00 Foundations & Preliminaries
-*Functions, graphs, limits, and basic mathematical structures.*
-
-* **Functions & Graphs:** Algebraic Functions, Trigonometric Functions ($\sin x$, $\cos x$), Exponential ($e^x$) & Logarithmic ($\ln x$) Functions
-* **Limits & Continuity:** Intuitive Limit, One-Sided Limits, Limits at Infinity, Continuity Definitions
-* **Intervals & Sets:** Open and Closed Intervals, Rays, Bounds (Supremum & Infimum)
+**Subject:** Mathematics 
+**Level:** Undergraduate (Based on 13-Week Syllabus)
+**Main Categories:** Foundations, Limits, Sequences & Series, Differential Calculus
 
 ---
 
-## 📉 01 Differential Calculus (Single Variable)
-*Rates of change, derivatives, tangent lines, and linear approximations.*
+## 🏗️ 00 Foundations: Sets, Functions & The Real Numbers (Weeks 1–2)
+*Fundamental mathematical structures, logic, and properties of the real number line.*
 
-* **Core Concepts:** Definition of the Derivative ($df/dt$, $dy/dx$), Geometric Interpretation (Slope)
-* **Differentiation Rules:**
-  * Sum, Difference, Constant Multiple Rules
-  * Product Rule & Quotient Rule
-  * Chain Rule for Composite Functions
-* **Derivatives of Standard Functions:**
-  * Power Rule ($x^n$)
-  * Trigonometric & Inverse Trigonometric Functions
-  * Exponential ($e^x$, $b^x$) & Logarithmic ($\ln x$) Functions
-* **Applications of Derivatives:**
-  * Tangent Lines & Linear Approximation
-  * Critical Points, Extrema, and Curve Sketching
-  * Related Rates & Optimization Problems
-  * Newton's Method
+* **Sets & Operations:** Sets of numbers, notations, and the principle of mathematical induction (including Newton's Binomial).
+* **Functions:** Image and graphs, injectivity (one-to-one) and surjectivity (onto), invertible functions, and composition of functions.
+* **The Real Numbers:** Rational numbers, ordered fields, and proof that $\sqrt{2}$ is irrational.
+* **Bounds & Completeness:** Upper and lower bounds, Supremum (least upper bound) and Infimum (greatest lower bound). 
+* **Axioms:** The Completeness axiom, Archimedean property, density of rational numbers, and the $\epsilon$-characterization of supremum/infimum.
 
 ---
 
-## 📈 02 Integral Calculus (Single Variable)
-*Accumulation of change, areas under curves, and fundamental theorems.*
+## 🔢 01 Sequences & Their Limits (Weeks 3–5)
+*Convergence of sequences, bounds, and partial limits.*
 
-* **Core Concepts:** The Definite Integral (Riemann Sums), Indefinite Integrals & Antiderivatives
-* **Fundamental Theorem of Calculus:** Connecting Derivatives and Integrals
-* **Integration Techniques:**
-  * Integration by Substitution ($u$-substitution)
-  * Integration by Parts
-  * Partial Fractions
-  * Trigonometric Substitution
-* **Applications of Integrals:**
-  * Area Between Curves
-  * Volumes of Solids of Revolution (Disk/Washer & Shell Methods)
-  * Arc Length & Surface Area of Revolution
+* **Convergence:** Definition of sequence limits, uniqueness of the limit, limit arithmetic, and the relation between boundedness and convergence.
+* **Key Theorems:** Bernoulli's inequality, Sandwich theorem, limits in the broad sense (infinity), and a null sequence multiplied by a bounded sequence.
+* **Constants & Properties:** Euler's constant ($e$), real powers, and Cantor's intersection lemma.
+* **Subsequences:** Partial limits, the Bolzano-Weierstrass theorem, and the generalized Euler sequence.
+* **Advanced Criteria:** Cauchy's criterion for sequences, limit superior ($\limsup$), and limit inferior ($\liminf$).
 
 ---
 
-## ♾️ 03 Sequences & Series
-*Infinite sums, convergence tests, and function representations.*
+## ➕ 02 Infinite Series (Weeks 6–7)
+*Infinite sums, convergence tests, and alternating series.*
 
-* **Sequences:** Convergence, Divergence, and Limits
-* **Infinite Series:** Geometric Series, $p$-series, Harmonic Series
-* **Convergence Tests:** Integral Test, Comparison Tests, Ratio Test, Root Test, Alternating Series Test
-* **Power Series:** Radius and Interval of Convergence
-* **Taylor & Maclaurin Series:** Representing Functions as Power Series, Euler's Formula
-
----
-
-## 🔄 04 Differential Equations
-*Modeling rates of change in dynamic physical and biological systems.*
-
-* **First-Order Differential Equations:** Separable Equations, First-Order Linear Equations
-* **Second-Order Differential Equations:** Homogeneous & Non-Homogeneous Linear Equations
-* **Applications:** Differential Equations of Growth, Differential Equations of Motion
+* **Core Concepts:** Sequences of partial sums, convergence/divergence, and properties of Harmonic, Geometric, and Telescoping series.
+* **Positive Series Tests:** Cauchy's necessary condition, Comparison test, Cauchy's Root test, D'Alembert's Ratio test, and the Cauchy Condensation test.
+* **Alternating Series:** Leibniz's theorem for alternating signs.
+* **Convergence Types:** Absolute convergence vs. conditional convergence, Riemann's theorem, and products of series (including $e^x$).
 
 ---
 
-## 🌐 05 Multivariable Calculus & Vector Analysis
-*Extension of calculus to higher dimensions, vector fields, and spatial coordinates.*
+## 📉 03 Limits & Continuity of Functions (Weeks 8–10)
+*Function behavior as inputs approach specific values, and rigorous definitions of continuity.*
 
-* **Vectors & Geometry of Space:** Dot Product, Cross Product, Vector-Valued Functions
-* **Partial Differentiation:** Partial Derivatives, Gradient ($\nabla f$), Directional Derivatives
-* **Multiple Integrals:** Double and Triple Integrals, Integration in Polar, Cylindrical, and Spherical Coordinates
-* **Vector Calculus:** Divergence ($\text{div}$), Curl ($\text{curl}$), Line Integrals, Surface Integrals
+* **Function Limits:** Equivalence of Cauchy's ($\epsilon-\delta$) and Heine's (sequential) definitions of limits.
+* **Limit Variations:** One-sided limits, limits at infinity, and the Dirichlet function.
+* **Continuity:** Definition of continuity, classification of discontinuity types, and continuity of inverse functions.
+* **Core Theorems:** Intermediate Value Theorem, Weierstrass Extreme Value
