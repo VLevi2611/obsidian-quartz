@@ -74,77 +74,32 @@ $$(a + b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k, \quad \text{where } \bino
 A function $f: X \to Y$ is a rule that assigns to **each** input $x$ in the domain $X$ **exactly one** output $y = f(x)$in the range/codomain $Y$.
 
 Three primary ways to represent a function:
-1. **Formula:** Algebraic expression $y = f(x)$.
-    
-      
-    
+1. **Formula:** Algebraic expression $y = f(x)$. 
 2. **Graph:** Visual plot of ordered pairs $(x, f(x))$ in the coordinate plane.
-    
-      
-    
 3. **Set of Ordered Pairs / Mapping:** The set $\{(x, y) \mid x \in X, y = f(x)\}$ where no first element $x$ is repeated.
-    
-      
-    
-
-```
-  [ Input x ∈ Domain X ]  ───►  [ Rule f ]  ───►  [ Output y = f(x) ∈ Range Y ]
-```
 
 ### Domain & Range Analysis
 
 - **Domain ($X$):** The set of all valid input values.
-    
-      
-    
 - **Range ($Y$):** The set of all resulting output values.
-    
-      
-    
 
-> **Comparison Example: Linear vs. Quadratic vs. Exponential**
-> 
->   
-> 
+> **Example: Linear vs. Quadratic vs. Exponential**
+>
 > Consider the formulas $y_1 = 2x$, $y_2 = x^2$, and $y_3 = 2^x$:
 > 
->   
-> 
 > - **$y = 2x$ (Linear):** Domain is $(-\infty, \infty)$; Range is $(-\infty, \infty)$.
->     
->       
->     
 > - **$y = x^2$ (Square):** Domain is $(-\infty, \infty)$; Range is $[0, \infty)$ (squares cannot be negative).
->     
->       
->     
 > - **$y = 2^x$ (Exponential):** Domain is $(-\infty, \infty)$; Range is $(0, \infty)$ (never reaches $0$ or becomes negative).
->     
->       
->     
 
 ### Key Functional Properties
 
 - **Injectivity (One-to-One):** Distinct inputs produce distinct outputs.
-    
-      
-    
-    $$\forall x_1, x_2 \in X, \quad f(x_1) = f(x_2) \implies x_1 = x_2$$
-    
+$$\forall x_1, x_2 \in X, \quad f(x_1) = f(x_2) \implies x_1 = x_2$$
     _Graphical Test:_ **Horizontal Line Test**—if any horizontal line intersects the graph more than once, the function is **not** injective.
     
-      
-    
 - **Surjectivity (Onto):** Every element in the codomain $Y$ is mapped to by at least one element in domain $X$ (Range = Codomain).
-    
-      
-    
-    $$\forall y \in Y, \quad \exists x \in X \text{ such that } f(x) = y$$
-    
+$$\forall y \in Y, \quad \exists x \in X \text{ such that } f(x) = y$$
 - **Bijectivity:** A function that is both **injective** and **surjective**.
-    
-      
-    
 
 ## 4. Function Composition & Invertibility
 
@@ -152,21 +107,15 @@ Three primary ways to represent a function:
 
 Given $g: X \to Y$ and $f: Y \to Z$, the composite function $(f \circ g)(x)$ is defined by:
 
-  
-
 $$(f \circ g)(x) = f(g(x))$$
 
 _Order Matters:_ In general, $f(g(x)) \neq g(f(x))$.
 
   
 
-> **Worked Example: Composition Breakdown**
-> 
->   
+> **Example:**
 > 
 > Let $g(x) = x^3$ and $f(y) = y^4 + 1$.
-> 
->   
 > 
 > - **$(f \circ g)(x) = f(g(x))$:** Substitute $g(x)$ into $f(y) \implies (x^3)^4 + 1 = x^{12} + 1$.
 >     
