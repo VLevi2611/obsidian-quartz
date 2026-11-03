@@ -737,6 +737,13 @@
         "type": "FILES",
         "pattern": "content/Math/Calculus/03 Limits and Continuity of Functions/03 Limits and Continuity of Functions.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "content/Math/Calculus/04 Differential Calculus/04 Differential Calculus.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
