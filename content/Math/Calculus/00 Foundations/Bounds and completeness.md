@@ -85,45 +85,28 @@ Recall the set $A = \{ x \in \mathbb{Q} \mid x > 0 \text{ and } x^2 < 2 \}$.
 - In $\mathbb{Q}$, $A$ is bounded above by rational numbers like $1.5$ or $1.42$, but **it has no least upper bound in $\mathbb{Q}$** because $\sqrt{2} \notin \mathbb{Q}$.
 - Thus, $\mathbb{Q}$ contains metric "holes", whereas $\mathbb{R}$ forms a unbroken continuum.
 ___
+
 ## 4. Fundamental Analytical Properties of $\mathbb{R}$
 
 The Axiom of Completeness yields critical consequences that underpin limits and analysis.
-
-  
 
 ### The Archimedean Property
 
 The natural numbers $\mathbb{N}$ are not bounded above in $\mathbb{R}$.
 
-  
-
 $$\forall x \in \mathbb{R}, \; \exists n \in \mathbb{N} \text{ such that } n > x$$
 
-#### Equivalent Form (Arbitrarily Small Positive Numbers):
+#### Equivalent Form
 
 $$\forall \epsilon > 0, \; \exists n \in \mathbb{N} \text{ such that } 0 < \frac{1}{n} < \epsilon$$
 
 > **Proof of the Archimedean Property:**
 > 
->   
-> 
 > Assume by contradiction that $\mathbb{N}$ is bounded above. By the Completeness Axiom, $\mathbb{N}$has a supremum $L = \sup \mathbb{N} \in \mathbb{R}$.
-> 
->   
-> 
 > By the $\epsilon$-characterization (choosing $\epsilon = 1$), there exists $m \in \mathbb{N}$ such that:
-> 
->   
-> 
 > $$m > L - 1 \implies m + 1 > L$$
-> 
 > Since $m \in \mathbb{N}$, $m + 1 \in \mathbb{N}$. But $m + 1 > L$ contradicts the assumption that $L$ is an upper bound for $\mathbb{N}$.
-> 
->   
-> 
 > Therefore, $\mathbb{N}$ is unbounded above.
-> 
->   
 
 ### Density Theorems
 
@@ -131,44 +114,26 @@ $$\forall \epsilon > 0, \; \exists n \in \mathbb{N} \text{ such that } 0 < \frac
 
 Between any two distinct real numbers, there exists at least one rational number.
 
-  
-
 $$\forall a, b \in \mathbb{R} \text{ with } a < b, \quad \exists q \in \mathbb{Q} \text{ such that } a < q < b$$
 
 > **Proof Construction Idea:**
 > 
->   
-> 
 > Since $b - a > 0$, by the Archimedean Property there exists $n \in \mathbb{N}$ such that $\frac{1}{n} < b - a \implies nb - na > 1$.
-> 
->   
 > 
 > The interval $(na, nb)$ has a length greater than $1$, so it must contain an integer $m \in \mathbb{Z}$.
 > 
->   
-> 
-> Thus, $na < m < nb \implies a < \frac{m}{n} < b$. Setting $q = \frac{m}{n} \in \mathbb{Q}$ completes the proof.
-> 
->   
+> Thus, $na < m < nb \implies a < \frac{m}{n} < b$. Setting $q = \frac{m}{n} \in \mathbb{Q}$ completes the proof.  
 
 #### 2. Density of Irrational Numbers ($\mathbb{R} \setminus \mathbb{Q}$) in $\mathbb{R}$
 
 Between any two distinct real numbers, there exists at least one irrational number.
 
-  
-
 $$\forall a, b \in \mathbb{R} \text{ with } a < b, \quad \exists x \in \mathbb{R} \setminus \mathbb{Q} \text{ such that } a < x < b$$
 
 > **Proof Construction Idea:**
 > 
->   
-> 
 > Consider the real numbers $\frac{a}{\sqrt{2}}$ and $\frac{b}{\sqrt{2}}$. By the density of $\mathbb{Q}$, choose a non-zero rational $q \in \mathbb{Q}$ such that:
-> 
->   
-> 
 > $$\frac{a}{\sqrt{2}} < q < \frac{b}{\sqrt{2}} \implies a < q\sqrt{2} < b$$
-> 
 > Since $q$ is a non-zero rational and $\sqrt{2}$ is irrational, $x = q\sqrt{2}$ is irrational, giving an irrational between $a$ and $b$.
 
 ## 5. Summary Comparison Table
