@@ -74,7 +74,7 @@ Have fun!
   
 ## 🧬 [[Biology]]
 
-### [[Anatomy]]
+### [[content/Biology/Anatomy/Anatomy]]
 
 - [[00 Foundations]]
 - [[01 Upper Limb]]

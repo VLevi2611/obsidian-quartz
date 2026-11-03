@@ -5,5 +5,5 @@ tags:
 ---
 ## Overview
 
-### [[Anatomy]]
+### [[content/Biology/Anatomy/Anatomy]]
 
