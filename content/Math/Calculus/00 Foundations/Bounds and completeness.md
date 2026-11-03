@@ -11,89 +11,38 @@ ___
 
 When analyzing subsets of the real numbers $\mathbb{R}$, we need precise language to describe sets that are "constrained" from above or below.
 
-  
-
 ### Boundedness Definitions
 
 Let $S \subseteq \mathbb{R}$ be a non-empty set.
 
-  
-
 - **Bounded Above:** $S$ is bounded above if there exists a real number $M \in \mathbb{R}$ such that $x \le M$ for all $x \in S$. The number $M$ is called an **upper bound** for $S$.
-    
-      
-    
 - **Bounded Below:** $S$ is bounded below if there exists a real number $m \in \mathbb{R}$ such that $x \ge m$ for all $x \in S$. The number $m$ is called a **lower bound** for $S$.
-    
-      
-    
 - **Bounded Set:** $S$ is bounded if it is bounded both above and below (equivalently, $\exists K > 0$ such that $\vert{}x\vert{} \le K$ for all $x \in S$).
-    
-      
-    
 
-> **Important Note:** Upper and lower bounds are **not unique**. If $M$ is an upper bound for $S$, any number $M' > M$ is also an upper bound for $S$.
-> 
->   
+> [!tip] Upper and lower bounds are **not unique**. If $M$ is an upper bound for $S$, any number $M' > M$ is also an upper bound for $S$.   
 
 ### Maximum and Minimum Elements
 
 - **Maximum ($\max S$):** If an upper bound $M$ of $S$ actually belongs to the set ($M \in S$), then $M$ is the **maximum** of $S$.
-    
-      
-    
 - **Minimum ($\min S$):** If a lower bound $m$ of $S$ actually belongs to the set ($m \in S$), then $m$ is the **minimum** of $S$.
-    
-      
-    
 
-> **Example:**
-> 
->   
-> 
+> **Example:** 
 > - For the closed interval $S_1 = [0, 1]$: $\max S_1 = 1$ and $\min S_1 = 0$.
->     
->       
->     
 > - For the open interval $S_2 = (0, 1)$: Upper bounds exist (e.g., $1, 2, 3$), but **there is no maximum**because $1 \notin S_2$. Similarly, lower bounds exist, but **there is no minimum** because $0 \notin S_2$.
->     
->       
->     
 
+---
 ## 2. Supremum & Infimum
 
 To handle sets like $(0, 1)$ that are bounded but lack a maximum or minimum within themselves, we introduce the concept of the _least upper bound_ and _greatest lower bound_.
 
-  
-
-### Definitions
-
 Let $S \subseteq \mathbb{R}$ be a non-empty set.
 
-  
-
 1. **Supremum ($\sup S$):** A real number $L = \sup S$ is the **supremum** (or least upper bound) of $S$ if:
-    
-      
     - $L$ is an upper bound of $S$: $\forall x \in S, \; x \le L$.
-        
-          
-        
     - $L$ is the _smallest_ upper bound: If $M$ is any upper bound of $S$, then $L \le M$.
-        
-          
-        
 2. **Infimum ($\inf S$):** A real number $l = \inf S$ is the **infimum** (or greatest lower bound) of $S$ if:
-    
-      
     - $l$ is a lower bound of $S$: $\forall x \in S, \; x \ge l$.
-        
-          
-        
     - $l$ is the _largest_ lower bound: If $m$ is any lower bound of $S$, then $l \ge m$.
-        
-          
-        
 
 ### The $\epsilon$-Characterization of Supremum and Infimum
 
