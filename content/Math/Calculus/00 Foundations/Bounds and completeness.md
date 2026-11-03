@@ -1,5 +1,8 @@
 ---
-tags: [concept]
+tags:
+  - concept
+  - math
+  - calculus
 ---
 
 ## Definition
