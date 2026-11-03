@@ -35,18 +35,6 @@ Standard postures used in anatomical description and clinical examination:
 
 Two-dimensional imaginary flat surfaces passing through the body in anatomical position:
 
-```
-
-```
-      [ Superior ]
-           │
-    ┌──────┴──────┐
-```
-
-Sagittal Coronal (Left / Right) (Ant / Post) └──────┬──────┘ │ [ Horizontal ] (Sup / Inferior) │ [ Inferior ]
-
-```
-
 * **[[Sagittal Plane]]:** Vertical plane dividing the body or an organ into right and left portions.
   * **Midsagittal Plane (Median):** Passes exactly through the vertical midline, dividing the body into two equal, symmetrical right and left halves. Aligns with the *sagittal suture* of the cranium.
   * **Parasagittal Plane:** Any vertical plane running parallel to the midline that divides the body into unequal right and left sections.
@@ -96,8 +84,3 @@ Standardized terms describing joint articulation across cardinal planes:
 ---
 
 [→ Course: General Anatomy] | [[00_Anatomy_Index|Table of Contents]] | [Next: 02 Osteology ←]
-```
-
----
-
-Ready to move straight into the second presentation, **"2 OSTEOLOGY Bio 2024"**?
