@@ -153,20 +153,3 @@ A function $f: X \to Y$ has an inverse $f^{-1}: Y \to X$ **if and only if**�
 | **Sine**                    | $y = \sin x$                     | $(-\infty, \infty)$ | $[-1, 1]$                                                                    | Periodic ($2\pi$), odd function: $\sin(-x) = -\sin x$.                                    |
 | **Cosine**                  | $y = \cos x$                     | $(-\infty, \infty)$ | $[-1, 1]$                                                                    | Periodic ($2\pi$), even function: $\cos(-x) = \cos x$.                                    |
 | **Restricted Inverse Sine** | $y = \sin^{-1} x$                | $[-1, 1]$           | $\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]$                                 | Restricted domain to enforce injectivity. Slope $\frac{dy}{dx} = \frac{1}{\sqrt{1-x^2}}$. |
-
-## 🔗 Related Notes & Links
-
-- **Prerequisites:** `[[General-Math-Terms]]`, `[[03 Set Symbols]]`
-    
-      
-    
-- **Next Topic:** `[[The-Real-Numbers]]` (Rationality, irrationality of $\sqrt{2}$, and ordered fields)
-    
-      
-    
-- **Folder Location:** `Math/Calculus/00-Foundations/Sets-and-Functions`
-    
-      
-    
-
-Would you like to continue to the next note, **`[[The-Real-Numbers]]`**, or refine any part of this foundation note?
