@@ -32,20 +32,20 @@ tags:
 * **Derivatives of Standard Functions:**
   * Power Rule ($x^n$)
   * Trigonometric & Inverse Trigonometric Functions
-  * Exponential ($e^x$, $b^x$) & Logarithmic ($\ln x$) Functions[cite: 3]
+  * Exponential ($e^x$, $b^x$) & Logarithmic ($\ln x$) Functions
 * **Applications of Derivatives:**
-  * Tangent Lines & Linear Approximation[cite: 3]
+  * Tangent Lines & Linear Approximation
   * Critical Points, Extrema, and Curve Sketching
   * Related Rates & Optimization Problems
-  * Newton's Method[cite: 3]
+  * Newton's Method
 
 ---
 
 ## 📈 02 Integral Calculus (Single Variable)
-*Accumulation of change, areas under curves, and fundamental theorems.*[cite: 3]
+*Accumulation of change, areas under curves, and fundamental theorems.*
 
-* **Core Concepts:** The Definite Integral (Riemann Sums), Indefinite Integrals & Antiderivatives[cite: 3]
-* **Fundamental Theorem of Calculus:** Connecting Derivatives and Integrals[cite: 3]
+* **Core Concepts:** The Definite Integral (Riemann Sums), Indefinite Integrals & Antiderivatives
+* **Fundamental Theorem of Calculus:** Connecting Derivatives and Integrals
 * **Integration Techniques:**
   * Integration by Substitution ($u$-substitution)
   * Integration by Parts
@@ -53,43 +53,35 @@ tags:
   * Trigonometric Substitution
 * **Applications of Integrals:**
   * Area Between Curves
-  * Volumes of Solids of Revolution (Disk/Washer & Shell Methods)[cite: 3]
+  * Volumes of Solids of Revolution (Disk/Washer & Shell Methods)
   * Arc Length & Surface Area of Revolution
 
 ---
 
 ## ♾️ 03 Sequences & Series
-*Infinite sums, convergence tests, and function representations.*[cite: 3]
+*Infinite sums, convergence tests, and function representations.*
 
 * **Sequences:** Convergence, Divergence, and Limits
-* **Infinite Series:** Geometric Series, $p$-series, Harmonic Series[cite: 3]
+* **Infinite Series:** Geometric Series, $p$-series, Harmonic Series
 * **Convergence Tests:** Integral Test, Comparison Tests, Ratio Test, Root Test, Alternating Series Test
 * **Power Series:** Radius and Interval of Convergence
-* **Taylor & Maclaurin Series:** Representing Functions as Power Series, Euler's Formula[cite: 3]
+* **Taylor & Maclaurin Series:** Representing Functions as Power Series, Euler's Formula
 
 ---
 
 ## 🔄 04 Differential Equations
-*Modeling rates of change in dynamic physical and biological systems.*[cite: 3]
+*Modeling rates of change in dynamic physical and biological systems.*
 
 * **First-Order Differential Equations:** Separable Equations, First-Order Linear Equations
 * **Second-Order Differential Equations:** Homogeneous & Non-Homogeneous Linear Equations
-* **Applications:** Differential Equations of Growth, Differential Equations of Motion[cite: 3]
+* **Applications:** Differential Equations of Growth, Differential Equations of Motion
 
 ---
 
 ## 🌐 05 Multivariable Calculus & Vector Analysis
-*Extension of calculus to higher dimensions, vector fields, and spatial coordinates.*[cite: 3]
+*Extension of calculus to higher dimensions, vector fields, and spatial coordinates.*
 
-* **Vectors & Geometry of Space:** Dot Product, Cross Product, Vector-Valued Functions[cite: 3]
-* **Partial Differentiation:** Partial Derivatives, Gradient ($\nabla f$), Directional Derivatives[cite: 3]
+* **Vectors & Geometry of Space:** Dot Product, Cross Product, Vector-Valued Functions
+* **Partial Differentiation:** Partial Derivatives, Gradient ($\nabla f$), Directional Derivatives
 * **Multiple Integrals:** Double and Triple Integrals, Integration in Polar, Cylindrical, and Spherical Coordinates
-* **Vector Calculus:** Divergence ($\text{div}$), Curl ($\text{curl}$), Line Integrals, Surface Integrals[cite: 3]
-
----
-
-## 🔗 Cross-Disciplinary Connections (Biomedical Engineering)
-
-* **Bio-fluid Dynamics:** Connects **Differential & Multivariable Calculus** (Divergence, Gradient, Velocity Gradients) to blood flow through arterial networks (Poiseuille's Law, Shear Stress)[cite: 1, 3].
-* **Cardiopulmonary Modeling:** Connects **Differential Equations & Integrals** to cardiac output, lung volume changes over time, and tracer clearance curves[cite: 3].
-* **Biomedical Imaging & Signal Processing:** Connects **Infinite Series, Integrals & Vector Fields** to signal reconstruction (Fourier/Laplace transforms), MRI gradient fields, and CT scan image reconstruction algorithms[cite: 1, 3].
+* **Vector Calculus:** Divergence ($\text{div}$), Curl ($\text{curl}$), Line Integrals, Surface Integrals
