@@ -33,30 +33,27 @@ Despite its density, $\mathbb{Q}$ contains "gaps." There is no rational number w
 1. **Assumption:** Suppose $\sqrt{2} \in \mathbb{Q}$. Then it can be written as a reduced fraction:
    $$\sqrt{2} = \frac{p}{q} \quad \text{where } p, q \in \mathbb{Z},\; q \neq 0, \text{ and } \gcd(p, q) = 1 \text{ (coprime)}$$
 
-2. **Algebraic Manipulation:**
-   Squaring both sides yields:
+2. Squaring both sides yields:
    $$2 = \frac{p^2}{q^2} \implies p^2 = 2q^2$$
 
 3. Since $p^2 = 2q^2$, $p^2$ is even. This implies that **$p$ must be even** (if $p$ were odd, $p^2$ would be odd).
    Since $p$ is even, write $p = 2k$ for some integer $k$.
 
-4. **Substitution:**
-   Substitute $p = 2k$ back into the equation:
+4. Substitute $p = 2k$ back into the equation:
    $$(2k)^2 = 2q^2 \implies 4k^2 = 2q^2 \implies q^2 = 2k^2$$
 
-5. **Second Parity Step:**
-   * Since $q^2 = 2k^2$, $q^2$ is even, which implies **$q$ must also be even**.
+5. Since $q^2 = 2k^2$, $q^2$ is even, which implies **$q$ must also be even**.
 
 6. **Contradiction:**
-   Both $p$ and $q$ are even, so they share a common factor of $2$. This contradicts the initial condition that $\gcd(p, q) = 1$[cite: 2].
+   Both $p$ and $q$ are even, so they share a common factor of $2$. This contradicts the initial condition that $\gcd(p, q) = 1$.
 
-$$\therefore \sqrt{2} \notin \mathbb{Q} \quad (\text{i.e., } \sqrt{2} \text{ is irrational})$$[cite: 2]
+$$\therefore \sqrt{2} \notin \mathbb{Q} \quad (\text{i.e., } \sqrt{2} \text{ is irrational})$$
 
 ---
 
 ## 3. The Real Number Field $\mathbb{R}$ as an Ordered Field
 
-The real numbers $\mathbb{R}$ form an **ordered field**—a set equipped with two binary operations ($+$ and $\cdot$) and an order relation ($<$) satisfying specific axioms[cite: 2]:
+The real numbers $\mathbb{R}$ form an **ordered field**—a set equipped with two binary operations ($+$ and $\cdot$) and an order relation ($<$) satisfying specific axioms:
 
 ### Field Axioms
 For all $a, b, c \in \mathbb{R}$:
@@ -94,9 +91,8 @@ $$|x| = \begin{cases} x & \text{if } x \ge 0 \\ -x & \text{if } x < 0 \end{cases
 ### Bernoulli's Inequality
 For any real number $x \ge -1$ and integer $n \ge 0$:
 
-$$(1 + x)^n \ge 1 + nx$$[cite: 2]
+$$(1 + x)^n \ge 1 + nx$$
 
-*Note:* Bernoulli's inequality is a cornerstone tool for proving sequence convergence in later calculus topics[cite: 2].
 
 ---
 
