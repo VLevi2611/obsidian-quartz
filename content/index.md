@@ -76,7 +76,7 @@ Have fun!
 
 ### [[content/Biology/Anatomy/Anatomy]]
 
-- [[00 Foundations]]
+- [[content/Biology/Anatomy/00 Foundations/00 Foundations]]
 - [[01 Upper Limb]]
 - [[02 Lower Limb]]
 - [[03 Thorax]]

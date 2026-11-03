@@ -13,7 +13,7 @@ tags:
 
 ---
 
-## 🏗️ [[00 Foundations]]
+## 🏗️ [[content/Biology/Anatomy/00 Foundations/00 Foundations]]
 *Basic anatomical language, tissues, and systemic fundamentals.*
 
 - **Terminology:** [[Anatomical Position]], [[Anatomical Directions]], [[Anatomical Planes]], [[Movement]]
