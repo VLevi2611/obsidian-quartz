@@ -118,78 +118,41 @@ _Order Matters:_ In general, $f(g(x)) \neq g(f(x))$.
 > Let $g(x) = x^3$ and $f(y) = y^4 + 1$.
 > 
 > - **$(f \circ g)(x) = f(g(x))$:** Substitute $g(x)$ into $f(y) \implies (x^3)^4 + 1 = x^{12} + 1$.
->     
->       
->     
 > - **$(g \circ f)(x) = g(f(x))$:** Substitute $f(x)$ into $g(x) \implies (x^4 + 1)^3$.
->     
->       
->     
 
 ### Inverse Functions ($f^{-1}$)
 
 A function $f: X \to Y$ has an inverse $f^{-1}: Y \to X$ **if and only if** $f$ is bijective (or restricted to a monotonic interval).
 
-  
-
 - **Core Relations:** $y = f(x) \iff x = f^{-1}(y)$.
-    
-      
-    
 - **Identity Cancellations:** $f^{-1}(f(x)) = x$ for all $x \in X$, and $f(f^{-1}(y)) = y$ for all $y \in Y$.
-    
-      
-    
 - **Domain-Range Flip:** $\text{Domain}(f^{-1}) = \text{Range}(f)$ and $\text{Range}(f^{-1}) = \text{Domain}(f)$.
-    
-      
-    
 - **Geometric Symmetry:** The graph of $y = f^{-1}(x)$ is the reflection of $y = f(x)$ across the line $y = x$.
-    
-      
-    
 
-> **Worked Example: Finding an Inverse**
-> 
->   
+> **Example:**
 > 
 > Find $f^{-1}(y)$ for $y = f(x) = 3x - 6$:
 > 
->   
-> 
 > 1. Solve the equation for $x$:
->     
->       
->     
 >     $$y = 3x - 6 \implies y + 6 = 3x \implies x = \frac{1}{3}(y + 6)$$
->     
 > 2. Express the inverse function:
->     
->       
->     
 >     $$f^{-1}(y) = \frac{1}{3}y + 2 \quad \left(\text{or swapping variables: } f^{-1}(x) = \frac{1}{3}x + 2\right)$$
->     
 
-> **Inverting a Chain Rule (Inverse of Composite Functions):**
-> 
->   
+> **Inverse of Composite Functions:**
 > 
 > The inverse of a composite function $(h \circ g)(x)$ reverses the order of operations:
-> 
->   
-> 
 > $$(h \circ g)^{-1} = g^{-1} \circ h^{-1}$$
 
 ## 5. Primary Function Families in Calculus
 
-|**Function Type**|**Formula y=f(x)y = f(x)y=f(x)**|**Domain**|**Range**|**Key Graphical / Calculus Properties**|
-|---|---|---|---|---|
-|**Power**|$y = x^n$($n \in \mathbb{N}$)|$(-\infty, \infty)$|$[0, \infty)$(even $n$)<br><br>  <br>  <br><br>$(-\infty, \infty)$ (odd $n$)|Symmetric about $y$-axis (even) or origin (odd). $\frac{d}{dx}[x^n] = n x^{n-1}$.|
-|**Exponential**|$y = b^x$($b > 0, b \neq 1$)|$(-\infty, \infty)$|$(0, \infty)$|Monotonic growth ($b>1$) or decay ($0<b<1$). For $y=e^x$, rate of change equals value.|
-|**Logarithmic**|$y = \log_b(x)$|$(0, \infty)$|$(-\infty, \infty)$|Vertical asymptote at $x=0$. Inverse of exponential ($y = \ln x \iff x = e^y$).|
-|**Sine**|$y = \sin x$|$(-\infty, \infty)$|$[-1, 1]$|Periodic ($2\pi$), odd function: $\sin(-x) = -\sin x$.|
-|**Cosine**|$y = \cos x$|$(-\infty, \infty)$|$[-1, 1]$|Periodic ($2\pi$), even function: $\cos(-x) = \cos x$.|
-|**Restricted Inverse Sine**|$y = \sin^{-1} x$|$[-1, 1]$|$\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]$|Restricted domain to enforce injectivity. Slope $\frac{dy}{dx} = \frac{1}{\sqrt{1-x^2}}$.|
+| **Function Type**           | **Formula y=f(x)y = f(x)y=f(x)** | **Domain**          | **Range**                                                                    | **Key Graphical / Calculus Properties**                                                   |
+| --------------------------- | -------------------------------- | ------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Power**                   | $y = x^n$($n \in \mathbb{N}$)    | $(-\infty, \infty)$ | $[0, \infty)$(even $n$)<br><br>  <br>  <br><br>$(-\infty, \infty)$ (odd $n$) | Symmetric about $y$-axis (even) or origin (odd). $\frac{d}{dx}[x^n] = n x^{n-1}$.         |
+| **Exponential**             | $y = b^x$($b > 0, b \neq 1$)     | $(-\infty, \infty)$ | $(0, \infty)$                                                                | Monotonic growth ($b>1$) or decay ($0<b<1$). For $y=e^x$, rate of change equals value.    |
+| **Logarithmic**             | $y = \log_b(x)$                  | $(0, \infty)$       | $(-\infty, \infty)$                                                          | Vertical asymptote at $x=0$. Inverse of exponential ($y = \ln x \iff x = e^y$).           |
+| **Sine**                    | $y = \sin x$                     | $(-\infty, \infty)$ | $[-1, 1]$                                                                    | Periodic ($2\pi$), odd function: $\sin(-x) = -\sin x$.                                    |
+| **Cosine**                  | $y = \cos x$                     | $(-\infty, \infty)$ | $[-1, 1]$                                                                    | Periodic ($2\pi$), even function: $\cos(-x) = \cos x$.                                    |
+| **Restricted Inverse Sine** | $y = \sin^{-1} x$                | $[-1, 1]$           | $\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]$                                 | Restricted domain to enforce injectivity. Slope $\frac{dy}{dx} = \frac{1}{\sqrt{1-x^2}}$. |
 
 ## 🔗 Related Notes & Links
 
