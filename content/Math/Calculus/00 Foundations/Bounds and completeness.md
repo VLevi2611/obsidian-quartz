@@ -48,97 +48,43 @@ Let $S \subseteq \mathbb{R}$ be a non-empty set.
 
 These characterizations convert the definition of bounds into actionable algebraic criteria for analysis and proofs:
 
-  
-
-- **Supremum Criterion:** $L = \sup S \iff$
-    
-      
+- **Supremum Criterion:** $L = \sup S \iff$      
     1. $x \le L$ for all $x \in S$.
-        
-          
-        
     2. For every $\epsilon > 0$, there exists at least one $x_\epsilon \in S$ such that $x_\epsilon > L - \epsilon$.
         
-          
-        
 - **Infimum Criterion:** $l = \inf S \iff$
-    
-      
     1. $x \ge l$ for all $x \in S$.
-        
-          
-        
     2. For every $\epsilon > 0$, there exists at least one $x_\epsilon \in S$ such that $x_\epsilon < l + \epsilon$.
-        
-          
-        
 
-> **Worked Example: Supremum and Infimum of an Explicit Set**
-> 
->   
+
+> **Example: Supremum and Infimum of an Explicit Set**
 > 
 > Consider the set $S = \left\{ 1 - \frac{1}{n} \;\middle\vert{}\; n \in \mathbb{N} \right\} = \left\{ 0, \frac{1}{2}, \frac{2}{3}, \frac{3}{4}, \dots \right\}$.
-> 
->   
-> 
 > - **Infimum:** $\min S = 0 \implies \inf S = 0$.
->     
->       
->     
 > - **Supremum:** $\sup S = 1$.
 >     
->       
->     - _Proof that $\sup S = 1$:_
->         
->           
->         1. For all $n \in \mathbb{N}$, $1 - \frac{1}{n} < 1$, so $1$ is an upper bound.
->             
->               
->             
->         2. Given any $\epsilon > 0$, choose $n \in \mathbb{N}$ large enough such that $\frac{1}{n} < \epsilon$.
->             
->               
->             
->         3. Then $1 - \frac{1}{n} > 1 - \epsilon$. Since $1 - \frac{1}{n} \in S$, $1$ is the least upper bound, so $\sup S = 1$. Note that $1 \notin S$, so $S$ has no maximum.
->             
->               
->             
+>    Proof that $\sup S = 1$:
+>        For all $n \in \mathbb{N}$, $1 - \frac{1}{n} < 1$, so $1$ is an upper bound.
+>        Given any $\epsilon > 0$, choose $n \in \mathbb{N}$ large enough such that $\frac{1}{n} < \epsilon$.
+>        Then $1 - \frac{1}{n} > 1 - \epsilon$. Since $1 - \frac{1}{n} \in S$, $1$ is the least upper bound, so $\sup S = 1$. Note that $1 \notin S$, so $S$ has no maximum.
+
+____
 
 ## 3. The Axiom of Completeness
 
 The fundamental property that distinguishes $\mathbb{R}$ from $\mathbb{Q}$ (and makes calculus possible) is **Completeness**.
 
-  
-
 ### The Completeness Axiom (Least Upper Bound Property)
 
 Every non-empty set $S \subseteq \mathbb{R}$ that is bounded above has a **supremum in $\mathbb{R}$**($\sup S \in \mathbb{R}$).
 
-  
-
-> **Infimum Equivalent:** Analogously, every non-empty set $S \subseteq \mathbb{R}$ that is bounded below has an **infimum in $\mathbb{R}$** ($\inf S \in \mathbb{R}$).
-> 
->   
-
 ### Why $\mathbb{Q}$ Fails Completeness
 
 Recall the set $A = \{ x \in \mathbb{Q} \mid x > 0 \text{ and } x^2 < 2 \}$.
-
-  
-
 - In $\mathbb{R}$, $A$ is bounded above (e.g., by $2$), and its least upper bound is $\sqrt{2} \in \mathbb{R}$.
-    
-      
-    
 - In $\mathbb{Q}$, $A$ is bounded above by rational numbers like $1.5$ or $1.42$, but **it has no least upper bound in $\mathbb{Q}$** because $\sqrt{2} \notin \mathbb{Q}$.
-    
-      
-    
 - Thus, $\mathbb{Q}$ contains metric "holes", whereas $\mathbb{R}$ forms a unbroken continuum.
-    
-      
-    
-
+___
 ## 4. Fundamental Analytical Properties of $\mathbb{R}$
 
 The Axiom of Completeness yields critical consequences that underpin limits and analysis.
