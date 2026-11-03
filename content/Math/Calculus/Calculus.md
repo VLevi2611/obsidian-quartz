@@ -4,9 +4,9 @@ tags:
   - math
   - calculus
 ---
-# 📐 Calculus 
+# 📐 Calculus
 
-**Subject:** Mathematics 
+**Subject:** Mathematics
 **Level:** Undergraduate (Based on 13-Week Syllabus)
 **Main Categories:** Foundations, Limits, Sequences & Series, Differential Calculus
 
@@ -50,4 +50,17 @@ tags:
 * **Function Limits:** Equivalence of Cauchy's ($\epsilon-\delta$) and Heine's (sequential) definitions of limits.
 * **Limit Variations:** One-sided limits, limits at infinity, and the Dirichlet function.
 * **Continuity:** Definition of continuity, classification of discontinuity types, and continuity of inverse functions.
-* **Core Theorems:** Intermediate Value Theorem, Weierstrass Extreme Value
+* **Core Theorems:** Intermediate Value Theorem, Weierstrass Extreme Value theorems, and Cantor's theorem for uniform continuity.
+* **Special Limits:** The limit of $\frac{\sin x}{x}$ as $x \to 0$ and the continuity of $e^x$.
+
+---
+
+## 📈 04 Differential Calculus (Weeks 10–13)
+*Rates of change, analytical theorems, and function investigation.*
+
+* **Derivatives:** Definition of differentiability, relation to continuity, and derivatives of elementary functions. 
+* **Differentiation Rules:** Sum, difference, product, quotient, chain rule, and the derivative of inverse functions.
+* **Value Theorems:** Fermat's theorem, Rolle's theorem, Lagrange's (Mean Value) theorem, Cauchy's theorem, and Darboux's theorem.
+* **Limit Evaluation:** L'Hôpital's rule and its consequences.
+* **Approximation:** Taylor's formula for polynomials/functions, Peano remainder ($o(f(x))$ notation), and Taylor series limits.
+* **Applications (Curve Sketching):** Monotonicity, stationary points, and determining local minima/maxima using 1st, 2nd, and $n$-th derivative tests.
