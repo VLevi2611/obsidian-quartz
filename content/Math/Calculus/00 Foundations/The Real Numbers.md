@@ -136,5 +136,6 @@ $$(1 + x)^n \ge 1 + nx$$
     Expanding the right side:
     $$(1 + kx)(1 + x) = 1 + x + kx + kx^2 = 1 + (k + 1)x + kx^2$$
     Since $k \ge 0$ and $x^2 \ge 0$, the term $kx^2 \ge 0$. Dropping it preserves or weakens the inequality:
-    $$1 + (k + 1)x + kx^2 \ge 1 + (k + 1)x$$$$\therefore (1 + x)^{k+1} \ge 1 + (k + 1)x$$
+    $$1 + (k + 1)x + kx^2 \ge 1 + (k + 1)x$$
+    $$\therefore (1 + x)^{k+1} \ge 1 + (k + 1)x$$
     By induction, Bernoulli's inequality holds for all $n \ge 0$.
