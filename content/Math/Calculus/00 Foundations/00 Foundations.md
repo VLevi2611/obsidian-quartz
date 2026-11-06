@@ -20,3 +20,4 @@ tags:
 - [[Stack 1.pdf]]
 - [[Targil 1.pdf]]
 - [[Stack 2.pdf]]
+- [[Targil 2.pdf]]
