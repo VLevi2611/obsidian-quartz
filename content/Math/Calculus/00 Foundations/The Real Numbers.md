@@ -22,71 +22,36 @@ Formally, the set of rational numbers $\mathbb{Q}$ is defined as the set of eq
 $$\mathbb{Q} = \left\{ \frac{p}{q} \;\middle\vert{}\; p, q \in \mathbb{Z},\, q \neq 0 \right\}$$
 
 
-- **Arithmetic Closure:** $\mathbb{Q}$ forms an algebraic field; it's closed under the operations of addition    ($+$), subtraction ($-$), multiplication ($\cdot$), and division ($\div$) by non-zero elements.
+- **Arithmetic Closure:** $\mathbb{Q}$ forms an algebraic field; it's closed under the operations of addition $(+)$, subtraction $(-)$, multiplication $(\cdot)$, and division $(\div)$ by non-zero elements.
 - **Density Property:** $\mathbb{Q}$ is dense in itself. Between any two distinct rational numbers $a, b \in \mathbb{Q}$ with $a < b$, there exists a rational number $c \in \mathbb{Q}$ such that $a < c < b$.
 
-> **Example: Midpoint Construction for Density**
-> 
+#### **Example: Midpoint Construction for Density**
+
 > Let $a = \frac{1}{3}$ and $b = \frac{1}{2}$.
-> 
 > Taking their arithmetic mean yields:
-> 
->   
-> 
 > $$c = \frac{a + b}{2} = \frac{\frac{1}{3} + \frac{1}{2}}{2} = \frac{\frac{5}{6}}{2} = \frac{5}{12}$$
-> 
 > Since $5, 12 \in \mathbb{Z}$, $c = \frac{5}{12} \in \mathbb{Q}$, and $\frac{1}{3} < \frac{5}{12} < \frac{1}{2}$.
-> 
->   
 
 ## 2. Incompleteness of $\mathbb{Q}$: Proof of the Irrationality of $\sqrt{2}$
 
 Despite its density, $\mathbb{Q}$ contains "metric gaps." It lacks the necessary elements to measure continuous geometric lengths, such as the diagonal of a unit square.
 
-  
-
 ### Rigorous Proof (by Contradiction)
 
-> **Proof: $\sqrt{2} \notin \mathbb{Q}$**
-> 
->   
-> 
+> **Proof: $\sqrt{2} \notin \mathbb{Q}$** 
 > 1. **Assumption:** Suppose $\sqrt{2} \in \mathbb{Q}$. Then there exist coprime integers $p, q \in \mathbb{Z}$($q \neq 0$) such that:
->     
->       
->     
->     $$\sqrt{2} = \frac{p}{q} \quad \text{where } \gcd(p, q) = 1$$
->     
->       
->     
-> 2. **Algebraic Manipulation:**
->     
->     Squaring both sides and multiplying by $q^2$:
->     
->       
->     
->     $$2 = \frac{p^2}{q^2} \implies p^2 = 2q^2 \quad \text{--- (Equation 1)}$$
->     
-> 3. **Parity Deduction for $p$:**
->     
->     Since $p^2 = 2q^2$, $p^2$ is an even integer.
->     
->       
->     
->     - **Lemma:** If $n^2$ is even for $n \in \mathbb{Z}$, then $n$ must be even.
->         
->           
->         
->     - _Proof of Lemma:_ If $n$ were odd ($n = 2k + 1$), then $n^2 = (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$, which is odd. By contrapositive, if $n^2$ is even, $n$ must be even.
->         
->           
->         
+>    $$\sqrt{2} = \frac{p}{q} \quad \text{where } \gcd(p, q) = 1$$ 
+> Squaring both sides and multiplying by $q^2$:
+>    $$2 = \frac{p^2}{q^2} \implies p^2 = 2q^2 \quad \text{--- (Equation 1)}$$
+> Since $p^2 = 2q^2$, $p^2$ is an even integer.
+>    - **Lemma:** If $n^2$ is even for $n \in \mathbb{Z}$, then $n$ must be even.
+>        - _Proof of Lemma:_ If $n$ were odd ($n = 2k + 1$), then $n^2 = (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$, which is odd. By contrapositive, if $n^2$ is even, $n$ must be even.
 >     
 >     Applying the lemma, $p$ is even. Thus, we write $p = 2k$ for some integer $k \in \mathbb{Z}$.
 >     
 >       
 >     
-> 4. **Parity Deduction for $q$:**
+> 3. **Parity Deduction for $q$:**
 >     
 >     Substitute $p = 2k$ back into Equation 1:
 >     
@@ -98,7 +63,7 @@ Despite its density, $\mathbb{Q}$ contains "metric gaps." It lacks the necessa
 >     
 >       
 >     
-> 5. **Contradiction:** Because both $p$ and $q$ are even, $2$ divides both $p$ and $q$ ($\gcd(p, q) \ge 2$), directly contradicting the initial condition that $\gcd(p, q) = 1$.
+> 4. **Contradiction:** Because both $p$ and $q$ are even, $2$ divides both $p$ and $q$ ($\gcd(p, q) \ge 2$), directly contradicting the initial condition that $\gcd(p, q) = 1$.
 >     
 >       
 >     
