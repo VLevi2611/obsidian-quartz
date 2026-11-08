@@ -4,7 +4,7 @@ tags:
   - math
   - calculus
 ---
-**Up Next:** `[[The-Real-Numbers]]` | `[[Bounds-and-Completeness]]`
+**Up Next:** [[The Real Numbers]] 
 
 ___
 
@@ -129,47 +129,25 @@ $$(f \circ g)(x) = f(g(x))$$
 
 A function $f: X \to Y$ possesses an inverse $f^{-1}: Y \to X$ **if and only if** $f$ is bijective (or restricted to an interval where it is strictly monotonic).
 
-  
-
-- **Core Identity:** $y = f(x) \iff x = f^{-1}(y)$
-    
-      
-    
+- **Core Identity:** $y = f(x) \iff x = f^{-1}(y)$    
 - **Cancellations:** $f^{-1}(f(x)) = x$ for all $x \in X$, and $f(f^{-1}(y)) = y$ for all $y \in Y$.
-    
-      
-    
 - **Domain-Range Swap:** $\text{Domain}(f^{-1}) = \text{Range}(f)$ and $\text{Range}(f^{-1}) = \text{Domain}(f)$.
-    
-      
-    
 - **Geometric Symmetry:** Reflection of $y = f(x)$ across the line $y = x$.
-    
-      
-    
 
-#### Worked Example: Finding an Inverse
+#### Example: Inverse
 
-Find $f^{-1}(y)$ for $y = f(x) = 3x - 6$:
-
-  
-
-1. Solve for $x$:
-    
-      
-    
-    $$y = 3x - 6 \implies y + 6 = 3x \implies x = \frac{1}{3}(y + 6)$$
-    
-2. Write inverse function:
-    
-      
-    
-    $$f^{-1}(y) = \frac{1}{3}y + 2 \quad \left(\text{or swapping variables: } f^{-1}(x) = \frac{1}{3}x + 2\right)$$
-    
+>Find $f^{-1}(y)$ for $y = f(x) = 3x - 6$:
+>
+>1. Solve for $x$:
+  >  $$y = 3x - 6 \implies y + 6 = 3x \implies x = \frac{1}{3}(y + 6)$$
+>2. Write inverse function:
+ >   $$f^{-1}(y) = \frac{1}{3}y + 2 \quad \left(\text{or swapping variables: } f^{-1}(x) = \frac{1}{3}x + 2\right)$$
 
 #### Reversing Composites:
 
 $$(f \circ g)^{-1} = g^{-1} \circ f^{-1}$$
+
+___
 
 ## 5. Primary Function Families in Calculus
 
