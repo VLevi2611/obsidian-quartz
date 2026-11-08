@@ -37,17 +37,10 @@ For two sets $A$ and $B$ within a universal set $U$:
 #### Interval Classification:
 
 - **Closed Interval $[a, b]$:** Endpoints included ($\{x \in \mathbb{R} \mid a \le x \le b\}$).
-    
-      
-    
 - **Open Interval $(a, b)$:** Endpoints excluded ($\{x \in \mathbb{R} \mid a < x < b\}$).
-    
-      
-    
 - **Half-Open / Unbounded Intervals:** E.g., $[0, \infty) = \{x \in \mathbb{R} \mid x \ge 0\}$.
-    
-      
-    
+
+___
 
 ## 2. Proof Techniques: Induction & Binomial Theorem
 
@@ -55,79 +48,37 @@ For two sets $A$ and $B$ within a universal set $U$:
 
 Used to prove a statement $P(n)$ for all natural numbers $n \ge n_0$:
 
-  
-
 1. **Base Case:** Prove $P(n_0)$ holds true.
-    
-      
-    
 2. **Inductive Hypothesis:** Assume $P(k)$ is true for an arbitrary integer $k \ge n_0$.
-    
-      
-    
 3. **Inductive Step:** Prove that $P(k) \implies P(k+1)$.
-    
-      
-    
 
-#### Worked Example: Sum of the First $n$ Integers
+#### Example: Sum of the First $n$ Integers
 
-**Claim:** $P(n): \sum_{j=1}^n j = 1 + 2 + \dots + n = \frac{n(n+1)}{2}$.
-
-  
-
-- **Base Case ($n=1$):**
-    
-      
-    
-    $\sum_{j=1}^1 j = 1$. Using the formula: $\frac{1(1+1)}{2} = 1$. The base case holds.
-    
-      
-    
-- **Inductive Hypothesis:** Assume $P(k)$ is true for $k \ge 1$:
-    
-      
-    
-    $$1 + 2 + \dots + k = \frac{k(k+1)}{2}$$
-    
-- **Inductive Step:** Show $P(k+1)$ is true:
-    
-      
-    
-    $$\begin{aligned} 1 + 2 + \dots + k + (k+1) &= \frac{k(k+1)}{2} + (k+1) \\ &= (k+1)\left( \frac{k}{2} + 1 \right) \\ &= (k+1)\left( \frac{k+2}{2} \right) = \frac{(k+1)((k+1)+1)}{2} \end{aligned}$$
-    
-    Thus, $P(k) \implies P(k+1)$, completing the proof by induction.
-    
-      
-    
+>**Claim:** $P(n): \sum_{j=1}^n j = 1 + 2 + \dots + n = \frac{n(n+1)}{2}$.
+>
+>- **Base Case ($n=1$):**    
+  >  $\sum_{j=1}^1 j = 1$. Using the formula: $\frac{1(1+1)}{2} = 1$. The base case holds.
+>- **Inductive Hypothesis:** Assume $P(k)$ is true for $k \ge 1$:
+ >   $$1 + 2 + \dots + k = \frac{k(k+1)}{2}$$
+>- **Inductive Step:** Show $P(k+1)$ is true:
+ >   $$\begin{aligned} 1 + 2 + \dots + k + (k+1) &= \frac{k(k+1)}{2} + (k+1) \\ &= (k+1)\left( \frac{k}{2} + 1 \right) \\ &= (k+1)\left( \frac{k+2}{2} \right) = \frac{(k+1)((k+1)+1)}{2} \end{aligned}$$
+	Thus, $P(k) \implies P(k+1)$, completing the proof by induction.
 
 ### Newton's Binomial Theorem
 
 For any real numbers $a, b$ and non-negative integer $n$:
 
-  
-
 $$(a + b)^n = \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k, \quad \text{where } \binom{n}{k} = \frac{n!}{k!(n-k)!}$$
 
-#### Detailed Expansion: $(x + h)^4$ (Power Rule Foundation)
-
-$$\begin{aligned} (x + h)^4 &= \binom{4}{0}x^4 + \binom{4}{1}x^3 h + \binom{4}{2}x^2 h^2 + \binom{4}{3}x h^3 + \binom{4}{4}h^4 \\ &= x^4 + 4x^3 h + 6x^2 h^2 + 4xh^3 + h^4 \end{aligned}$$
-
-_Calculus Connection:_ In evaluating the derivative limit $\lim_{h \to 0} \frac{(x+h)^4 - x^4}{h}$, subtracting $x^4$leaves terms with factors of $h$. Dividing by $h$ and sending $h \to 0$ isolates $4x^3$.
-
-  
+___
 
 ## 3. Core Concept: Functions
 
 ### Formal Definition & Representations
 
-A function $f: X \to Y$ is a rule that assigns to **each** input $x$ in the domain $X$ **exactly one** output $y = f(x)$in the range/codomain $Y$.
-
-  
+A function $f: X \to Y$ is a rule that assigns to **each** input $x$ in the domain $X$ **exactly one** output $y = f(x)$ in the range/codomain $Y$.
 
 Represented in three primary ways:
-
-  
 
 1. **Formula:** Algebraic expression $y = f(x)$ (e.g., $y = x^2$).
     
