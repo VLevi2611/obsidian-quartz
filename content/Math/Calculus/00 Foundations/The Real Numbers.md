@@ -82,24 +82,12 @@ $\mathbb{R}$ is equipped with two binary operations $+: \mathbb{R} \times \mat
 
 There exists a strict total order relation $<$ on $\mathbb{R}$ satisfying:
 
-  
-
-1. **Trichotomy:** For any $a, b \in \mathbb{R}$, exactly one of $a < b$, $a = b$, or $a > b$ holds.
-    
-      
-    
+1. **Trichotomy:** For any $a, b \in \mathbb{R}$, exactly one of $a < b$, $a = b$, or $a > b$ holds.    
 2. **Transitivity:** $(a < b \land b < c) \implies a < c$.
-    
-      
-    
 3. **Additive Compatibility:** $a < b \implies a + c < b + c$.
-    
-      
-    
 4. **Multiplicative Compatibility:** $(a < b \land c > 0) \implies a \cdot c < b \cdot c$.
-    
-      
-    
+
+___
 
 ## 4. Absolute Value & Fundamental Inequalities
 
@@ -107,115 +95,52 @@ There exists a strict total order relation $<$ on $\mathbb{R}$ satisfying:
 
 The absolute value function $\vert{}\cdot\vert{}: \mathbb{R} \to [0, \infty)$ measures distance on the real number line:
 
-  
-
 $$\vert{}x\vert{} = \begin{cases} x & \text{if } x \ge 0 \\ -x & \text{if } x < 0 \end{cases}$$
 
 ### Key Operational Properties
 
 1. **Non-negativity:** $\vert{}x\vert{} \ge 0$, and $\vert{}x\vert{} = 0 \iff x = 0$
-    
-      
-    
 2. **Multiplicativity:** $\vert{}x \cdot y\vert{} = \vert{}x\vert{} \cdot \vert{}y\vert{}$
-    
-      
-    
 3. **Symmetry:** $\vert{}x - y\vert{} = \vert{}y - x\vert{}$
-    
-      
-    
 
 ### Triangle Inequalities
 
 > **Proof: Triangle Inequality ($\vert{}a + b\vert{} \le \vert{}a\vert{} + \vert{}b\vert{}$)**
 > 
->   
-> 
 > From the definition of absolute value, $-\vert{}a\vert{} \le a \le \vert{}a\vert{}$ and $-\vert{}b\vert{} \le b \le \vert{}b\vert{}$.
 > 
 > Adding these two inequalities together:
-> 
->   
-> 
 > $$-(\vert{}a\vert{} + \vert{}b\vert{}) \le a + b \le \vert{}a\vert{} + \vert{}b\vert{} \iff \vert{}a + b\vert{} \le \vert{}a\vert{} + \vert{}b\vert{}$$
-
 > **Proof: Reverse Triangle Inequality ($\vert{}\vert{}a\vert{} - \vert{}b\vert{}\vert{} \le \vert{}a - b\vert{}$)**
 > 
->   
-> 
 > 1. Express $\vert{}a\vert{} = \vert{}(a - b) + b\vert{}$. Applying the triangle inequality:
->     
->       
->     
->     $$\vert{}a\vert{} \le \vert{}a - b\vert{} + \vert{}b\vert{} \implies \vert{}a\vert{} - \vert{}b\vert{} \le \vert{}a - b\vert{}$$
->     
+>    $$\vert{}a\vert{} \le \vert{}a - b\vert{} + \vert{}b\vert{} \implies \vert{}a\vert{} - \vert{}b\vert{} \le \vert{}a - b\vert{}$$ 
 > 2. Similarly, express $\vert{}b\vert{} = \vert{}(b - a) + a\vert{}$:
->     
->       
->     
->     $$\vert{}b\vert{} \le \vert{}a - b\vert{} + \vert{}a\vert{} \implies -(\vert{}a\vert{} - \vert{}b\vert{}) \le \vert{}a - b\vert{}$$
->     
+>    $$\vert{}b\vert{} \le \vert{}a - b\vert{} + \vert{}a\vert{} \implies -(\vert{}a\vert{} - \vert{}b\vert{}) \le \vert{}a - b\vert{}$$
 > 3. Combining both results gives:
->     
->       
->     
->     $$-\vert{}a - b\vert{} \le \vert{}a\vert{} - \vert{}b\vert{} \le \vert{}a - b\vert{} \iff \vert{}\vert{}a\vert{} - \vert{}b\vert{}\vert{} \le \vert{}a - b\vert{}$$
->     
+>    $$-\vert{}a - b\vert{} \le \vert{}a\vert{} - \vert{}b\vert{} \le \vert{}a - b\vert{} \iff \vert{}\vert{}a\vert{} - \vert{}b\vert{}\vert{} \le \vert{}a - b\vert{}$$ 
 
 ### Bernoulli's Inequality
 
 For any real number $x \ge -1$ and integer $n \ge 0$:
 
-  
-
 $$(1 + x)^n \ge 1 + nx$$
 
-  
-
 > **Proof: Bernoulli's Inequality (via Induction)**
-> 
->   
-> 
+>  
 > - **Base Case ($n = 0$):**
->     
->       
->     
->     $(1 + x)^0 = 1$ and $1 + 0(x) = 1$. Since $1 \ge 1$, the base case holds.
->     
->       
+>    $(1 + x)^0 = 1$ and $1 + 0(x) = 1$. Since $1 \ge 1$, the base case holds.
 >     
 > - **Inductive Hypothesis:** Assume $(1 + x)^k \ge 1 + kx$ holds for an integer $k \ge 0$.
 >     
->       
->     
 > - **Inductive Step:** Prove $(1 + x)^{k+1} \ge 1 + (k + 1)x$.
->     
->       
->     
 >     Since $x \ge -1$, it follows that $(1 + x) \ge 0$. Multiply both sides of the inductive hypothesis by $(1 + x)$:
->     
->       
->     
 >     $$(1 + x)^{k+1} = (1 + x)^k (1 + x) \ge (1 + kx)(1 + x)$$
->     
 >     Expanding the right-hand side:
->     
->       
->     
->     $$(1 + kx)(1 + x) = 1 + x + kx + kx^2 = 1 + (k + 1)x + kx^2$$
->     
+> 	   $$(1 + kx)(1 + x) = 1 + x + kx + kx^2 = 1 + (k + 1)x + kx^2$$
 >     Since $k \ge 0$ and $x^2 \ge 0$, the term $kx^2 \ge 0$. Dropping $kx^2$ yields:
->     
->       
->     
 >     $$1 + (k + 1)x + kx^2 \ge 1 + (k + 1)x$$
->     
 >     $$\therefore (1 + x)^{k+1} \ge 1 + (k + 1)x$$
->     
 >     By induction, Bernoulli's inequality holds for all $n \ge 0$.
->     
->       
->     
 
 > [!tip] Bernoulli's inequality is a fundamental analytic estimate used extensively in limits and sequence analysis to establish bound convergence without computing full binomial expansions.
