@@ -5,7 +5,7 @@ tags:
   - calculus
 ---
 **Previous Topic:** [[Sets and Functions]]
-**Up Next:** [[Bounds and completeness]]
+**Up Next:** [[Bounds and Completeness]]
 
 ___
 

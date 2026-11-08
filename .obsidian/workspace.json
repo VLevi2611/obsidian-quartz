@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Math/Calculus/00 Foundations/The Real Numbers.md",
+                "file": "content/Math/Calculus/00 Foundations/Bounds and Completeness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Real Numbers"
+              "title": "Bounds and Completeness"
             }
           }
         ]
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Math/Calculus/00 Foundations/The Real Numbers.md",
+                "file": "content/Math/Calculus/00 Foundations/Bounds and Completeness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,8 +308,8 @@
   },
   "active": "8ca95b5a0de55ea7",
   "lastOpenFiles": [
-    "content/Math/Calculus/00 Foundations/Bounds and completeness.md",
     "content/Math/Calculus/00 Foundations/The Real Numbers.md",
+    "content/Math/Calculus/00 Foundations/Bounds and Completeness.md",
     "content/Math/Calculus/00 Foundations/Sets and Functions.md",
     "content/Math/Calculus/00 Foundations/00 Foundations.md",
     "content/Math/Calculus/Calculus.md",
