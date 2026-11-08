@@ -79,78 +79,33 @@ ___
 A function $f: X \to Y$ is a rule that assigns to **each** input $x$ in the domain $X$ **exactly one** output $y = f(x)$ in the range/codomain $Y$.
 
 Represented in three primary ways:
-
 1. **Formula:** Algebraic expression $y = f(x)$ (e.g., $y = x^2$).
-    
-      
-    
 2. **Graph:** Visual plot of ordered pairs $(x, f(x))$ in the coordinate plane.
-    
-      
-    
 3. **Input-Output Mapping:** Set of ordered pairs $\{(x, y) \mid x \in X, y = f(x)\}$ where no first element $x$ is repeated.
-    
-      
-    
 
-Plaintext
-
-```
-[ Input x ∈ Domain X ]  ───►  [ Rule f ]  ───►  [ Output y = f(x) ∈ Range Y ]
-```
-
-### Domain & Range Analysis
+### Domain & Range
 
 - **Domain ($X$):** Set of all valid inputs for which the function is defined.
-    
-      
-    
 - **Range ($Y$):** Set of all actual outputs produced by the function.
-    
-      
-    
 
-#### Comparative Analysis: Linear vs. Quadratic vs. Exponential
+#### Linear vs. Quadratic vs. Exponential
 
-Consider $y_1 = 2x$, $y_2 = x^2$, and $y_3 = 2^x$:
-
-  
-
-- **$y = 2x$ (Linear):** Domain $(-\infty, \infty)$; Range $(-\infty, \infty)$.
-    
-      
-    
-- **$y = x^2$ (Square):** Domain $(-\infty, \infty)$; Range $[0, \infty)$ (squares are non-negative).
-    
-      
-    
-- **$y = 2^x$ (Exponential):** Domain $(-\infty, \infty)$; Range $(0, \infty)$ (strictly positive growth).
-    
-      
-    
+>Consider $y_1 = 2x$, $y_2 = x^2$, and $y_3 = 2^x$:
+>
+>- **$y = 2x$ (Linear):** Domain $(-\infty, \infty)$; Range $(-\infty, \infty)$.    
+>- **$y = x^2$ (Square):** Domain $(-\infty, \infty)$; Range $[0, \infty)$ (squares are non-negative).
+>- **$y = 2^x$ (Exponential):** Domain $(-\infty, \infty)$; Range $(0, \infty)$ (strictly positive growth).
 
 ### Key Functional Properties
 
 - **Injectivity (One-to-One):** Distinct inputs produce distinct outputs.
-    
-      
-    
-    $$\forall x_1, x_2 \in X, \quad f(x_1) = f(x_2) \implies x_1 = x_2$$
-    
+	$$\forall x_1, x_2 \in X, \quad f(x_1) = f(x_2) \implies x_1 = x_2$$
     _Graphical Test:_ **Horizontal Line Test**—no horizontal line intersects the graph more than once.
-    
-      
-    
 - **Surjectivity (Onto):** Every element in codomain $Y$ is mapped to by at least one input in domain $X$($\text{Range} = \text{Codomain}$).
-    
-      
-    
-    $$\forall y \in Y, \quad \exists x \in X \text{ such that } f(x) = y$$
-    
+	$$\forall y \in Y, \quad \exists x \in X \text{ such that } f(x) = y$$
 - **Bijectivity:** A function that is simultaneously **injective** and **surjective**.
-    
-      
-    
+
+___
 
 ## 4. Function Composition & Invertibility
 
@@ -158,28 +113,17 @@ Consider $y_1 = 2x$, $y_2 = x^2$, and $y_3 = 2^x$:
 
 Given $g: X \to Y$ and $f: Y \to Z$, the composite function $(f \circ g)(x)$ is defined by:
 
-  
-
 $$(f \circ g)(x) = f(g(x))$$
 
-_Order Matters:_ Generally, $f(g(x)) \neq g(f(x))$.
+>[!tip] Order Matters: Generally, $f(g(x)) \neq g(f(x))$.
 
-  
 
-#### Worked Example: Composition Breakdown
+#### Example: Composition
 
-Let $g(x) = x^3$ and $f(y) = y^4 + 1$.
-
-  
-
-- **$(f \circ g)(x) = f(g(x))$:** Substitute $g(x)$ into $f(y) \implies (x^3)^4 + 1 = x^{12} + 1$.
-    
-      
-    
-- **$(g \circ f)(x) = g(f(x))$:** Substitute $f(x)$ into $g(x) \implies (x^4 + 1)^3$.
-    
-      
-    
+>Let $g(x) = x^3$ and $f(y) = y^4 + 1$.
+>
+>- **$(f \circ g)(x) = f(g(x))$:** Substitute $g(x)$ into $f(y) \implies (x^3)^4 + 1 = x^{12} + 1$.    
+>- **$(g \circ f)(x) = g(f(x))$:** Substitute $f(x)$ into $g(x) \implies (x^4 + 1)^3$.
 
 ### Inverse Functions ($f^{-1}$)
 
