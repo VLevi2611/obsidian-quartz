@@ -39,7 +39,7 @@ Despite its density, $\mathbb{Q}$ contains "metric gaps." It lacks the necessa
 ### Rigorous Proof (by Contradiction)
 
 > **Proof: $\sqrt{2} \notin \mathbb{Q}$** 
-> 1. **Assumption:** Suppose $\sqrt{2} \in \mathbb{Q}$. Then there exist coprime integers $p, q \in \mathbb{Z}$($q \neq 0$) such that:
+> **Assumption:** Suppose $\sqrt{2} \in \mathbb{Q}$. Then there exist coprime integers $p, q \in \mathbb{Z}$($q \neq 0$) such that:
 >    $$\sqrt{2} = \frac{p}{q} \quad \text{where } \gcd(p, q) = 1$$ 
 > Squaring both sides and multiplying by $q^2$:
 >    $$2 = \frac{p^2}{q^2} \implies p^2 = 2q^2 \quad \text{--- (Equation 1)}$$
@@ -47,55 +47,36 @@ Despite its density, $\mathbb{Q}$ contains "metric gaps." It lacks the necessa
 >    - **Lemma:** If $n^2$ is even for $n \in \mathbb{Z}$, then $n$ must be even.
 >        - _Proof of Lemma:_ If $n$ were odd ($n = 2k + 1$), then $n^2 = (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1$, which is odd. By contrapositive, if $n^2$ is even, $n$ must be even.
 >     
->     Applying the lemma, $p$ is even. Thus, we write $p = 2k$ for some integer $k \in \mathbb{Z}$.
->     
->       
->     
-> 3. **Parity Deduction for $q$:**
->     
->     Substitute $p = 2k$ back into Equation 1:
->     
->       
->     
->     $$(2k)^2 = 2q^2 \implies 4k^2 = 2q^2 \implies q^2 = 2k^2$$
->     
->     By the same lemma, since $q^2$ is even, **$q$ must also be even**.
->     
->       
->     
-> 4. **Contradiction:** Because both $p$ and $q$ are even, $2$ divides both $p$ and $q$ ($\gcd(p, q) \ge 2$), directly contradicting the initial condition that $\gcd(p, q) = 1$.
->     
->       
->     
-> 
-> $$\therefore \sqrt{2} \notin \mathbb{Q} \quad (\text{i.e., } \sqrt{2} \text{ is irrational})$$
-> 
->   
+>    Applying the lemma, $p$ is even. Thus, we write $p = 2k$ for some integer $k \in \mathbb{Z}$.
+>    
+> Substitute $p = 2k$ back into Equation 1:
+>    $$(2k)^2 = 2q^2 \implies 4k^2 = 2q^2 \implies q^2 = 2k^2$$
+>    By the same lemma, since $q^2$ is even, **$q$ must also be even**.
+>    
+> **Contradiction:** Because both $p$ and $q$ are even, $2$ divides both $p$ and $q$ ($\gcd(p, q) \ge 2$), directly contradicting the initial condition that $\gcd(p, q) = 1$.
+> 	$$\therefore \sqrt{2} \notin \mathbb{Q} \quad (\text{i.e., } \sqrt{2} \text{ is irrational})$$
 
 > [!tip] The metric gap in $\mathbb{Q}$ can be formally illustrated by considering the set $A = \{ x \in \mathbb{Q} \mid x > 0 \text{ and } x^2 < 2 \}$. Although $A$ is bounded above in $\mathbb{Q}$ (e.g., by $2$), there is **no rational number** $m \in \mathbb{Q}$ that acts as the precise "least upper bound" (supremum) for $A$. This deficiency directly motivates the construction of $\mathbb{R}$.
 > 
 >   
 
+___
+
 ## 3. The Real Number Field $\mathbb{R}$ as an Ordered Field
 
 The real numbers $\mathbb{R}$ are formally defined as an **Ordered Field** $(\mathbb{R}, +, \cdot, <)$.
-
-  
-
 ### Field Axioms
 
 $\mathbb{R}$ is equipped with two binary operations $+: \mathbb{R} \times \mathbb{R} \to \mathbb{R}$ and $\cdot: \mathbb{R} \times \mathbb{R} \to \mathbb{R}$ satisfying:
 
-  
-
-|**Axiom**|**Addition (+)**|**Multiplication (⋅)**|
-|---|---|---|
-|**Closure**|$\forall a, b \in \mathbb{R},\; a + b \in \mathbb{R}$|$\forall a, b \in \mathbb{R},\; a \cdot b \in \mathbb{R}$|
-|**Associativity**|$(a + b) + c = a + (b + c)$|$(a \cdot b) \cdot c = a \cdot (b \cdot c)$|
-|**Commutativity**|$a + b = b + a$|$a \cdot b = b \cdot a$|
-|**Identity**|$\exists 0 \in \mathbb{R} \text{ s.t. } a + 0 = a$|$\exists 1 \in \mathbb{R} \text{ s.t. } 1 \neq 0, \; a \cdot 1 = a$|
-|**Inverses**|$\forall a, \exists (-a) \text{ s.t. } a + (-a) = 0$|$\forall a \neq 0, \exists a^{-1} \text{ s.t. } a \cdot a^{-1} = 1$|
-|**Distributivity**|\multicolumn{2}{c|}{$a \cdot (b + c) = a \cdot b + a \cdot c$}|
+| **Axiom**          | **Addition (+)**                                      | **Multiplication (⋅)**                                              |
+| ------------------ | ----------------------------------------------------- | ------------------------------------------------------------------- |
+| **Closure**        | $\forall a, b \in \mathbb{R},\; a + b \in \mathbb{R}$ | $\forall a, b \in \mathbb{R},\; a \cdot b \in \mathbb{R}$           |
+| **Associativity**  | $(a + b) + c = a + (b + c)$                           | $(a \cdot b) \cdot c = a \cdot (b \cdot c)$                         |
+| **Commutativity**  | $a + b = b + a$                                       | $a \cdot b = b \cdot a$                                             |
+| **Identity**       | $\exists 0 \in \mathbb{R} \text{ s.t. } a + 0 = a$    | $\exists 1 \in \mathbb{R} \text{ s.t. } 1 \neq 0, \; a \cdot 1 = a$ |
+| **Inverses**       | $\forall a, \exists (-a) \text{ s.t. } a + (-a) = 0$  | $\forall a \neq 0, \exists a^{-1} \text{ s.t. } a \cdot a^{-1} = 1$ |
+| **Distributivity** | $a \cdot (b + c) = a \cdot b + a \cdot c$}            |                                                                     
 
 ### Order Axioms
 
