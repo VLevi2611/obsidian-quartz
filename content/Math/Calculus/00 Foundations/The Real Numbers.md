@@ -142,5 +142,3 @@ $$(1 + x)^n \ge 1 + nx$$
 >     $$1 + (k + 1)x + kx^2 \ge 1 + (k + 1)x$$
 >     $$\therefore (1 + x)^{k+1} \ge 1 + (k + 1)x$$
 >     By induction, Bernoulli's inequality holds for all $n \ge 0$.
-
-> [!tip] Bernoulli's inequality is a fundamental analytic estimate used extensively in limits and sequence analysis to establish bound convergence without computing full binomial expansions.
