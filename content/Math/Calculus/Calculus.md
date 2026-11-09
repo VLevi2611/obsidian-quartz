@@ -4,15 +4,13 @@ tags:
   - math
   - calculus
 ---
-# 📐 Calculus
-
 **Subject:** Mathematics
 **Level:** Undergraduate (Based on 13-Week Syllabus)
 **Main Categories:** Foundations, Limits, Sequences & Series, Differential Calculus
 
 ---
 
-## 🏗️ 00 Foundations: Sets, Functions & The Real Numbers (Weeks 1–2)
+## 00 Foundations: Sets, Functions & The Real Numbers (Weeks 1–2)
 *Fundamental mathematical structures, logic, and properties of the real number line.*
 
 * **Sets & Operations:** Sets of numbers, notations, and the principle of mathematical induction (including Newton's Binomial).
@@ -23,7 +21,7 @@ tags:
 
 ---
 
-## 🔢 01 Sequences & Their Limits (Weeks 3–5)
+## 01 Sequences & Their Limits (Weeks 3–5)
 *Convergence of sequences, bounds, and partial limits.*
 
 * **Convergence:** Definition of sequence limits, uniqueness of the limit, limit arithmetic, and the relation between boundedness and convergence.
@@ -34,7 +32,7 @@ tags:
 
 ---
 
-## ➕ 02 Infinite Series (Weeks 6–7)
+## 02 Infinite Series (Weeks 6–7)
 *Infinite sums, convergence tests, and alternating series.*
 
 * **Core Concepts:** Sequences of partial sums, convergence/divergence, and properties of Harmonic, Geometric, and Telescoping series.
@@ -44,7 +42,7 @@ tags:
 
 ---
 
-## 📉 03 Limits & Continuity of Functions (Weeks 8–10)
+## 03 Limits & Continuity of Functions (Weeks 8–10)
 *Function behavior as inputs approach specific values, and rigorous definitions of continuity.*
 
 * **Function Limits:** Equivalence of Cauchy's ($\epsilon-\delta$) and Heine's (sequential) definitions of limits.
@@ -55,7 +53,7 @@ tags:
 
 ---
 
-## 📈 04 Differential Calculus (Weeks 10–13)
+## 04 Differential Calculus (Weeks 10–13)
 *Rates of change, analytical theorems, and function investigation.*
 
 * **Derivatives:** Definition of differentiability, relation to continuity, and derivatives of elementary functions. 
