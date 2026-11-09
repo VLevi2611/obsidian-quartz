@@ -146,3 +146,4 @@ $$\forall a, b \in \mathbb{R} \text{ with } a < b, \quad \exists x \in \mathbb{R
 |$\{ x \in \mathbb{Q} \mid x^2 < 2 \}$|Yes|Yes|$\sqrt{2}$|$-\sqrt{2}$|None|None|
 |$\mathbb{N}$|No|Yes|None|$1$|None|$1$|
 |$\mathbb{R}$|No|No|None|None|None|None|
+yoyo mr white
