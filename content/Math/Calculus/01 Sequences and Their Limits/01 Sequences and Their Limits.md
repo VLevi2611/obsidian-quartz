@@ -5,7 +5,7 @@ tags:
   - calculus
 ---
 **Next Unit:** [[02 Infinite Series]]
-**Previous Unit:** [[content/Math/Calculus/00 Foundations/00 Foundations|00 Foundations]]
+**Previous Unit:** [[Math/Calculus/00 Foundations/00 Foundations|00 Foundations]]
 
 ___
 
