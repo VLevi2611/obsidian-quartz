@@ -4,14 +4,17 @@ tags:
   - math
   - calculus
 ---
-**Previous Topi**
+**Previous Topic:** [[Sequences Convergence and Limits]]
+**Up Next:** [[Cauchy Criterion]]
 
 ---
 
-#### Definition
+## Definition
+
 The Bolzano-Weierstrass Theorem is a fundamental result in real analysis and calculus. It states that every infinite, bounded sequence of real numbers has at least one convergent subsequence. This theorem is a cornerstone for understanding the topology of the real line and acts as a bridge between boundedness and convergence. 
 
-#### Core Equation(s)
+#### Core Equation
+
 **Formal Statement:**
 Let $(a_n)$ be a sequence in $\mathbb{R}$. If there exists a real number $M > 0$ such that for all $n \in \mathbb{N}$:
 $$ |a_n| \leq M $$
