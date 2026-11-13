@@ -12,22 +12,9 @@ ___
 ## Definition
 
 The concept of a sequence transitions mathematical analysis from continuous intervals into a discrete domain, laying the foundation for series and functions. A sequence $(a_n)$ is fundamentally a function whose domain is the natural numbers $\mathbb{N}$ and whose codomain is the real numbers $\mathbb{R}$.
-    
-      
-    
 
-Formal Definition of a Limit Formally, a sequence $(a_n)$ converges to a real number $L$ if, for every arbitrarily small positive tolerance $\epsilon > 0$, there exists a natural number index $N \in \mathbb{N}$ such that for all terms where $n > N$:$\lim_{n \to \infty} a_n = L \iff \forall \epsilon > 0, \exists N \in \mathbb{N} \text{ s.t. } n > N \implies \vert{}a_n - L\vert{} < \epsilon$
+**Formal Definition** of a Limit Formally, a sequence $(a_n)$ converges to a real number $L$ if, for every arbitrarily small positive tolerance $\epsilon > 0$, there exists a natural number index $N \in \mathbb{N}$ such that for all terms where $n > N$:$\lim_{n \to \infty} a_n = L \iff \forall \epsilon > 0, \exists N \in \mathbb{N} \text{ s.t. } n > N \implies \vert{}a_n - L\vert{} < \epsilon$
 
-  
-
-- Tolerance ($\epsilon$): Represents a strict bound on the distance between the sequence terms and the limit $L$.
-    
-      
-    
-- Index Threshold ($N$): The point in the sequence after which all subsequent terms are permanently "trapped" within the $\epsilon$-neighborhood of $L$.
-    
-      
-    
 
 Example: Formal Proof of Convergence Let $a_n = \frac{1}{n}$. Prove $\lim_{n \to \infty} a_n = 0$.
 
