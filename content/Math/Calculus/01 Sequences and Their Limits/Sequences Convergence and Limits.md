@@ -5,13 +5,13 @@ tags:
   - calculus
 ---
 **Previous Topic:** [[Bounds and Completeness]]
-**Up Next:** [[Bolzano-Weierstrass Theorem]]
+**Up Next:** [[Bolzano-Weierstrass Theorem]] 
 
 ---
 
 ## Definition
 
-A sequence $(a_n)$ is a function whose domain is the set of natural numbers. It converges to a real number $L$ if, for every arbitrarily small positive tolerance $\epsilon > 0$, there exists a corresponding integer index $N$ such that for all terms where $n > N$, the distance between $a_n$ and $L$ is strictly less than $\epsilon$. If a sequence does not approach a finite, unique limit, it diverges (either to $\pm\infty$ or by oscillating). 
+A **sequence** $(a_n)$ is a function whose domain is the set of natural numbers. It converges to a real number $L$ if, for every arbitrarily small positive tolerance $\epsilon > 0$, there exists a corresponding integer index $N$ such that for all terms where $n > N$, the distance between $a_n$ and $L$ is strictly less than $\epsilon$. If a sequence does not approach a finite, unique limit, it diverges (either to $\pm\infty$ or by oscillating). 
 
 #### Core Equation(s)
 **Formal $\epsilon-N$ Definition:**
