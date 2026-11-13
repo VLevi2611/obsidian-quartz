@@ -4,12 +4,14 @@ tags:
   - math
   - calculus
 ---
-**Previous Topic:** The Real Numbers
-**Up Next:** Limit of a Function [[CAL1_002 גבול של פונקציה]]
+**Previous Topic:** [[Bounds and Completeness]]
+**Up Next:** [[Bolzano-Weierstrass Theorem]]
 
-  
+___
 
-1. Sequences & Formal Convergence Definition The concept of a sequence transitions mathematical analysis from continuous intervals into a discrete domain, laying the foundation for series and functions. A sequence $(a_n)$ is fundamentally a function whose domain is the natural numbers $\mathbb{N}$ and whose codomain is the real numbers $\mathbb{R}$.
+## Definition
+
+The concept of a sequence transitions mathematical analysis from continuous intervals into a discrete domain, laying the foundation for series and functions. A sequence $(a_n)$ is fundamentally a function whose domain is the natural numbers $\mathbb{N}$ and whose codomain is the real numbers $\mathbb{R}$.
     
       
     
