@@ -5,7 +5,6 @@ tags:
   - calculus
 ---
 **Up Next:** [[The Real Numbers]] 
-
 ___
 
 ## 1. Mathematical Logic & Set Operations

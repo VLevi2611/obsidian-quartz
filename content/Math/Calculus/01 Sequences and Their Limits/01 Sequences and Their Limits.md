@@ -6,7 +6,6 @@ tags:
 ---
 **Next Unit:** [[02 Infinite Series]]
 **Previous Unit:** [[Math/Calculus/00 Foundations/00 Foundations|00 Foundations]]
-
 ___
 
 ## Concept Notes

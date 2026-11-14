@@ -6,7 +6,6 @@ tags:
 ---
 **Previous Topic:** [[Sets and Functions]]
 **Up Next:** [[Bounds and Completeness]]
-
 ___
 
 ## 1. Number Systems & Rational Numbers ($\mathbb{Q}$)
