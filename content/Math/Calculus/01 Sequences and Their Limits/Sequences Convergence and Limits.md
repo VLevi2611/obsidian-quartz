@@ -157,3 +157,7 @@ Given a sequence $(a_n)$, a subsequence $(a_{n_k})_{k=1}^\infty$ is formed by ch
 - **Subsequence Inheritance Property:** If $(a_n)$ converges to $L$, then **every** subsequence $(a_{n_k})$ also converges to $L$.
 
 - **Divergence Criterion:** If a sequence $(a_n)$ contains two subsequences that converge to different limits, $(a_n)$ diverges.
+
+
+
+Doing great, just trying to figure out if you followed me for my handsome face or my charming personality. Hard to say, I know.
