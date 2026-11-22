@@ -159,5 +159,3 @@ Given a sequence $(a_n)$, a subsequence $(a_{n_k})_{k=1}^\infty$ is formed by ch
 - **Divergence Criterion:** If a sequence $(a_n)$ contains two subsequences that converge to different limits, $(a_n)$ diverges.
 
 
-
-Doing great, just trying to figure out if you followed me for my handsome face or my charming personality. Hard to say, I know.
